@@ -1,0 +1,5366 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/framework\n"
+"POT-Creation-Date: 2015-10-19 11:29:30+00:00\n"
+"PO-Revision-Date: 2015-09-02 19:53+0300\n"
+"Last-Translator: \n"
+"Language-Team: Elegant Themes\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../node_modules\n"
+
+#: class-et-builder-element.php:445 class-et-builder-element.php:761
+msgid "%1$s Font"
+msgstr "%1$s Typsnitt"
+
+#: class-et-builder-element.php:452
+msgid "%1$s Font Size"
+msgstr "%1$s Storlek på typsnitt"
+
+#: class-et-builder-element.php:464 class-et-builder-element.php:698
+msgid "%1$s Text Color"
+msgstr "%1$s Textfärg"
+
+#: class-et-builder-element.php:472 class-et-builder-element.php:751
+msgid "%1$s Letter Spacing"
+msgstr "%1$s Avstånd mellan bokstäver"
+
+#: class-et-builder-element.php:480
+msgid "%1$s Line Height"
+msgstr "%1$s Radavstånd"
+
+#: class-et-builder-element.php:503
+msgid "%1$s All Caps"
+msgstr "%1$s Endast versaler"
+
+#: class-et-builder-element.php:507 main-modules.php:467 main-modules.php:2150
+#: main-modules.php:2171 main-modules.php:6172 main-modules.php:6536
+#: main-modules.php:6735 main-modules.php:8413 main-modules.php:8515
+#: main-modules.php:9409 main-modules.php:9669 main-modules.php:11563
+#: main-modules.php:11584 main-modules.php:11939 main-modules.php:12141
+msgid "Off"
+msgstr "Av"
+
+#: class-et-builder-element.php:508 main-modules.php:468 main-modules.php:2151
+#: main-modules.php:2172 main-modules.php:6171 main-modules.php:6535
+#: main-modules.php:6734 main-modules.php:8414 main-modules.php:8516
+#: main-modules.php:9408 main-modules.php:9670 main-modules.php:11564
+#: main-modules.php:11585 main-modules.php:11940 main-modules.php:12140
+msgid "On"
+msgstr "På"
+
+#: class-et-builder-element.php:535 class-et-builder-element.php:2893
+#: main-modules.php:2600 main-modules.php:3071 main-modules.php:4113
+#: main-modules.php:4350 main-modules.php:4647 main-modules.php:5061
+#: main-modules.php:6157 main-modules.php:6317 main-modules.php:9241
+#: main-modules.php:10189 main-modules.php:10634 main-modules.php:11142
+#: main-modules.php:12785 main-structure-elements.php:120
+#: main-structure-elements.php:906
+msgid "Background Color"
+msgstr "Bakgrundsfärg"
+
+#: class-et-builder-element.php:545 class-et-builder-element.php:2889
+#: main-modules.php:2563 main-structure-elements.php:98
+#: main-structure-elements.php:897
+msgid "Background Image"
+msgstr "Bakgrundsbild"
+
+#: class-et-builder-element.php:548 class-et-builder-element.php:2890
+#: main-modules.php:81 main-modules.php:731 main-modules.php:1078
+#: main-modules.php:1530 main-modules.php:2566 main-modules.php:2608
+#: main-modules.php:3042 main-modules.php:4344 main-modules.php:8058
+#: main-modules.php:10628 main-modules.php:10670 main-modules.php:10703
+#: main-modules.php:12396 main-structure-elements.php:101
+#: main-structure-elements.php:900
+msgid "Upload an image"
+msgstr "Ladda upp en bild"
+
+#: class-et-builder-element.php:549 class-et-builder-element.php:2891
+#: main-modules.php:2567 main-structure-elements.php:102
+#: main-structure-elements.php:901
+msgid "Choose a Background Image"
+msgstr "Välj en bakgrundsbild"
+
+#: class-et-builder-element.php:550 class-et-builder-element.php:2892
+#: main-modules.php:2568 main-structure-elements.php:103
+#: main-structure-elements.php:902
+msgid "Set As Background"
+msgstr "Gör till bakgrund"
+
+#: class-et-builder-element.php:568
+msgid "Use Border"
+msgstr "Använd ram"
+
+#: class-et-builder-element.php:572 class-et-builder-element.php:664
+#: class-et-builder-element.php:775 class-et-builder-element.php:830
+#: class-et-builder-element.php:2902 functions.php:3275 main-modules.php:103
+#: main-modules.php:142 main-modules.php:187 main-modules.php:198
+#: main-modules.php:438 main-modules.php:448 main-modules.php:1457
+#: main-modules.php:1490 main-modules.php:1511 main-modules.php:1615
+#: main-modules.php:2181 main-modules.php:2207 main-modules.php:2275
+#: main-modules.php:2285 main-modules.php:2295 main-modules.php:2684
+#: main-modules.php:3063 main-modules.php:3514 main-modules.php:3540
+#: main-modules.php:3551 main-modules.php:3870 main-modules.php:4105
+#: main-modules.php:4639 main-modules.php:4721 main-modules.php:5042
+#: main-modules.php:5053 main-modules.php:5135 main-modules.php:5423
+#: main-modules.php:5433 main-modules.php:5443 main-modules.php:5806
+#: main-modules.php:5816 main-modules.php:5826 main-modules.php:7373
+#: main-modules.php:7694 main-modules.php:7879 main-modules.php:8391
+#: main-modules.php:8425 main-modules.php:8435 main-modules.php:8445
+#: main-modules.php:8455 main-modules.php:8465 main-modules.php:9233
+#: main-modules.php:9435 main-modules.php:10020 main-modules.php:10030
+#: main-modules.php:10046 main-modules.php:10057 main-modules.php:10080
+#: main-modules.php:10091 main-modules.php:10102 main-modules.php:10130
+#: main-modules.php:10175 main-modules.php:10490 main-modules.php:10503
+#: main-modules.php:10646 main-modules.php:11195 main-modules.php:11594
+#: main-modules.php:11618 main-modules.php:11686 main-modules.php:11696
+#: main-modules.php:11706 main-modules.php:11910 main-modules.php:11920
+#: main-modules.php:12418 main-modules.php:12616 main-modules.php:12626
+#: main-modules.php:12642 main-modules.php:12653 main-modules.php:12676
+#: main-modules.php:12687 main-modules.php:12698 main-modules.php:12726
+#: main-modules.php:12771 main-structure-elements.php:111
+#: main-structure-elements.php:165 main-structure-elements.php:175
+#: main-structure-elements.php:185 main-structure-elements.php:215
+#: main-structure-elements.php:242 main-structure-elements.php:253
+#: main-structure-elements.php:310 main-structure-elements.php:320
+#: main-structure-elements.php:775 main-structure-elements.php:786
+#: main-structure-elements.php:842 main-structure-elements.php:873
+#: main-structure-elements.php:950 main-structure-elements.php:960
+#: main-structure-elements.php:984 main-structure-elements.php:1002
+#: main-structure-elements.php:1481 main-structure-elements.php:1491
+#: main-structure-elements.php:1528 main-structure-elements.php:1544
+msgid "No"
+msgstr "Nej"
+
+#: class-et-builder-element.php:573 class-et-builder-element.php:665
+#: class-et-builder-element.php:774 class-et-builder-element.php:829
+#: class-et-builder-element.php:2901 functions.php:3276 main-modules.php:104
+#: main-modules.php:143 main-modules.php:188 main-modules.php:197
+#: main-modules.php:437 main-modules.php:447 main-modules.php:1458
+#: main-modules.php:1491 main-modules.php:1512 main-modules.php:1616
+#: main-modules.php:2182 main-modules.php:2208 main-modules.php:2276
+#: main-modules.php:2286 main-modules.php:2296 main-modules.php:2685
+#: main-modules.php:3062 main-modules.php:3513 main-modules.php:3541
+#: main-modules.php:3552 main-modules.php:3871 main-modules.php:4104
+#: main-modules.php:4638 main-modules.php:4722 main-modules.php:5043
+#: main-modules.php:5052 main-modules.php:5136 main-modules.php:5422
+#: main-modules.php:5432 main-modules.php:5442 main-modules.php:5805
+#: main-modules.php:5815 main-modules.php:5825 main-modules.php:7372
+#: main-modules.php:7695 main-modules.php:7878 main-modules.php:8390
+#: main-modules.php:8424 main-modules.php:8434 main-modules.php:8444
+#: main-modules.php:8454 main-modules.php:8464 main-modules.php:9232
+#: main-modules.php:9436 main-modules.php:10019 main-modules.php:10029
+#: main-modules.php:10045 main-modules.php:10056 main-modules.php:10079
+#: main-modules.php:10090 main-modules.php:10101 main-modules.php:10129
+#: main-modules.php:10176 main-modules.php:10491 main-modules.php:10504
+#: main-modules.php:10647 main-modules.php:11196 main-modules.php:11595
+#: main-modules.php:11619 main-modules.php:11687 main-modules.php:11697
+#: main-modules.php:11707 main-modules.php:11909 main-modules.php:11919
+#: main-modules.php:12419 main-modules.php:12615 main-modules.php:12625
+#: main-modules.php:12641 main-modules.php:12652 main-modules.php:12675
+#: main-modules.php:12686 main-modules.php:12697 main-modules.php:12725
+#: main-modules.php:12772 main-structure-elements.php:112
+#: main-structure-elements.php:166 main-structure-elements.php:176
+#: main-structure-elements.php:186 main-structure-elements.php:216
+#: main-structure-elements.php:243 main-structure-elements.php:254
+#: main-structure-elements.php:311 main-structure-elements.php:321
+#: main-structure-elements.php:776 main-structure-elements.php:787
+#: main-structure-elements.php:843 main-structure-elements.php:874
+#: main-structure-elements.php:951 main-structure-elements.php:961
+#: main-structure-elements.php:985 main-structure-elements.php:1001
+#: main-structure-elements.php:1482 main-structure-elements.php:1492
+#: main-structure-elements.php:1529 main-structure-elements.php:1543
+msgid "Yes"
+msgstr "Ja"
+
+#: class-et-builder-element.php:585
+msgid "Border Color"
+msgstr "Färg på ram"
+
+#: class-et-builder-element.php:595
+msgid "Border Width"
+msgstr "Bredd på ram"
+
+#: class-et-builder-element.php:605
+msgid "Border Style"
+msgstr "Stil på ram"
+
+#: class-et-builder-element.php:632 main-structure-elements.php:891
+#: main-structure-elements.php:1471
+msgid "Custom Margin"
+msgstr "Anpassad marginal"
+
+#: class-et-builder-element.php:641 main-structure-elements.php:205
+#: main-structure-elements.php:863 main-structure-elements.php:1465
+msgid "Custom Padding"
+msgstr "Anpassad padding"
+
+#: class-et-builder-element.php:660
+msgid "Use Custom Styles for %1$s "
+msgstr "Använda Egna Formatmallar för %1$s "
+
+#: class-et-builder-element.php:689
+msgid "%1$s Text Size"
+msgstr "%1$s Text Storlek"
+
+#: class-et-builder-element.php:709
+msgid "%1$s Background Color"
+msgstr "%1$s bakgrundsfärg"
+
+#: class-et-builder-element.php:720
+msgid "%1$s Border Width"
+msgstr "%1$s Gränsen Bredd"
+
+#: class-et-builder-element.php:730
+msgid "%1$s Border Color"
+msgstr "%1$s Gräns Färgen"
+
+#: class-et-builder-element.php:741
+msgid "%1$s Border Radius"
+msgstr "%1$s Gränsen Radie"
+
+#: class-et-builder-element.php:769
+msgid "Add %1$s Icon"
+msgstr "Lägg till %1$s Ikon"
+
+#: class-et-builder-element.php:773 functions.php:931 main-modules.php:2216
+#: main-modules.php:2233 main-modules.php:2576 main-modules.php:2593
+#: main-modules.php:11627 main-modules.php:11644
+msgid "Default"
+msgstr "Standardinställning"
+
+#: class-et-builder-element.php:789
+msgid "%1$s Icon"
+msgstr "%1$s Ikon"
+
+#: class-et-builder-element.php:801
+msgid "%1$s Icon Color"
+msgstr "%1$s Ikon Färg"
+
+#: class-et-builder-element.php:812
+msgid "%1$s Icon Placement"
+msgstr "%1$s Ikonen Placering"
+
+#: class-et-builder-element.php:816 class-et-builder-element.php:1415
+#: class-et-builder-element.php:2897 functions.php:301 functions.php:307
+#: main-modules.php:154 main-modules.php:1426 main-modules.php:7652
+#: main-modules.php:10156 main-modules.php:12752
+msgid "Right"
+msgstr "Höger"
+
+#: class-et-builder-element.php:817 class-et-builder-element.php:1429
+#: class-et-builder-element.php:2899 functions.php:299 main-modules.php:152
+#: main-modules.php:1424 main-modules.php:7651 main-modules.php:10154
+#: main-modules.php:12750
+msgid "Left"
+msgstr "Vänster"
+
+#: class-et-builder-element.php:825
+msgid "Only Show Icon On Hover for %1$s"
+msgstr "Bara Visa Ikon På Hover för %1$s"
+
+#: class-et-builder-element.php:838
+msgid "%1$s Hover Text Color"
+msgstr "%1$s Sväva Text Färg"
+
+#: class-et-builder-element.php:849
+msgid "%1$s Hover Background Color"
+msgstr "%1$s Hovring Bakgrunds Färgen"
+
+#: class-et-builder-element.php:860
+msgid "%1$s Hover Border Color"
+msgstr "%1$s Sväva Border Färg"
+
+#: class-et-builder-element.php:871
+msgid "%1$s Hover Border Radius"
+msgstr "%1$s Sväva Border Radie"
+
+#: class-et-builder-element.php:881
+msgid "%1$s Hover Letter Spacing"
+msgstr "%1$s Sväva teckenavstånd"
+
+#: class-et-builder-element.php:903
+msgid "Before"
+msgstr "Innan"
+
+#: class-et-builder-element.php:908
+msgid "Main Element"
+msgstr "Huvudelement"
+
+#: class-et-builder-element.php:911
+msgid "After"
+msgstr "Efter"
+
+#: class-et-builder-element.php:1332 class-et-builder-element.php:2894
+msgid "Hex Value"
+msgstr "Färgvärde"
+
+#: class-et-builder-element.php:1343
+msgid "Choose Custom Color"
+msgstr "Välj anpassad färg"
+
+#: class-et-builder-element.php:1353
+msgid "Upload"
+msgstr "Ladda upp"
+
+#: class-et-builder-element.php:1354
+msgid "Choose image"
+msgstr "Sök bild"
+
+#: class-et-builder-element.php:1355
+msgid "Set image"
+msgstr "Använd bild"
+
+#: class-et-builder-element.php:1408 class-et-builder-element.php:2896
+#: main-modules.php:1420 main-modules.php:7859
+msgid "Top"
+msgstr "Ovantill"
+
+#: class-et-builder-element.php:1422 class-et-builder-element.php:2898
+#: main-modules.php:2619 main-modules.php:7861 main-modules.php:10693
+#: main-modules.php:10714
+msgid "Bottom"
+msgstr "Nertill"
+
+#: class-et-builder-element.php:1566 class-et-builder-element.php:1771
+#: functions.php:4264
+msgid "General Settings"
+msgstr "Allmänna inställningar"
+
+#: class-et-builder-element.php:1567
+msgid "Advanced Design Settings"
+msgstr "Avancerade design-inställningar"
+
+#: class-et-builder-element.php:1568 functions.php:4272
+msgid "Custom CSS"
+msgstr "Anpassad CSS"
+
+#: class-et-builder-element.php:1721
+msgid "You don't have sufficient permissions to access the settings"
+msgstr "Du har inte tillräcklig behörighet för att komma åt inställningar"
+
+#: class-et-builder-element.php:1746 main-modules.php:1249
+#: main-modules.php:1581 main-modules.php:1997 main-modules.php:2690
+#: main-modules.php:3094 main-modules.php:3918 main-modules.php:4136
+#: main-modules.php:4670 main-modules.php:5084 main-modules.php:7054
+#: main-modules.php:7185 main-modules.php:8396 main-modules.php:9554
+#: main-modules.php:9843 main-modules.php:10720 main-modules.php:12218
+#: main-modules.php:12304
+msgid "Content"
+msgstr "Innehåll"
+
+#: class-et-builder-element.php:1747 main-modules.php:1999
+#: main-modules.php:7057
+msgid ""
+"Here you can define the content that will be placed within the current tab."
+msgstr "Här kan du ange innehållet som placeras i den aktuella fliken."
+
+#: class-et-builder-element.php:1759
+msgid "Add New Item"
+msgstr "Lägg till nytt objekt"
+
+#: class-et-builder-element.php:1759
+msgid "Add New %s"
+msgstr "Lägg till ny %s"
+
+#: class-et-builder-element.php:1806
+msgid "Mobile"
+msgstr "Mobil"
+
+#: class-et-builder-element.php:1807
+msgid "Tablet"
+msgstr "Tablett"
+
+#: class-et-builder-element.php:1808
+msgid "Desktop"
+msgstr "Skrivbordet"
+
+#: class-et-builder-element.php:1868
+msgid "%1$s %2$s Settings"
+msgstr "%1$s %2$s inställningar"
+
+#: class-et-builder-element.php:1870
+msgid "Item"
+msgstr "Objekt"
+
+#: class-et-builder-element.php:1870 functions.php:1985 functions.php:2031
+#: layouts.php:176
+msgid "Module"
+msgstr "Modul"
+
+#: class-et-builder-element.php:2888 functions.php:2028
+#: main-structure-elements.php:1794
+msgid "Column"
+msgstr "Kolumn"
+
+#: class-et-builder-element.php:2895
+msgid "Padding"
+msgstr "Padding"
+
+#: class-et-builder-element.php:2900 main-modules.php:10125
+#: main-modules.php:12721 main-structure-elements.php:181
+#: main-structure-elements.php:956
+msgid "Use Parallax Effect"
+msgstr "Använd parallaxeffekt"
+
+#: class-et-builder-element.php:2903 main-modules.php:10139
+#: main-modules.php:12735 main-structure-elements.php:194
+#: main-structure-elements.php:969
+msgid "Parallax Method"
+msgstr "Parallax-metod"
+
+#: class-et-builder-element.php:2904 main-modules.php:2196
+#: main-modules.php:10143 main-modules.php:10659 main-modules.php:11607
+#: main-modules.php:12739 main-structure-elements.php:198
+#: main-structure-elements.php:973
+msgid "CSS"
+msgstr "CSS"
+
+#: class-et-builder-element.php:2905 main-modules.php:2197
+#: main-modules.php:10144 main-modules.php:10660 main-modules.php:11608
+#: main-modules.php:12740 main-structure-elements.php:199
+#: main-structure-elements.php:974
+msgid "True Parallax"
+msgstr "Verklig parallax"
+
+#: framework.php:34
+msgid ""
+"Please, check the fields below to make sure you entered the correct "
+"information."
+msgstr ""
+"Kontrollera fälten nedan för att kontrollera att du angett korrekt "
+"information."
+
+#: framework.php:35
+msgid "Please, fill in the following fields:"
+msgstr ""
+
+#: framework.php:36
+msgid "Please, fix the following errors:"
+msgstr ""
+
+#: framework.php:37
+msgid "Invalid email"
+msgstr "Ogiltiga e-post"
+
+#: framework.php:38
+msgid "Captcha"
+msgstr "Captcha"
+
+#: framework.php:39
+msgid "Prev"
+msgstr "Föregående"
+
+#: framework.php:40
+msgid "Previous"
+msgstr "Föregående"
+
+#: framework.php:41
+msgid "Next"
+msgstr "Nästa"
+
+#: framework.php:42
+msgid "You entered the wrong number in captcha."
+msgstr "Du angav fel nummer i robotfiltret."
+
+#: framework.php:80
+msgid "Unauthorized access. Preview cannot be accessed outside %1$s."
+msgstr "Obehörig åtkomst. Förhandsgranskning inte kan nås utanför %1$s."
+
+#: functions.php:66 functions.php:1994 functions.php:3751
+msgid "All Categories"
+msgstr "Alla kategorier"
+
+#: functions.php:75 layouts.php:10
+msgid "All Layouts"
+msgstr "Alla layouter"
+
+#: functions.php:76 functions.php:1285
+msgid "Modules"
+msgstr "Moduler"
+
+#: functions.php:77 functions.php:1284
+msgid "Rows"
+msgstr "Rader"
+
+#: functions.php:78 functions.php:1283
+msgid "Sections"
+msgstr "Sektioner"
+
+#: functions.php:79 functions.php:1282
+msgid "Layouts"
+msgstr "Layouter"
+
+#: functions.php:83
+msgid "Global/not Global"
+msgstr "Global/inte Global"
+
+#: functions.php:84 layouts.php:183
+msgid "Global"
+msgstr "Global"
+
+#: functions.php:85
+msgid "not Global"
+msgstr "inte Global"
+
+#: functions.php:138 functions.php:153 functions.php:1917
+msgid "you don't have sufficient permissions to access this page"
+msgstr "du har inte tillräcklig behörighet för att komma åt denna sida"
+
+#: functions.php:300 functions.php:308 main-modules.php:153
+#: main-modules.php:2577 main-modules.php:2618 main-modules.php:10155
+#: main-modules.php:10692 main-modules.php:12751
+msgid "Center"
+msgstr "Mitten"
+
+#: functions.php:302
+msgid "Justified"
+msgstr "Marginaljusterad"
+
+#: functions.php:320
+msgid "Update Gallery"
+msgstr "Uppdatera galleri"
+
+#: functions.php:329
+msgid "Select a menu"
+msgstr "Välj en meny"
+
+#: functions.php:478
+msgid "Solid"
+msgstr "Solid"
+
+#: functions.php:479
+msgid "Dotted"
+msgstr "Prickad"
+
+#: functions.php:480
+msgid "Dashed"
+msgstr "Streckad"
+
+#: functions.php:481
+msgid "Double"
+msgstr "Dubbel"
+
+#: functions.php:482
+msgid "Groove"
+msgstr "Nedsänkning"
+
+#: functions.php:483
+msgid "Ridge"
+msgstr "Upphöjning"
+
+#: functions.php:484
+msgid "Inset"
+msgstr "Insida"
+
+#: functions.php:485
+msgid "Outset"
+msgstr "Utsida"
+
+#: functions.php:1242
+msgid ""
+"<strong>%1$s</strong> widget area has been created. You can create more "
+"areas, once you finish update the page to see all the areas."
+msgstr ""
+"<strong>%1$s</strong>-gränssnittskomponentfältet har skapats. Du kan skapa "
+"fler fält då du är klar med  sidans uppdatering och du kan se alla fält."
+
+#: functions.php:1266
+msgid ""
+"You do not have sufficient permissions to export the content of this site."
+msgstr ""
+"Du har inte tillräcklig behörighet för att exportera innehållet på denna "
+"webbplats."
+
+#: functions.php:1270
+msgid "Export Divi Builder Layouts"
+msgstr "Exportera layout från Divi-byggare"
+
+#: functions.php:1271
+msgid ""
+"When you click the button below WordPress will create an XML file for you to "
+"save to your computer."
+msgstr ""
+"När du klickar på knappen nedan kommer Wordpress att skapa en XML fil som du "
+"kan spara på din dator."
+
+#: functions.php:1272
+msgid ""
+"This format, which we call WordPress eXtended RSS or WXR, will contain all "
+"layouts you created using the Page Builder."
+msgstr ""
+"Detta format, som vi kallar Wordpress eXtended RSS eller WXR, kommer att "
+"innehålla alla layouter du skapat med hjälp av sidbyggaren."
+
+#: functions.php:1273
+msgid ""
+"Once you&#8217;ve saved the download file, you can use the Import function "
+"in another WordPress installation to import all layouts from this site."
+msgstr ""
+"När du har sparat den nedladdade filen kan du använda import-funktionen i en "
+"annan Wordpress installation för att importera alla layouter från denna "
+"webbplats."
+
+#: functions.php:1274
+msgid "Select Templates you want to export:"
+msgstr "Välj vilka mallar du vill exportera:"
+
+#: functions.php:1307
+msgid "Download Export File"
+msgstr "Hämta Export-fil"
+
+#: functions.php:1312
+msgid "Export Divi Layouts"
+msgstr "Exportera layout från Divi"
+
+#: functions.php:1316
+msgid "Manage Categories"
+msgstr "Hantera kategorier"
+
+#: functions.php:1463 functions.php:1465
+msgid "Use Default Editor"
+msgstr "Använd standardredigeraren"
+
+#: functions.php:1463 functions.php:1464
+msgid "Use The Divi Builder"
+msgstr "Använd Divi-byggaren"
+
+#: functions.php:1506
+msgid "Here you can create new widget areas for use in the Sidebar module"
+msgstr ""
+"Här kan du skapa nya fält för gränssnittskomponenter att användas i "
+"sidofältsmodulen"
+
+#: functions.php:1507
+msgid ""
+"Note: Naming your widget area \"sidebar 1\", \"sidebar 2\", \"sidebar 3\", "
+"\"sidebar 4\" or \"sidebar 5\" will cause conflicts with this theme"
+msgstr ""
+"Obs: om du ger ditt fält för gränssnittskomponenter \"sidebar 1\", \"sidebar "
+"2\", \"sidebar 3\", \"sidebar 4\" eller \"sidebar 5\" skapar konflikter med "
+"detta tema"
+
+#: functions.php:1508
+msgid "Widget Name"
+msgstr "Namn på gränssnittskomponent"
+
+#: functions.php:1509
+msgid "Create"
+msgstr "Skapa"
+
+#: functions.php:1511 functions.php:1604 functions.php:3049
+msgid "Delete"
+msgstr "Radera"
+
+#: functions.php:1562
+msgid "Replace the existing content with loaded layout"
+msgstr "Ersätt befintligt innehåll med den nya layouten"
+
+#: functions.php:1601
+msgid "Load"
+msgstr "Ladda"
+
+#: functions.php:1706
+msgid ""
+"You have not saved any items to your Divi Library yet. Once an item has been "
+"saved to your library, it will appear here for easy use."
+msgstr ""
+"Du har inte sparat några föremål i ditt Divi-bibliotek ännu. När ett föremål "
+"har sparat till ditt bibliotek kommer det att dyka upp här för enkel "
+"användning."
+
+#: functions.php:1981
+msgid "The section should have at least one row."
+msgstr "Avsnittet bör ha minst en rad."
+
+#: functions.php:1982
+msgid "Fullwidth module can't be used outside of the Fullwidth Section."
+msgstr "Fullbreddsmodulen kan inte användas utanför fullbreddssektionen."
+
+#: functions.php:1983
+msgid "3 column row can't be used in this column."
+msgstr "3 kolumnsrad kan inte användas i den här kolumnen."
+
+#: functions.php:1984 functions.php:2490 functions.php:2856
+msgid "Preview"
+msgstr "Förhandsvisning"
+
+#: functions.php:1986
+msgid ""
+"Still images cannot be generated from this video service and/or this video "
+"format"
+msgstr ""
+"Stillbilder kan inte genereras från den här videotjänsten och/eller detta "
+"videoformat"
+
+#: functions.php:1987
+msgid "Geocode was not successful for the following reason"
+msgstr "Geo-kod lyckades inte av följande orsak"
+
+#: functions.php:1988
+msgid "Geocoder failed due to"
+msgstr "Geo-kod misslyckades på grund av"
+
+#: functions.php:1989
+msgid "No results found"
+msgstr "Inga resultat hittades"
+
+#: functions.php:1990
+msgid "No available options for this configuration."
+msgstr "Inga val är tillgängliga för denna konfiguration."
+
+#: functions.php:1991
+msgid ""
+"You're about to update global module. This change will be applied to all "
+"pages where you use this module. Press OK if you want to update this module"
+msgstr ""
+"Du är på väg att uppdatera en global modul. Denna förändring kommer användas "
+"på alla sidor där du använder denna modul. Tryck OK om du vill uppdatera "
+"denna modul"
+
+#: functions.php:1992
+msgid "You cannot add global rows into global sections"
+msgstr "Du kan inte lägga till globala rader i globala sektioner"
+
+#: functions.php:1993
+msgid "You cannot add global modules into global sections or rows"
+msgstr "Du kan inte lägga till globala moduler i globala sektioner eller rader"
+
+#: functions.php:1998
+#, fuzzy
+msgid "Map Pin Address cannot be empty"
+msgstr "Adressen för knappnålen på kartan"
+
+#: functions.php:1999
+msgid "Invalid Pin and address data. Please try again."
+msgstr ""
+
+#: functions.php:2000
+msgid "You do not have permission to unlock this section."
+msgstr "Du har inte behörighet att låsa upp i detta avsnitt."
+
+#: functions.php:2001
+msgid "You do not have permission to unlock this row."
+msgstr "Du har inte behörighet att låsa upp denna rad."
+
+#: functions.php:2002
+msgid "You do not have permission to unlock this module."
+msgstr "Du har inte behörighet att låsa upp denna modul."
+
+#: functions.php:2003
+msgid "You do not have permission to perform this task."
+msgstr "Du har inte behörighet att utföra den här uppgiften."
+
+#: functions.php:2004
+msgid ""
+"Unable to perform copy/paste process due to inavailability of localStorage "
+"feature in your browser. Please use latest modern browser (Chrome, Firefox, "
+"or Safari) to perform copy/paste process"
+msgstr ""
+"Det går inte att utföra kopiera/klistra in processen på grund av att "
+"inavailability av localStorage funktionen i din webbläsare. Använd senaste "
+"moderna webbläsare (Chrome, Firefox, eller Safari) för att utföra kopiera/"
+"klistra in-process"
+
+#: functions.php:2006
+msgid "Did"
+msgstr "Gjorde"
+
+#: functions.php:2007
+msgid "Added"
+msgstr "Läggas till"
+
+#: functions.php:2008
+msgid "Edited"
+msgstr "Redigerad"
+
+#: functions.php:2009
+msgid "Removed"
+msgstr "Bort"
+
+#: functions.php:2010
+msgid "Moved"
+msgstr "Flyttat"
+
+#: functions.php:2011
+msgid "Expanded"
+msgstr "Utökad"
+
+#: functions.php:2012
+msgid "Collapsed"
+msgstr "Kollapsade"
+
+#: functions.php:2013
+msgid "Locked"
+msgstr "Låst"
+
+#: functions.php:2014
+msgid "Unlocked"
+msgstr "Olåst"
+
+#: functions.php:2015
+msgid "Cloned"
+msgstr "Klonade"
+
+#: functions.php:2016
+msgid "Cleared"
+msgstr "Rensat"
+
+#: functions.php:2017
+msgid "Enabled"
+msgstr "Aktiverad"
+
+#: functions.php:2018
+msgid "Disabled"
+msgstr "Funktionshindrade"
+
+#: functions.php:2019
+msgid "Copied"
+msgstr "Kopieras"
+
+#: functions.php:2020
+msgid "Renamed"
+msgstr "Omdöpt"
+
+#: functions.php:2021
+msgid "Loaded"
+msgstr "Laddad"
+
+#: functions.php:2024 layouts.php:179 main-structure-elements.php:5
+msgid "Section"
+msgstr "Sektion"
+
+#: functions.php:2025
+msgid "Saved Section"
+msgstr "Sparade Avsnitt"
+
+#: functions.php:2026 functions.php:2637 layouts.php:180
+msgid "Fullwidth Section"
+msgstr "Sektion med full bredd"
+
+#: functions.php:2027 functions.php:2638 layouts.php:181
+msgid "Specialty Section"
+msgstr "Special-sektion"
+
+#: functions.php:2029 layouts.php:178 main-structure-elements.php:655
+#: main-structure-elements.php:1389
+msgid "Row"
+msgstr "Rad"
+
+#: functions.php:2030
+msgid "Saved Row"
+msgstr "Sparade Rad"
+
+#: functions.php:2032
+msgid "Saved Module"
+msgstr "Sparade Modul"
+
+#: functions.php:2033
+msgid "Page"
+msgstr "Sida"
+
+#: functions.php:2034 layouts.php:182 main-modules.php:407
+#: main-modules.php:5396 main-modules.php:5779 main-modules.php:8350
+#: main-modules.php:11880
+msgid "Layout"
+msgstr "Layout"
+
+#: functions.php:2036
+msgid "Invalid Color"
+msgstr "Ogiltig Färg"
+
+#: functions.php:2052
+msgid "The Divi Builder"
+msgstr "Divi-byggaren"
+
+#: functions.php:2073
+msgid "Posts by %s"
+msgstr "Inlägg av %s"
+
+#: functions.php:2088
+msgid "% Comments"
+msgstr "% Kommentarer"
+
+#: functions.php:2090
+msgid "No Comments"
+msgstr "Inga kommentarer"
+
+#: functions.php:2092
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: functions.php:2103
+msgid "by"
+msgstr "av"
+
+#: functions.php:2391 functions.php:2518
+msgid "Rename"
+msgstr "Byt namn"
+
+#: functions.php:2397
+msgid "Copy"
+msgstr "Kopiera"
+
+#: functions.php:2403
+msgid "Paste After"
+msgstr "Klistra In Efter"
+
+#: functions.php:2409 functions.php:2415
+msgid "Paste"
+msgstr "Klistra in"
+
+#: functions.php:2421 functions.php:2526 functions.php:2527
+msgid "Save to Library"
+msgstr "Spara till bibliotek"
+
+#: functions.php:2427
+msgid "Unlock"
+msgstr "Låsa upp"
+
+#: functions.php:2428
+msgid "Lock"
+msgstr "Lås"
+
+#: functions.php:2434 functions.php:4462
+msgid "Enable"
+msgstr "Aktivera"
+
+#: functions.php:2435 functions.php:4463
+msgid "Disable"
+msgstr "Inaktivera"
+
+#: functions.php:2480 main-modules.php:11230
+msgid "Expand"
+msgstr "Expandera"
+
+#: functions.php:2481
+msgid "Collapse"
+msgstr "Kollaps"
+
+#: functions.php:2485 functions.php:2574 functions.php:2575
+msgid "Undo"
+msgstr "Ångra"
+
+#: functions.php:2486 functions.php:2572 functions.php:2573
+msgid "Redo"
+msgstr "Gör om"
+
+#: functions.php:2506 functions.php:2879 functions.php:3069 functions.php:3124
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: functions.php:2507 functions.php:3070 functions.php:3125
+msgid "Save"
+msgstr "Spara"
+
+#: functions.php:2519
+msgid "Enter a new name for this module"
+msgstr "Ange ett nytt namn för denna modul"
+
+#: functions.php:2533 functions.php:2534
+msgid "Load From Library"
+msgstr "Ladda från bibliotek"
+
+#: functions.php:2540 functions.php:2541 functions.php:3094
+msgid "Clear Layout"
+msgstr "Töm layout"
+
+#: functions.php:2576 functions.php:2577
+msgid "See History"
+msgstr "Se Historia"
+
+#: functions.php:2584 functions.php:2585 functions.php:2664 functions.php:2665
+#: functions.php:3050
+msgid "Settings"
+msgstr "Inställningar"
+
+#: functions.php:2590 functions.php:2591
+msgid "Clone Section"
+msgstr "Duplicera sektion"
+
+#: functions.php:2595 functions.php:2596
+msgid "Delete Section"
+msgstr "Radera sektion"
+
+#: functions.php:2600 functions.php:2601
+msgid "Unlock Section"
+msgstr "Låsa Upp Avsnitt"
+
+#: functions.php:2619 functions.php:2620
+msgid "Expand Section"
+msgstr "Expandera Avsnittet"
+
+#: functions.php:2625 functions.php:2906 functions.php:2949 functions.php:3012
+#: functions.php:4251
+msgid "Add From Library"
+msgstr "Lägg till från bibliotek"
+
+#: functions.php:2636
+msgid "Standard Section"
+msgstr "Standardsektion"
+
+#: functions.php:2672 functions.php:2673
+msgid "Clone Row"
+msgstr "Duplicera rad"
+
+#: functions.php:2681 functions.php:2682
+msgid "Delete Row"
+msgstr "Radera rad"
+
+#: functions.php:2690 functions.php:2691
+msgid "Change Structure"
+msgstr "Ändra struktur"
+
+#: functions.php:2697 functions.php:2698
+msgid "Unlock Row"
+msgstr "Låsa Rad"
+
+#: functions.php:2723 functions.php:2724
+msgid "Expand Row"
+msgstr "Expandera Raden"
+
+#: functions.php:2744
+msgid "Add Row"
+msgstr "Lägg till rad"
+
+#: functions.php:2752
+msgid "Insert Column(s)"
+msgstr "Infoga kolumn(er)"
+
+#: functions.php:2782 functions.php:2783 functions.php:3051
+msgid "Clone Module"
+msgstr "Duplicera modul"
+
+#: functions.php:2793 functions.php:2794
+msgid "Remove Module"
+msgstr "Ta bort modul"
+
+#: functions.php:2804 functions.php:2805
+msgid "Unlock Module"
+msgstr "Låsa Upp Modul"
+
+#: functions.php:2813 functions.php:2814
+msgid "Module Settings"
+msgstr "Modulinställningar"
+
+#: functions.php:2839
+msgid "Save & Exit"
+msgstr "Spara & avsluta"
+
+#: functions.php:2848
+msgid "Save & Add To Library"
+msgstr "Spara & lägg till i bibliotek"
+
+#: functions.php:2934
+msgid "Insert Columns"
+msgstr "Infoga kolumner"
+
+#: functions.php:2936
+msgid "New Row"
+msgstr "Ny rad"
+
+#: functions.php:2978
+msgid "Insert Module"
+msgstr "Infoga modul"
+
+#: functions.php:2979
+msgid "New Module"
+msgstr "Ny modul"
+
+#: functions.php:3010 functions.php:4238
+msgid "Load Layout"
+msgstr "Ladda layout"
+
+#: functions.php:3011
+msgid "Predefined Layouts"
+msgstr "Fördefinierade layouter"
+
+#: functions.php:3021
+msgid "Insert Module(s)"
+msgstr "Infoga modul(er)"
+
+#: functions.php:3081
+msgid "Disable Builder"
+msgstr "Avaktivera byggare"
+
+#: functions.php:3082
+msgid ""
+"All content created in the Divi Builder will be lost. Previous content will "
+"be restored."
+msgstr ""
+"Allt innehåll skapat i Divi-byggaren kommer förloras. Tidigare innehåll "
+"kommer återställas."
+
+#: functions.php:3083 functions.php:3096 functions.php:3107
+msgid "Do you wish to proceed?"
+msgstr "Vill du fortsätta?"
+
+#: functions.php:3095
+msgid "All of your current page content will be lost."
+msgstr "Allt ditt nuvarande innehåll på sidan kommer att förloras."
+
+#: functions.php:3106
+msgid "All advanced module settings in will be lost."
+msgstr "Alla avancerad modulinställningar kommer att förloras."
+
+#: functions.php:3138 functions.php:4247
+msgid "Save To Library"
+msgstr "Spara till bibliotek"
+
+#: functions.php:3139
+msgid "Save your current page to the Divi Library for later use."
+msgstr "Spara din nuvarande sida till Divi-biblioteket för senare användning."
+
+#: functions.php:3140
+msgid "Layout Name:"
+msgstr "Layout-namn:"
+
+#: functions.php:3154
+msgid "Save And Add To Library"
+msgstr "Spara och lägg till i bibliotek"
+
+#: functions.php:3161
+msgid "Add To Categories:"
+msgstr "Lägg till i kategorier:"
+
+#: functions.php:3182
+msgid "Create New Category"
+msgstr "Skapa ny kategori"
+
+#: functions.php:3189
+msgid "Include General settings"
+msgstr "Inkludera allmänna inställningar"
+
+#: functions.php:3195
+msgid "Include Advanced Design settings"
+msgstr "Inkludera avancerade design-inställningar"
+
+#: functions.php:3201 layouts.php:187
+msgid "Include Custom CSS"
+msgstr "Inkludera anpassad CSS"
+
+#: functions.php:3249
+msgid ""
+"Here you can save the current item and add it to your Divi Library for later "
+"use as well."
+msgstr ""
+"Här kan du spara det aktuella föremålet och även lägga till det i ditt Divi-"
+"bibliotek för senare användning."
+
+#: functions.php:3250
+msgid "Template Name"
+msgstr "Mallnamn"
+
+#: functions.php:3251
+msgid "Selective Sync"
+msgstr "Selektiv synkning"
+
+#: functions.php:3255 layouts.php:188
+msgid "Please select at least 1 tab to save"
+msgstr "Vänligen välj minst 1 flik att spara"
+
+#: functions.php:3256
+msgid "Save as Global:"
+msgstr "Spara som global:"
+
+#: functions.php:3257
+msgid "Make this a global item"
+msgstr "Gör detta till ett globalt föremål"
+
+#: functions.php:3285
+msgid "Add Specialty Section"
+msgstr "Lägg till specialsektion"
+
+#: functions.php:3496
+msgid "Configuration error"
+msgstr "Konfigurationsfel"
+
+#: functions.php:3506
+msgid "Please enter first name"
+msgstr "Vänligen ange namn"
+
+#: functions.php:3508
+msgid "Incorrect email"
+msgstr "Felaktig e-postadress"
+
+#: functions.php:3510
+msgid "Configuration error: List is not defined"
+msgstr "Konfiguration av felet: Listan är inte definierat"
+
+#: functions.php:3512
+msgid ""
+"<h2 class=\"et_pb_subscribed\">Subscribed - look for the confirmation email!"
+"</h2>"
+msgstr ""
+"<h2 class=\"et_pb_subscribed\">Bevakade - leta efter bekräftelse e-post!</h2>"
+
+#: functions.php:3529
+msgid "Configuration error: api key is not defined"
+msgstr "Konfigurationsfel: api-nyckel är inte definierat"
+
+#: functions.php:3565
+msgid "Aweber: Wrong configuration data"
+msgstr "Aweber: Fel konfiguration data"
+
+#: functions.php:3596
+msgid "Connecting..."
+msgstr "Ansluta..."
+
+#: functions.php:3597
+msgid "Connection failed"
+msgstr "Anslutning misslyckades"
+
+#: functions.php:3598
+msgid "Removing connection..."
+msgstr "Ta bort anslutning..."
+
+#: functions.php:3599
+msgid "Done"
+msgstr "Gjort"
+
+#: functions.php:3628
+msgid ""
+"Step 1: <a href=\"%1$s\" target=\"_blank\">Generate authorization code</a>"
+msgstr ""
+"Steg 1: <a href=\"%1$s\" target=\"_blank\">Generera auktoriseringskod</a>"
+
+#: functions.php:3629
+msgid ""
+"Step 2: Paste in the authorization code and click \"Make a connection\" "
+"button: "
+msgstr ""
+"Steg 2: Klistra in behörighetskoden och klicka på \"upprätta en anslutning\" "
+"- knappen: "
+
+#: functions.php:3630
+msgid "Make a connection"
+msgstr "Göra en anslutning"
+
+#: functions.php:3633
+msgid "Aweber is set up properly. You can remove connection here if you wish."
+msgstr ""
+"Aweber är korrekt inställt. Du kan ta bort anslutningen här om du vill."
+
+#: functions.php:3634
+msgid "Remove the connection"
+msgstr "Ta bort anslutningen"
+
+#: functions.php:3642
+msgid "Nonce failed."
+msgstr "Nonce misslyckats."
+
+#: functions.php:3648
+msgid "Authorization code is empty."
+msgstr "Behörighetskoden är tom."
+
+#: functions.php:3659
+msgid ""
+"Authorization code is invalid. Try regenerating it and paste in the new code."
+msgstr ""
+"Tillstånd koden är ogiltig. Försök återskapa den och klistra in i den nya "
+"koden."
+
+#: functions.php:3681
+msgid "Aweber API Exception"
+msgstr "Aweber API Undantag"
+
+#: functions.php:3682 main-modules.php:8877
+msgid "Type"
+msgstr "Typ"
+
+#: functions.php:3683 main-modules.php:7509
+msgid "Message"
+msgstr "Meddelande"
+
+#: functions.php:3684
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: functions.php:3694
+msgid "Nonce failed"
+msgstr "Nonce misslyckades"
+
+#: functions.php:3711
+msgid "Projects"
+msgstr "Projekt"
+
+#: functions.php:3712
+msgid "Project"
+msgstr "Projektet"
+
+#: functions.php:3713
+msgid "Add New"
+msgstr "Lägg till ny"
+
+#: functions.php:3714
+msgid "Add New Project"
+msgstr "Lägg Till Nya Projekt"
+
+#: functions.php:3715
+msgid "Edit Project"
+msgstr "Edit-Projektet"
+
+#: functions.php:3716
+msgid "New Project"
+msgstr "Nytt Projekt"
+
+#: functions.php:3717
+msgid "All Projects"
+msgstr "Alla Projekt"
+
+#: functions.php:3718
+msgid "View Project"
+msgstr "Syfte Med Projektet"
+
+#: functions.php:3719
+msgid "Search Projects"
+msgstr "Sök Projekt"
+
+#: functions.php:3720 layouts.php:13
+msgid "Nothing found"
+msgstr "Inget hittades"
+
+#: functions.php:3721 layouts.php:14
+msgid "Nothing found in Trash"
+msgstr "Inget hittades i papperskorgen"
+
+#: functions.php:3748
+msgid "Project Categories"
+msgstr "Projektet Kategorier"
+
+#: functions.php:3749
+msgid "Project Category"
+msgstr "Projektet Kategori"
+
+#: functions.php:3750
+msgid "Search Categories"
+msgstr "Sök Kategorier"
+
+#: functions.php:3752
+msgid "Parent Category"
+msgstr "Förälder Kategori"
+
+#: functions.php:3753
+msgid "Parent Category:"
+msgstr "Förälder Kategori:"
+
+#: functions.php:3754
+msgid "Edit Category"
+msgstr "Redigera Kategori"
+
+#: functions.php:3755
+msgid "Update Category"
+msgstr "Uppdatera Kategori"
+
+#: functions.php:3756
+msgid "Add New Category"
+msgstr "Lägg Till Ny Kategori"
+
+#: functions.php:3757
+msgid "New Category Name"
+msgstr "Nya Kategorins Namn"
+
+#: functions.php:3758
+msgid "Categories"
+msgstr "Kategorier"
+
+#: functions.php:3770
+msgid "Project Tags"
+msgstr "Projektet Taggar"
+
+#: functions.php:3771
+msgid "Project Tag"
+msgstr "Projektet Tag"
+
+#: functions.php:3772
+msgid "Search Tags"
+msgstr "Sök Taggar"
+
+#: functions.php:3773
+msgid "All Tags"
+msgstr "Alla Taggar"
+
+#: functions.php:3774
+msgid "Parent Tag"
+msgstr "Rottagg"
+
+#: functions.php:3775
+msgid "Parent Tag:"
+msgstr "Förälder Tag:"
+
+#: functions.php:3776
+msgid "Edit Tag"
+msgstr "Redigera Tagg"
+
+#: functions.php:3777
+msgid "Update Tag"
+msgstr "Uppdatering Tag"
+
+#: functions.php:3778
+msgid "Add New Tag"
+msgstr "Lägg Till Ny Etikett"
+
+#: functions.php:3779
+msgid "New Tag Name"
+msgstr "Nya Tag Namn"
+
+#: functions.php:3780
+msgid "Tags"
+msgstr "Taggar"
+
+#: functions.php:3840
+msgid "Read more"
+msgstr "Läs mer"
+
+#: functions.php:4179
+msgid "Theme Customizer"
+msgstr "Tema-anpassare"
+
+#: functions.php:4184
+msgid "Module Customizer"
+msgstr "Modul-anpassare"
+
+#: functions.php:4189
+msgid "Page Options"
+msgstr "Sidan Alternativ"
+
+#: functions.php:4200
+msgid "Plugin Options"
+msgstr "Plugin Alternativ"
+
+#: functions.php:4200
+msgid "Theme Options"
+msgstr "Tema Alternativ"
+
+#: functions.php:4205
+msgid "Divi Library"
+msgstr "Divi-biblioteket"
+
+#: functions.php:4211
+msgid "Builder Interface"
+msgstr "Interface Builder"
+
+#: functions.php:4214
+msgid "Add/Delete Item"
+msgstr "Lägg Till/Ta Bort Objekt"
+
+#: functions.php:4218
+msgid "Edit Item"
+msgstr "Redigera Objekt"
+
+#: functions.php:4222
+msgid "Move Item"
+msgstr "Flytta Objekt"
+
+#: functions.php:4226
+msgid "Disable Item"
+msgstr "Inaktivera Objekt"
+
+#: functions.php:4230
+msgid "Lock Item"
+msgstr "Lås Objekt"
+
+#: functions.php:4234
+msgid "Toggle Divi Builder"
+msgstr "Växla Divi Builder"
+
+#: functions.php:4244
+msgid "Library Settings"
+msgstr "Inställningar För Dokumentbibliotek"
+
+#: functions.php:4255
+msgid "Edit Global Items"
+msgstr "Redigera Globala Objekt"
+
+#: functions.php:4261
+msgid "Settings Tabs"
+msgstr "Inställningar För Flikar"
+
+#: functions.php:4268
+msgid "Advanced Settings"
+msgstr "Avancerade Inställningar"
+
+#: functions.php:4278
+msgid "Settings Types"
+msgstr "Inställningar Typer"
+
+#: functions.php:4281
+msgid "Edit Colors"
+msgstr "Redigera Färger"
+
+#: functions.php:4285
+msgid "Edit Content"
+msgstr "Redigera Innehåll"
+
+#: functions.php:4289
+msgid "Edit Fonts"
+msgstr "Ändra Teckensnitt"
+
+#: functions.php:4293
+msgid "Edit Buttons"
+msgstr "Redigera-Knappar"
+
+#: functions.php:4297 layouts.php:8
+msgid "Edit Layout"
+msgstr "Redigera layout"
+
+#: functions.php:4301
+msgid "Edit Configuration"
+msgstr "Redigera Konfigurationen"
+
+#: functions.php:4307
+msgid "Module Use"
+msgstr "Modulen Använder"
+
+#: functions.php:4347
+msgid "Administrator"
+msgstr "Administratör"
+
+#: functions.php:4348
+msgid "Editor"
+msgstr "Redaktör"
+
+#: functions.php:4349
+msgid "Author"
+msgstr "Författare"
+
+#: functions.php:4350
+msgid "Contributor"
+msgstr "Bidragsgivare"
+
+#: functions.php:4385
+msgid "Divi Role Editor"
+msgstr "Divi Roll Redaktör"
+
+#: functions.php:4386
+msgid "Save Divi Roles"
+msgstr "Spara Divi Roller"
+
+#: functions.php:4425
+msgid ""
+"Using the Divi Role Editor, you can limit the types of actions that can be "
+"taken by WordPress users of different roles. This is a great way to limit "
+"the functionality available to your customers or guest authors to ensure "
+"that they only have the necessary options available to them."
+msgstr ""
+"Med hjälp av Divi Roll Editor, kan du begränsa de typer av åtgärder som kan "
+"vidtas av WordPress-användare av olika roller. Detta är ett bra sätt att "
+"begränsa de funktioner som är tillgängliga dina kunder eller gäst "
+"författarna för att säkerställa att de bara har den nödvändiga alternativ "
+"som är tillgängliga för dem."
+
+#: functions.php:4492
+msgid "Reset Roles"
+msgstr "Återställ Roller"
+
+#: functions.php:4493
+msgid ""
+"All of your current role settings will be set to defaults. Do you wish to "
+"proceed?"
+msgstr ""
+"Alla dina nuvarande roll inställningar att sättas till standardvärden. Vill "
+"du fortsätta?"
+
+#: functions.php:4494
+msgid "yes"
+msgstr "ja"
+
+#: functions.php:4495
+msgid "no"
+msgstr "inga"
+
+#: layouts.php:7
+msgid "Add New Layout"
+msgstr "Lägg till ny layout"
+
+#: layouts.php:9
+msgid "New Layout"
+msgstr "Ny layout"
+
+#: layouts.php:11
+msgid "View Layout"
+msgstr "Visa layout"
+
+#: layouts.php:12
+msgid "Search Layouts"
+msgstr "Sök layouter"
+
+#: layouts.php:40
+msgid "Scope"
+msgstr "Omfattning"
+
+#: layouts.php:53
+msgid "Layout Type"
+msgstr "Typ av layout"
+
+#: layouts.php:66
+msgid "Module Width"
+msgstr "Modulbredd"
+
+#: layouts.php:79
+msgid "Category"
+msgstr "Kategori"
+
+#: layouts.php:173
+msgid "New Template Settings"
+msgstr "Nya mall-inställningar"
+
+#: layouts.php:174
+msgid "Template Name:"
+msgstr "Mallnamn:"
+
+#: layouts.php:175
+msgid "Template Type:"
+msgstr "Malltyp:"
+
+#: layouts.php:177
+msgid "Fullwidth Module"
+msgstr "Modul med full bredd"
+
+#: layouts.php:184
+msgid "Close Modal Window"
+msgstr "Stäng modalt fönster"
+
+#: layouts.php:185
+msgid "Include General Settings"
+msgstr "Inkludera allmänna inställningar"
+
+#: layouts.php:186
+msgid "Include Advanced Design Settings"
+msgstr "Inkludera avancerade design-inställningar"
+
+#: layouts.php:189
+msgid "Select category(ies) for new template or type a new name ( optional )"
+msgstr "Välj kategori(er) för ny mall eller skriv in ett nytt namn (valfritt)"
+
+#: layouts.php:252
+msgid "Homepage Basic"
+msgstr "Webbsida - basic"
+
+#: layouts.php:260
+msgid "Homepage Shop"
+msgstr "Webbsida - butik"
+
+#: layouts.php:270
+msgid "Homepage Portfolio"
+msgstr "Webbsida - portfolio"
+
+#: layouts.php:278
+msgid "Homepage Company"
+msgstr "Webbsida - företag"
+
+#: layouts.php:286
+msgid "Homepage Corporate"
+msgstr "Webbsida - bolag"
+
+#: layouts.php:297
+msgid "Homepage Extended"
+msgstr "Webbsida - utvidgad"
+
+#: layouts.php:306
+msgid "Page Fullwidth"
+msgstr "Sida - helbredd"
+
+#: layouts.php:340
+msgid "Page Right Sidebar"
+msgstr "Sida - höger sidofält"
+
+#: layouts.php:374
+msgid "Page Left Sidebar"
+msgstr "Sida - vänster sidofält"
+
+#: layouts.php:408
+msgid "Page Dual Sidebars"
+msgstr "Sida - dubbla sidofält"
+
+#: layouts.php:430
+msgid "Portfolio Grid"
+msgstr "Portfolio - rutnät"
+
+#: layouts.php:438
+msgid "Portfolio 1 Column"
+msgstr "Portfolio - en kolumn"
+
+#: layouts.php:446
+msgid "Portfolio Fullwidth Carousel"
+msgstr "Portfolio - helbreddskarusell"
+
+#: layouts.php:454
+msgid "Portfolio Fullwidth Grid"
+msgstr "Portfolio - helbreddsrutnät"
+
+#: layouts.php:462
+msgid "Project Extended"
+msgstr "Projekt - förlängd"
+
+#: layouts.php:472
+msgid "Project Extended 2"
+msgstr "Projekt förlängd 2"
+
+#: layouts.php:485
+msgid "Blog Masonry"
+msgstr "Blogg - rutnät"
+
+#: layouts.php:493
+msgid "Blog Standard"
+msgstr "Blogg - standard"
+
+#: layouts.php:501
+msgid "Shop Basic"
+msgstr "Butik - basic"
+
+#: layouts.php:509
+msgid "Shop Extended"
+msgstr "Butik - utvidgad"
+
+#: layouts.php:517
+msgid "Splash Page"
+msgstr "Välkomstsida"
+
+#: layouts.php:528
+msgid "Maintenance Mode"
+msgstr "Underhållsläge"
+
+#: layouts.php:537
+msgid "Coming Soon"
+msgstr "Kommer snart"
+
+#: layouts.php:545
+msgid "Landing Page"
+msgstr "Landningssida"
+
+#: layouts.php:554
+msgid "About Me"
+msgstr "Om mej"
+
+#: layouts.php:563
+msgid "About Us"
+msgstr "Om oss"
+
+#: layouts.php:572
+msgid "Contact Us"
+msgstr "Kontakta oss"
+
+#: layouts.php:588
+msgid "Our Team"
+msgstr "Vårt team"
+
+#: layouts.php:701
+msgid "Creative Agency"
+msgstr "Kreativ byrå"
+
+#: layouts.php:710
+msgid "Sales Page"
+msgstr "Försäljningssida"
+
+#: layouts.php:746
+msgid "Case Study"
+msgstr "Fallstudie"
+
+#: layouts.php:756
+msgid "Product Features"
+msgstr "Produktens egenskaper"
+
+#: main-modules.php:4 main-modules.php:1527 main-modules.php:8852
+msgid "Image"
+msgstr "Bild"
+
+#: main-modules.php:49 main-modules.php:1556 main-modules.php:8070
+#: main-modules.php:12450
+msgid "Left To Right"
+msgstr "Vänster till höger"
+
+#: main-modules.php:50 main-modules.php:1557 main-modules.php:8071
+#: main-modules.php:12451
+msgid "Right To Left"
+msgstr "Höger till vänster"
+
+#: main-modules.php:51 main-modules.php:1555 main-modules.php:8072
+#: main-modules.php:12452
+msgid "Top To Bottom"
+msgstr "Uppifrån och ner"
+
+#: main-modules.php:52 main-modules.php:1558 main-modules.php:8073
+#: main-modules.php:12453
+msgid "Bottom To Top"
+msgstr "Nerifrån och upp"
+
+#: main-modules.php:53 main-modules.php:8069 main-modules.php:12454
+msgid "Fade In"
+msgstr "Tona in"
+
+#: main-modules.php:54 main-modules.php:1559 main-modules.php:8068
+#: main-modules.php:12455
+msgid "No Animation"
+msgstr "Ingen animation"
+
+#: main-modules.php:78 main-modules.php:8055 main-modules.php:12393
+msgid "Image URL"
+msgstr "Bildens URL"
+
+#: main-modules.php:82 main-modules.php:732 main-modules.php:1079
+#: main-modules.php:1531 main-modules.php:3043 main-modules.php:4345
+#: main-modules.php:8059 main-modules.php:10629 main-modules.php:10671
+#: main-modules.php:10704 main-modules.php:12397
+msgid "Choose an Image"
+msgstr "Ange som bild"
+
+#: main-modules.php:83 main-modules.php:733 main-modules.php:1080
+#: main-modules.php:1532 main-modules.php:3044 main-modules.php:4346
+#: main-modules.php:8060 main-modules.php:10630 main-modules.php:10672
+#: main-modules.php:10705 main-modules.php:12398
+msgid "Set As Image"
+msgstr "Ange som bild"
+
+#: main-modules.php:84 main-modules.php:3045 main-modules.php:4347
+#: main-modules.php:8061 main-modules.php:10631 main-modules.php:10673
+#: main-modules.php:10706 main-modules.php:12399
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display."
+msgstr ""
+"Ladda upp din önskade bild eller skriv in URL till bilden du vill visa."
+
+#: main-modules.php:87 main-modules.php:2630 main-modules.php:12402
+msgid "Image Alternative Text"
+msgstr "Alternativ bildtext"
+
+#: main-modules.php:90 main-modules.php:10679 main-modules.php:12405
+msgid ""
+"This defines the HTML ALT text. A short description of your image can be "
+"placed here."
+msgstr ""
+"Detta anger den alternativa bildtexten. En kort beskrivning av din bild kan "
+"ges här."
+
+#: main-modules.php:93 main-modules.php:12408
+msgid "Image Title Text"
+msgstr "Rubriktext för bild"
+
+#: main-modules.php:96 main-modules.php:10685 main-modules.php:12411
+msgid "This defines the HTML Title text."
+msgstr "Detta anger HTML-titeltexten."
+
+#: main-modules.php:99
+msgid "Open in Lightbox"
+msgstr "Öppna i Lightbox"
+
+#: main-modules.php:110 main-modules.php:12425
+msgid ""
+"Here you can choose whether or not the image should open in Lightbox. Note: "
+"if you select to open the image in Lightbox, url options below will be "
+"ignored."
+msgstr ""
+"Här kan du välja om bilden borde öppnas i Lightbox eller inte. Observera: om "
+"du väljer att öppna bilden i Lightbox kommer URL-alternativen nedan att "
+"ignoreras."
+
+#: main-modules.php:113 main-modules.php:12428
+msgid "Link URL"
+msgstr "Länkens URL"
+
+#: main-modules.php:117 main-modules.php:12432
+msgid ""
+"If you would like your image to be a link, input your destination URL here. "
+"No link will be created if this field is left blank."
+msgstr ""
+"Om du vill att din bild är en länk, ange destinationens URL här. Ingen länk "
+"kommer att skapas om detta fält lämnas tomt."
+
+#: main-modules.php:120 main-modules.php:1443 main-modules.php:4084
+#: main-modules.php:9655 main-modules.php:12435
+msgid "Url Opens"
+msgstr "URL öppnas"
+
+#: main-modules.php:124 main-modules.php:1447 main-modules.php:3033
+#: main-modules.php:4088 main-modules.php:9659 main-modules.php:12439
+msgid "In The Same Window"
+msgstr "I samma fönster"
+
+#: main-modules.php:125 main-modules.php:1448 main-modules.php:3034
+#: main-modules.php:4089 main-modules.php:9660 main-modules.php:12440
+msgid "In The New Tab"
+msgstr "I den nya fliken"
+
+#: main-modules.php:128 main-modules.php:1450 main-modules.php:4091
+#: main-modules.php:9662 main-modules.php:12443
+msgid "Here you can choose whether or not your link opens in a new window"
+msgstr "Här kan du välja om din länk öppnas i ett nytt fönster eller inte"
+
+#: main-modules.php:131 main-modules.php:8064 main-modules.php:12446
+msgid "Animation"
+msgstr "Animation"
+
+#: main-modules.php:135 main-modules.php:1561 main-modules.php:8075
+#: main-modules.php:12457
+msgid "This controls the direction of the lazy-loading animation."
+msgstr "Detta kontrollerar animationens riktning."
+
+#: main-modules.php:138
+msgid "Remove Space Below The Image"
+msgstr "Ta bort tomrummet under bilden"
+
+#: main-modules.php:145
+msgid ""
+"Here you can choose whether or not the image should have a space below it."
+msgstr "Här kan du välja ifall bilden borde ha tomrum under den eller inte."
+
+#: main-modules.php:148
+msgid "Image Alignment"
+msgstr "Bildjustering"
+
+#: main-modules.php:156
+msgid "Here you can choose the image alignment."
+msgstr "Här kan du välja justeringen av bilden."
+
+#: main-modules.php:159 main-modules.php:484 main-modules.php:748
+#: main-modules.php:922 main-modules.php:1050 main-modules.php:1255
+#: main-modules.php:1587 main-modules.php:1830 main-modules.php:2240
+#: main-modules.php:2708 main-modules.php:3100 main-modules.php:3444
+#: main-modules.php:4142 main-modules.php:4365 main-modules.php:4676
+#: main-modules.php:5090 main-modules.php:5458 main-modules.php:5841
+#: main-modules.php:6176 main-modules.php:6556 main-modules.php:6755
+#: main-modules.php:6892 main-modules.php:7191 main-modules.php:7390
+#: main-modules.php:7673 main-modules.php:7830 main-modules.php:8118
+#: main-modules.php:8487 main-modules.php:8940 main-modules.php:9247
+#: main-modules.php:9414 main-modules.php:9675 main-modules.php:10195
+#: main-modules.php:10727 main-modules.php:11174 main-modules.php:11651
+#: main-modules.php:11956 main-modules.php:12146 main-modules.php:12224
+#: main-modules.php:12310 main-modules.php:12460 main-modules.php:12791
+#: main-structure-elements.php:233 main-structure-elements.php:1006
+msgid "Admin Label"
+msgstr "Adminetikett"
+
+#: main-modules.php:161 main-modules.php:486 main-modules.php:750
+#: main-modules.php:924 main-modules.php:1257 main-modules.php:1589
+#: main-modules.php:1832 main-modules.php:2242 main-modules.php:3102
+#: main-modules.php:3446 main-modules.php:4144 main-modules.php:4367
+#: main-modules.php:4678 main-modules.php:5092 main-modules.php:5460
+#: main-modules.php:5843 main-modules.php:6178 main-modules.php:6558
+#: main-modules.php:6757 main-modules.php:6894 main-modules.php:7193
+#: main-modules.php:7392 main-modules.php:7675 main-modules.php:7832
+#: main-modules.php:8120 main-modules.php:8489 main-modules.php:8942
+#: main-modules.php:9249 main-modules.php:9416 main-modules.php:9677
+#: main-modules.php:10197 main-modules.php:10729 main-modules.php:11176
+#: main-modules.php:11653 main-modules.php:11958 main-modules.php:12148
+#: main-modules.php:12226 main-modules.php:12312 main-modules.php:12462
+#: main-modules.php:12793
+msgid ""
+"This will change the label of the module in the builder for easy "
+"identification."
+msgstr "Detta förändrar modulens etikett i byggaren för enkel identifikation."
+
+#: main-modules.php:164 main-modules.php:489 main-modules.php:753
+#: main-modules.php:927 main-modules.php:1260 main-modules.php:1592
+#: main-modules.php:1835 main-modules.php:2245 main-modules.php:3105
+#: main-modules.php:3449 main-modules.php:4147 main-modules.php:4370
+#: main-modules.php:4681 main-modules.php:5095 main-modules.php:5463
+#: main-modules.php:5846 main-modules.php:6181 main-modules.php:6561
+#: main-modules.php:6760 main-modules.php:6897 main-modules.php:7196
+#: main-modules.php:7395 main-modules.php:7678 main-modules.php:7835
+#: main-modules.php:8123 main-modules.php:8492 main-modules.php:8945
+#: main-modules.php:9252 main-modules.php:9419 main-modules.php:9680
+#: main-modules.php:10200 main-modules.php:10732 main-modules.php:11179
+#: main-modules.php:11656 main-modules.php:11961 main-modules.php:12151
+#: main-modules.php:12229 main-modules.php:12315 main-modules.php:12465
+#: main-modules.php:12796 main-structure-elements.php:221
+#: main-structure-elements.php:879 main-structure-elements.php:1512
+msgid "CSS ID"
+msgstr "CSS-id"
+
+#: main-modules.php:167 main-modules.php:492 main-modules.php:756
+#: main-modules.php:930 main-modules.php:1263 main-modules.php:1595
+#: main-modules.php:1838 main-modules.php:2248 main-modules.php:3108
+#: main-modules.php:3452 main-modules.php:4150 main-modules.php:4373
+#: main-modules.php:4684 main-modules.php:5098 main-modules.php:5466
+#: main-modules.php:5849 main-modules.php:6184 main-modules.php:6564
+#: main-modules.php:6763 main-modules.php:6900 main-modules.php:7199
+#: main-modules.php:7398 main-modules.php:7681 main-modules.php:7838
+#: main-modules.php:8126 main-modules.php:8495 main-modules.php:8948
+#: main-modules.php:9255 main-modules.php:9422 main-modules.php:9683
+#: main-modules.php:10203 main-modules.php:10735 main-modules.php:11182
+#: main-modules.php:11659 main-modules.php:11964 main-modules.php:12154
+#: main-modules.php:12232 main-modules.php:12318 main-modules.php:12468
+#: main-modules.php:12799 main-structure-elements.php:224
+#: main-structure-elements.php:882 main-structure-elements.php:1515
+msgid ""
+"Enter an optional CSS ID to be used for this module. An ID can be used to "
+"create custom CSS styling, or to create links to particular sections of your "
+"page."
+msgstr ""
+"Ange ett alternativt CSS-id som kan användas i denna modul. Ett id kan "
+"användas för att skapa anpassad CSS-styling eller för att skapa länkar till "
+"specifika delar av din sida."
+
+#: main-modules.php:170 main-modules.php:495 main-modules.php:759
+#: main-modules.php:933 main-modules.php:1266 main-modules.php:1598
+#: main-modules.php:1841 main-modules.php:2251 main-modules.php:3111
+#: main-modules.php:3455 main-modules.php:4153 main-modules.php:4376
+#: main-modules.php:4687 main-modules.php:5101 main-modules.php:5469
+#: main-modules.php:5852 main-modules.php:6187 main-modules.php:6567
+#: main-modules.php:6766 main-modules.php:6903 main-modules.php:7202
+#: main-modules.php:7401 main-modules.php:7684 main-modules.php:7841
+#: main-modules.php:8129 main-modules.php:8498 main-modules.php:8951
+#: main-modules.php:9258 main-modules.php:9425 main-modules.php:9686
+#: main-modules.php:10206 main-modules.php:10738 main-modules.php:11185
+#: main-modules.php:11662 main-modules.php:11967 main-modules.php:12157
+#: main-modules.php:12235 main-modules.php:12321 main-modules.php:12471
+#: main-modules.php:12802 main-structure-elements.php:227
+#: main-structure-elements.php:885 main-structure-elements.php:1518
+msgid "CSS Class"
+msgstr "CSS-klass"
+
+#: main-modules.php:173 main-modules.php:498 main-modules.php:762
+#: main-modules.php:936 main-modules.php:1269 main-modules.php:1601
+#: main-modules.php:1844 main-modules.php:2254 main-modules.php:3114
+#: main-modules.php:3458 main-modules.php:4156 main-modules.php:4379
+#: main-modules.php:4690 main-modules.php:5104 main-modules.php:5472
+#: main-modules.php:5855 main-modules.php:6190 main-modules.php:6570
+#: main-modules.php:6769 main-modules.php:6906 main-modules.php:7205
+#: main-modules.php:7404 main-modules.php:7687 main-modules.php:7844
+#: main-modules.php:8132 main-modules.php:8501 main-modules.php:8954
+#: main-modules.php:9261 main-modules.php:9428 main-modules.php:9689
+#: main-modules.php:10209 main-modules.php:10741 main-modules.php:11188
+#: main-modules.php:11665 main-modules.php:11970 main-modules.php:12160
+#: main-modules.php:12238 main-modules.php:12324 main-modules.php:12474
+#: main-modules.php:12805 main-structure-elements.php:230
+#: main-structure-elements.php:888 main-structure-elements.php:1521
+msgid ""
+"Enter optional CSS classes to be used for this module. A CSS class can be "
+"used to create custom CSS styling. You can add multiple classes, separated "
+"with a space."
+msgstr ""
+"Ange alternativa CSS-klasser som kan användas i denna modul. En CSS-klass "
+"kan användas för att skapa anpassad CSS-styling. Du kan lägga till fler än "
+"en klass, separerad med ett mellanslag."
+
+#: main-modules.php:176 main-modules.php:1604
+msgid "Image Max Width"
+msgstr "Maximal bredd på bild"
+
+#: main-modules.php:183
+msgid "Force Fullwidth"
+msgstr "Sätt full bredd"
+
+#: main-modules.php:193
+msgid "Always Center Image On Mobile"
+msgstr "Centrera alltid bild i mobil"
+
+#: main-modules.php:307
+msgid "Gallery"
+msgstr "Galleri"
+
+#: main-modules.php:343 main-modules.php:4275
+msgid "Caption"
+msgstr "Bildtext"
+
+#: main-modules.php:357 main-modules.php:1431 main-modules.php:1992
+#: main-modules.php:3876 main-modules.php:4072 main-modules.php:4269
+#: main-modules.php:4323 main-modules.php:4622 main-modules.php:5032
+#: main-modules.php:5349 main-modules.php:5714 main-modules.php:6107
+#: main-modules.php:6305 main-modules.php:6489 main-modules.php:6518
+#: main-modules.php:6666 main-modules.php:6718 main-modules.php:7048
+#: main-modules.php:7121 main-modules.php:7169 main-modules.php:7327
+#: main-modules.php:7384 main-modules.php:7638 main-modules.php:8026
+#: main-modules.php:8333 main-modules.php:8822 main-modules.php:8860
+#: main-modules.php:9193 main-modules.php:9519 main-modules.php:9996
+#: main-modules.php:10456 main-modules.php:12592
+msgid "Title"
+msgstr "Rubrik"
+
+#: main-modules.php:372
+msgid "Gallery Item"
+msgstr "Galleriföremål"
+
+#: main-modules.php:376 main-modules.php:5375 main-modules.php:5758
+#: main-modules.php:8856
+msgid "Overlay"
+msgstr "Överlagring"
+
+#: main-modules.php:380 main-modules.php:5379 main-modules.php:5762
+msgid "Overlay Icon"
+msgstr "Överlagringsikon"
+
+#: main-modules.php:384
+msgid "Gallery Item Title"
+msgstr "Titel på galleriföremål"
+
+#: main-modules.php:393 main-modules.php:402
+msgid "Gallery Images"
+msgstr "Galleribilder"
+
+#: main-modules.php:411 main-modules.php:2034
+msgid "Slider"
+msgstr "Växlare"
+
+#: main-modules.php:412 main-modules.php:5401 main-modules.php:5784
+#: main-modules.php:8355 main-modules.php:11885
+msgid "Grid"
+msgstr "Rutnät"
+
+#: main-modules.php:414 main-modules.php:8362
+msgid "Toggle between the various blog layout types."
+msgstr "Växla mellan olika typer av blogglayouter."
+
+#: main-modules.php:426
+msgid "Images Number"
+msgstr "Antal bilder"
+
+#: main-modules.php:429
+msgid "Define the number of images that should be displayed per page."
+msgstr "Ange antalet bilder som visas per sida."
+
+#: main-modules.php:433
+msgid "Show Title and Caption"
+msgstr "Visa rubrik och bildtext"
+
+#: main-modules.php:440
+msgid ""
+"Here you can choose whether to show the images title and caption, if the "
+"image has them."
+msgstr ""
+"Här kan du välja att visa bildernas rubrik och bildtext om bilden har dem."
+
+#: main-modules.php:443 main-modules.php:5438 main-modules.php:5821
+#: main-modules.php:8460
+msgid "Show Pagination"
+msgstr "Visa paginering"
+
+#: main-modules.php:450 main-modules.php:5445 main-modules.php:5828
+msgid "Enable or disable pagination for this feed."
+msgstr "Aktivera eller inaktivera paginering för detta flöde."
+
+#: main-modules.php:453 main-modules.php:1232 main-modules.php:1564
+#: main-modules.php:2636 main-modules.php:3077 main-modules.php:4119
+#: main-modules.php:4355 main-modules.php:4653 main-modules.php:5067
+#: main-modules.php:5448 main-modules.php:5831 main-modules.php:6147
+#: main-modules.php:6541 main-modules.php:6745 main-modules.php:7663
+#: main-modules.php:8078 main-modules.php:8476 main-modules.php:9218
+#: main-modules.php:9645 main-modules.php:10161 main-modules.php:10468
+#: main-modules.php:11147 main-modules.php:11925 main-modules.php:12757
+msgid "Text Color"
+msgstr "Textfärg"
+
+#: main-modules.php:457 main-modules.php:917 main-modules.php:1094
+#: main-modules.php:1236 main-modules.php:1568 main-modules.php:2641
+#: main-modules.php:3081 main-modules.php:4124 main-modules.php:4360
+#: main-modules.php:4658 main-modules.php:5072 main-modules.php:5452
+#: main-modules.php:5835 main-modules.php:6151 main-modules.php:6545
+#: main-modules.php:6749 main-modules.php:7667 main-modules.php:8082
+#: main-modules.php:8480 main-modules.php:9222 main-modules.php:9649
+#: main-modules.php:10165 main-modules.php:10472 main-modules.php:11151
+#: main-modules.php:11929 main-modules.php:12761
+msgid "Dark"
+msgstr "Mörk"
+
+#: main-modules.php:458 main-modules.php:916 main-modules.php:1093
+#: main-modules.php:1237 main-modules.php:1569 main-modules.php:2640
+#: main-modules.php:3082 main-modules.php:4123 main-modules.php:4359
+#: main-modules.php:4657 main-modules.php:5071 main-modules.php:5453
+#: main-modules.php:5836 main-modules.php:6152 main-modules.php:6546
+#: main-modules.php:6750 main-modules.php:7668 main-modules.php:8083
+#: main-modules.php:8481 main-modules.php:9223 main-modules.php:9650
+#: main-modules.php:10166 main-modules.php:10473 main-modules.php:11152
+#: main-modules.php:11930 main-modules.php:12762
+msgid "Light"
+msgstr "Ljus"
+
+#: main-modules.php:460 main-modules.php:1571 main-modules.php:3084
+#: main-modules.php:4126 main-modules.php:4362 main-modules.php:4660
+#: main-modules.php:5074 main-modules.php:5455 main-modules.php:5838
+#: main-modules.php:6154 main-modules.php:6548 main-modules.php:7670
+#: main-modules.php:8484 main-modules.php:9225 main-modules.php:9652
+#: main-modules.php:11932
+msgid ""
+"Here you can choose whether your text should be light or dark. If you are "
+"working with a dark background, then your text should be light. If your "
+"background is light, then your text should be set to dark."
+msgstr ""
+"Här kan du välja om du vill att texten ska vara ljus eller mörk. Om du "
+"använder en mörk bakgrund bör texten vara ljus. Om din bakgrund är ljus bör "
+"texten vara mörk."
+
+#: main-modules.php:463 main-modules.php:2146 main-modules.php:11559
+msgid "Automatic Animation"
+msgstr "Automatisk animering"
+
+#: main-modules.php:474 main-modules.php:2156 main-modules.php:11569
+msgid ""
+"If you would like the slider to slide automatically, without the visitor "
+"having to click the next button, enable this option and then adjust the "
+"rotation speed below if desired."
+msgstr ""
+"Om du vill att växlaren automatiskt går framåt, utan att besökaren behöver "
+"trycka på nästa-knappen, aktivera detta alternativ och justera "
+"växlingshastigheten nedan om du så vill."
+
+#: main-modules.php:477 main-modules.php:2159 main-modules.php:11572
+msgid "Automatic Animation Speed (in ms)"
+msgstr "Automatisk animeringshastighet (i millisekunder)"
+
+#: main-modules.php:481 main-modules.php:2163 main-modules.php:11576
+msgid ""
+"Here you can designate how fast the slider fades between each slide, if "
+"'Automatic Animation' option is enabled above. The higher the number the "
+"longer the pause between each rotation."
+msgstr ""
+"Här kan du ange hur snabbt växlaren tonas bort mellan varje bild om du "
+"aktiverat 'Automatisk animering' ovan. Ju större nummer, desto längre paus "
+"mellan byten."
+
+#: main-modules.php:501 main-modules.php:5475 main-modules.php:5867
+msgid "Zoom Icon Color"
+msgstr "Färg på inzoomad ikon"
+
+#: main-modules.php:508 main-modules.php:5481 main-modules.php:5873
+#: main-modules.php:8969
+msgid "Hover Overlay Color"
+msgstr "Färg på överlagring vid hovring"
+
+#: main-modules.php:515 main-modules.php:5487 main-modules.php:5858
+#: main-modules.php:8975
+msgid "Hover Icon Picker"
+msgstr "Ikonväljare vid hovring"
+
+#: main-modules.php:684 main-modules.php:847 main-modules.php:1026
+msgid "Video"
+msgstr "Video"
+
+#: main-modules.php:699
+msgid "Video Icon"
+msgstr "Videoikon"
+
+#: main-modules.php:708 main-modules.php:1055
+msgid "Video MP4/URL"
+msgstr "Video MP4 URL"
+
+#: main-modules.php:712 main-modules.php:722 main-modules.php:1059
+#: main-modules.php:1069 main-modules.php:2650 main-modules.php:2660
+#: main-structure-elements.php:131 main-structure-elements.php:141
+#: main-structure-elements.php:916 main-structure-elements.php:926
+msgid "Upload a video"
+msgstr "Ladda upp en video"
+
+#: main-modules.php:713 main-modules.php:1060
+msgid "Choose a Video MP4 File"
+msgstr "Välj en video .MP4-fil"
+
+#: main-modules.php:714 main-modules.php:724 main-modules.php:1061
+#: main-modules.php:1071
+msgid "Set As Video"
+msgstr "Ange som video"
+
+#: main-modules.php:715 main-modules.php:1062
+msgid ""
+"Upload your desired video in .MP4 format, or type in the URL to the video "
+"you would like to display"
+msgstr "Ladda upp den önskade videon i .MP4-format eller skriv in videons URL"
+
+#: main-modules.php:718 main-modules.php:1065
+msgid "Video Webm"
+msgstr "Video .WEBM"
+
+#: main-modules.php:723 main-modules.php:1070
+msgid "Choose a Video WEBM File"
+msgstr "Välj en .WEBM-videofil"
+
+#: main-modules.php:725 main-modules.php:1072
+msgid ""
+"Upload the .WEBM version of your video here. All uploaded videos should be "
+"in both .MP4 .WEBM formats to ensure maximum compatibility in all browsers."
+msgstr ""
+"Ladda upp .WEBM-versionen av din video här. Alla videoklipp bör laddas upp i "
+"både .MP4- och .WEBM-format för att säkerställa maximal kompatibilitet i "
+"alla webbläsare."
+
+#: main-modules.php:728 main-modules.php:1075
+msgid "Image Overlay URL"
+msgstr "Bildoverlay URL"
+
+#: main-modules.php:736 main-modules.php:1083
+msgid "Generate From Video"
+msgstr "Skapa från video"
+
+#: main-modules.php:739 main-modules.php:1086
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display over your video. You can also generate a still image from your video."
+msgstr ""
+"Ladda upp bilden du önskar projicera över din video eller ange bildens URL. "
+"Du kan också skapa en stillbild från din video."
+
+#: main-modules.php:742 main-modules.php:939
+msgid "Play Icon Color"
+msgstr "Färg på spelarikon"
+
+#: main-modules.php:844
+msgid "Video Slider"
+msgstr "Videoväxlare"
+
+#: main-modules.php:869
+msgid "Play Button"
+msgstr "Spela-knapp"
+
+#: main-modules.php:873
+msgid "Thumbnail Item"
+msgstr "Miniatyrföremål"
+
+#: main-modules.php:882
+msgid "Display Image Overlays on Main Video"
+msgstr "Visa bildoverlays på huvudvideo"
+
+#: main-modules.php:886
+msgid "Hide"
+msgstr "Dölj"
+
+#: main-modules.php:887
+msgid "Show"
+msgstr "Visa"
+
+#: main-modules.php:889
+msgid ""
+"This option will cover the player UI on the main video. This image can "
+"either be uploaded in each video setting or auto-generated by Divi."
+msgstr ""
+"Detta alternativ täcker spelarens gränssnitt på huvudvideon. Bilden kan "
+"endera laddas upp för varje videoinstallation eller skapas automatiskt av "
+"Divi."
+
+#: main-modules.php:892 main-modules.php:2126 main-modules.php:11539
+msgid "Arrows"
+msgstr "Pilar"
+
+#: main-modules.php:896 main-modules.php:2130 main-modules.php:11543
+msgid "Show Arrows"
+msgstr "Visa pilar"
+
+#: main-modules.php:897 main-modules.php:2131 main-modules.php:11544
+msgid "Hide Arrows"
+msgstr "Dölj pilar"
+
+#: main-modules.php:899 main-modules.php:2133
+msgid "This setting will turn on and off the navigation arrows."
+msgstr "Denna inställning slår på och av navigationspilarna."
+
+#: main-modules.php:902
+msgid "Slider Controls"
+msgstr "Växlingskontroller"
+
+#: main-modules.php:906
+msgid "Use Thumbnail Track"
+msgstr "Använd rutnät för miniatyrer"
+
+#: main-modules.php:907
+msgid "Use Dot Navigation"
+msgstr "Använd punktnavigering"
+
+#: main-modules.php:909
+msgid ""
+"This setting will let you choose to use the thumbnail track controls below "
+"the slider or dot navigation at the bottom of the slider."
+msgstr ""
+"Med denna inställning kan du välja mellan att använda rutnätet för "
+"miniatyrer under växlaren eller punktnavigering i växlarens nedre del."
+
+#: main-modules.php:912
+msgid "Slider Controls Color"
+msgstr "Färg på växlingskontrollen"
+
+#: main-modules.php:919
+msgid ""
+"This setting will make your slider controls either light or dark in color. "
+"Slider controls are either the arrows on the thumbnail track or the circles "
+"in dot navigation."
+msgstr ""
+"Med denna inställning kan du göra växlingskontrollens färg endera mörk eller "
+"ljus. Växlingskontrollerna är endera pilarna i rutnätet för miniatyrer eller "
+"cirklarna i punktnavigeringen."
+
+#: main-modules.php:945
+msgid "Thumbnail Overlay Color"
+msgstr "Miniatyr-överlagringsfärg"
+
+#: main-modules.php:1031
+msgid "New Video"
+msgstr "Ny video"
+
+#: main-modules.php:1032
+msgid "Video Settings"
+msgstr "Videoinställningar"
+
+#: main-modules.php:1052
+msgid ""
+"This will change the label of the video in the builder for easy "
+"identification."
+msgstr "Detta byter videons etikett i byggaren för enkel identifikation."
+
+#: main-modules.php:1089
+msgid "Slider Arrows Color"
+msgstr "Färg på växlarens pilar"
+
+#: main-modules.php:1096
+msgid ""
+"This setting will make your slider arrows either light or dark in color."
+msgstr "Denna inställning gör växlingspilarnas färg endera mörk eller ljus."
+
+#: main-modules.php:1187 main-modules.php:1209
+msgid "Text"
+msgstr "Text"
+
+#: main-modules.php:1239 main-modules.php:8085 main-modules.php:10475
+#: main-modules.php:11154
+msgid ""
+"Here you can choose the value of your text. If you are working with a dark "
+"background, then your text should be set to light. If you are working with a "
+"light background, then your text should be dark."
+msgstr ""
+"Här kan du välja färgen på din text. Om du använder en mörk bakgrund bör "
+"texten vara ljus. Om din bakgrund är ljus bör texten vara mörk."
+
+#: main-modules.php:1242 main-modules.php:1574 main-modules.php:3087
+#: main-modules.php:4129 main-modules.php:4663 main-modules.php:5077
+#: main-modules.php:10150 main-modules.php:11157 main-modules.php:12746
+msgid "Text Orientation"
+msgstr "Textens orientering"
+
+#: main-modules.php:1246 main-modules.php:10482 main-modules.php:11161
+msgid "This controls the how your text is aligned within the module."
+msgstr "Detta kontrollerar var din text placeras i modulen."
+
+#: main-modules.php:1252 main-modules.php:12221 main-modules.php:12307
+msgid "Here you can create the content that will be used within the module."
+msgstr "Här kan du skapa innehållet som används inom modulen."
+
+#: main-modules.php:1272 main-modules.php:4159 main-modules.php:12241
+msgid "Max Width"
+msgstr "Maximal bredd"
+
+#: main-modules.php:1326
+msgid "Blurb"
+msgstr "Blurb"
+
+#: main-modules.php:1376 main-modules.php:2080 main-modules.php:2487
+#: main-modules.php:3371 main-modules.php:3758 main-modules.php:4029
+#: main-modules.php:4512 main-modules.php:4988 main-modules.php:7618
+#: main-modules.php:7992 main-modules.php:8310 main-modules.php:9146
+#: main-modules.php:11490
+msgid "Header"
+msgstr "Sidhuvud"
+
+#: main-modules.php:1382 main-modules.php:1794 main-modules.php:1964
+#: main-modules.php:2086 main-modules.php:2501 main-modules.php:2962
+#: main-modules.php:3403 main-modules.php:3803 main-modules.php:4036
+#: main-modules.php:4519 main-modules.php:4995 main-modules.php:6839
+#: main-modules.php:7127 main-modules.php:7624 main-modules.php:7998
+#: main-modules.php:8323 main-modules.php:11499
+msgid "Body"
+msgstr "Body"
+
+#: main-modules.php:1402
+msgid "Blurb Image"
+msgstr "Blurb-bild"
+
+#: main-modules.php:1406
+msgid "Blurb Title"
+msgstr "Blurb-titel"
+
+#: main-modules.php:1410
+msgid "Blurb Content"
+msgstr "Blurb-innehåll"
+
+#: main-modules.php:1434
+msgid "The title of your blurb will appear in bold below your blurb image."
+msgstr "Blurbens rubrik kommer att visas i fet stil under din Blurb-bild."
+
+#: main-modules.php:1437
+msgid "Url"
+msgstr "URL"
+
+#: main-modules.php:1440
+msgid ""
+"If you would like to make your blurb a link, input your destination URL here."
+msgstr ""
+"Om du vill göra en länk av din Blurb kan du ange URL:s destination här."
+
+#: main-modules.php:1453
+msgid "Use Icon"
+msgstr "Använd ikon"
+
+#: main-modules.php:1467
+msgid "Here you can choose whether icon set below should be used."
+msgstr "Här kan du välja om den nedan angivna ikonen ska användas."
+
+#: main-modules.php:1470 main-modules.php:10512
+msgid "Icon"
+msgstr "Ikon"
+
+#: main-modules.php:1476
+msgid "Choose an icon to display with your blurb."
+msgstr "Välj en ikon att visa med din Blurb."
+
+#: main-modules.php:1480 main-modules.php:6921 main-modules.php:7084
+#: main-modules.php:7220 main-modules.php:8135 main-modules.php:9872
+msgid "Icon Color"
+msgstr "Ikonens färg"
+
+#: main-modules.php:1482
+msgid "Here you can define a custom color for your icon."
+msgstr "Här kan du ange en anpassad färg för din ikon."
+
+#: main-modules.php:1486
+msgid "Circle Icon"
+msgstr "Cirkelikon"
+
+#: main-modules.php:1497
+msgid ""
+"Here you can choose whether icon set above should display within a circle."
+msgstr "Här kan du välja om den ovan valda ikonen ska visas i en cirkel."
+
+#: main-modules.php:1501 main-modules.php:6573
+msgid "Circle Color"
+msgstr "Cirkelns färg"
+
+#: main-modules.php:1503
+msgid "Here you can define a custom color for the icon circle."
+msgstr "Här kan du ange en anpassad färg för cirkeln runt ikonen."
+
+#: main-modules.php:1507
+msgid "Show Circle Border"
+msgstr "Visa cirkelns kant"
+
+#: main-modules.php:1517
+msgid "Here you can choose whether if the icon circle border should display."
+msgstr "Här kan du ange om du vill att cirkelns kant ska synas."
+
+#: main-modules.php:1521
+msgid "Circle Border Color"
+msgstr "Cirkelkantens färg"
+
+#: main-modules.php:1523
+msgid "Here you can define a custom color for the icon circle border."
+msgstr "Här kan du ange en anpassad färg för ikoncirkelns kant."
+
+#: main-modules.php:1534
+msgid "Upload an image to display at the top of your blurb."
+msgstr "Ladda upp en bild att visa i övre kanten av din blurb."
+
+#: main-modules.php:1537
+msgid "Image Alt Text"
+msgstr "Alternativ bildtext"
+
+#: main-modules.php:1540
+msgid "Define the HTML ALT text for your image here."
+msgstr "Ange den alternativa bildtexten här."
+
+#: main-modules.php:1544
+msgid "Image/Icon Placement"
+msgstr "Bild-/ikonplacering"
+
+#: main-modules.php:1548
+msgid "Here you can choose where to place the icon."
+msgstr "Här kan du välja var ikonen placeras."
+
+#: main-modules.php:1551
+msgid "Image/Icon Animation"
+msgstr "Bild-/ikonanimation"
+
+#: main-modules.php:1578
+msgid "This will control how your blurb text is aligned."
+msgstr "Detta kontrollerar placeringen av din blurbtext."
+
+#: main-modules.php:1584 main-modules.php:3097 main-modules.php:4139
+#: main-modules.php:4673 main-modules.php:5087 main-modules.php:7188
+#: main-modules.php:8115
+msgid "Input the main text content for your module here."
+msgstr "Ange det huvudsakliga textinnehållet för din modul här."
+
+#: main-modules.php:1611
+msgid "Use Icon Font Size"
+msgstr "Använd typsnittsstorlek för ikon"
+
+#: main-modules.php:1624
+msgid "Icon Font Size"
+msgstr "Typsnittsstorlek för ikon"
+
+#: main-modules.php:1770
+msgid "Tabs"
+msgstr "Flikar"
+
+#: main-modules.php:1773 main-modules.php:1787 main-modules.php:1817
+#: main-modules.php:1933 main-modules.php:1949 main-modules.php:2015
+msgid "Tab"
+msgstr "Flik"
+
+#: main-modules.php:1813
+msgid "Tabs Controls"
+msgstr "Flik-kontroller"
+
+#: main-modules.php:1821
+msgid "Active Tab"
+msgstr "Aktiv flik"
+
+#: main-modules.php:1847
+msgid "Active Tab Background Color"
+msgstr "Bakgrundsfärg för aktiv flik"
+
+#: main-modules.php:1853
+msgid "Inactive Tab Background Color"
+msgstr "Bakgrundsfärg för inaktiv flik"
+
+#: main-modules.php:1943
+msgid "New Tab"
+msgstr "Ny flik"
+
+#: main-modules.php:1944
+msgid "Tab Settings"
+msgstr "Flikinställningar"
+
+#: main-modules.php:1994 main-modules.php:9522
+msgid "The title will be used within the tab button for this tab."
+msgstr "Rubriken kommer att användas för flikknappen för denna flik."
+
+#: main-modules.php:2037 main-modules.php:2441 main-modules.php:11231
+#: main-modules.php:11447
+msgid "Slide"
+msgstr "Slide"
+
+#: main-modules.php:2095 main-modules.php:2518 main-modules.php:3435
+#: main-modules.php:3827 main-modules.php:4053 main-modules.php:4533
+#: main-modules.php:5009 main-modules.php:7349 main-modules.php:11508
+msgid "Button"
+msgstr "Knapp"
+
+#: main-modules.php:2101 main-modules.php:2532 main-modules.php:11514
+msgid "Slide Description"
+msgstr "Slide-beskrivning"
+
+#: main-modules.php:2105 main-modules.php:2528 main-modules.php:11518
+msgid "Slide Title"
+msgstr "Slide-titel"
+
+#: main-modules.php:2109 main-modules.php:2536 main-modules.php:11522
+msgid "Slide Button"
+msgstr "Slide-knapp"
+
+#: main-modules.php:2113 main-modules.php:11526
+msgid "Slide Controllers"
+msgstr "Slide-kontroller"
+
+#: main-modules.php:2117 main-modules.php:11530
+msgid "Slide Active Controller"
+msgstr "Aktiv kontroll för slide"
+
+#: main-modules.php:2136 main-modules.php:11549
+msgid "Controls"
+msgstr "Kontroller"
+
+#: main-modules.php:2140 main-modules.php:11553
+msgid "Show Slider Controls"
+msgstr "Visa växlingskontrollerna"
+
+#: main-modules.php:2141 main-modules.php:11554
+msgid "Hide Slider Controls"
+msgstr "Dölj växlingskontrollerna"
+
+#: main-modules.php:2143
+msgid ""
+"This setting will turn on and off the circle buttons at the bottom of the "
+"slider."
+msgstr ""
+"Denna inställning slår på och av cirkelknapparna i nedre delen av växlaren."
+
+#: main-modules.php:2166 main-modules.php:11579
+msgid "Continue Automatic Slide on Hover"
+msgstr "Att fortsätta Automatisk Bild på Hover"
+
+#: main-modules.php:2174 main-modules.php:11587
+msgid ""
+"Turning this on will allow automatic sliding to continue on mouse hover."
+msgstr ""
+"Vänder på detta kommer att möjliggöra automatiska skjut-för att fortsätta på "
+"musen."
+
+#: main-modules.php:2177 main-modules.php:10642 main-modules.php:11590
+msgid "Use Parallax effect"
+msgstr "Använd parallax-effekt"
+
+#: main-modules.php:2189
+msgid ""
+"Enabling this option will give your background images a fixed position as "
+"you scroll."
+msgstr ""
+"Aktivering av detta alternativ ger din bakgrundsbild en fixerad position när "
+"du bläddrar neråt."
+
+#: main-modules.php:2192 main-modules.php:10655 main-modules.php:11603
+msgid "Parallax method"
+msgstr "Parallaxmetod"
+
+#: main-modules.php:2200 main-modules.php:10663 main-modules.php:11611
+#: main-structure-elements.php:202
+msgid "Define the method, used for the parallax effect."
+msgstr "Ange metoden som används för parallaxeffekten."
+
+#: main-modules.php:2203 main-modules.php:11614
+msgid "Remove Inner Shadow"
+msgstr "Ta bort inre skugga"
+
+#: main-modules.php:2212 main-modules.php:2572 main-modules.php:11623
+msgid "Background Image Position"
+msgstr "I Bakgrunden På Bilden Position"
+
+#: main-modules.php:2217 main-modules.php:2578 main-modules.php:11628
+msgid "Top Left"
+msgstr "Överst Till Vänster"
+
+#: main-modules.php:2218 main-modules.php:2579 main-modules.php:11629
+msgid "Top Center"
+msgstr "Top Center"
+
+#: main-modules.php:2219 main-modules.php:2580 main-modules.php:11630
+msgid "Top Right"
+msgstr "Överst Till Höger"
+
+#: main-modules.php:2220 main-modules.php:2581 main-modules.php:11631
+msgid "Center Right"
+msgstr "Mitten Till Höger"
+
+#: main-modules.php:2221 main-modules.php:2582 main-modules.php:11632
+msgid "Center Left"
+msgstr "Center-Vänster"
+
+#: main-modules.php:2222 main-modules.php:2583 main-modules.php:11633
+msgid "Bottom Left"
+msgstr "Längst Ned Till Vänster"
+
+#: main-modules.php:2223 main-modules.php:2584 main-modules.php:11634
+msgid "Bottom Center"
+msgstr "Längst Ner I Mitten"
+
+#: main-modules.php:2224 main-modules.php:2585 main-modules.php:11635
+msgid "Bottom Right"
+msgstr "Längst Ner Till Höger"
+
+#: main-modules.php:2229 main-modules.php:2589 main-modules.php:11640
+msgid "Background Image Size"
+msgstr "I Bakgrunden På Bilden Storlek"
+
+#: main-modules.php:2234 main-modules.php:2595 main-modules.php:11645
+msgid "Fit"
+msgstr "Passar"
+
+#: main-modules.php:2235 main-modules.php:2596 main-modules.php:11646
+msgid "Actual Size"
+msgstr "Verklig Storlek"
+
+#: main-modules.php:2257 main-modules.php:11668
+msgid "Top Padding"
+msgstr "Topp-padding"
+
+#: main-modules.php:2264 main-modules.php:11675
+msgid "Bottom Padding"
+msgstr "Botten-padding"
+
+#: main-modules.php:2271 main-modules.php:11682
+msgid "Hide Content On Mobile"
+msgstr "Göm innehåll på mobil"
+
+#: main-modules.php:2281 main-modules.php:11692
+msgid "Hide CTA On Mobile"
+msgstr "Göm CTA på mobil"
+
+#: main-modules.php:2291 main-modules.php:11702
+msgid "Show Image / Video On Mobile"
+msgstr "Visa bild / video på mobil"
+
+#: main-modules.php:2481
+msgid "New Slide"
+msgstr "Ny diabild"
+
+#: main-modules.php:2482
+msgid "Slide Settings"
+msgstr "Inställningar för diabilder"
+
+#: main-modules.php:2545
+msgid "Heading"
+msgstr "Sidhuvud"
+
+#: main-modules.php:2548
+msgid "Define the title text for your slide."
+msgstr "Ange rubriktexten för din diabild."
+
+#: main-modules.php:2551 main-modules.php:3912 main-modules.php:4094
+#: main-modules.php:4628
+msgid "Button Text"
+msgstr "Knapptext"
+
+#: main-modules.php:2554
+msgid "Define the text for the slide button"
+msgstr "Ange texten för växlingsknappen"
+
+#: main-modules.php:2557 main-modules.php:3906 main-modules.php:4078
+msgid "Button URL"
+msgstr "Knappens URL"
+
+#: main-modules.php:2560
+msgid "Input a destination URL for the slide button."
+msgstr "Ange en destination för växlingsknappens URL."
+
+#: main-modules.php:2569 main-structure-elements.php:104
+msgid ""
+"If defined, this image will be used as the background for this module. To "
+"remove a background image, simply delete the URL from the settings field."
+msgstr ""
+"Om angiven, kommer denna bild att användas som bakgrund för denna modul. För "
+"att ta bort en bakgrundsbild kan du helt enkelt radera URL från fältet för "
+"inställningar."
+
+#: main-modules.php:2594
+msgid "Cover"
+msgstr "Täcka"
+
+#: main-modules.php:2602 main-modules.php:11144
+msgid "Use the color picker to choose a background color for this module."
+msgstr "Använd färgväljaren för att ange en bakgrundsfärg för denna modul."
+
+#: main-modules.php:2605
+msgid "Slide Image"
+msgstr "Diabild"
+
+#: main-modules.php:2609
+msgid "Choose a Slide Image"
+msgstr "Välj en diabild"
+
+#: main-modules.php:2610
+msgid "Set As Slide Image"
+msgstr "Ange som diabild"
+
+#: main-modules.php:2611
+msgid ""
+"If defined, this slide image will appear to the left of your slide text. "
+"Upload an image, or leave blank for a text-only slide."
+msgstr ""
+"Om en sådan angivits kommer denna bild att synas till vänster om din texten "
+"i din diabild. Ladda upp en bild eller lämna tom för en diabild med bara "
+"text."
+
+#: main-modules.php:2614
+msgid "Slide Image Vertical Alignment"
+msgstr "Vertikal placering av diabild"
+
+#: main-modules.php:2621
+msgid ""
+"This setting determines the vertical alignment of your slide image. Your "
+"image can either be vertically centered, or aligned to the bottom of your "
+"slide."
+msgstr ""
+"Med denna inställning kan du ange den vertikala placeringen av din diabild. "
+"Din bild kan endera vara vertikalt centrerad eller placerad i nedre delen av "
+"din diabild."
+
+#: main-modules.php:2624
+msgid "Slide Video"
+msgstr "Diabildsvideo"
+
+#: main-modules.php:2627
+msgid ""
+"If defined, this video will appear to the left of your slide text. Enter "
+"youtube or vimeo page url, or leave blank for a text-only slide."
+msgstr ""
+"Om en sådan angivits kommer denna video att visas till vänster om texten i "
+"din diabild. Ange URL för Youtube eller Vimeo, eller lämna tom för en "
+"diabild med bara text."
+
+#: main-modules.php:2633
+msgid ""
+"If you have a slide image defined, input your HTML ALT text for the image "
+"here."
+msgstr "Ange din alternativa bildtext här om du angivit en diabild."
+
+#: main-modules.php:2643
+msgid ""
+"Here you can choose whether your text is light or dark. If you have a slide "
+"with a dark background, then choose light text. If you have a light "
+"background, then use dark text."
+msgstr ""
+"Här kan du välja om du vill att texten ska vara ljus eller mörk. Om du "
+"använder en mörk bakgrund bör texten vara ljus. Om din bakgrund är ljus bör "
+"texten vara mörk."
+
+#: main-modules.php:2646 main-structure-elements.php:127
+#: main-structure-elements.php:912
+msgid "Background Video MP4"
+msgstr "Bakgrundsvideo .MP4"
+
+#: main-modules.php:2651 main-structure-elements.php:132
+#: main-structure-elements.php:917
+msgid "Choose a Background Video MP4 File"
+msgstr "Välj en bakgrundsvideo .MP4-fil"
+
+#: main-modules.php:2652 main-modules.php:2662 main-structure-elements.php:133
+#: main-structure-elements.php:143 main-structure-elements.php:918
+#: main-structure-elements.php:928
+msgid "Set As Background Video"
+msgstr "Ange som bakgrundsvideo"
+
+#: main-modules.php:2653 main-structure-elements.php:134
+msgid ""
+"All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum "
+"compatibility in all browsers. Upload the .MP4 version here. <b>Important "
+"Note: Video backgrounds are disabled from mobile devices. Instead, your "
+"background image will be used. For this reason, you should define both a "
+"background image and a background video to ensure best results.</b>"
+msgstr ""
+"Alla videoklipp bör laddas upp i både .MP4- och .WEBM-format för att "
+"säkerställa maximal kompatibilitet i alla webbläsare. Ladda upp .MP4-"
+"versionen här. Observera: videobakgrunder är inaktiverade på mobila enheter. "
+"Din bakgrundsbild kommer att användas istället. Av denna orsak bör du ange "
+"både en bakgrundsbild och en bakgrundsvideo för att garantera ett gott "
+"slutresultat."
+
+#: main-modules.php:2656 main-structure-elements.php:137
+#: main-structure-elements.php:922
+msgid "Background Video Webm"
+msgstr "Bakgrundsvideo .WEBM"
+
+#: main-modules.php:2661 main-structure-elements.php:142
+#: main-structure-elements.php:927
+msgid "Choose a Background Video WEBM File"
+msgstr "Välj en bakgrundsvideo .WEBM-fil"
+
+#: main-modules.php:2663 main-structure-elements.php:144
+msgid ""
+"All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum "
+"compatibility in all browsers. Upload the .WEBM version here. <b>Important "
+"Note: Video backgrounds are disabled from mobile devices. Instead, your "
+"background image will be used. For this reason, you should define both a "
+"background image and a background video to ensure best results.</b>"
+msgstr ""
+"Alla videoklipp bör laddas upp i både .MP4- och .WEBM-format för att "
+"säkerställa maximal kompatibilitet i alla webbläsare. Ladda upp .WEBM-"
+"versionen här. Observera: videobakgrunder är inaktiverade på mobila enheter. "
+"Din bakgrundsbild kommer att användas istället. Av denna orsak bör du ange "
+"både en bakgrundsbild och en bakgrundsvideo för att garantera ett gott "
+"slutresultat."
+
+#: main-modules.php:2666 main-structure-elements.php:147
+#: main-structure-elements.php:932
+msgid "Background Video Width"
+msgstr "Bredden på bakgrundsvideo"
+
+#: main-modules.php:2669 main-structure-elements.php:150
+msgid ""
+"In order for videos to be sized correctly, you must input the exact width "
+"(in pixels) of your video here."
+msgstr ""
+"För att videoklipp ska få rätt dimensioner bör du ange ditt videoklipps "
+"exakta bredd (i pixlar) här."
+
+#: main-modules.php:2673 main-structure-elements.php:154
+#: main-structure-elements.php:939
+msgid "Background Video Height"
+msgstr "Höjden på bakgrundsvideo"
+
+#: main-modules.php:2676 main-structure-elements.php:157
+msgid ""
+"In order for videos to be sized correctly, you must input the exact height "
+"(in pixels) of your video here."
+msgstr ""
+"För att videoklipp ska få rätt dimensioner bör du ange ditt videoklipps "
+"exakta höjd (i pixlar) här."
+
+#: main-modules.php:2680 main-structure-elements.php:161
+#: main-structure-elements.php:946
+msgid "Pause Video"
+msgstr "Pausa video"
+
+#: main-modules.php:2687 main-structure-elements.php:168
+msgid "Allow video to be paused by other players when they begin playing"
+msgstr "Tillåt videon att pausas av andra spelare när de börjar spela"
+
+#: main-modules.php:2693
+msgid "Input your main slide text content here."
+msgstr "Ange huvuddiabildens textinnehåll här."
+
+#: main-modules.php:2696
+msgid "Arrows Custom Color"
+msgstr "Anpassad färg på pilar"
+
+#: main-modules.php:2702
+msgid "Dot Nav Custom Color"
+msgstr "Anpassad färg på Dot Nav"
+
+#: main-modules.php:2710
+msgid ""
+"This will change the label of the slide in the builder for easy "
+"identification."
+msgstr ""
+"Detta kommer att ändra etikett för den bild i builder för enkel "
+"identifiering."
+
+#: main-modules.php:2923
+msgid "Testimonial"
+msgstr "Omdöme"
+
+#: main-modules.php:2984
+msgid "Testimonial Portrait"
+msgstr "Vittnesmålsporträtt"
+
+#: main-modules.php:2988
+msgid "Testimonial Description"
+msgstr "Beskrivning av vittnesmål"
+
+#: main-modules.php:2992
+msgid "Testimonial Author"
+msgstr "Författare av vittnesmål"
+
+#: main-modules.php:2996
+msgid "Testimonial Meta"
+msgstr "Metadata för vittnesmål"
+
+#: main-modules.php:3005
+msgid "Author Name"
+msgstr "Författarens namn"
+
+#: main-modules.php:3008
+msgid "Input the name of the testimonial author."
+msgstr "Ange namnet på omdömets författare."
+
+#: main-modules.php:3011
+msgid "Job Title"
+msgstr "Befattning"
+
+#: main-modules.php:3014
+msgid "Input the job title."
+msgstr "Ange befattning."
+
+#: main-modules.php:3017
+msgid "Company Name"
+msgstr "Företagets namn"
+
+#: main-modules.php:3020
+msgid "Input the name of the company."
+msgstr "Ange företagets namn."
+
+#: main-modules.php:3023
+msgid "Author/Company URL"
+msgstr "Författarens/företagets URL"
+
+#: main-modules.php:3026
+msgid "Input the website of the author or leave blank for no link."
+msgstr "Ange författarens webbsida eller lämna tom."
+
+#: main-modules.php:3029
+msgid "URLs Open"
+msgstr "URL öppnas"
+
+#: main-modules.php:3036
+msgid "Choose whether or not the URL should open in a new window."
+msgstr "Välj om URL:n ska öppnas i ett nytt fönster."
+
+#: main-modules.php:3039
+msgid "Portrait Image URL"
+msgstr "Porträttbildens URL"
+
+#: main-modules.php:3048
+msgid "Quote Icon"
+msgstr "Citatikon"
+
+#: main-modules.php:3052
+msgid "Visible"
+msgstr "Synlig"
+
+#: main-modules.php:3053
+msgid "Hidden"
+msgstr "Dold"
+
+#: main-modules.php:3055
+msgid "Choose whether or not the quote icon should be visible."
+msgstr "Välj om citatikonen ska vara synlig."
+
+#: main-modules.php:3058 main-modules.php:4100 main-modules.php:4634
+#: main-modules.php:5048 main-modules.php:9228
+msgid "Use Background Color"
+msgstr "Använd bakgrundsfärg"
+
+#: main-modules.php:3068 main-modules.php:4110 main-modules.php:4644
+#: main-modules.php:5058 main-modules.php:9238
+msgid ""
+"Here you can choose whether background color setting below should be used or "
+"not."
+msgstr ""
+"Här kan du välja om inställningen för bakgrundsfärg här nedan ska användas "
+"eller inte."
+
+#: main-modules.php:3073 main-modules.php:4116
+msgid "Here you can define a custom background color for your CTA."
+msgstr ""
+"Här kan du ange en anpassad bakgrundsfärg för din uppmaning till handling."
+
+#: main-modules.php:3091 main-modules.php:4133
+msgid "This will adjust the alignment of the module text."
+msgstr "Detta justerar placeringen av modultexten."
+
+#: main-modules.php:3117
+msgid "Quote Icon Color"
+msgstr "Ikonfärg för citat"
+
+#: main-modules.php:3123
+msgid "Portrait Border Radius"
+msgstr "Radie för porträttram"
+
+#: main-modules.php:3129
+msgid "Portrait Width"
+msgstr "Porträttbredd"
+
+#: main-modules.php:3140
+msgid "Portrait Height"
+msgstr "Porträtthöjd"
+
+#: main-modules.php:3306
+msgid "Pricing Tables"
+msgstr "Jämförelsetabeller"
+
+#: main-modules.php:3310 main-modules.php:3730
+msgid "Pricing Table"
+msgstr "Prissättningstabell"
+
+#: main-modules.php:3340 main-modules.php:3837
+msgid "Pricing Heading"
+msgstr "Underrubrik på jämförelsetabell"
+
+#: main-modules.php:3344 main-modules.php:3841
+msgid "Pricing Title"
+msgstr "Titel på jämförelsetabell"
+
+#: main-modules.php:3348 main-modules.php:3845
+msgid "Pricing Top"
+msgstr "Topp på jämförelsetabell"
+
+#: main-modules.php:3352 main-modules.php:3390 main-modules.php:3790
+#: main-modules.php:3849 main-modules.php:3900 main-modules.php:8828
+#: main-modules.php:8868
+msgid "Price"
+msgstr "Pris"
+
+#: main-modules.php:3356 main-modules.php:3853
+msgid "Pricing Content"
+msgstr "Innehåll i jämförelsetabell"
+
+#: main-modules.php:3360 main-modules.php:3857
+msgid "Pricing Button"
+msgstr "Köpknapp i jämförelsetabell"
+
+#: main-modules.php:3364
+msgid "Featured Table"
+msgstr "Framhävd tabell"
+
+#: main-modules.php:3378 main-modules.php:3771
+msgid "Subheader"
+msgstr "Underrubrik"
+
+#: main-modules.php:3384 main-modules.php:3784
+msgid "Currency &amp; Frequency"
+msgstr "Valuta &amp; Frekvens"
+
+#: main-modules.php:3461
+msgid "Featured Table Background Color"
+msgstr "Bakgrundsfärg på framhävd tabell"
+
+#: main-modules.php:3468
+msgid "Table Header Background Color"
+msgstr "Bakgrundsfärg på tabellhuvud"
+
+#: main-modules.php:3474
+msgid "Featured Table Header Background Color"
+msgstr "Bakgrundsfärg på tabellhuvud i framhävd tabell"
+
+#: main-modules.php:3481
+msgid "Featured Table Header Text Color"
+msgstr "Färg på rubriktext i framhävd tabells huvud"
+
+#: main-modules.php:3488
+msgid "Featured Table Subheader Text Color"
+msgstr "Färg på underrubrikstext i framhävd tabell"
+
+#: main-modules.php:3495
+msgid "Featured Table Price Color"
+msgstr "Färg på priser i framhävd tabell"
+
+#: main-modules.php:3502
+msgid "Featured Table Body Text Color"
+msgstr "Färg på Body-text i framhävd tabell"
+
+#: main-modules.php:3509
+msgid "Show Bullet"
+msgstr "Visa punkter"
+
+#: main-modules.php:3522
+msgid "Bullet Color"
+msgstr "Punktfärg"
+
+#: main-modules.php:3529
+msgid "Featured Table Bullet Color"
+msgstr "Punktfärg i framhävd tabell"
+
+#: main-modules.php:3536
+msgid "Remove Featured Table Drop Shadow"
+msgstr "Ta bort dropshadow i framhävd tabell"
+
+#: main-modules.php:3547
+msgid "Center List Items"
+msgstr "Centrera listade föremål"
+
+#: main-modules.php:3752
+msgid "New Pricing Table"
+msgstr "Ny pristabell"
+
+#: main-modules.php:3753
+msgid "Pricing Table Settings"
+msgstr "Inställningar för pristabell"
+
+#: main-modules.php:3866
+msgid "Make This Table Featured"
+msgstr "Presentera denna tabell"
+
+#: main-modules.php:3873
+msgid "Featuring a table will make it stand out from the rest."
+msgstr "Att presentera en tabell betyder att den framträder från alla andra."
+
+#: main-modules.php:3879
+msgid "Define a title for the pricing table."
+msgstr "Ange en rubrik för pristabellen."
+
+#: main-modules.php:3882
+msgid "Subtitle"
+msgstr "Underrubrik"
+
+#: main-modules.php:3885
+msgid "Define a sub title for the table if desired."
+msgstr "Ange en underrubrik för tabellen om så önskas."
+
+#: main-modules.php:3888
+msgid "Currency"
+msgstr "Valuta"
+
+#: main-modules.php:3891
+msgid "Input your desired currency symbol here."
+msgstr "Ange den önskade valutasymbolen här."
+
+#: main-modules.php:3894
+msgid "Per"
+msgstr "Per"
+
+#: main-modules.php:3897
+msgid ""
+"If your pricing is subscription based, input the subscription payment cycle "
+"here."
+msgstr ""
+"Om din prissättning baseras på prenumerationer kan du ange prenumerationens "
+"betalningsperiod här."
+
+#: main-modules.php:3903
+msgid "Input the value of the product here."
+msgstr "Ange produktens värde här."
+
+#: main-modules.php:3909
+msgid "Input the destination URL for the signup button."
+msgstr "Ange registreringsknappens URL här."
+
+#: main-modules.php:3915
+msgid "Adjust the text used from the signup button."
+msgstr "Justera texten som används på registreringsknappen."
+
+#: main-modules.php:3923
+msgid ""
+"Input a list of features that are/are not included in the product. Separate "
+"items on a new line, and begin with either a + or - symbol: "
+msgstr ""
+"Ange en lista över funktioner som hör till/inte hör till produkten. Separera "
+"artiklar med en ny rad och inled med endera en + eller - symbol:"
+
+#: main-modules.php:3924
+msgid "Included option"
+msgstr "Inkluderat alternativ"
+
+#: main-modules.php:3925
+msgid "Excluded option"
+msgstr "Exkluderat alternativ"
+
+#: main-modules.php:3998
+msgid "Call To Action"
+msgstr "Uppmaning till handling"
+
+#: main-modules.php:4059
+msgid "Promo Description"
+msgstr "Beskrivning"
+
+#: main-modules.php:4063
+msgid "Promo Button"
+msgstr "Knapp"
+
+#: main-modules.php:4075
+msgid "Input your value to action title here."
+msgstr "Ange din rubrik för uppmaning till handling här."
+
+#: main-modules.php:4081
+msgid "Input the destination URL for your CTA button."
+msgstr "Ange uppmaning till handling-knappens URL."
+
+#: main-modules.php:4097
+msgid "Input your desired button text, or leave blank for no button."
+msgstr "Ange din önskade knapptext eller lämna tom för avsaknad av knapp."
+
+#: main-modules.php:4244 main-modules.php:4313
+msgid "Audio"
+msgstr "Ljud"
+
+#: main-modules.php:4296
+msgid "Audio Cover Art"
+msgstr "Ljud-bild"
+
+#: main-modules.php:4300
+msgid "Audio Content"
+msgstr "Ljud-innehåll"
+
+#: main-modules.php:4304
+msgid "Audio Meta"
+msgstr "Metadata för ljud"
+
+#: main-modules.php:4317
+msgid "Upload an audio file"
+msgstr "Ladda upp en ljudfil"
+
+#: main-modules.php:4318
+msgid "Choose an Audio file"
+msgstr "Välj en ljudfil"
+
+#: main-modules.php:4319
+msgid "Set As Audio for the module"
+msgstr "Ange som modulens ljud"
+
+#: main-modules.php:4320
+msgid ""
+"Define the audio file for use in the module. To remove an audio file from "
+"the module, simply delete the URL from the settings field."
+msgstr ""
+"Ange ljudfilen som ska användas i modulen. För att ta bort en ljudfil från "
+"modulen kan du helt enkelt radera URL från inställningsfältet."
+
+#: main-modules.php:4326
+msgid "Define a title."
+msgstr "Ange en rubrik."
+
+#: main-modules.php:4329
+msgid "Artist Name"
+msgstr "Artistens namn"
+
+#: main-modules.php:4332
+msgid "Define an artist name."
+msgstr "Ange artistens namn."
+
+#: main-modules.php:4335
+msgid "Album name"
+msgstr "Albumets namn"
+
+#: main-modules.php:4338
+msgid "Define an album name."
+msgstr "Ange ett namn för albumet."
+
+#: main-modules.php:4341
+msgid "Cover Art Image URL"
+msgstr "Omslagsbildens URL"
+
+#: main-modules.php:4352 main-modules.php:4649 main-modules.php:5063
+#: main-structure-elements.php:123
+msgid ""
+"Define a custom background color for your module, or leave blank to use the "
+"default color."
+msgstr ""
+"Ange en anpassad bakgrundsfärg för din modul eller lämna tom för att använda "
+"standardfärgen."
+
+#: main-modules.php:4472
+msgid "Email Optin"
+msgstr "E-Optin"
+
+#: main-modules.php:4500
+msgid "Subscribe"
+msgstr "Prenumerera"
+
+#: main-modules.php:4539 main-modules.php:5015
+msgid "Newsletter Description"
+msgstr "Beskrivning av nyhetsbrev"
+
+#: main-modules.php:4543 main-modules.php:5019
+msgid "Newsletter Form"
+msgstr "Formulär för nyhetsbrev"
+
+#: main-modules.php:4547 main-modules.php:5023
+msgid "Newsletter Button"
+msgstr "Knapp för nyhetsbrev"
+
+#: main-modules.php:4554
+msgid "Select the list"
+msgstr "Välj lista"
+
+#: main-modules.php:4575
+msgid "Service Provider"
+msgstr "Tjänsteleverantör"
+
+#: main-modules.php:4579
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: main-modules.php:4580
+msgid "FeedBurner"
+msgstr "FeedBurner"
+
+#: main-modules.php:4581
+msgid "Aweber"
+msgstr "Aweber"
+
+#: main-modules.php:4588
+msgid "Here you can choose a service provider."
+msgstr "Här kan du välja en tjänsteleverantör."
+
+#: main-modules.php:4591
+msgid "Feed Title"
+msgstr "Flödets rubrik"
+
+#: main-modules.php:4598
+msgid "MailChimp lists"
+msgstr "MailChimp-listor"
+
+#: main-modules.php:4603
+#, fuzzy
+msgid ""
+"Here you can choose MailChimp list to add customers to. If you don't see any "
+"lists here, you need to make sure MailChimp API key is set in %1$s and you "
+"have at least one list on a MailChimp account. If you added new list, but it "
+"doesn't appear here, activate 'Regenerate MailChimp Lists' option in %1$s."
+"%2$s"
+msgstr ""
+"Här kan du välja MailChimp-listor dit du vill lägga till kunder. Om du inte "
+"ser några listor här bör du se till att MailChimp API-nyckeln är angiven i "
+"ePanelen och att du har åtminstone en lista i ett MailChimp-konto. Om du "
+"lade till en ny lista som inte syns här ska du aktivera alternativet "
+"Återskapa MailChimp-listor i ePanelen. Glöm inte att inaktivera det då "
+"listan har återskapats."
+
+#: main-modules.php:4604 main-modules.php:4616
+#, fuzzy
+msgid "Divi Plugin Options"
+msgstr "Plugin Alternativ"
+
+#: main-modules.php:4604 main-modules.php:4616
+msgid "ePanel"
+msgstr ""
+
+#: main-modules.php:4605 main-modules.php:4617
+msgid "Don't forget to disable it once the list has been regenerated."
+msgstr ""
+
+#: main-modules.php:4610
+msgid "Aweber lists"
+msgstr "Aweber-listor"
+
+#: main-modules.php:4615
+#, fuzzy
+msgid ""
+"Here you can choose Aweber list to add customers to. If you don't see any "
+"lists here, you need to make sure Aweber is set up properly in %1$s and you "
+"have at least one list on a Aweber account. If you added new list, but it "
+"doesn't appear here, activate 'Regenerate Aweber Lists' option in %1$s.%2$s"
+msgstr ""
+"Här kan du välja Aweber-listor dit du vill lägga till kunder. Om du inte ser "
+"några listor här bör du se till att Aweber har inställts korrekt i ePanelen "
+"och att du har åtminstone en lista i ett Aweber-konto. Om du lade till en ny "
+"lista som inte syns här ska du aktivera alternativet Återskapa Aweber-listor "
+"i ePanelen. Glöm inte att inaktivera det då listan har återskapats."
+
+#: main-modules.php:4625
+msgid "Choose a title of your signup box."
+msgstr "Välj en rubrik för ditt registreringsfält."
+
+#: main-modules.php:4631
+msgid "Here you can change the text used for the signup button."
+msgstr "Här kan du byta texten som används för registreringsknappen."
+
+#: main-modules.php:4667 main-modules.php:5081
+msgid "Here you can adjust the alignment of your text."
+msgstr "Här kan du justera textens placering."
+
+#: main-modules.php:4693 main-modules.php:5107
+msgid "Form Field Background Color"
+msgstr "Bakgrundsfärg för formulärfält"
+
+#: main-modules.php:4699 main-modules.php:5113
+msgid "Form Field Text Color"
+msgstr "Textfärg för formulärfält"
+
+#: main-modules.php:4705 main-modules.php:5119
+msgid "Focus Background Color"
+msgstr "Bakgrundsfärg för formulärfält i fokus"
+
+#: main-modules.php:4711 main-modules.php:5125
+msgid "Focus Text Color"
+msgstr "Textfärg för formulärfält i fokus"
+
+#: main-modules.php:4717 main-modules.php:5131
+msgid "Use Focus Border Color"
+msgstr "Använd ramfärg för formulärfält i fokus"
+
+#: main-modules.php:4730 main-modules.php:5144
+msgid "Focus Border Color"
+msgstr "Ramfärg för formulärfält i fokus"
+
+#: main-modules.php:4822
+msgid "First Name"
+msgstr "Förnamn"
+
+#: main-modules.php:4823
+msgid "Last Name"
+msgstr "Efternamn"
+
+#: main-modules.php:4824 main-modules.php:7508
+msgid "Email Address"
+msgstr "E-postadress"
+
+#: main-modules.php:4891 main-modules.php:7507 main-modules.php:8043
+msgid "Name"
+msgstr "Namn"
+
+#: main-modules.php:4953 main-modules.php:5277
+msgid "Login"
+msgstr "Logga in"
+
+#: main-modules.php:5035
+msgid "Choose a title of your login box."
+msgstr "Välj en rubrik för ditt inloggningsfält."
+
+#: main-modules.php:5038
+msgid "Redirect To The Current Page"
+msgstr "Omdirigera till aktuell sida"
+
+#: main-modules.php:5045
+msgid ""
+"Here you can choose whether the user should be redirected to the current "
+"page."
+msgstr ""
+"Här kan du välja om användaren ska omdirigeras till den aktuella sidan."
+
+#: main-modules.php:5238
+msgid "Logged in as %1$s"
+msgstr "Inloggad som %1$s"
+
+#: main-modules.php:5240
+msgid "Log out"
+msgstr "Logga ut"
+
+#: main-modules.php:5249
+msgid "Username"
+msgstr "Användarnamn"
+
+#: main-modules.php:5250
+msgid "Password"
+msgstr "Lösenord"
+
+#: main-modules.php:5270
+msgid "Forgot your password?"
+msgstr "Glömt ditt lösenord?"
+
+#: main-modules.php:5317
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: main-modules.php:5356 main-modules.php:5721 main-modules.php:8317
+#: main-modules.php:10003 main-modules.php:12599
+msgid "Meta"
+msgstr "Metadata"
+
+#: main-modules.php:5371 main-modules.php:5754
+msgid "Portfolio Image"
+msgstr "Portfolio-bild"
+
+#: main-modules.php:5383 main-modules.php:5766 main-modules.php:11874
+msgid "Portfolio Title"
+msgstr "Portfoliorubrik"
+
+#: main-modules.php:5387 main-modules.php:5770
+msgid "Portfolio Post Meta"
+msgstr "Metadata för Portfolio-inlägg"
+
+#: main-modules.php:5400 main-modules.php:5783 main-modules.php:8354
+msgid "Fullwidth"
+msgstr "Helbredd"
+
+#: main-modules.php:5403 main-modules.php:5786 main-modules.php:11890
+msgid "Choose your desired portfolio layout style."
+msgstr "Välj din önskade layoutstil för din portfolio."
+
+#: main-modules.php:5406 main-modules.php:5789 main-modules.php:8365
+#: main-modules.php:8894 main-modules.php:11899
+msgid "Posts Number"
+msgstr "Antal inlägg"
+
+#: main-modules.php:5409 main-modules.php:5792
+msgid "Define the number of projects that should be displayed per page."
+msgstr "Ange antalet projekt som ska visas per sida."
+
+#: main-modules.php:5412 main-modules.php:5795 main-modules.php:8371
+#: main-modules.php:8900 main-modules.php:11893
+msgid "Include Categories"
+msgstr "Inkludera kategorier"
+
+#: main-modules.php:5415 main-modules.php:5798 main-modules.php:11896
+msgid "Select the categories that you would like to include in the feed."
+msgstr "Välj de kategorier du vill inkludera i flödet."
+
+#: main-modules.php:5418 main-modules.php:5801 main-modules.php:10015
+#: main-modules.php:11905 main-modules.php:12611
+msgid "Show Title"
+msgstr "Visa rubrik"
+
+#: main-modules.php:5425 main-modules.php:5808 main-modules.php:11912
+msgid "Turn project titles on or off."
+msgstr "Slå på eller av projekttitlar."
+
+#: main-modules.php:5428 main-modules.php:5811 main-modules.php:8440
+msgid "Show Categories"
+msgstr "Visa kategorier"
+
+#: main-modules.php:5435 main-modules.php:5818 main-modules.php:8447
+msgid "Turn the category links on or off."
+msgstr "Slå på eller av kategori-länkarna."
+
+#: main-modules.php:5682
+msgid "Filterable Portfolio"
+msgstr "Filtrerbar portfolio"
+
+#: main-modules.php:5727
+msgid "Filter"
+msgstr "Filter"
+
+#: main-modules.php:5746
+msgid "Portfolio Filters"
+msgstr "Portfolio-filter"
+
+#: main-modules.php:5750
+msgid "Active Portfolio Filter"
+msgstr "Aktivt Portfolio-filter"
+
+#: main-modules.php:6035
+msgid "All"
+msgstr "Alla"
+
+#: main-modules.php:6075
+msgid "Bar Counters"
+msgstr "Stapelräknare"
+
+#: main-modules.php:6078 main-modules.php:6262
+msgid "Bar Counter"
+msgstr "Stapeldiagram"
+
+#: main-modules.php:6113 main-modules.php:6311 main-modules.php:6505
+#: main-modules.php:6705
+msgid "Percent"
+msgstr "Procent"
+
+#: main-modules.php:6130 main-modules.php:6288
+msgid "Counter Title"
+msgstr "Titel på stapel"
+
+#: main-modules.php:6134 main-modules.php:6292
+msgid "Counter Container"
+msgstr "Stapel"
+
+#: main-modules.php:6138 main-modules.php:6296
+msgid "Counter Amount"
+msgstr "Siffra på stapel"
+
+#: main-modules.php:6159
+msgid ""
+"This will adjust the color of the empty space in the bar (currently gray)."
+msgstr "Här kan du justera tomrummets färg i stapeln (för tillfället grå)."
+
+#: main-modules.php:6162 main-modules.php:6323 main-modules.php:6551
+msgid "Bar Background Color"
+msgstr "Stapelns bakgrundsfärg"
+
+#: main-modules.php:6164 main-modules.php:6553 main-modules.php:6742
+msgid "This will change the fill color for the bar."
+msgstr "Detta förändrar stapelns fyllnadsfärg."
+
+#: main-modules.php:6167
+msgid "Use Percentages"
+msgstr "Använd procentsatser"
+
+#: main-modules.php:6193
+msgid "Bar Top Padding"
+msgstr "Padding över stapeldiagram"
+
+#: main-modules.php:6200
+msgid "Bar Bottom Padding"
+msgstr "Padding under stapeldiagram"
+
+#: main-modules.php:6207
+msgid "Border Radius"
+msgstr "Radie på ram"
+
+#: main-modules.php:6280
+msgid "New Bar Counter"
+msgstr "Ny stapelräknare"
+
+#: main-modules.php:6281
+msgid "Bar Counter Settings"
+msgstr "Inställningar för stapelräknare"
+
+#: main-modules.php:6308
+msgid "Input a title for your bar."
+msgstr "Ange en rubrik för din stapel."
+
+#: main-modules.php:6314
+msgid "Define a percentage for this bar."
+msgstr "Ange en procentsats för denna stapel."
+
+#: main-modules.php:6329
+msgid "Label Color"
+msgstr "Etikettfärg"
+
+#: main-modules.php:6335
+msgid "Percentage Color"
+msgstr "Färg på procentsatser"
+
+#: main-modules.php:6462
+msgid "Circle Counter"
+msgstr "Cirkelräknare"
+
+#: main-modules.php:6495 main-modules.php:6524 main-modules.php:6672
+#: main-modules.php:6724
+msgid "Number"
+msgstr "Siffra"
+
+#: main-modules.php:6509
+msgid "Circle Counter Title"
+msgstr "Titel på cirkeldiagram"
+
+#: main-modules.php:6521
+msgid "Input a title for the circle counter."
+msgstr "Ange en rubrik för cirkelräknaren."
+
+#: main-modules.php:6528
+msgid ""
+"Define a number for the circle counter. (Don't include the percentage sign, "
+"use the option below.). <strong>Note: You can use only natural numbers from "
+"0 to 100</strong>"
+msgstr ""
+"Ange en siffra för cirkelräknaren (inkludera inte procenttecknet, använd "
+"alternativet nertill). <strong>Obs: du kan endast använda heltal från 0 till "
+"100</strong>"
+
+#: main-modules.php:6531 main-modules.php:6730
+msgid "Percent Sign"
+msgstr "Procenttecken"
+
+#: main-modules.php:6538 main-modules.php:6737
+msgid ""
+"Here you can choose whether the percent sign should be added after the "
+"number set above."
+msgstr ""
+"Här kan du välja om procenttecknet ska visas efter siffran som angivits ovan."
+
+#: main-modules.php:6579
+msgid "Circle Color Opacity"
+msgstr "Färgens opacitet i cirkeldiagram"
+
+#: main-modules.php:6641
+msgid "Number Counter"
+msgstr "Sifferräknare"
+
+#: main-modules.php:6709
+msgid "Number Counter Title"
+msgstr "Titel på diagram"
+
+#: main-modules.php:6721
+msgid "Input a title for the counter."
+msgstr "Ange en rubrik för räknaren."
+
+#: main-modules.php:6727
+msgid ""
+"Define a number for the counter. (Don't include the percentage sign, use the "
+"option below.)"
+msgstr ""
+"Ange en siffra för räknaren (inkludera inte procenttecknet, använd "
+"alternativet nertill)."
+
+#: main-modules.php:6740
+msgid "Counter Text Color"
+msgstr "Färgen på räknarens text"
+
+#: main-modules.php:6752
+msgid ""
+"Here you can choose whether your title text should be light or dark. If you "
+"are working with a dark background, then your text should be light. If your "
+"background is light, then your text should be set to dark."
+msgstr ""
+"Här kan du välja om din rubriktext ska vara ljus eller mörk. Om du använder "
+"en mörk bakgrund bör texten vara ljus. Om din bakgrund är ljus bör texten "
+"vara mörk."
+
+#: main-modules.php:6816 main-modules.php:6994
+msgid "Accordion"
+msgstr "Dragspel"
+
+#: main-modules.php:6833 main-modules.php:6867 main-modules.php:7024
+#: main-modules.php:7097
+msgid "Toggle"
+msgstr "Växla"
+
+#: main-modules.php:6871 main-modules.php:7027 main-modules.php:7148
+msgid "Open Toggle"
+msgstr "Öppna brytare"
+
+#: main-modules.php:6875 main-modules.php:7031 main-modules.php:7152
+msgid "Toggle Title"
+msgstr "Titel på brytare"
+
+#: main-modules.php:6879 main-modules.php:7035 main-modules.php:7156
+msgid "Toggle Icon"
+msgstr "Ikon för brytare"
+
+#: main-modules.php:6883 main-modules.php:7039 main-modules.php:7160
+msgid "Toggle Content"
+msgstr "Innehåll för brytare"
+
+#: main-modules.php:6909 main-modules.php:7060 main-modules.php:7208
+msgid "Open Toggle Background Color"
+msgstr "Bakgrundsfärg för öppen brytare"
+
+#: main-modules.php:6915 main-modules.php:7072 main-modules.php:7214
+msgid "Closed Toggle Background Color"
+msgstr "Bakgrundsfärg för stängd brytare"
+
+#: main-modules.php:7051 main-modules.php:7172
+msgid ""
+"The toggle title will appear above the content and when the toggle is closed."
+msgstr ""
+"Växlingstiteln kommer att synas ovanför innehållet och då växlingen är av."
+
+#: main-modules.php:7066
+msgid "Open Toggle Text Color"
+msgstr "Textfärg för öppen brytare"
+
+#: main-modules.php:7078
+msgid "Closed Toggle Text Color"
+msgstr "Textfärg för stängd brytare"
+
+#: main-modules.php:7175
+msgid "State"
+msgstr "Tillstånd"
+
+#: main-modules.php:7179 template-preview.php:88
+msgid "Close"
+msgstr "Stäng"
+
+#: main-modules.php:7180
+msgid "Open"
+msgstr "Öppna"
+
+#: main-modules.php:7182
+msgid ""
+"Choose whether or not this toggle should start in an open or closed state."
+msgstr "Välj om denna växling ska börja i på- eller av-läge."
+
+#: main-modules.php:7305
+msgid "Contact Form"
+msgstr "Kontaktformulär"
+
+#: main-modules.php:7333
+msgid "Form Field"
+msgstr "Formulärfält"
+
+#: main-modules.php:7355
+msgid "Contact Title"
+msgstr "Kontakt-titel"
+
+#: main-modules.php:7359
+msgid "Contact Button"
+msgstr "Kontakt-knapp"
+
+#: main-modules.php:7368
+msgid "Display Captcha"
+msgstr "Visa Captcha"
+
+#: main-modules.php:7375
+msgid "Turn the captcha on or off using this option."
+msgstr "Slå på och av Captcha här."
+
+#: main-modules.php:7378
+msgid "Email"
+msgstr "E-post"
+
+#: main-modules.php:7381
+msgid "Input the email address where messages should be sent."
+msgstr "Ange e-postadressen dit meddelanden ska sändas."
+
+#: main-modules.php:7387
+msgid "Define a title for your contact form."
+msgstr "Ange en rubrik för ditt kontaktformulär."
+
+#: main-modules.php:7407
+msgid "Form Background Color"
+msgstr "Bakgrundsfärg för formulär"
+
+#: main-modules.php:7413
+msgid "Input Border Radius"
+msgstr "Kantradie för svarsfält"
+
+#: main-modules.php:7463
+msgid "Make sure you fill all fields."
+msgstr "Se till att du fyller i alla fält."
+
+#: main-modules.php:7468
+msgid "Make sure you entered the captcha."
+msgstr "Kontrollera att du angett robotfiltret."
+
+#: main-modules.php:7473
+msgid "Invalid Email."
+msgstr "Ogiltig e-postadress."
+
+#: main-modules.php:7497
+msgid "New Message From %1$s%2$s"
+msgstr "Nytt meddelande från %1$s%2$s"
+
+#: main-modules.php:7502
+msgid "Thanks for contacting us"
+msgstr "Tack för att du kontaktat oss"
+
+#: main-modules.php:7561
+msgid "Submit"
+msgstr "Skicka"
+
+#: main-modules.php:7595
+msgid "Sidebar"
+msgstr "Sidofält"
+
+#: main-modules.php:7634
+msgid "Widget"
+msgstr "Widget"
+
+#: main-modules.php:7647
+msgid "Orientation"
+msgstr "Orientering"
+
+#: main-modules.php:7654
+msgid ""
+"Choose which side of the page your sidebar will be on. This setting controls "
+"text orientation and border position."
+msgstr ""
+"Välj på vilken sida sidofältet ska vara. Denna inställning kontrollerar "
+"textens orientering or kantens placering."
+
+#: main-modules.php:7657
+msgid "Widget Area"
+msgstr "Område för gränssnittskomponenter"
+
+#: main-modules.php:7660
+msgid ""
+"Select a widget-area that you would like to display. You can create new "
+"widget areas within the Appearances > Widgets tab."
+msgstr ""
+"Välj ett område för gränssnittskomponenter som du vill visa. Du kan skapa "
+"nya områden för gränssnittskomponenter i fliken Utseende > "
+"Gränssnittskomponenter."
+
+#: main-modules.php:7690
+msgid "Remove Border Separator"
+msgstr "Ta bort gräns-separator"
+
+#: main-modules.php:7762
+msgid "Divider"
+msgstr "Avdelare"
+
+#: main-modules.php:7773
+msgid "Don't Show Divider"
+msgstr "Visa inte avdelare"
+
+#: main-modules.php:7774
+msgid "Show Divider"
+msgstr "Visa avdelare"
+
+#: main-modules.php:7807
+msgid "Color"
+msgstr "Färg"
+
+#: main-modules.php:7809
+msgid "This will adjust the color of the 1px divider line."
+msgstr "Detta justerar lpx-avdelarlinjens färg."
+
+#: main-modules.php:7812
+msgid "Visibility"
+msgstr "Synlighet"
+
+#: main-modules.php:7821
+msgid ""
+"This settings turns on and off the 1px divider line, but does not affect the "
+"divider height."
+msgstr ""
+"Denna inställning slår på och av lpx-avdelarlinjen men påverkar inte "
+"avdelarens höjd."
+
+#: main-modules.php:7824
+msgid "Height"
+msgstr "Höjd"
+
+#: main-modules.php:7827
+msgid "Define how much space should be added below the divider."
+msgstr "Definiera hur mycket utrymme som ska läggas till under avdelaren."
+
+#: main-modules.php:7847
+msgid "Divider Style"
+msgstr "Stil på avdelaren"
+
+#: main-modules.php:7855
+msgid "Divider Position"
+msgstr "Position på avdelaren"
+
+#: main-modules.php:7860 main-modules.php:10713
+msgid "Vertically Centered"
+msgstr "Vertikalt centrerad"
+
+#: main-modules.php:7867
+msgid "Divider Weight"
+msgstr "Avdelarens höjd"
+
+#: main-modules.php:7874
+msgid "Hide On Mobile"
+msgstr "Göm på mobil"
+
+#: main-modules.php:7962
+msgid "Person"
+msgstr "Person"
+
+#: main-modules.php:8018
+msgid "Member Image"
+msgstr "Medlemsbild"
+
+#: main-modules.php:8022
+msgid "Member Description"
+msgstr "Medlemsbeskrivning"
+
+#: main-modules.php:8030
+msgid "Member Position"
+msgstr "Medlemsposition"
+
+#: main-modules.php:8034
+msgid "Member Social Links"
+msgstr "Medlems sociala länkar"
+
+#: main-modules.php:8046
+msgid "Input the name of the person"
+msgstr "Ange personens namn"
+
+#: main-modules.php:8049
+msgid "Position"
+msgstr "Befattning"
+
+#: main-modules.php:8052
+msgid "Input the person's position."
+msgstr "Ange personens befattning."
+
+#: main-modules.php:8088
+msgid "Facebook Profile Url"
+msgstr "Facebook profil URL"
+
+#: main-modules.php:8091
+msgid "Input Facebook Profile Url."
+msgstr "Ange Facebook-profilens URL."
+
+#: main-modules.php:8094
+msgid "Twitter Profile Url"
+msgstr "Twitter profil URL"
+
+#: main-modules.php:8097
+msgid "Input Twitter Profile Url"
+msgstr "Ange Twitter-profilens URL"
+
+#: main-modules.php:8100
+msgid "Google+ Profile Url"
+msgstr "Google+ profil URL"
+
+#: main-modules.php:8103
+msgid "Input Google+ Profile Url"
+msgstr "Ange Google+-profilens URL"
+
+#: main-modules.php:8106
+msgid "LinkedIn Profile Url"
+msgstr "LinkedIn-profilens URL"
+
+#: main-modules.php:8109
+msgid "Input LinkedIn Profile Url"
+msgstr "Ange LinkedIn-profilens URL"
+
+#: main-modules.php:8112
+msgid "Description"
+msgstr "Beskrivning"
+
+#: main-modules.php:8141 main-modules.php:8963
+msgid "Icon Hover Color"
+msgstr "Färg på ikon vid hovring"
+
+#: main-modules.php:8193
+msgid "Facebook"
+msgstr "Facebook"
+
+#: main-modules.php:8201 main-modules.php:9783
+msgid "Twitter"
+msgstr "Twitter"
+
+#: main-modules.php:8209 main-modules.php:9787
+msgid "Google+"
+msgstr "Google+"
+
+#: main-modules.php:8217 main-modules.php:9795
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: main-modules.php:8264
+msgid "Blog"
+msgstr "Blogg"
+
+#: main-modules.php:8337
+msgid "Post Meta"
+msgstr "Metadata för inlägg"
+
+#: main-modules.php:8341
+msgid "Pagenavi"
+msgstr "Navigering på sida"
+
+#: main-modules.php:8368
+msgid "Choose how much posts you would like to display per page."
+msgstr "Välj hur många inlägg du vill visa per sida."
+
+#: main-modules.php:8377
+msgid "Choose which categories you would like to include in the feed."
+msgstr "Välj vilka kategorier du vill inkludera i flödet."
+
+#: main-modules.php:8380
+msgid "Meta Date Format"
+msgstr "Datumformat"
+
+#: main-modules.php:8383
+msgid ""
+"If you would like to adjust the date format, input the appropriate PHP date "
+"format here."
+msgstr ""
+"Om du vill justera datumformatet kan du ange lämpligt PHP-datumformat här."
+
+#: main-modules.php:8386 main-modules.php:10097 main-modules.php:12693
+msgid "Show Featured Image"
+msgstr "Visa presenterad bild"
+
+#: main-modules.php:8393
+msgid "This will turn thumbnails on and off."
+msgstr "Detta slår miniatyrerna på och av."
+
+#: main-modules.php:8400
+msgid "Show Excerpt"
+msgstr "Visa utdrag"
+
+#: main-modules.php:8401
+msgid "Show Content"
+msgstr "Visa innehåll"
+
+#: main-modules.php:8406
+msgid ""
+"Showing the full content will not truncate your posts on the index page. "
+"Showing the excerpt will only display your excerpt text."
+msgstr ""
+"Att visa hela innehållet kommer inte att avkorta dina inlägg på indexsidan. "
+"Att visa utdraget visar endast texten i ditt utdrag."
+
+#: main-modules.php:8409
+msgid "Read More Button"
+msgstr "Läs mer-knapp"
+
+#: main-modules.php:8417
+msgid ""
+"Here you can define whether to show \"read more\" link after the excerpts or "
+"not."
+msgstr ""
+"Här kan du ange om du vill visa en \"läs mer-länk\" efter utdragen eller "
+"inte."
+
+#: main-modules.php:8420 main-modules.php:10041 main-modules.php:12637
+msgid "Show Author"
+msgstr "Visa författare"
+
+#: main-modules.php:8427
+msgid "Turn on or off the author link."
+msgstr "Slå på eller av författar-länken."
+
+#: main-modules.php:8430 main-modules.php:10052 main-modules.php:11915
+#: main-modules.php:12648
+msgid "Show Date"
+msgstr "Visa datum"
+
+#: main-modules.php:8437
+msgid "Turn the date on or off."
+msgstr "Slå på eller av datum."
+
+#: main-modules.php:8450
+msgid "Show Comment Count"
+msgstr "Visa Kommentar Räkna"
+
+#: main-modules.php:8457
+msgid "Turn comment count on and off."
+msgstr "Tur kommentar räkna på och av."
+
+#: main-modules.php:8467
+msgid "Turn pagination on and off."
+msgstr "Slå på eller av paginering."
+
+#: main-modules.php:8470
+msgid "Offset Number"
+msgstr "Förskjutningsnummer"
+
+#: main-modules.php:8473
+msgid "Choose how many posts you would like to offset by"
+msgstr "Välj hur många inlägg du vill förskjuta med"
+
+#: main-modules.php:8504
+msgid "Grid Tile Background Color"
+msgstr "Bakgrundsfärg på rutnät"
+
+#: main-modules.php:8511
+msgid "Use Dropshadow"
+msgstr "Använd Dropshadow"
+
+#: main-modules.php:8670
+msgid "by %s"
+msgstr "av %s"
+
+#: main-modules.php:8680
+msgid "%s"
+msgstr "%s"
+
+#: main-modules.php:8719
+msgid "read more..."
+msgstr "läs mer..."
+
+#: main-modules.php:8733
+msgid "read more"
+msgstr "läs mer"
+
+#: main-modules.php:8793
+msgid "Shop"
+msgstr "Butik"
+
+#: main-modules.php:8844
+msgid "Product"
+msgstr "Produkt"
+
+#: main-modules.php:8848
+msgid "Onsale"
+msgstr "På rea"
+
+#: main-modules.php:8864
+msgid "Rating"
+msgstr "Betyg"
+
+#: main-modules.php:8881
+msgid "Recent Products"
+msgstr "Nya produkter"
+
+#: main-modules.php:8882
+msgid "Featured Products"
+msgstr "Presenterade produkter"
+
+#: main-modules.php:8883
+msgid "Sale Products"
+msgstr "Rea-produkter"
+
+#: main-modules.php:8884
+msgid "Best Selling Products"
+msgstr "Bästsäljarprodukter"
+
+#: main-modules.php:8885
+msgid "Top Rated Products"
+msgstr "Populära produkter"
+
+#: main-modules.php:8886
+msgid "Product Category"
+msgstr "Produkten Kategori"
+
+#: main-modules.php:8891
+msgid "Choose which type of products you would like to display."
+msgstr "Välj vilken typ av produkter du vill visa."
+
+#: main-modules.php:8897
+msgid "Control how many products are displayed."
+msgstr "Kontrollera hur många produkter visas."
+
+#: main-modules.php:8908
+msgid "Choose which categories you would like to include."
+msgstr "Välja vilka kategorier du vill inkludera."
+
+#: main-modules.php:8911
+msgid "Columns Number"
+msgstr "Antal kolumner"
+
+#: main-modules.php:8915
+msgid "default"
+msgstr "standard"
+
+#: main-modules.php:8916 main-modules.php:8917 main-modules.php:8918
+#: main-modules.php:8919 main-modules.php:8920
+msgid "%1$s Columns"
+msgstr "%1$s kolumner"
+
+#: main-modules.php:8921
+msgid "1 Column"
+msgstr "1 kolumn"
+
+#: main-modules.php:8923
+msgid "Choose how many columns to display."
+msgstr "Välj hur många kolumner som ska visas."
+
+#: main-modules.php:8926
+msgid "Order By"
+msgstr "Ordna efter"
+
+#: main-modules.php:8930
+msgid "Default Sorting"
+msgstr "Standardsortering"
+
+#: main-modules.php:8931
+msgid "Sort By Popularity"
+msgstr "Sortera efter popularitet"
+
+#: main-modules.php:8932
+msgid "Sort By Rating"
+msgstr "Sortera efter betyg"
+
+#: main-modules.php:8933
+msgid "Sort By Date"
+msgstr "Sortera efter datum"
+
+#: main-modules.php:8934
+msgid "Sort By Price: Low To High"
+msgstr "Sortera efter pris: lågt till högt"
+
+#: main-modules.php:8935
+msgid "Sort By Price: High To Low"
+msgstr "Sortera efter pris: högt till lågt"
+
+#: main-modules.php:8937
+msgid "Choose how your products should be ordered."
+msgstr "Välj hur dina produkter ordnas."
+
+#: main-modules.php:8957
+msgid "Sale Badge Color"
+msgstr "Färg på rea-emblem"
+
+#: main-modules.php:9122
+msgid "Countdown Timer"
+msgstr "Nedräkningstimer"
+
+#: main-modules.php:9152
+msgid "Numbers"
+msgstr "Siffror"
+
+#: main-modules.php:9165
+msgid "Label"
+msgstr "Etikett"
+
+#: main-modules.php:9189
+msgid "Container"
+msgstr "Behållare"
+
+#: main-modules.php:9197
+msgid "Timer Section"
+msgstr "Timer-sektion"
+
+#: main-modules.php:9206
+msgid "Countdown Timer Title"
+msgstr "Rubrik för nedräkningstimer"
+
+#: main-modules.php:9209
+msgid "This is the title displayed for the countdown timer."
+msgstr "Det här är den visade rubriken för nedräkningstimern."
+
+#: main-modules.php:9212
+msgid "Countdown To"
+msgstr "Räkna ner till"
+
+#: main-modules.php:9215
+msgid ""
+"This is the date the countdown timer is counting down to. Your countdown "
+"timer is based on your timezone settings in your <a href=\"%1$s\" target="
+"\"_blank\" title=\"WordPress General Settings\">WordPress General Settings</"
+"a>"
+msgstr ""
+"Detta är det datum då timern räknar ner till. Din timer är baserad på din "
+"tidszon i din <a href=\"%1$s\" target=\"_blank\" title=\"WordPress Allmänna "
+"Inställningar\">WordPress Allmänna Inställningar</a>"
+
+#: main-modules.php:9244
+msgid "Here you can define a custom background color for your countdown timer."
+msgstr "Här kan du ange en anpassad bakgrundsfärg för din nedräkningstimer."
+
+#: main-modules.php:9330
+msgid "Day(s)"
+msgstr "Dag(ar)"
+
+#: main-modules.php:9331
+msgid "Hour(s)"
+msgstr "Timme(s)"
+
+#: main-modules.php:9332
+msgid "Hrs"
+msgstr "Tim"
+
+#: main-modules.php:9333
+msgid "Minute(s)"
+msgstr "Minut(er)"
+
+#: main-modules.php:9334
+msgid "Min"
+msgstr "Min"
+
+#: main-modules.php:9335
+msgid "Second(s)"
+msgstr "Andra(s)"
+
+#: main-modules.php:9336
+msgid "Sec"
+msgstr "Sek"
+
+#: main-modules.php:9337
+#, fuzzy
+msgid "Day"
+msgstr "Dagar"
+
+#: main-modules.php:9347
+msgid "Map"
+msgstr "Karta"
+
+#: main-modules.php:9350 main-modules.php:9496 main-modules.php:12085
+msgid "Pin"
+msgstr "Klistra"
+
+#: main-modules.php:9376 main-modules.php:12108
+msgid "Map Center Address"
+msgstr "Adress för kartans centrum"
+
+#: main-modules.php:9381 main-modules.php:9532 main-modules.php:12113
+msgid "Find"
+msgstr "Hitta"
+
+#: main-modules.php:9384 main-modules.php:12116
+msgid ""
+"Enter an address for the map center point, and the address will be geocoded "
+"and displayed on the map below."
+msgstr ""
+"Ange en adress för centerpunkten på kartan varvid adressen kommer att geo-"
+"kodas och visas på kartan nedan."
+
+#: main-modules.php:9404 main-modules.php:12136
+msgid "Mouse Wheel Zoom"
+msgstr "Zoomning med mushjulet"
+
+#: main-modules.php:9411 main-modules.php:12143
+msgid ""
+"Here you can choose whether the zoom level will be controlled by mouse wheel "
+"or not."
+msgstr "Här kan du välja om zoomnivån kontrolleras av mushjulet eller inte."
+
+#: main-modules.php:9431
+msgid "Use Grayscale Filter"
+msgstr "Använd gråskaligt filter"
+
+#: main-modules.php:9444
+msgid "Grayscale Filter Amount (%)"
+msgstr "Nivå av gråskaligt filter (%)"
+
+#: main-modules.php:9512
+msgid "New Pin"
+msgstr "Ny knappnål"
+
+#: main-modules.php:9513
+msgid "Pin Settings"
+msgstr "Knappnålsinställningar"
+
+#: main-modules.php:9525
+msgid "Map Pin Address"
+msgstr "Adressen för knappnålen på kartan"
+
+#: main-modules.php:9529
+msgid ""
+"Enter an address for this map pin, and the address will be geocoded and "
+"displayed on the map below."
+msgstr ""
+"Ange en adress för denna kartknappnål varvid adressen kommer att geo-kodas "
+"och visas på kartan nedan."
+
+#: main-modules.php:9557 main-modules.php:10723
+msgid ""
+"Here you can define the content that will be placed within the infobox for "
+"the pin."
+msgstr ""
+"Här kan du ange innehållet som placeras i informationsfältet för knappnålen."
+
+#: main-modules.php:9598
+msgid "Social Media Follow"
+msgstr "Följning på sociala medier"
+
+#: main-modules.php:9601 main-modules.php:9738 main-modules.php:9772
+msgid "Social Network"
+msgstr "Socialt nätverk"
+
+#: main-modules.php:9622
+msgid "Social Follow"
+msgstr "Följ i sociala medier"
+
+#: main-modules.php:9626 main-modules.php:9763
+msgid "Social Icon"
+msgstr "Sociala medier-ikon"
+
+#: main-modules.php:9635
+msgid "Link Shape"
+msgstr "Länkform"
+
+#: main-modules.php:9639
+msgid "Rounded Rectangle"
+msgstr "Rundad rektangel"
+
+#: main-modules.php:9640
+msgid "Circle"
+msgstr "Cirkel"
+
+#: main-modules.php:9642
+msgid "Here you can choose the shape of your social network icons."
+msgstr "Här kan du välja formen på dina sociala nätverksikoner."
+
+#: main-modules.php:9665
+msgid "Follow Button"
+msgstr "Följ-knapp"
+
+#: main-modules.php:9672
+msgid ""
+"Here you can choose whether or not to include the follow button next to the "
+"icon."
+msgstr ""
+"Här kan du välja om följknappens text ska finnas bredvid ikonen eller inte."
+
+#: main-modules.php:9758
+msgid "New Social Network"
+msgstr "Nytt socialt nätverk"
+
+#: main-modules.php:9759
+msgid "Social Network Settings"
+msgstr "Inställningar för socialt nätverk"
+
+#: main-modules.php:9777
+msgid "Select a Network"
+msgstr "Välj ett nätverk"
+
+#: main-modules.php:9779
+msgid "facebook"
+msgstr "Facebook"
+
+#: main-modules.php:9791
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: main-modules.php:9799
+msgid "tumblr"
+msgstr "tumblr"
+
+#: main-modules.php:9803
+msgid "Instagram"
+msgstr "Instagram"
+
+#: main-modules.php:9807
+msgid "skype"
+msgstr "skype"
+
+#: main-modules.php:9811
+msgid "flikr"
+msgstr "flickr"
+
+#: main-modules.php:9815
+msgid "MySpace"
+msgstr "MySpace"
+
+#: main-modules.php:9819
+msgid "dribbble"
+msgstr "dribbble"
+
+#: main-modules.php:9823
+msgid "Youtube"
+msgstr "Youtube"
+
+#: main-modules.php:9827
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: main-modules.php:9831
+msgid "RSS"
+msgstr "RSS"
+
+#: main-modules.php:9840
+msgid "Choose the social network"
+msgstr "Välj det sociala nätverket"
+
+#: main-modules.php:9847
+msgid "Account URL"
+msgstr "Kontots URL"
+
+#: main-modules.php:9850
+msgid "The URL for this social network link."
+msgstr "URL för länken till det sociala nätverket."
+
+#: main-modules.php:9854
+msgid "Account Name"
+msgstr "Konto Namn"
+
+#: main-modules.php:9857
+msgid "The Skype account name."
+msgstr "Skype-konto namn."
+
+#: main-modules.php:9861
+msgid "Skype Button Action"
+msgstr "Skype Knappen Action"
+
+#: main-modules.php:9865
+msgid "Call"
+msgstr "Samtal"
+
+#: main-modules.php:9866
+msgid "Chat"
+msgstr "Chatt"
+
+#: main-modules.php:9869
+msgid "Here you can choose which action to execute on button click"
+msgstr "Här kan du välja vilken åtgärd att utföra på knappen klickar du på"
+
+#: main-modules.php:9874
+msgid "This will change the icon color."
+msgstr "Detta kommer att förändra ikonens färg."
+
+#: main-modules.php:9909
+msgid "Follow"
+msgstr "Följ"
+
+#: main-modules.php:9937
+msgid "Post Title"
+msgstr "Inläggstitel"
+
+#: main-modules.php:10022 main-modules.php:12618
+msgid "Here you can choose whether or not display the Post Title"
+msgstr "Här kan du välja om du vill visa inläggstiteln eller ej"
+
+#: main-modules.php:10025 main-modules.php:12621
+msgid "Show Meta"
+msgstr "Visa metadata"
+
+#: main-modules.php:10038 main-modules.php:12634
+msgid "Here you can choose whether or not display the Post Meta"
+msgstr "Här kan du välja om du vill visa inläggets metadata eller ej"
+
+#: main-modules.php:10049 main-modules.php:12645
+msgid "Here you can choose whether or not display the Author Name in Post Meta"
+msgstr ""
+"Här kan du välja om du vill visa författarens namn i inläggets metadata "
+"eller ej"
+
+#: main-modules.php:10063 main-modules.php:12659
+msgid "Here you can choose whether or not display the Date in Post Meta"
+msgstr "Här kan du välja om du vill visa datumet i inläggets metadata eller ej"
+
+#: main-modules.php:10067 main-modules.php:12663
+msgid "Date Format"
+msgstr "Datumformat"
+
+#: main-modules.php:10071 main-modules.php:12667
+msgid "Here you can define the Date Format in Post Meta. Default is 'M j, Y'"
+msgstr ""
+"Här kan du definiera datumformatet i inläggets metadata. Standard är 'M j Y'"
+
+#: main-modules.php:10075 main-modules.php:12671
+msgid "Show Post Categories"
+msgstr "Visa inläggskategorier"
+
+#: main-modules.php:10083 main-modules.php:12679
+msgid ""
+"Here you can choose whether or not display the Categories in Post Meta. "
+"Note: This option doesn't work with custom post types."
+msgstr ""
+"Här kan du välja om du vill visa kategorierna i inläggets metadata eller ej. "
+"Notera: Det här valet fungerar inte med anpassade inläggstyper."
+
+#: main-modules.php:10086 main-modules.php:12682
+msgid "Show Comments Count"
+msgstr "Visa kommentarsräknare"
+
+#: main-modules.php:10094 main-modules.php:12690
+msgid ""
+"Here you can choose whether or not display the Comments Count in Post Meta."
+msgstr ""
+"Här kan du välja om du vill visa kommentarsräknaren i inläggets metadata "
+"eller ej."
+
+#: main-modules.php:10107 main-modules.php:12703
+msgid "Here you can choose whether or not display the Featured Image"
+msgstr "Här kan du välja om du vill visa den framhävda bildern eller ej"
+
+#: main-modules.php:10110 main-modules.php:12706
+msgid "Featured Image Placement"
+msgstr "Placering av framhävd bild"
+
+#: main-modules.php:10114 main-modules.php:12710
+msgid "Below Title"
+msgstr "Under titel"
+
+#: main-modules.php:10115 main-modules.php:12711
+msgid "Above Title"
+msgstr "Över titel"
+
+#: main-modules.php:10116 main-modules.php:12712
+msgid "Title/Meta Background Image"
+msgstr "Titel-bakgrundsbild"
+
+#: main-modules.php:10122 main-modules.php:12718
+msgid "Here you can choose where to place the Featured Image"
+msgstr "Här kan du välja var du vill placera den framhävda bilden"
+
+#: main-modules.php:10136 main-modules.php:12732
+msgid ""
+"Here you can choose whether or not use parallax effect for the featured image"
+msgstr ""
+"Här kan du välja om du vill använda parallax-effekter för den framhävda "
+"bilden eller ej"
+
+#: main-modules.php:10147 main-modules.php:12743
+msgid "Here you can choose which parallax method to use for the featured image"
+msgstr ""
+"Här kan du välja vilken parallax-metod du vill använda för den framhävda "
+"bilden"
+
+#: main-modules.php:10158 main-modules.php:12754
+msgid "Here you can choose the orientation for the Title/Meta text"
+msgstr "Här kan du välja hur titeltexten ska justeras"
+
+#: main-modules.php:10168 main-modules.php:12764
+msgid "Here you can choose the color for the Title/Meta text"
+msgstr "Här kan du välja färgen för titeltexten"
+
+#: main-modules.php:10171 main-modules.php:12767
+msgid "Use Text Background Color"
+msgstr "Använd bakgrundsfärg för text"
+
+#: main-modules.php:10181 main-modules.php:12777
+msgid ""
+"Here you can choose whether or not use the background color for the Title/"
+"Meta text"
+msgstr ""
+"Här kan du välja om du vill använda bakgrundsfärg för titeltexten eller inte"
+
+#: main-modules.php:10184 main-modules.php:12780
+msgid "Text Background Color"
+msgstr "Bakgrundsfärg för text"
+
+#: main-modules.php:10275 main-modules.php:12870
+msgid "0 comments"
+msgstr "0 Kommentarer"
+
+#: main-modules.php:10275 main-modules.php:12870
+msgid "1 comment"
+msgstr "1 kommentar"
+
+#: main-modules.php:10275 main-modules.php:12870
+msgid "comments"
+msgstr "Kommentarer"
+
+#: main-modules.php:10354
+msgid "Fullwidth Header"
+msgstr "Sidhuvud - helbredd"
+
+#: main-modules.php:10418
+msgid "Title Styling"
+msgstr "Stil på titel"
+
+#: main-modules.php:10419
+msgid "Subhead Styling"
+msgstr "Stil på subhead"
+
+#: main-modules.php:10420
+msgid "Content Styling"
+msgstr "Stil på innehåll"
+
+#: main-modules.php:10427
+msgid "Button One"
+msgstr "Knappen En"
+
+#: main-modules.php:10433
+msgid "Button Two"
+msgstr "Knappen Två"
+
+#: main-modules.php:10443
+msgid "Header Container"
+msgstr "Header-Behållare"
+
+#: main-modules.php:10447
+#, fuzzy
+msgid "Header Image"
+msgstr "URL till bild i sidhuvud"
+
+#: main-modules.php:10459
+msgid "Enter your page title here."
+msgstr "Ange din sidas rubrik här."
+
+#: main-modules.php:10462
+msgid "Subheading Text"
+msgstr "Text för underrubrik"
+
+#: main-modules.php:10465
+msgid ""
+"If you would like to use a subhead, add it here. Your subhead will appear "
+"below your title in a small font."
+msgstr ""
+"Om du vill använda en underrubrik, ange den här. Din underrubrik kommer att "
+"synas under din rubrik i mindre teckensnitt."
+
+#: main-modules.php:10478
+msgid "Text & Logo Orientation"
+msgstr "Placering av text & logga"
+
+#: main-modules.php:10486
+msgid "Make Fullscreen"
+msgstr "Gör till fullskärm"
+
+#: main-modules.php:10496
+msgid "Here you can choose whether the header is expanded to fullscreen size."
+msgstr ""
+"Här kan du välja om du vill att sidhuvudet ska expanderas till "
+"fullskärmsstorlek."
+
+#: main-modules.php:10499
+msgid "Show Scroll Down Button"
+msgstr "Visa knapp för nedskrollning"
+
+#: main-modules.php:10509
+msgid "Here you can choose whether the scroll down button is shown."
+msgstr ""
+"Här kan du välja om du vill att nedskrollningsknappen ska visas eller ej."
+
+#: main-modules.php:10518
+msgid "Choose an icon to display for the scroll down button."
+msgstr "Välj en ikon som ska symbolisera nedskrollningsknappen."
+
+#: main-modules.php:10522
+msgid "Scroll Down Icon Color"
+msgstr "Färg på Nedskrollningsikon"
+
+#: main-modules.php:10528
+msgid "Scroll Down Icon Size"
+msgstr "Storlek på nedskrollningsikon"
+
+#: main-modules.php:10534
+msgid "Title Font"
+msgstr "Typsnitt i titel"
+
+#: main-modules.php:10540
+msgid "Title Font Color"
+msgstr "Typsnittsfärg i titel"
+
+#: main-modules.php:10547
+msgid "Title Font Size"
+msgstr "Typsnittstorlek i titel"
+
+#: main-modules.php:10554
+msgid "Subhead Font"
+msgstr "Typsnitt för underrubrik"
+
+#: main-modules.php:10560
+msgid "Subhead Font Color"
+msgstr "Typsnittsfärg i subhead"
+
+#: main-modules.php:10567
+msgid "Subhead Font Size"
+msgstr "Typsnittstorlek i subhead"
+
+#: main-modules.php:10574
+msgid "Content Font"
+msgstr "Typsnitt för innehåll"
+
+#: main-modules.php:10580
+msgid "Content Font Color"
+msgstr "Typsnittfärg för innehåll"
+
+#: main-modules.php:10587
+msgid "Content Font Size"
+msgstr "Typsnittsstorlek för innehåll"
+
+#: main-modules.php:10594
+msgid "Text Max Width"
+msgstr "Sms: A Max Bredd"
+
+#: main-modules.php:10601 main-modules.php:10613
+msgid "Button %1$s Text"
+msgstr "Knapp %1$s text"
+
+#: main-modules.php:10604 main-modules.php:10616
+msgid "Enter the text for the Button."
+msgstr "Skriv in texten för knappen."
+
+#: main-modules.php:10607 main-modules.php:10619
+msgid "Button %1$s URL"
+msgstr "Knapp %1$s URL"
+
+#: main-modules.php:10610 main-modules.php:10622
+msgid "Enter the URL for the Button."
+msgstr "Skriv in  URL:n för knappen."
+
+#: main-modules.php:10625
+msgid "Background Image URL"
+msgstr "URL till bakgrundsbild"
+
+#: main-modules.php:10638
+msgid "Background Overlay Color"
+msgstr "Överlagringsfärg i bakgrunden"
+
+#: main-modules.php:10652 main-modules.php:11600
+msgid ""
+"If enabled, your background images will have a fixed position as your "
+"scroll, creating a fun parallax-like effect."
+msgstr ""
+"Aktivering ger dina bakgrundsbilder en fixerad position då du rullar neråt "
+"på sidan, vilket skapar en rolig parallaxeffekt."
+
+#: main-modules.php:10667
+msgid "Logo Image URL"
+msgstr "URL till logga"
+
+#: main-modules.php:10676
+msgid "Logo Image Alternative Text"
+msgstr "Logotyp-Alternativ Text"
+
+#: main-modules.php:10682
+msgid "Logo Title"
+msgstr "Logotyp Titel"
+
+#: main-modules.php:10688
+msgid "Text Vertical Alignment"
+msgstr "Textens vertikala justering"
+
+#: main-modules.php:10695
+msgid ""
+"This setting determines the vertical alignment of your content. Your content "
+"can either be vertically centered, or aligned to the bottom."
+msgstr ""
+"Den här inställningen avgör den vertikala justeringen av ditt innehåll. Ditt "
+"innehåll kan antingen vara vertikalt centrerat eller justerat mot botten."
+
+#: main-modules.php:10700
+msgid "Header Image URL"
+msgstr "URL till bild i sidhuvud"
+
+#: main-modules.php:10709
+msgid "Image Vertical Alignment"
+msgstr "Vertikal justering av bild"
+
+#: main-modules.php:10716
+msgid "This controls the orientation of the image within the module."
+msgstr "Detta kontrollerar bildens placering i modulen."
+
+#: main-modules.php:11065
+msgid "Fullwidth Menu"
+msgstr "Meny - helbredd"
+
+#: main-modules.php:11093 main-modules.php:11130
+msgid "Menu"
+msgstr "Meny"
+
+#: main-modules.php:11137
+msgid "Select a menu that should be used in the module"
+msgstr "Välj en meny som ska användas i modulen"
+
+#: main-modules.php:11138
+msgid "Click here to create new menu"
+msgstr "Klicka här för att skapa en ny meny"
+
+#: main-modules.php:11164
+msgid "Sub-Menus Open"
+msgstr "Undermenyer öppnas"
+
+#: main-modules.php:11168
+msgid "Downwards"
+msgstr "Neråt"
+
+#: main-modules.php:11169
+msgid "Upwards"
+msgstr "Uppåt"
+
+#: main-modules.php:11171
+msgid ""
+"Here you can choose the direction that your sub-menus will open. You can "
+"choose to have them open downwards or upwards."
+msgstr ""
+"Här kan du välja i vilken riktning dina undermenyer öppnas. De kan öppnas "
+"uppåt eller neråt."
+
+#: main-modules.php:11191
+msgid "Make Menu Links Fullwidth"
+msgstr "Göra Meny Länkar Fullwidth"
+
+#: main-modules.php:11201
+msgid "Active Link Color"
+msgstr "Färg på aktiv länk"
+
+#: main-modules.php:11207
+msgid "Dropdown Menu Background Color"
+msgstr "Bakgrundsfärg på rullgardinsmeny"
+
+#: main-modules.php:11213
+msgid "Dropdown Menu Line Color"
+msgstr "Linjefärg på rullgardinsmeny"
+
+#: main-modules.php:11219
+msgid "Dropdown Menu Text Color"
+msgstr "Textfärg på rullgardinsmeny"
+
+#: main-modules.php:11225
+msgid "Dropdown Menu Animation"
+msgstr "Animering på rullgardinsmeny"
+
+#: main-modules.php:11229
+msgid "Fade"
+msgstr "Blekna"
+
+#: main-modules.php:11232
+msgid "Flip"
+msgstr "Vänd"
+
+#: main-modules.php:11237
+msgid "Mobile Menu Background Color"
+msgstr "Mobil Menybakgrunder"
+
+#: main-modules.php:11243
+msgid "Mobile Menu Text Color"
+msgstr "Mobil Menyn Text Färg"
+
+#: main-modules.php:11319
+msgid "Home"
+msgstr "Hem"
+
+#: main-modules.php:11443
+msgid "Fullwidth Slider"
+msgstr "Växlare - helbredd"
+
+#: main-modules.php:11546
+msgid "This setting allows you to turn the navigation arrows on or off."
+msgstr "Med denna inställning kan du slå på och av navigationspilarna."
+
+#: main-modules.php:11556
+msgid ""
+"Disabling this option will remove the circle button at the bottom of the "
+"slider."
+msgstr ""
+"Inaktivering av detta alternativ avlägsnar cirkelknappen på växlarens nedre "
+"del."
+
+#: main-modules.php:11842
+msgid "Fullwidth Portfolio"
+msgstr "Portfolio - helbredd"
+
+#: main-modules.php:11877
+msgid "Title displayed above the portfolio."
+msgstr "Rubrik visad ovanför portfolien."
+
+#: main-modules.php:11884
+msgid "Carousel"
+msgstr "Karusell"
+
+#: main-modules.php:11902
+msgid ""
+"Control how many projects are displayed. Leave blank or use 0 to not limit "
+"the amount."
+msgstr ""
+"Kontrollera hur många projekt som visas. Lämna tom eller använd 0 för att "
+"lämna antalet obegränsat."
+
+#: main-modules.php:11922
+msgid "Turn the date display on or off."
+msgstr "Slå på eller av datumvisningen."
+
+#: main-modules.php:11935
+msgid "Automatic Carousel Rotation"
+msgstr "Automatisk karusellrotation"
+
+#: main-modules.php:11946
+msgid ""
+"If you the carousel layout option is chosen and you would like the carousel "
+"to slide automatically, without the visitor having to click the next button, "
+"enable this option and then adjust the rotation speed below if desired."
+msgstr ""
+"Om du valt alternativet för karusellayout och du vill att växlaren "
+"automatiskt går framåt utan att besökaren behöver trycka på nästa-knappen, "
+"aktivera detta alternativ och justera växlingshastigheten nedan om du så "
+"vill."
+
+#: main-modules.php:11949
+msgid "Automatic Carousel Rotation Speed (in ms)"
+msgstr "Automatisk rotationshastighet för karusell (i millisekunder)"
+
+#: main-modules.php:11953
+msgid ""
+"Here you can designate how fast the carousel rotates, if 'Automatic Carousel "
+"Rotation' option is enabled above. The higher the number the longer the "
+"pause between each rotation. (Ex. 1000 = 1 sec)"
+msgstr ""
+"Här kan du ange hur snabbt karusellen roterar om 'Automatisk "
+"rotationshastighet för karusell' aktiverats. Ju högre siffran är desto "
+"längre är pausen mellan rotationerna (t.ex. 1000 = 1 s)."
+
+#: main-modules.php:12081
+msgid "Fullwidth Map"
+msgstr "Karta i helbredd"
+
+#: main-modules.php:12201
+msgid "Code"
+msgstr "Kod"
+
+#: main-modules.php:12287
+msgid "Fullwidth Code"
+msgstr "Full bredd-kod"
+
+#: main-modules.php:12353
+msgid "Fullwidth Image"
+msgstr "Bild med full bredd"
+
+#: main-modules.php:12414
+msgid "Open In Lightbox"
+msgstr "Öppna i Lightbox"
+
+#: main-modules.php:12532
+msgid "Fullwidth Post Title"
+msgstr "Inläggstitel med full bredd"
+
+#: main-structure-elements.php:107
+msgid "Transparent Background Color"
+msgstr "Genomskinlig bakgrundsfärg"
+
+#: main-structure-elements.php:117
+msgid ""
+"Enabling this option will remove the background color of this section, "
+"allowing the website background color or background image to show through."
+msgstr ""
+"Aktivering av detta val kommer ta bort bakgrundsfärgen i den här sektionen "
+"och tillåta webbsidans bakgrundsfärg eller bakgrundsbild att lysa igenom."
+
+#: main-structure-elements.php:171
+msgid "Show Inner Shadow"
+msgstr "Visa inre skugga"
+
+#: main-structure-elements.php:178
+msgid ""
+"Here you can select whether or not your section has an inner shadow. This "
+"can look great when you have colored backgrounds or background images."
+msgstr ""
+"Här  kan du välja om din sektion har en inre skugga eller inte. Det kan se "
+"jättebra ut om du har färgade bakgrunder eller bakgrundsbilder."
+
+#: main-structure-elements.php:191
+msgid ""
+"If enabled, your background image will stay fixed as your scroll, creating a "
+"fun parallax-like effect."
+msgstr ""
+"Om den aktiveras kommer din bakgrundsbild att förbli fixerad då du rullar "
+"neråt på sidan, vilket skapar en rolig parallax-lik effekt."
+
+#: main-structure-elements.php:208 main-structure-elements.php:866
+#: main-structure-elements.php:1468
+msgid ""
+"Adjust padding to specific values, or leave blank to use the default padding."
+msgstr ""
+"Justera padding till specifika värden eller lämna tom för att använda "
+"standard-padding."
+
+#: main-structure-elements.php:211 main-structure-elements.php:869
+#: main-structure-elements.php:1477
+msgid "Keep Custom Padding on Mobile"
+msgstr "Behåll anpassad padding på mobil"
+
+#: main-structure-elements.php:218 main-structure-elements.php:876
+#: main-structure-elements.php:1484
+msgid "Allow custom padding to be retained on mobile screens"
+msgstr "Tillåt anpassad padding att behållas på mobilskärmar"
+
+#: main-structure-elements.php:235
+msgid ""
+"This will change the label of the section in the builder for easy "
+"identification when collapsed."
+msgstr ""
+"Detta kommer att ändra etikett för den del i builder för enkel identifiering "
+"när det är hopfällt."
+
+#: main-structure-elements.php:238
+msgid "Make This Section Fullwidth"
+msgstr "Gör Det Här Avsnittet Fullwidth"
+
+#: main-structure-elements.php:249 main-structure-elements.php:782
+msgid "Use Custom Width"
+msgstr "Använd anpassad bredd"
+
+#: main-structure-elements.php:264 main-structure-elements.php:797
+msgid "Unit"
+msgstr "Enhet"
+
+#: main-structure-elements.php:268 main-structure-elements.php:801
+msgid "px"
+msgstr "pixlar"
+
+#: main-structure-elements.php:282 main-structure-elements.php:294
+#: main-structure-elements.php:814 main-structure-elements.php:826
+msgid "Custom Width"
+msgstr "Anpassad bredd"
+
+#: main-structure-elements.php:306 main-structure-elements.php:980
+#: main-structure-elements.php:1524
+msgid "Equalize Column Heights"
+msgstr "Utjämna höjden i kolumnen"
+
+#: main-structure-elements.php:316 main-structure-elements.php:838
+#: main-structure-elements.php:1487
+msgid "Use Custom Gutter Width"
+msgstr "Använda Anpassade Rännstenen Bredd"
+
+#: main-structure-elements.php:329 main-structure-elements.php:851
+#: main-structure-elements.php:1500
+msgid "Gutter Width"
+msgstr "Avstånd mellan kolumner"
+
+#: main-structure-elements.php:771
+msgid "Make This Row Fullwidth"
+msgstr "Låt denna rad ha full bredd"
+
+#: main-structure-elements.php:779
+msgid ""
+"Enable this option to extend the width of this row to the edge of the "
+"browser window."
+msgstr ""
+"Aktivera detta val för att förlänga bredden för denna rad till gränsen av "
+"webbläsarens fönster."
+
+#: main-structure-elements.php:794
+msgid ""
+"Change to Yes if you would like to adjust the width of this row to a non-"
+"standard width."
+msgstr ""
+"Ändra till Ja om du vill juster bredden för denna rad till en icke-standard "
+"bredd."
+
+#: main-structure-elements.php:823 main-structure-elements.php:835
+msgid "Define custom width for this Row"
+msgstr "Definiera anpassad bredd för denna rad"
+
+#: main-structure-elements.php:848 main-structure-elements.php:1497
+msgid "Enable this option to define custom gutter width for this row."
+msgstr ""
+"Aktivera det här alternativet för att definiera egna rännstenen bredd för "
+"den här raden."
+
+#: main-structure-elements.php:860 main-structure-elements.php:1509
+msgid "Adjust the spacing between each column in this row."
+msgstr "Justera avståndet mellan varje kolumn i den här raden."
+
+#: main-structure-elements.php:996 main-structure-elements.php:1539
+msgid "Keep Column Padding on Mobile"
+msgstr "Hålla Kolumn Utfyllnad på Mobilen"
+
+#: main-structure-elements.php:1008
+msgid ""
+"This will change the label of the row in the builder for easy identification "
+"when collapsed."
+msgstr ""
+"Detta kommer att ändra etikett för den raden i builder för enkel "
+"identifiering när det är hopfällt."
+
+#: template-preview.php:9 template-preview.php:66
+msgid "Authentication failed. You cannot preview this item."
+msgstr "Autentisering misslyckades. Du kan förhandsgranska i denna post."
+
+#: template-preview.php:14
+msgid "Authentication failed. You are not logged in."
+msgstr "Autentisering misslyckades. Du är inte inloggad."
+
+#: template-preview.php:19 template-preview.php:69
+msgid "Authentication failed. You have no permission to preview this item."
+msgstr ""
+"Autentisering misslyckades. Du har inte behörighet att förhandsgranska denna "
+"artikel."
+
+#: template-preview.php:76
+msgid "Loading preview..."
+msgstr "Laddar förhandsgranska..."
+
+#: template-preview.php:84
+msgid "Link Disabled"
+msgstr "Länk Funktionshindrade"
+
+#: template-preview.php:85
+msgid "During preview, link to different page is disabled"
+msgstr "Under förhandsgranskning, länk till annan sida är funktionshindrade"
+
+#: layouts.php:4
+#, fuzzy
+msgctxt "Layout type general name"
+msgid "Layouts"
+msgstr "Layouter"
+
+#: layouts.php:5
+#, fuzzy
+msgctxt "Layout type singular name"
+msgid "Layout"
+msgstr "Layout"
+
+#: layouts.php:6
+#, fuzzy
+msgctxt "Layout item"
+msgid "Add New"
+msgstr "Lägg till ny"
+
+#: main-modules.php:4412
+#, fuzzy
+msgctxt "Audio Module meta information"
+msgid "by <strong>%1$s</strong>"
+msgstr "av <strong>%1$s</strong>"
+
+#: main-modules.php:7499
+#, fuzzy
+msgctxt "contact form title separator"
+msgid " - %s"
+msgstr " - %s"
+
+#: main-modules.php:8700
+#, fuzzy
+msgctxt "number of comments"
+msgid "1 Comment"
+msgid_plural "%s Comments"
+msgstr[0] "1 kommentar"
+msgstr[1] "1 kommentar"

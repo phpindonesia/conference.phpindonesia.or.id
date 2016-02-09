@@ -1,0 +1,89 @@
+version 1.1.1 ( updated 10-21-2015 )
+- Fixed the issue with incorrect font icons order
+	* framework/functions.php
+- Fixed the issue with line-height default units in Page Builder advanced settings
+	* framework/functions.php
+	* framework/class-et-builder-element.php
+- Blog Module: Added support of WP-Pagenavi plugin
+	* framework/main-modules.php
+
+version 1.1 ( updated 10-20-2015 )
+- Fixed the unexpected behavior, when gutter width is set to 0 in Rows
+	* framework/main-structure-elements.php
+- Fixed the issue with unwanted circle, appearing in slider with video background on iOS
+	* framework/styles/frontend-builder-style.css
+- Fixed the issue with wrong behavior of Enter and Esc hotkeys, when WordPress modal windows are open ( ex. Image Upload )
+	* framework/scripts/builder.js
+- Fixed the issue with Page Builder editor fullscreen mode incorrect display in Firefox
+	* framework/scripts/builder.js
+- Gallery Module: Fixed the issue with pagination, when multiple galleries exist on a page and one of them has ID attribute
+	* framework/scripts/frontend-builder-scripts.js
+- Global Modules: Fixed the issue with Admin labels not being saved properly
+	* framework/scripts/builder.js
+- Replaced enable/disable text in Dutch language to shorter version ( Aan/Uit )
+	* framework/languages/nl_NL.po
+- Contact Form: Fixed wrongly decoded ampersand in module's email title
+	* framework/main-modules.php
+- Updated Magnific Popup script to 1.0.0 version
+	* framework/scripts/jquery.magnific-popup.js
+- Slider: Fixed item title's discrepancies
+	* framework/main-modules.php
+	* framework/styles/frontend-builder-style.css
+- Added Parallax background images option for columns
+- Added Left/Right padding option for sections
+- Added custom margin options for Rows
+- Added Header Image to the CSS Tab in the Fullwidth Header module
+- Updated padding/margin/width option sanitization to accept "vh" and "vw"
+- Fixed the issue with CTA "max width" not being applied correctly
+	* framework/class-et-builder-element.php
+	* framework/main-modules.php
+	* framework/main-structure-elements.php
+	* framework/scripts/builder.js
+	* framework/styles/frontend-builder-style.css
+- Fullwidth header: Fixed the issue when the module becomes inactive, when specific button icons are selected
+	* framework/class-et-builder-element.php
+	* framework/scripts/builder.js
+- Fixed the issue with Reset button background color in Section settings
+	* framework/main-structure-elements.php
+	* framework/scripts/builder.js
+- Fixed encoding issue with French localization in Code Module
+	* framework/class-et-builder-element.php
+- Countdown Module: Improved responsive layout on small screens
+	* framework/main-modules.php
+	* framework/scripts/frontend-builder-scripts.js
+- Added missing "gift" icon into the Icon Picker option in all Modules
+	* framework/functions.php
+- Improved localization in Contact Form Module
+	* framework/framework.php
+	* framework/scripts/frontend-builder-scripts.js
+- Added support of Microformats
+	* framework/functions.php
+	* framework/main-modules.php
+- Fixed the issue with disappearing "Export Divi Layouts" button in FireFox
+	* framework/scripts/library_scripts.js
+	* framework/styles/library_pages.css
+- Fixed the issue with Submit button icon styling on hover in Contact Form module
+	* framework/styles/frontend-builder-style.css
+- Blurb Module: Fixed the issue where description text alignment is always centered for 768px breakpoint and lower
+	* framework/styles/frontend-builder-style.css
+- Fixed post title module padding issue
+	* framework/styles/frontend-builder-style.css
+- Email Optin: Fixed the issue with 25 lists limit for MailChimp
+	* framework/functions.php
+- Replaced curl function with wp_remote_post funciton in MailChimp_Divi class to avoid some issues
+	* framework/subscription/mailchimp/mailchimp.php
+	* framework/functions.php
+- Added Custom CSS tab to Individual Slides, Pricing tables, Bar Counters and Toggles
+	* framework/class-et-builder-element.php
+	* framework/main-modules.php
+- Added Basic ( websafe ) fonts into the Font options in Page Builder
+	* framework/functions.php
+- Fixed the issue with columns saving/appearance in some ET themes
+	* framework/functions.php
+- Fixed the issue with Search widget appearance in Weblizar theme
+	* theme-compat.php
+	* theme-compat/weblizar.php
+
+version 1.0
+
+- initial release

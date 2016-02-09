@@ -1,0 +1,2893 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2015-10-19 12:05:43+00:00\n"
+"PO-Revision-Date: 2015-09-02 15:02+0300\n"
+"Last-Translator: \n"
+"Language-Team: Elegant Themes\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../includes/builder\n"
+"X-Poedit-SearchPathExcluded-1: ../node_modules\n"
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Dieser Beitrag ist passwortgeschützt. Geben Sie das Passwort ein, um "
+"Kommentare anzusehen."
+
+#: comments.php:13
+msgid "0 Comments"
+msgstr "0 Kommentare"
+
+#: comments.php:13
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: comments.php:13
+msgid "Comments"
+msgstr "Kommentare"
+
+#: comments.php:18 comments.php:31
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Ältere Kommentare"
+
+#: comments.php:19 comments.php:32
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Neuere Kommentare <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:38
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#: comments.php:56
+msgid "Submit Comment"
+msgstr "Kommentar absenden"
+
+#: comments.php:56
+msgid "Submit a Comment"
+msgstr "Kommentar absenden"
+
+#: comments.php:56
+msgid "Leave a Reply to %s"
+msgstr "Antwort auf %s hinterlassen"
+
+#: epanel/core_functions.php:26 epanel/core_functions.php:401
+msgid "Saving..."
+msgstr "Speichern..."
+
+#: epanel/core_functions.php:27
+msgid "Options Saved."
+msgstr "Optionen gespeichert."
+
+#: epanel/core_functions.php:73
+msgid "Options"
+msgstr "Optionen"
+
+#: epanel/core_functions.php:73 functions.php:7850
+msgid "Theme Options"
+msgstr "Theme-Optionen"
+
+#: epanel/core_functions.php:90
+msgid "settings saved."
+msgstr "Einstellungen gespeichert."
+
+#: epanel/core_functions.php:93
+msgid "settings reset."
+msgstr "Einstellungen zurückgesetzt."
+
+#: epanel/core_functions.php:111 epanel/options_divi.php:314
+#: epanel/options_divi.php:465 functions.php:550
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: epanel/core_functions.php:114
+msgid "Navigation"
+msgstr "Navigation"
+
+#: epanel/core_functions.php:117 functions.php:560
+msgid "Layout Settings"
+msgstr "Layout-Einstellungen"
+
+#: epanel/core_functions.php:120
+msgid "Ad Management"
+msgstr "Anzeigenverwaltung"
+
+#: epanel/core_functions.php:123
+msgid "Colorization"
+msgstr "Farbe"
+
+#: epanel/core_functions.php:126
+msgid "SEO"
+msgstr "SEO"
+
+#: epanel/core_functions.php:129
+msgid "Integration"
+msgstr "Integration"
+
+#: epanel/core_functions.php:132
+msgid "Support Docs"
+msgstr "Support-Dokumente"
+
+#: epanel/core_functions.php:209 epanel/core_functions.php:389
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: epanel/core_functions.php:210
+msgid "Upload Image"
+msgstr "Bild hochladen"
+
+#: epanel/core_functions.php:237
+msgid "You don't have pages"
+msgstr "Sie haben keine Seiten"
+
+#: epanel/core_functions.php:374
+msgid "Save changes"
+msgstr "Änderungen speichern"
+
+#: epanel/core_functions.php:385
+msgid ""
+"This will return all of the settings throughout the options page to their "
+"default values. <strong>Are you sure you want to do this?</strong>"
+msgstr ""
+"Damit werden alle Einstellungen auf der Seite \"Optionen\" auf ihre "
+"Standardwerte zurückgesetzt. <strong>Sind Sie sicher, dass Sie das tun "
+"möchten?</strong>"
+
+#: epanel/core_functions.php:558
+msgid "Choose an Image"
+msgstr "Bild auswählen"
+
+#: epanel/custom_functions.php:174
+msgid "&hellip;"
+msgstr "&hellip;"
+
+#: epanel/custom_functions.php:447 header.php:139
+msgid "Home"
+msgstr "Start"
+
+#: epanel/custom_functions.php:689
+msgid "Archives"
+msgstr "Archive"
+
+#: epanel/custom_functions.php:691
+msgid "Search results for \"%s\""
+msgstr "Suchergebnisse für \"%s\""
+
+#: epanel/custom_functions.php:693
+msgid "404 Not Found"
+msgstr "404 Nicht gefunden"
+
+#: epanel/custom_functions.php:764
+msgid "Currently viewing archives from %1$s"
+msgstr "Derzeit werden Archive von %1$s angesehen"
+
+#: epanel/custom_functions.php:997
+msgid "Image doesn't exist"
+msgstr "Bild existiert nicht"
+
+#: epanel/custom_functions.php:1198
+msgid ""
+"<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't "
+"forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will "
+"disappear once you have clicked the Save button within the <a href=\"%2$s"
+"\">theme's options page</a>.</p></div>"
+msgstr ""
+"<div class=\"updated\"><p>Dies ist eine frische Installation des %1$s-"
+"Themes. Vergessen Sie nicht, auf <a href=\"%2$s\">ePanel</a> zu gehen, um es "
+"einzurichten. Diese Nachricht wird nicht mehr angezeigt, sobald Sie auf der "
+"<a href=\"%2$s\">Optionenseite des Themes</a>.</p></div> auf den Button "
+"\"Speichern\" geklickt haben."
+
+#: epanel/custom_functions.php:1210
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%1$s\">View version %3$s details</a>. <em>Before you can update "
+"your Elegant Themes, you must first install the <a href=\"https://www."
+"elegantthemes.com/members-area/documentation.html#updater\" target=\"_blank"
+"\">Elegant Updater Plugin</a> to authenticate your subscription.</em>"
+msgstr ""
+"Eine neue Version von %1$s ist verfügbar. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%1$s\">Details von Version %3$s ansehen</a>. <em>Bevor Sie Ihr "
+"Elegant Themes aktualisieren können, müssen Sie zuerst das <a href=\"https://"
+"www.elegantthemes.com/members-area/documentation.html#updater\" target="
+"\"_blank\">Elegant Updater Plugin</a> installieren, um Ihr Abonnement zu "
+"authentifizieren.</em>"
+
+#: epanel/custom_functions.php:1214
+msgid ""
+"Before you can update your Elegant Themes, you must first install the <a "
+"href=\"https://www.elegantthemes.com/members-area/documentation.html#updater"
+"\" target=\"_blank\">Elegant Updater Plugin</a> to authenticate your "
+"subscription."
+msgstr ""
+"Bevor Sie Ihr Elegant Themes aktualisieren können, müssen Sie zuerst das <a "
+"href=\"https://www.elegantthemes.com/members-area/documentation.html#updater"
+"\" target=\"_blank\">Elegant Updater Plugin</a> installieren, um Ihr "
+"Abonnement zu authentifizieren."
+
+#: epanel/options_divi.php:38
+msgid "General"
+msgstr "Allgemein"
+
+#: epanel/options_divi.php:45
+msgid "Logo"
+msgstr "Logo"
+
+#: epanel/options_divi.php:48
+msgid "Set As Logo"
+msgstr "Als Logo einrichten"
+
+#: epanel/options_divi.php:50
+msgid ""
+"If you would like to use your own custom logo image click the Upload Image "
+"button."
+msgstr ""
+"Wenn Sie Ihr eigenes Logo verwenden möchten, klicken Sie auf den Button "
+"\"Bild hochladen\"."
+
+#: epanel/options_divi.php:53
+msgid "Favicon"
+msgstr "Favicon"
+
+#: epanel/options_divi.php:56
+msgid "Set As Favicon"
+msgstr "Als Favicon einrichten"
+
+#: epanel/options_divi.php:58
+msgid ""
+"If you would like to use your own custom favicon image click the Upload "
+"Image button."
+msgstr ""
+"Wenn Sie Ihr eigenes favicon verwenden möchten, klicken Sie auf den Button "
+"\"Bild hochladen\"."
+
+#: epanel/options_divi.php:61
+msgid "Fixed Navigation Bar"
+msgstr "Feste Navigationsleiste"
+
+#: epanel/options_divi.php:65
+msgid ""
+"By default the navigation bar stays on top of the screen at all times. We "
+"suggest to disable this option, if you need to use a logo taller than the "
+"default one."
+msgstr ""
+"Standardmäßig bleibt die Navigationsleiste jederzeit oben auf dem "
+"Bildschirm. Wir schlagen vor, dass Sie diese Option deaktivieren, wenn Sie "
+"ein großes Logo verwenden möchten."
+
+#: epanel/options_divi.php:70
+msgid "Grab the first post image"
+msgstr "Erstes Bild aus Beitrag verwenden"
+
+#: epanel/options_divi.php:74
+msgid ""
+"By default thumbnail images are created using custom fields. However, if you "
+"would rather use the images that are already in your post for your thumbnail "
+"(and bypass using custom fields) you can activate this option. Once "
+"activcated thumbnail images will be generated automatically using the first "
+"image in your post. The image must be hosted on your own server."
+msgstr ""
+"Standardmäßig werden Thumbnails mithilfe von benutzerdefinierten Feldern "
+"erstellt. Möchten Sie für Ihr Thumbnail die Bilder verwenden, die sich "
+"bereits in Ihrem Beitrag befinden (und die Verwendung von "
+"benutzerdefinierten Feldern umgehen), können Sie diese Option aktivieren. "
+"Ist die Option aktiviert, werden automatisch Thumbnails unter Verwendung des "
+"ersten Bilds in Ihrem Beitrag erstellt. Das Bild muss auf Ihrem eigenen "
+"Server gehostet werden."
+
+#: epanel/options_divi.php:77
+msgid "Blog Style Mode"
+msgstr "Blog-Modus"
+
+#: epanel/options_divi.php:81
+msgid ""
+"By default the theme truncates your posts on index/homepages automatically "
+"to create post previews. If you would rather show your posts in full on "
+"index pages like a traditional blog then you can activate this feature."
+msgstr ""
+"Standardmäßig schneidet das Theme Ihre Beiträge automatisch zu, um daraus "
+"Voransichten zu erstellen. Möchten Sie stattdessen Ihre Beiträge wie in "
+"einem traditionellen Blog vollständig anzeigen lassen, können Sie diese "
+"Funktion aktivieren."
+
+#: epanel/options_divi.php:86
+msgid "Shop Page & Category Page Layout for WooCommerce"
+msgstr "Shopseiten- & Kategorieseiten-Layout für WooCommerce"
+
+#: epanel/options_divi.php:90 functions.php:288
+msgid "Right Sidebar"
+msgstr "Rechte Seitenleiste"
+
+#: epanel/options_divi.php:91 functions.php:289
+msgid "Left Sidebar"
+msgstr "Linke Seitenleiste"
+
+#: epanel/options_divi.php:92 functions.php:290
+msgid "Full Width"
+msgstr "Volle Breite"
+
+#: epanel/options_divi.php:95
+msgid "Here you can choose Shop Page & Category Page Layout for WooCommerce."
+msgstr ""
+"Hier können Sie das Layout für die Shop- und Kategorieseite für WooCommerce "
+"wählen."
+
+#: epanel/options_divi.php:99
+msgid "MailChimp API Key"
+msgstr "MailChimp API-Schlüssel"
+
+#: epanel/options_divi.php:104
+msgid ""
+"Enter your MailChimp API key. You can create an api key <a target=\"_blank\" "
+"href=\"%1$s\">here</a>"
+msgstr ""
+"Geben Sie Ihren MailChimp API-Schlüssel ein. <a target=\"_blank\" href=\"%1$s"
+"\">Hier</a> können Sie einen API-Schlüssel generieren."
+
+#: epanel/options_divi.php:107
+msgid "Aweber Authorization"
+msgstr "Aweber Autorisierung"
+
+#: epanel/options_divi.php:109
+msgid "Authorize your Aweber account here."
+msgstr "Autorisieren Sie hier Ihr Aweber-Konto."
+
+#: epanel/options_divi.php:113
+msgid "Regenerate MailChimp Lists"
+msgstr "MailChimp-Listen neu erstellen"
+
+#: epanel/options_divi.php:117
+msgid ""
+"By default, MailChimp lists are cached for one day. If you added new list, "
+"but it doesn't appear within the Email Optin module settings, activate this "
+"option. Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"Standardmäßig werden MailChimp Listen für einen Tag zwischengespeichert. "
+"Wenn Sie neu hinzugefügt Liste, aber es liegt nicht in den "
+"Moduleinstellungen Email Optin erscheint, aktivieren Sie diese Option. "
+"Vergessen Sie nicht, um sie zu deaktivieren, sobald die Liste wiedergeboren "
+"ist."
+
+#: epanel/options_divi.php:119
+msgid "Regenerate Aweber Lists"
+msgstr "Aweber-Listen neu erstellen"
+
+#: epanel/options_divi.php:123
+msgid ""
+"By default, Aweber lists are cached for one day. If you added new list, but "
+"it doesn't appear within the Email Optin module settings, activate this "
+"option. Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"Standardmäßig sind Aweber Listen für einen Tag zwischengespeichert. Wenn Sie "
+"neu hinzugefügt Liste, aber es liegt nicht in den Moduleinstellungen Email "
+"Optin erscheint, aktivieren Sie diese Option. Vergessen Sie nicht, um sie zu "
+"deaktivieren, sobald die Liste wiedergeboren ist."
+
+#: epanel/options_divi.php:127
+msgid "Show Facebook Icon"
+msgstr "Facebook-Icon anzeigen"
+
+#: epanel/options_divi.php:131
+msgid "Here you can choose to display the Facebook Icon on your homepage. "
+msgstr ""
+"Hier können Sie entscheiden, ob das Facebook-Icon auf Ihrer Startseite "
+"angezeigt wird. "
+
+#: epanel/options_divi.php:133
+msgid "Show Twitter Icon"
+msgstr "Twitter-Icon anzeigen"
+
+#: epanel/options_divi.php:137
+msgid "Here you can choose to display the Twitter Icon. "
+msgstr "Hier können Sie entscheiden, ob das Twitter-Icon angezeigt wird. "
+
+#: epanel/options_divi.php:141
+msgid "Show Google+ Icon"
+msgstr "Google+-Icon anzeigen"
+
+#: epanel/options_divi.php:145
+msgid "Here you can choose to display the Google+ Icon on your homepage. "
+msgstr ""
+"Hier können Sie entscheiden, ob das Google+-Icon auf Ihrer Startseite "
+"angezeigt wird. "
+
+#: epanel/options_divi.php:147
+msgid "Show RSS Icon"
+msgstr "RSS-Icon anzeigen"
+
+#: epanel/options_divi.php:151
+msgid "Here you can choose to display the RSS Icon. "
+msgstr "Hier können Sie entscheiden, ob das RSS-Icon angezeigt wird. "
+
+#: epanel/options_divi.php:155
+msgid "Facebook Profile Url"
+msgstr "URL des Facebook-Profils"
+
+#: epanel/options_divi.php:160
+msgid "Enter the URL of your Facebook Profile. "
+msgstr "Geben Sie die URL Ihres Facebook-Profils ein. "
+
+#: epanel/options_divi.php:162
+msgid "Twitter Profile Url"
+msgstr "URL des Twitter-Profils"
+
+#: epanel/options_divi.php:167
+msgid "Enter the URL of your Twitter Profile."
+msgstr "Geben Sie die URL Ihres Twitter-Profils ein."
+
+#: epanel/options_divi.php:169
+msgid "Google+ Profile Url"
+msgstr "URL des Google+-Profils"
+
+#: epanel/options_divi.php:174
+msgid "Enter the URL of your Google+ Profile. "
+msgstr "Geben Sie die URL Ihres Google+-Profils ein. "
+
+#: epanel/options_divi.php:176
+msgid "RSS Icon Url"
+msgstr "URL des RSS-Icons"
+
+#: epanel/options_divi.php:181
+msgid "Enter the URL of your RSS feed. "
+msgstr "Geben Sie die URL Ihres RSS-Feeds ein. "
+
+#: epanel/options_divi.php:183
+#, fuzzy
+msgid "Number of Products displayed on WooCommerce archive pages"
+msgstr "Anzahl von angezeigten Beiträgen auf Archivseiten"
+
+#: epanel/options_divi.php:187
+#, fuzzy
+msgid ""
+"Here you can designate how many WooCommerce products are displayed on the "
+"archive page. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"Hier können Sie festlegen, wie viele kürzlich erstellte Beiträge auf den "
+"Archivseiten angezeigt werden. Diese Option funktioniert unabhängig von den "
+"Leseoptionen in wp-admin."
+
+#: epanel/options_divi.php:191
+msgid "Number of Posts displayed on Category page"
+msgstr "Anzahl von angezeigten Beiträgen auf Kategorieseite"
+
+#: epanel/options_divi.php:195
+msgid ""
+"Here you can designate how many recent articles are displayed on the "
+"Category page. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"Hier können Sie festlegen, wie viele kürzlich erstellte Beiträge auf der "
+"Kategorieseite angezeigt werden. Diese Option funktioniert unabhängig von "
+"den Leseoptionen in wp-admin."
+
+#: epanel/options_divi.php:199
+msgid "Number of Posts displayed on Archive pages"
+msgstr "Anzahl von angezeigten Beiträgen auf Archivseiten"
+
+#: epanel/options_divi.php:203
+msgid ""
+"Here you can designate how many recent articles are displayed on the Archive "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"Hier können Sie festlegen, wie viele kürzlich erstellte Beiträge auf den "
+"Archivseiten angezeigt werden. Diese Option funktioniert unabhängig von den "
+"Leseoptionen in wp-admin."
+
+#: epanel/options_divi.php:207
+msgid "Number of Posts displayed on Search pages"
+msgstr "Anzahl von angezeigten Beiträgen auf Suchseiten"
+
+#: epanel/options_divi.php:211
+msgid ""
+"Here you can designate how many recent articles are displayed on the Search "
+"results pages. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"Hier können Sie festlegen, wie viele kürzlich erstellte Beiträge auf den "
+"Suchergebnisseiten angezeigt werden. Diese Option funktioniert unabhängig "
+"von den Leseoptionen in wp-admin."
+
+#: epanel/options_divi.php:215
+msgid "Number of Posts displayed on Tag pages"
+msgstr "Anzahl von angezeigten Beiträgen auf Tag-Seiten"
+
+#: epanel/options_divi.php:219
+msgid ""
+"Here you can designate how many recent articles are displayed on the Tag "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"Hier können Sie festlegen, wie viele kürzlich erstellte Beiträge auf den Tag-"
+"Seiten angezeigt werden. Diese Option funktioniert unabhängig von den "
+"Leseoptionen in wp-admin."
+
+#: epanel/options_divi.php:223
+msgid "Date format"
+msgstr "Datumsformat"
+
+#: epanel/options_divi.php:227
+msgid ""
+"This option allows you to change how your dates are displayed. For more "
+"information please refer to the WordPress codex here:<a href='http://codex."
+"wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatting Date and "
+"Time</a>"
+msgstr ""
+"Mit dieser Option können Sie festlegen, wie Ihr Datum angezeigt wird. "
+"Weitere Informationen finden Sie im WordPress-Kodex hier:<a href='http://"
+"codex.wordpress.org/Formatting_Date_and_Time' target='_blank'>Datums- und "
+"Zeitformate</a>"
+
+#: epanel/options_divi.php:233
+msgid "Use excerpts when defined"
+msgstr "Ausschnitte verwenden, wenn definiert"
+
+#: epanel/options_divi.php:237
+msgid "This will enable the use of excerpts in posts or pages."
+msgstr ""
+"Damit wird die Verwendung von Ausschnitten in Beiträgen oder auf Seiten "
+"aktiviert."
+
+#: epanel/options_divi.php:240
+msgid "Responsive shortcodes"
+msgstr "Reagierende shortcodes"
+
+#: epanel/options_divi.php:244
+msgid "Enable this option to make shortcodes respond to various screen sizes"
+msgstr ""
+"Aktivieren Sie diese Option, damit shortcodes auf verschiedene "
+"Bildschirmgrößen reagieren."
+
+#: epanel/options_divi.php:249
+msgid "Google Fonts subsets"
+msgstr "Google Fonts Untergruppen"
+
+#: epanel/options_divi.php:253
+msgid "This will enable Google Fonts for Non-English languages."
+msgstr "Damit wird Google Fonts für nicht-englische Sprachen aktiviert."
+
+#: epanel/options_divi.php:256
+msgid "Back To Top Button"
+msgstr "Button \"Nach oben\""
+
+#: epanel/options_divi.php:260
+msgid "Enable this option to display Back To Top Button while scrolling"
+msgstr ""
+"Aktivieren Sie diese Option, damit der Button \"Nach oben\" beim Scrollen "
+"angezeigt wird."
+
+#: epanel/options_divi.php:265
+msgid "Smooth Scrolling"
+msgstr "Weiches Scrollen"
+
+#: epanel/options_divi.php:269
+msgid "Enable this option to get the smooth scrolling effect with mouse wheel"
+msgstr ""
+"Aktivieren Sie diese Option, um den das weiche Scrollen mit dem Mausrad zu "
+"erhalten."
+
+#: epanel/options_divi.php:272
+msgid "Disable Translations"
+msgstr ""
+
+#: epanel/options_divi.php:276
+msgid ""
+"Disable translations, if you don't want to display translated theme strings "
+"on your site."
+msgstr ""
+
+#: epanel/options_divi.php:281
+msgid "Custom CSS"
+msgstr "Benutzerdefinierte CSS"
+
+#: epanel/options_divi.php:285
+msgid "Here you can add custom css to override or extend default styles."
+msgstr ""
+"Hier können Sie benutzerdefinierte CSS hinzufügen, um Standard-Styles zu "
+"überschreiben oder zu erweitern."
+
+#: epanel/options_divi.php:304
+msgid "Pages"
+msgstr "Seiten"
+
+#: epanel/options_divi.php:309
+msgid "Categories"
+msgstr "Kategorien"
+
+#: epanel/options_divi.php:322
+msgid "Exclude pages from the navigation bar"
+msgstr "Seiten von der Navigationsleiste ausschließen"
+
+#: epanel/options_divi.php:326
+msgid ""
+"Here you can choose to remove certain pages from the navigation menu. All "
+"pages marked with an X will not appear in your navigation bar. "
+msgstr ""
+"Hier können Sie Seiten bestimmen, die aus dem Navigationsmenü ausgeschlossen "
+"werden. Alle mit einem X markierten Seiten werden in Ihrer Navigationsleiste "
+"nicht angezeigt. "
+
+#: epanel/options_divi.php:330 epanel/options_divi.php:385
+msgid "Show dropdown menus"
+msgstr "Dropdown-Menüs anzeigen"
+
+#: epanel/options_divi.php:334
+msgid ""
+"If you would like to remove the dropdown menus from the pages navigation bar "
+"disable this feature."
+msgstr ""
+"Deaktivieren Sie diese Funktion, wenn Sie die Dropdown-Menüs aus der "
+"Navigationsleiste entfernen möchten."
+
+#: epanel/options_divi.php:337
+msgid "Display Home link"
+msgstr "Link zur Startseite anzeigen"
+
+#: epanel/options_divi.php:341
+msgid ""
+"By default the theme creates a Home link that, when clicked, leads back to "
+"your blog's homepage. If, however, you are using a static homepage and have "
+"already created a page called Home to use, this will result in a duplicate "
+"link. In this case you should disable this feature to remove the link."
+msgstr ""
+"Standardmäßig erstellt das Theme einen Link zur Startseite, der zurück zur "
+"Startseite Ihres Blogs führt. Wenn Sie eine statische Startseite verwenden "
+"und bereits eine Startseite erstellt haben, führt dies zu einem doppelten "
+"Link. In diesem Fall sollten Sie diese Funktion deaktivieren, um den Link zu "
+"entfernen."
+
+#: epanel/options_divi.php:346
+msgid "Sort Pages Links"
+msgstr "Seitenlinks anordnen"
+
+#: epanel/options_divi.php:350
+msgid "Here you can choose to sort your pages links."
+msgstr "Hier können Sie auswählen, wie Ihre Seitenlinks angeordnet werden."
+
+#: epanel/options_divi.php:353
+msgid "Order Pages Links by Ascending/Descending"
+msgstr "Seitenlinks aufsteigend/absteigend anordnen"
+
+#: epanel/options_divi.php:357
+msgid ""
+"Here you can choose to reverse the order that your pages links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+"Hier können Sie die Anordnung Ihrer Seitenlinks umkehren. Sie können "
+"zwischen \"Aufsteigend\" und \"Absteigend\" wählen."
+
+#: epanel/options_divi.php:360 epanel/options_divi.php:401
+msgid "Number of dropdown tiers shown"
+msgstr "Anzahl von angezeigten Dropdown-Ebenen"
+
+#: epanel/options_divi.php:364 epanel/options_divi.php:405
+msgid ""
+"This options allows you to control how many teirs your pages dropdown menu "
+"has. Increasing the number allows for additional menu items to be shown."
+msgstr ""
+"Mit dieser Option können Sie festlegen, wie viele Ebenen die Dropdown-Menüs "
+"Ihrer Seiten haben. Erhöhen der Zahl ermöglicht die Anzeige zusätzlicher "
+"Menüpunkte."
+
+#: epanel/options_divi.php:377
+msgid "Exclude categories from the navigation bar"
+msgstr "Kategorien von der Navigationsleiste ausschließen"
+
+#: epanel/options_divi.php:381
+msgid ""
+"Here you can choose to remove certain categories from the navigation menu. "
+"All categories marked with an X will not appear in your navigation bar. "
+msgstr ""
+"Hier können Sie Kategorien bestimmen, die aus dem Navigationsmenü "
+"ausgeschlossen werden. Alle mit einem X markierten Kategorien werden in "
+"Ihrer Navigationsleiste nicht angezeigt. "
+
+#: epanel/options_divi.php:389
+msgid ""
+"If you would like to remove the dropdown menus from the categories "
+"navigation bar disable this feature."
+msgstr ""
+"Deaktivieren Sie diese Funktion, wenn Sie die Dropdown-Menüs aus der "
+"Kategorie-Navigationsleiste entfernen möchten."
+
+#: epanel/options_divi.php:392
+msgid "Hide empty categories"
+msgstr "Leere Kategorien ausblenden"
+
+#: epanel/options_divi.php:396
+msgid ""
+"If you would like categories to be displayed in your navigationbar that "
+"don't have any posts in them then disable this option. By default empty "
+"categories are hidden"
+msgstr ""
+"Wenn Sie möchten, dass Kategorien in Ihrer Navigationsleiste angezeigt "
+"werden, zu denen es keine Beiträge gibt, deaktivieren Sie diese Option. "
+"Standardmäßig werden leere Kategorien ausgeblendet."
+
+#: epanel/options_divi.php:411
+msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
+msgstr "Kategorie-Links nach Name/ID/Slug/Count/Term-Gruppe anordnen"
+
+#: epanel/options_divi.php:415
+msgid ""
+"By default pages are sorted by name. However if you would rather have them "
+"sorted by ID you can adjust this setting."
+msgstr ""
+"Standardmäßig werden Seiten nach Name angeordnet. Möchten Sie sie "
+"stattdessen nach ID anordnen, können Sie diese Einstellung ändern."
+
+#: epanel/options_divi.php:418
+msgid "Order Category Links by Ascending/Descending"
+msgstr "Kategorie-Links aufsteigend/absteigend anordnen"
+
+#: epanel/options_divi.php:422
+msgid ""
+"Here you can choose to reverse the order that your categories links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+"Hier können Sie die Anordnung Ihrer Kategorie-Links umkehren. Sie können "
+"zwischen \"Aufsteigend\" und \"Absteigend\" wählen."
+
+#: epanel/options_divi.php:431
+msgid "Disable top tier dropdown menu links"
+msgstr "Dropdown-Menülinks der obersten Ebene deaktivieren"
+
+#: epanel/options_divi.php:435
+msgid ""
+"In some cases users will want to create parent categories or links as "
+"placeholders to hold a list of child links or categories. In this case it is "
+"not desirable to have the parent links lead anywhere, but instead merely "
+"serve an organizational function. Enabling this options will remove the "
+"links from all parent pages/categories so that they don't lead anywhere when "
+"clicked."
+msgstr ""
+"In einigen Fällen möchten Benutzer Parent-Kategorien oder -Links erstellen, "
+"unter denen Child-Links oder -Kategorien enthalten sind. In diesem Fall ist "
+"es nicht wünschenswert, dass die Parent-Links irgendwo hinführen. Sie haben "
+"eher eine organisatorische Funktion. Wird diese Option aktiviert, dann "
+"werden die Links von allen Parent-Seiten/-Kategorien entfernt, sodass Sie "
+"beim Anklicken mit nichts verknüpft sind."
+
+#: epanel/options_divi.php:455
+msgid "Single Post Layout"
+msgstr "Einzelbeitrag-Layout"
+
+#: epanel/options_divi.php:460
+msgid "Single Page Layout"
+msgstr "Einzelseiten-Layout"
+
+#: epanel/options_divi.php:473
+msgid "Choose which items to display in the postinfo section"
+msgstr ""
+"Wählen Sie, welche Informationen im Infobereich des Beitrags angezeigt "
+"werden sollen"
+
+#: epanel/options_divi.php:477
+msgid ""
+"Here you can choose which items appear in the postinfo section on single "
+"post pages. This is the area, usually below the post title, which displays "
+"basic information about your post. The highlighted itmes shown below will "
+"appear. "
+msgstr ""
+"Hier können Sie wählen, welche Informationen in Beitragsinfo-Bereich auf "
+"Einzelbeitragsseiten angezeigt werden. Das ist der Bereich, in dem "
+"allgemeine Informationen über Ihren Beitrag angezeigt werden. Er befindet "
+"sich für gewöhnlich unter dem Beitragstitel. Die unten angezeigten "
+"markierten Informationen werden angezeigt. "
+
+#: epanel/options_divi.php:481
+msgid "Show comments on posts"
+msgstr "Kommentare zu Beiträgen anzeigen"
+
+#: epanel/options_divi.php:485
+msgid ""
+"You can disable this option if you want to remove the comments and comment "
+"form from single post pages. "
+msgstr ""
+"Sie können diese Option deaktivieren, wenn Sie die Kommentare und das "
+"Kommentarformular von den Beiträgen entfernen möchten. "
+
+#: epanel/options_divi.php:488
+msgid "Place Thumbs on Posts"
+msgstr "Thumbnails für Beiträge anzeigen"
+
+#: epanel/options_divi.php:492
+msgid ""
+"By default thumbnails are placed at the beginning of your post on single "
+"post pages. If you would like to remove this initial thumbnail image to "
+"avoid repetition simply disable this option. "
+msgstr ""
+"Standardmäßig befinden sich auf Einzelbeitragsseiten Thumbnails am Anfang "
+"Ihres Beitrags. Wenn Sie dieses Thumbnail entfernen möchten, um "
+"Wiederholungen zu vermeiden, deaktivieren Sie einfach diese Option. "
+
+#: epanel/options_divi.php:503
+msgid "Place Thumbs on Pages"
+msgstr "Thumbnails für Seiten anzeigen"
+
+#: epanel/options_divi.php:507
+msgid ""
+"By default thumbnails are not placed on pages (they are only used on posts). "
+"However, if you want to use thumbnails on pages you can! Just enable this "
+"option. "
+msgstr ""
+"Standardmäßig werden Miniaturansichten nicht auf der Seite platziert (sie "
+"werden nur in Beiträgen benutzt). Man kann Miniaturansichten jedoch auf "
+"Wunsch auf der Seite benutzen! Einfach diese Option aktivieren."
+
+#: epanel/options_divi.php:510
+msgid "Show comments on pages"
+msgstr "Kommentare zu Seiten anzeigen"
+
+#: epanel/options_divi.php:514
+msgid ""
+"By default comments are not placed on pages, however, if you would like to "
+"allow people to comment on your pages simply enable this option. "
+msgstr ""
+"Standardmäßig gibt es keine Kommentare zu Seiten. Wenn Sie Kommentare zu "
+"Ihren Seiten ermöglichen möchten, aktivieren Sie einfach diese Option. "
+
+#: epanel/options_divi.php:525
+msgid "Post info section"
+msgstr "Infobereich des Beitrags"
+
+#: epanel/options_divi.php:529
+msgid ""
+"Here you can choose which items appear in the postinfo section on pages. "
+"This is the area, usually below the post title, which displays basic "
+"information about your post. The highlighted itmes shown below will appear. "
+msgstr ""
+"Hier können Sie wählen, welche Informationen im Artikelinfo-Bereich auf "
+"Seiten angezeigt werden. Das ist der Bereich, in dem allgemeine "
+"Informationen über Ihren Beitrag angezeigt werden. Er befindet sich für "
+"gewöhnlich unter dem Beitragstitel. Die unten angezeigten markierten "
+"Informationen werden angezeigt. "
+
+#: epanel/options_divi.php:534
+msgid "Show Thumbs on Index pages"
+msgstr "Thumbnails für Index-Seiten anzeigen"
+
+#: epanel/options_divi.php:538
+msgid "Enable this option to show thumbnails on Index Pages."
+msgstr ""
+"Aktivieren Sie diese Option, um Thumbnails auf Index-Seiten anzuzeigen."
+
+#: epanel/options_divi.php:557
+msgid "Homepage SEO"
+msgstr "Startseite SEO"
+
+#: epanel/options_divi.php:562
+msgid "Single Post Page SEO"
+msgstr "Einzelbeitragsseite SEO"
+
+#: epanel/options_divi.php:567
+msgid "Index Page SEO"
+msgstr "Index-Seite SEO"
+
+#: epanel/options_divi.php:575
+msgid " Enable custom title "
+msgstr "Benutzerdefinierten Titel aktivieren "
+
+#: epanel/options_divi.php:579
+msgid ""
+"By default the theme uses a combination of your blog name and your blog "
+"description, as defined when you created your blog, to create your homepage "
+"titles. However if you want to create a custom title then simply enable this "
+"option and fill in the custom title field below. "
+msgstr ""
+"Standardmäßig verwendet das Theme eine Kombination aus dem Namen und der "
+"Beschreibung Ihres Blogs, die Sie beim Erstellen Ihres Blogs definieren, um "
+"den Titel Ihrer Startseite zu erstellen. Wenn Sie einen benutzerdefinierten "
+"Titel erstellen möchten, aktivieren Sie einfach diese Option und geben Sie "
+"Ihren benutzerdefinierten Titel im Feld unten ein. "
+
+#: epanel/options_divi.php:582
+msgid " Enable meta description"
+msgstr "Meta-Tag-Beschreibung aktivieren"
+
+#: epanel/options_divi.php:586
+msgid ""
+"By default the theme uses your blog description, as defined when you created "
+"your blog, to fill in the meta description field. If you would like to use a "
+"different description then enable this option and fill in the custom "
+"description field below. "
+msgstr ""
+"Standardmäßig verwendet das Theme die Beschreibung Ihres Blogs, die Sie beim "
+"Erstellen Ihres Blogs definieren, um das Meta-Beschreibungsfeld auszufüllen. "
+"Wenn Sie eine andere Beschreibung verwenden möchten, aktivieren Sie diese "
+"Option und geben Sie Ihre benutzerdefinierte Beschreibung im Feld unten ein. "
+
+#: epanel/options_divi.php:589
+msgid " Enable meta keywords"
+msgstr "Meta-Keywords aktivieren"
+
+#: epanel/options_divi.php:593
+msgid ""
+"By default the theme does not add keywords to your header. Most search "
+"engines don't use keywords to rank your site anymore, but some people define "
+"them anyway just in case. If you want to add meta keywords to your header "
+"then enable this option and fill in the custom keywords field below. "
+msgstr ""
+"Standardmäßig fügt das Theme Ihrem Header keine Keywords hinzu. Die meisten "
+"Suchmaschinen verwenden für das Ranking Ihrer Seite nicht länger Keywords, "
+"aber einige Leute definieren sie dennoch weiterhin. Wenn Sie Ihrem Header "
+"Meta-Keywords hinzufügen möchten, aktivieren Sie diese Option und geben Sie "
+"Ihre benutzerdefinierten Keywords im Feld unten ein. "
+
+#: epanel/options_divi.php:596 epanel/options_divi.php:729
+msgid " Enable canonical URL's"
+msgstr "Canonical URLs aktivieren"
+
+#: epanel/options_divi.php:600 epanel/options_divi.php:678
+#: epanel/options_divi.php:733
+msgid ""
+"Canonicalization helps to prevent the indexing of duplicate content by "
+"search engines, and as a result, may help avoid duplicate content penalties "
+"and pagerank degradation. Some pages may have different URLs all leading to "
+"the same place. For example domain.com, domain.com/index.html, and www."
+"domain.com are all different URLs leading to your homepage. From a search "
+"engine's perspective these duplicate URLs, which also occur often due to "
+"custom permalinks, may be treated individually instead of as a single "
+"destination. Defining a canonical URL tells the search engine which URL you "
+"would like to use officially. The theme bases its canonical URLs off your "
+"permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+"Autorisierung und Vereinheitlichung der Nachrichten hilft, die Indexierung "
+"von doppelten Inhalten durch Suchmaschinen zu verhindern und kann im "
+"Ergebnis dabei helfen, Strafen für doppelte Inhalte und Pagerank-"
+"Herabstufung zu vermeiden. Manche Seiten können verschiedene URLs haben, die "
+"alle an den gleichen Ort führen. Zum Beispiel: domain.com, domain.com/index."
+"html, und www.domain.com sind alle verschiedene URLs, die auf die Startseite "
+"führen. Aus Sicht der Suchmaschine sind diese doppelten URLs, die auch oft "
+"durch benutzerdefinierte Links entstehen können, können einzeln statt wie "
+"ein einzelnes Ziel behandelt werden. Festlegen einer anerkannten URL sagt "
+"der der Suchmaschine, welche URL offiziell benutzt werden soll. Das Theme "
+"basiert seine anerkannten URLs auf den Links und dem Domain-Namen, der im "
+"Einstellungs-Tab von wp-admin definiert ist."
+
+#: epanel/options_divi.php:605
+msgid "Homepage custom title (if enabled)"
+msgstr "Benutzerdefinierter Startseitentitel (falls aktiviert)"
+
+#: epanel/options_divi.php:609
+msgid ""
+"If you have enabled custom titles you can add your custom title here. "
+"Whatever you type here will be placed between the < title >< /title > tags "
+"in header.php"
+msgstr ""
+"Wenn Sie benutzerdefinierte Titel aktiviert haben, können Sie hier Ihren "
+"benutzerdefinierten Titel hinzufügen. Was Sie hier eintippen, wird zwischen "
+"den < title >< /title >-Tags in header.php platziert."
+
+#: epanel/options_divi.php:613
+msgid "Homepage meta description (if enabled)"
+msgstr "Meta-Beschreibung der Startseite (falls aktiviert)"
+
+#: epanel/options_divi.php:617
+msgid ""
+"If you have enabled meta descriptions you can add your custom description "
+"here."
+msgstr ""
+"Wenn Sie Meta-Beschreibungen aktiviert haben, können Sie hier Ihre "
+"benutzerdefinierte Beschreibung hinzufügen."
+
+#: epanel/options_divi.php:621
+msgid "Homepage meta keywords (if enabled)"
+msgstr "Meta-Keywords der Startseite (falls aktiviert)"
+
+#: epanel/options_divi.php:625
+msgid ""
+"If you have enabled meta keywords you can add your custom keywords here. "
+"Keywords should be separated by comas. For example: wordpress,themes,"
+"templates,elegant"
+msgstr ""
+"Wenn Sie Meta-Keywords aktiviert haben, können Sie hier Ihre "
+"benutzerdefinierten Keywords hinzufügen. Keywords müssen durch Kommata "
+"getrennt werden. Zum Beispiel: wordpress,themes,templates,elegant"
+
+#: epanel/options_divi.php:629 epanel/options_divi.php:707
+msgid "If custom titles are disabled, choose autogeneration method"
+msgstr ""
+"Wenn benutzerdefinierte Titel deaktiviert sind, wählen Sie die automatische "
+"Generierungsmethode."
+
+#: epanel/options_divi.php:634
+msgid ""
+"If you are not using cutsom post titles you can still have control over how "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"Wenn Sie keine benutzerdefinierten Beitragstitel verwenden, haben Sie "
+"dennoch die Kontrolle darüber, wie Ihre Titel generiert werden. Hier können "
+"Sie wählen, in welcher Reihenfolge Ihr Beitragstitel und Blogname angezeigt "
+"werden, oder den Blognamen komplett aus dem Titel entfernen."
+
+#: epanel/options_divi.php:637 epanel/options_divi.php:715
+#: epanel/options_divi.php:753
+msgid "Define a character to separate BlogName and Post title"
+msgstr "Zeichen zur Trennung von Webseiten-Name und Beitragstitel definieren"
+
+#: epanel/options_divi.php:641 epanel/options_divi.php:719
+msgid ""
+"Here you can change which character separates your blog title and post name "
+"when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"Hier können Sie auswählen, welches Zeichen den Titel Ihres Blogs und Namen "
+"des Beitrags voneinander trennt, wenn automatisch generierte Beitragstitel "
+"verwendet werden. Übliche Werte sind | oder -"
+
+#: epanel/options_divi.php:651
+msgid "Enable custom titles"
+msgstr "Benutzerdefinierte Titel aktivieren"
+
+#: epanel/options_divi.php:655
+msgid ""
+"By default the theme creates post titles based on the title of your post and "
+"your blog name. If you would like to make your meta title different than "
+"your actual post title you can define a custom title for each post using "
+"custom fields. This option must be enabled for custom titles to work, and "
+"you must choose a custom field name for your title below."
+msgstr ""
+"Standardmäßig erstellt das Theme Beitragstitel basierend auf dem Titel Ihres "
+"Beitrags und dem Namen Ihres Blogs. Wenn Sie möchten, dass sich Ihr Meta-"
+"Titel von Ihrem tatsächlichen Beitragstitel unterscheidet, können Sie "
+"mithilfe von benutzerdefinierten Feldern einen benutzerdefinierten Titel für "
+"jeden Beitrag definieren. Damit benutzerdefinierte Titel funktionieren, muss "
+"diese Option aktiviert sein. Sie müssen ein benutzerdefiniertes Feld für "
+"Ihren Titel auswählen."
+
+#: epanel/options_divi.php:658
+msgid "Enable custom description"
+msgstr "Benutzerdefinierte Beschreibung aktivieren"
+
+#: epanel/options_divi.php:662
+msgid ""
+"If you would like to add a meta description to your post you can do so using "
+"custom fields. This option must be enabled for descriptions to be displayed "
+"on post pages. You can add your meta description using custom fields based "
+"off the custom field name you define below."
+msgstr ""
+"Wenn Sie Ihrem Beitrag eine Meta-Beschreibung hinzufügen möchten, können Sie "
+"das mithilfe von benutzerdefinierten Feldern bewerkstelligen. Diese Option "
+"muss aktiviert sein, damit Beschreibungen auf den Beitragsseiten angezeigt "
+"werden. Sie können mithilfe von benutzerdefinierten Feldern Ihre Meta-"
+"Beschreibung basierend auf dem Namen des benutzerdefinierten Feldes, den Sie "
+"unten definieren, hinzufügen."
+
+#: epanel/options_divi.php:667
+msgid "Enable custom keywords"
+msgstr "Benutzerdefinierte Keywords aktivieren"
+
+#: epanel/options_divi.php:671
+msgid ""
+"If you would like to add meta keywords to your post you can do so using "
+"custom fields. This option must be enabled for keywords to be displayed on "
+"post pages. You can add your meta keywords using custom fields based off the "
+"custom field name you define below."
+msgstr ""
+"Wenn Sie Ihrem Beitrag Meta-Keywords hinzufügen möchten, können Sie das "
+"mithilfe von benutzerdefinierten Feldern bewerkstelligen. Diese Option muss "
+"aktiviert sein, damit Keywords auf den Beitragsseiten angezeigt werden. Sie "
+"können mithilfe von benutzerdefinierten Feldern Ihre Meta-Keywords basierend "
+"auf dem Namen des benutzerdefinierten Feldes, den sie unten definieren, "
+"hinzufügen."
+
+#: epanel/options_divi.php:674
+msgid "Enable canonical URL's"
+msgstr "Canonical URLs aktivieren"
+
+#: epanel/options_divi.php:683
+msgid "Custom field Name to be used for title"
+msgstr "Benutzerdefiniertes Feld \"Name\" für die Verwendung im Titel"
+
+#: epanel/options_divi.php:687
+msgid ""
+"When you define your title using custom fields you should use this value for "
+"the custom field Name. The Value of your custom field should be the custom "
+"title you would like to use."
+msgstr ""
+"Wenn Sie Ihren Titel mithilfe von benutzerdefinierten Feldern definieren, "
+"sollten Sie diesen Wert für das benutzerdefinierte Feld \"Name\" verwenden. "
+"Der Wert Ihres benutzerdefinierten Felds sollte der benutzerdefinierte Titel "
+"sein, den Sie verwenden möchten."
+
+#: epanel/options_divi.php:691
+msgid "Custom field Name to be used for description"
+msgstr ""
+"Benutzerdefiniertes Feld \"Name\" für die Verwendung in der Beschreibung"
+
+#: epanel/options_divi.php:695
+msgid ""
+"When you define your meta description using custom fields you should use "
+"this value for the custom field Name. The Value of your custom field should "
+"be the custom description you would like to use."
+msgstr ""
+"Wenn Sie Ihre Meta-Beschreibung mithilfe von benutzerdefinierten Feldern "
+"definieren, sollten Sie diesen Wert für das benutzerdefinierte Feld \"Name\" "
+"verwenden. Der Wert Ihres benutzerdefinierten Felds sollte die "
+"benutzerdefinierte Beschreibung sein, die Sie verwenden möchten."
+
+#: epanel/options_divi.php:699
+msgid "Custom field Name to be used for keywords"
+msgstr "Benutzerdefiniertes Feld \"Name\" für die Verwendung für Keywords"
+
+#: epanel/options_divi.php:703
+msgid ""
+"When you define your keywords using custom fields you should use this value "
+"for the custom field Name. The Value of your custom field should be the meta "
+"keywords you would like to use, separated by comas."
+msgstr ""
+"Wenn Sie Ihre Keywords mithilfe von benutzerdefinierten Feldern definieren, "
+"sollten Sie diesen Wert für das benutzerdefinierte Feld \"Name\" verwenden. "
+"Der Wert Ihres benutzerdefinierten Felds sollten die durch Kommata "
+"getrennten Meta-Keywords sein, die Sie verwenden möchten."
+
+#: epanel/options_divi.php:712
+msgid ""
+"If you are not using cutsom post titles you can still have control over hw "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"Wenn Sie keine benutzerdefinierten Beitragstitel verwenden, haben Sie "
+"dennoch die Kontrolle darüber, wie Ihre Titel generiert werden. Hier können "
+"Sie wählen, in welcher Reihenfolge Ihr Beitragstitel und Blogname angezeigt "
+"werden, oder den Blognamen komplett aus dem Titel entfernen."
+
+#: epanel/options_divi.php:736
+msgid "Enable meta descriptions"
+msgstr "Meta-Beschreibungen aktivieren"
+
+#: epanel/options_divi.php:740
+msgid ""
+"Check this box if you want to display meta descriptions on category/archive "
+"pages. The description is based off the category description you choose when "
+"creating/edit your category in wp-admin."
+msgstr ""
+"Aktivieren Sie diese Box, wenn Sie Meta-Beschreibungen für Kategorie-/"
+"Archivseiten anzeigen möchten. Die Beschreibung basiert auf der Kategorie-"
+"Beschreibung, die Sie beim Erstellen/Bearbeiten Ihrer Kategorie in wp-admin "
+"auswählen."
+
+#: epanel/options_divi.php:745
+msgid "Choose title autogeneration method"
+msgstr "Methode für Generierung der Titel wählen"
+
+#: epanel/options_divi.php:750
+msgid ""
+"Here you can choose how your titles on index pages are generated. You can "
+"change which order your blog name and index title are displayed, or you can "
+"remove the blog name from the title completely."
+msgstr ""
+"Hier können Sie auswählen, wie die Titel auf Index-Seiten generiert werden. "
+"Sie können die Reihenfolge, in der Ihr Blogname und Indextitel angezeigt "
+"werden, ändern oder den Blognamen komplett aus dem Titel entfernen."
+
+#: epanel/options_divi.php:757
+msgid ""
+"Here you can change which character separates your blog title and index page "
+"name when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"Hier können Sie auswählen, welches Zeichen den Titel Ihres Blogs und "
+"Indexnamens voneinander trennt, wenn automatisch generierte Beitragstitel "
+"verwendet werden. Übliche Werte sind | oder -"
+
+#: epanel/options_divi.php:778
+msgid "Code Integration"
+msgstr "Code-Integration"
+
+#: epanel/options_divi.php:786
+msgid "Enable header code"
+msgstr "Header-Code aktivieren"
+
+#: epanel/options_divi.php:790
+msgid ""
+"Disabling this option will remove the header code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"Wenn diese Option deaktiviert wird, wird der Header-Code unten aus Ihrem "
+"Blog entfernt. Dies ermöglicht Ihnen das Entfernen des Codes und das "
+"Speichern des Codes für späteren Gebrauch."
+
+#: epanel/options_divi.php:793
+msgid "Enable body code"
+msgstr "< body >-Code aktivieren"
+
+#: epanel/options_divi.php:797
+msgid ""
+"Disabling this option will remove the body code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"Wenn diese Option deaktiviert wird, wird der Body-Code unten aus Ihrem Blog "
+"entfernt. Dies ermöglicht Ihnen das Entfernen des Codes und das Speichern "
+"des Codes für späteren Gebrauch."
+
+#: epanel/options_divi.php:802
+msgid "Enable single top code"
+msgstr "Single Top Code aktivieren"
+
+#: epanel/options_divi.php:806
+msgid ""
+"Disabling this option will remove the single top code below from your blog. "
+"This allows you to remove the code while saving it for later use."
+msgstr ""
+"Wenn diese Option deaktiviert wird, wird der Single Top Code unten aus Ihrem "
+"Blog entfernt. Dies ermöglicht Ihnen das Entfernen des Codes und das "
+"Speichern des Codes für späteren Gebrauch."
+
+#: epanel/options_divi.php:809
+msgid "Enable single bottom code"
+msgstr "Single Bottom Code aktivieren"
+
+#: epanel/options_divi.php:813
+msgid ""
+"Disabling this option will remove the single bottom code below from your "
+"blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+"Wenn diese Option deaktiviert wird, wird der Single Bottom Code unten aus "
+"Ihrem Blog entfernt. Dies ermöglicht Ihnen das Entfernen des Codes und das "
+"Speichern des Codes für späteren Gebrauch."
+
+#: epanel/options_divi.php:818
+msgid "Add code to the < head > of your blog"
+msgstr "Code dem < head > Ihres Blogs hinzufügen"
+
+#: epanel/options_divi.php:822
+msgid ""
+"Any code you place here will appear in the head section of every page of "
+"your blog. This is useful when you need to add javascript or css to all "
+"pages."
+msgstr ""
+"Alle Codes, die hier platziert werden, erscheinen im Kopfzeilenabschnitt "
+"jeder Seite Ihres Blogs. Das ist vor allem nützlich, wenn Sie allen Seiten "
+"Javascript oder CSS hinzufügen müssen."
+
+#: epanel/options_divi.php:825
+msgid ""
+"Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr ""
+"Code dem < body > hinzufügen (hilfreich beim Verfolgen von Codes wie "
+"beispielsweise Google Analytics)"
+
+#: epanel/options_divi.php:829
+msgid ""
+"Any code you place here will appear in body section of all pages of your "
+"blog. This is usefull if you need to input a tracking pixel for a state "
+"counter such as Google Analytics."
+msgstr ""
+"Alle Codes, die hier platziert werden, erscheinen im Hauptabschnitt jeder "
+"Seite Ihres Blogs. Das ist vor allem nützlich, wenn Sie einen Tracking-Pixel "
+"für einen Zugriffszähler wie beispielsweise Google Analytics einfügen müssen."
+
+#: epanel/options_divi.php:832
+msgid "Add code to the top of your posts"
+msgstr "Code im oberen Bereich Ihrer Beiträge einfügen"
+
+#: epanel/options_divi.php:836 epanel/options_divi.php:843
+msgid ""
+"Any code you place here will be placed at the top of all single posts. This "
+"is useful if you are looking to integrating things such as social "
+"bookmarking links."
+msgstr ""
+"Alle Codes, die hier platziert werden, erscheinen im oberen Teil aller "
+"Beiträge. Das ist vor allen nützlich wenn Sie Bookmarking-Links aus sozialen "
+"Netzwerken und Ähnliches integrieren möchten."
+
+#: epanel/options_divi.php:839
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr "Code im unteren Bereich Ihrer Beiträge, vor den Kommentaren einfügen"
+
+#: epanel/options_divi.php:861
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: epanel/options_divi.php:887
+msgid "Manage Un-widgetized Advertisements"
+msgstr "Anzeigen verwalten"
+
+#: epanel/options_divi.php:895
+msgid "Enable Single Post 468x60 banner"
+msgstr "468x60-Banner für einzelne Beiträge aktivieren"
+
+#: epanel/options_divi.php:899
+msgid ""
+"Enabling this option will display a 468x60 banner ad on the bottom of your "
+"post pages below the single post content. If enabled you must fill in the "
+"banner image and destination url below."
+msgstr ""
+"Wenn diese Option aktiviert wird, wird unterhalb der Inhalte einzelner "
+"Beiträge ein 468x60 großes Werbebanner angezeigt. Ist diese Option "
+"aktiviert, müssen Sie die Banner-Bild- und Ziel-URL unten eingeben."
+
+#: epanel/options_divi.php:904
+msgid "Input 468x60 advertisement banner image"
+msgstr "468x60-Werbebanner-Bild-URL eingeben"
+
+#: epanel/options_divi.php:908
+msgid "Here you can provide 468x60 banner image url"
+msgstr "Hier können Sie die Bild-URL für ein 468x60-Banner eingeben"
+
+#: epanel/options_divi.php:912
+msgid "Input 468x60 advertisement destination url"
+msgstr "468x60-Werbebanner-Ziel-URL eingeben"
+
+#: epanel/options_divi.php:916
+msgid "Here you can provide 468x60 banner destination url"
+msgstr "Hier können Sie die Ziel-URL für ein 468x60-Banner eingeben"
+
+#: epanel/options_divi.php:920
+msgid "Input 468x60 adsense code"
+msgstr "468x60-Google Adsense-Code eingeben"
+
+#: epanel/options_divi.php:924
+msgid "Place your adsense code here."
+msgstr "Geben Sie Ihren Google Adsense-Code hier ein."
+
+#: epanel/shortcodes/shortcodes.php:15 epanel/shortcodes/shortcodes.php:518
+msgid "Previous"
+msgstr "Vorherige"
+
+#: epanel/shortcodes/shortcodes.php:15 epanel/shortcodes/shortcodes.php:519
+msgid "Next"
+msgstr "Nächste"
+
+#: epanel/shortcodes/shortcodes.php:273
+msgid "Tweet"
+msgstr "Tweeten"
+
+#: epanel/shortcodes/shortcodes.php:289
+msgid "Member Login"
+msgstr "Mitglieder-Login"
+
+#: epanel/shortcodes/shortcodes.php:292
+msgid "Username: "
+msgstr "Benutzername: "
+
+#: epanel/shortcodes/shortcodes.php:293
+msgid "Password: "
+msgstr "Passwort: "
+
+#: epanel/shortcodes/shortcodes.php:294 functions.php:3492
+msgid "Login"
+msgstr "Login"
+
+#: epanel/shortcodes/shortcodes.php:330
+msgid "Add a Tooltip Text"
+msgstr "Tooltip-Text hinzufügen"
+
+#: epanel/shortcodes/shortcodes.php:352
+msgid "Click here to learn more"
+msgstr "Hier klicken, um mehr zu erfahren"
+
+#: epanel/shortcodes/shortcodes.php:732
+msgid "Join Now"
+msgstr "Jetzt beitreten"
+
+#: epanel/shortcodes/shortcodes.php:967
+msgid "Add ET Learn more block"
+msgstr "Einen Umschaltblock hinzufügen"
+
+#: epanel/shortcodes/shortcodes.php:968
+msgid "Add ET Box"
+msgstr "Kasten hinzufügen"
+
+#: epanel/shortcodes/shortcodes.php:969
+msgid "Add ET Button"
+msgstr "Button hinzufügen"
+
+#: epanel/shortcodes/shortcodes.php:970
+msgid "Add ET Tabs"
+msgstr "Registerkarten hinzufügen"
+
+#: epanel/shortcodes/shortcodes.php:971
+msgid "Add Author Bio"
+msgstr "Autorbiografie hinzufügen"
+
+#: epanel/shortcodes/shortcodes.php:972
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: epanel/shortcodes/shortcodes.php:977
+msgid "Caption"
+msgstr "Bildunterschrift"
+
+#: epanel/shortcodes/shortcodes.php:978
+msgid "Caption goes here"
+msgstr "Hier kommt die Bildunterschrift hin"
+
+#: epanel/shortcodes/shortcodes.php:979
+msgid "Caption title goes here"
+msgstr "Hier kommt die Überschrift hin"
+
+#: epanel/shortcodes/shortcodes.php:983
+msgid "State"
+msgstr "Zustand"
+
+#: epanel/shortcodes/shortcodes.php:985
+msgid "Select between expanded and closed state"
+msgstr "Zwischen ausgeklapptem und geschlossenem Zustand wählen"
+
+#: epanel/shortcodes/shortcodes.php:990 epanel/shortcodes/shortcodes.php:1006
+#: epanel/shortcodes/shortcodes.php:1035 epanel/shortcodes/shortcodes.php:1115
+msgid "Content"
+msgstr "Inhalt"
+
+#: epanel/shortcodes/shortcodes.php:991 epanel/shortcodes/shortcodes.php:1007
+#: epanel/shortcodes/shortcodes.php:1093 epanel/shortcodes/shortcodes.php:1116
+msgid "Content goes here"
+msgstr "Hier kommt der Inhalt hin"
+
+#: epanel/shortcodes/shortcodes.php:992 epanel/shortcodes/shortcodes.php:1008
+#: epanel/shortcodes/shortcodes.php:1037
+msgid "Content text or html"
+msgstr "Inhaltstext oder HTML"
+
+#: epanel/shortcodes/shortcodes.php:999 epanel/shortcodes/shortcodes.php:1021
+msgid "Type"
+msgstr "Typ"
+
+#: epanel/shortcodes/shortcodes.php:1001
+msgid "Type of the box"
+msgstr "Typ der Box"
+
+#: epanel/shortcodes/shortcodes.php:1015
+msgid "Link"
+msgstr "Link"
+
+#: epanel/shortcodes/shortcodes.php:1017
+msgid "URL"
+msgstr "URL"
+
+#: epanel/shortcodes/shortcodes.php:1023
+msgid "Choose button type"
+msgstr "Button-Typ auswählen"
+
+#: epanel/shortcodes/shortcodes.php:1028
+msgid "Color"
+msgstr "Farbe"
+
+#: epanel/shortcodes/shortcodes.php:1030
+msgid "Choose button color"
+msgstr "Button-Farbe auswählen"
+
+#: epanel/shortcodes/shortcodes.php:1036
+msgid "Link text"
+msgstr "Link-Text"
+
+#: epanel/shortcodes/shortcodes.php:1041
+msgid "Icon"
+msgstr "Icon"
+
+#: epanel/shortcodes/shortcodes.php:1043
+msgid "Used for icon button type"
+msgstr "Verwendet für Button-Typ Icon"
+
+#: epanel/shortcodes/shortcodes.php:1048
+msgid "Open link in new window"
+msgstr "Link in neuem Fenster öffnen"
+
+#: epanel/shortcodes/shortcodes.php:1050
+msgid "Select yes if the link should be opened in a new window"
+msgstr ""
+"Wählen Sie \"Ja\", wenn der Link in einem neuen Fenster geöffnet werden soll"
+
+#: epanel/shortcodes/shortcodes.php:1058
+msgid "Slider Type"
+msgstr "Slider-Typ"
+
+#: epanel/shortcodes/shortcodes.php:1060
+msgid "Select Slider Type here"
+msgstr "Wählen Sie hier den Slider-Typ"
+
+#: epanel/shortcodes/shortcodes.php:1065
+msgid "Effect"
+msgstr "Effekt"
+
+#: epanel/shortcodes/shortcodes.php:1067
+msgid "Select Animation Effect"
+msgstr "Animationseffekt auswählen"
+
+#: epanel/shortcodes/shortcodes.php:1072
+msgid "Auto"
+msgstr "Automatisch"
+
+#: epanel/shortcodes/shortcodes.php:1074
+msgid "Choose yes if you want for automatic slider animation"
+msgstr ""
+"Wählen Sie \"Ja\", wenn Sie die automatische Slider-Animation aktivieren "
+"möchten"
+
+#: epanel/shortcodes/shortcodes.php:1079
+msgid "Auto Speed"
+msgstr "Automatische Geschwindigkeit"
+
+#: epanel/shortcodes/shortcodes.php:1081
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr ""
+"Automatische Slider-Geschwindigkeit (funktioniert nur, wenn \"Automatisch\" "
+"auf \"Ja\" gestellt ist)"
+
+#: epanel/shortcodes/shortcodes.php:1085
+msgid "Tab Text"
+msgstr "Tab-Text"
+
+#: epanel/shortcodes/shortcodes.php:1092
+msgid "Tab Content"
+msgstr "Tab-Inhalt"
+
+#: epanel/shortcodes/shortcodes.php:1094
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr ""
+"Fügen Sie die Bild-URL hier ein, wenn Sie den Slider-Typ \"images\" gewählt "
+"haben"
+
+#: epanel/shortcodes/shortcodes.php:1102
+msgid "Image Url"
+msgstr "Bild-URL"
+
+#: epanel/shortcodes/shortcodes.php:1104
+msgid "Author Image URL"
+msgstr "Bild-URL des Autors"
+
+#: epanel/shortcodes/shortcodes.php:1108
+msgid "Use resizing"
+msgstr "Skalierung verwenden"
+
+#: epanel/shortcodes/shortcodes.php:1185
+msgid "+ Add One More Tab"
+msgstr "+ fügt weiteren Tab hinzu"
+
+#: epanel/shortcodes/shortcodes.php:1335 functions.php:3154
+msgid "Image Height"
+msgstr "Bildhöhe"
+
+#: epanel/shortcodes/shortcodes.php:1336 functions.php:3134
+msgid "Image Width"
+msgstr "Bildbreite"
+
+#: footer.php:40
+msgid "Designed by %1$s | Powered by %2$s"
+msgstr "Designed by %1$s | Powered by %2$s"
+
+#: functions.php:34
+msgid "Primary Menu"
+msgstr "Hauptmenü"
+
+#: functions.php:35
+msgid "Secondary Menu"
+msgstr "Sekundäres Menü"
+
+#: functions.php:36 functions.php:645
+msgid "Footer Menu"
+msgstr "Fußzeilenmenü"
+
+#: functions.php:83
+msgid ""
+"Welcome to Divi! Before diving in to your new theme, please visit the <a "
+"style=\"color: #fff; font-weight: bold;\" href=\"%1$s\" target=\"_blank"
+"\">Divi Documentation</a> page for access to dozens of in-depth tutorials."
+msgstr ""
+"Willkommen zu Divi! Bevor Sie sich mit Ihrem neuen Design befassen, sehen "
+"Sie sich bitte die <a style=\"color: #fff; font-weight: bold;\" href=\"%1$s"
+"\" target=\"_blank\">Divi Documentation</a> Seite für Zugriff auf wichtige "
+"Tutorials an."
+
+#: functions.php:197
+msgid "Select Page"
+msgstr "Seite auswählen"
+
+#: functions.php:253
+msgid "Divi Page Settings"
+msgstr "Divi Seiteneinstellungen"
+
+#: functions.php:255
+msgid "Divi Post Settings"
+msgstr "Divi Posteinstellungen"
+
+#: functions.php:256
+msgid "Divi Product Settings"
+msgstr "Divi Produkteinstellungen"
+
+#: functions.php:257
+msgid "Divi Project Settings"
+msgstr "Divi Projekteinstellungen"
+
+#: functions.php:264
+msgid "Skills"
+msgstr "Fähigkeiten"
+
+#: functions.php:267
+msgid "Posted on"
+msgstr "Gepostet am"
+
+#: functions.php:294
+msgid "Light"
+msgstr "Hell"
+
+#: functions.php:295
+msgid "Dark"
+msgstr "Dunkel"
+
+#: functions.php:308
+msgid "Page Layout"
+msgstr "Seitenlayout"
+
+#: functions.php:322
+msgid "Dot Navigation"
+msgstr "Punktnavigation"
+
+#: functions.php:325 functions.php:334
+msgid "Off"
+msgstr "Aus"
+
+#: functions.php:326 functions.php:335
+msgid "On"
+msgstr "An"
+
+#: functions.php:330
+msgid "Hide Nav Before Scroll"
+msgstr "Vor dem Scrollen Navigation ausblenden"
+
+#: functions.php:333 functions.php:5348 includes/functions/choices.php:24
+#: includes/functions/choices.php:40
+msgid "Default"
+msgstr "Standard"
+
+#: functions.php:341
+msgid "Post Title"
+msgstr "Posttitel"
+
+#: functions.php:344
+msgid "Show"
+msgstr "Anzeigen"
+
+#: functions.php:345
+msgid "Hide"
+msgstr "Verstecken"
+
+#: functions.php:350
+msgid "Use Background Color"
+msgstr "Hintergrundfarbe verwenden"
+
+#: functions.php:355 functions.php:5384
+msgid "Hex Value"
+msgstr "Farbwert"
+
+#: functions.php:359 functions.php:1683 functions.php:1710 functions.php:1837
+#: functions.php:2358 functions.php:2458 functions.php:2663
+msgid "Text Color"
+msgstr "Textfarbe"
+
+#: functions.php:493 functions.php:505 functions.php:7928
+msgid "you don't have sufficient permissions to access this page"
+msgstr ""
+"Sie verfügen nicht über ausreichende Berechtigungen, um diese Seite zu "
+"besuchen"
+
+#: functions.php:555
+msgid "Site Identity"
+msgstr "Website-Identität"
+
+#: functions.php:565
+msgid "Typography"
+msgstr "Typographie"
+
+#: functions.php:570
+msgid "Mobile Styles"
+msgstr "Mobile Designs"
+
+#: functions.php:575
+msgid "Tablet"
+msgstr "Tablet"
+
+#: functions.php:580
+msgid "Phone"
+msgstr "Handy"
+
+#: functions.php:585
+msgid "Mobile Menu"
+msgstr "Menü für mobile Geräte"
+
+#: functions.php:590
+msgid "Background"
+msgstr "Hintergrund"
+
+#: functions.php:595
+msgid "Header & Navigation"
+msgstr "Header & Navigation"
+
+#: functions.php:600
+msgid "Header Format"
+msgstr "Headerformat"
+
+#: functions.php:605
+msgid "Primary Menu Bar"
+msgstr "Primäre Menüleiste"
+
+#: functions.php:610
+msgid "Secondary Menu Bar"
+msgstr "Sekundäre Menüleiste"
+
+#: functions.php:615
+msgid "Fixed Navigation Settings"
+msgstr "Festgelegte Navigationseinstellungen"
+
+#: functions.php:620
+msgid "Header Elements"
+msgstr "Headerelemente"
+
+#: functions.php:625
+msgid "Footer"
+msgstr "Footer"
+
+#: functions.php:630
+msgid "Layout"
+msgstr "Layout"
+
+#: functions.php:635
+msgid "Widgets"
+msgstr "Widgets"
+
+#: functions.php:640
+msgid "Footer Elements"
+msgstr "Footerelemente"
+
+#: functions.php:650
+msgid "Bottom Bar"
+msgstr "Untere Leiste"
+
+#: functions.php:655 functions.php:1376
+msgid "Color Schemes"
+msgstr "Farbschemata"
+
+#: functions.php:657
+msgid ""
+"Note: Color settings set above should be applied to the Default color scheme."
+msgstr ""
+"Hinweis: Die oben eingestellten Farbeinstellungen sollten auf das Standard-"
+"Farbschema angewendet werden."
+
+#: functions.php:661
+msgid "Buttons"
+msgstr "Schaltflächen"
+
+#: functions.php:666
+msgid "Buttons Style"
+msgstr "Schaltflächenstil"
+
+#: functions.php:671
+msgid "Buttons Hover Style"
+msgstr "Schaltflächenstil beim Herüberfahren"
+
+#: functions.php:676 functions.php:4682
+msgid "Blog"
+msgstr "Blog"
+
+#: functions.php:681
+msgid "Post"
+msgstr "Post"
+
+#: functions.php:698
+msgid "Meta Text Size"
+msgstr "Metatextgröße"
+
+#: functions.php:717
+msgid "Meta Line Height"
+msgstr "Metazeilenhöhe"
+
+#: functions.php:736
+msgid "Meta Letter Spacing"
+msgstr "Metazeilenabstand"
+
+#: functions.php:755 functions.php:4752 functions.php:4832
+msgid "Meta Font Style"
+msgstr "Metaschriftformat"
+
+#: functions.php:770 functions.php:1176 functions.php:1248 functions.php:1267
+#: functions.php:2104
+msgid "Header Text Size"
+msgstr "Textgröße im Header"
+
+#: functions.php:789 functions.php:1214
+msgid "Header Line Height"
+msgstr "Zeilenhöhe im Header"
+
+#: functions.php:808 functions.php:1195
+msgid "Header Letter Spacing"
+msgstr "Zeichenabstand im Header"
+
+#: functions.php:827 functions.php:1233 functions.php:2123 functions.php:3022
+#: functions.php:3202 functions.php:3318 functions.php:3382 functions.php:3462
+#: functions.php:3526 functions.php:4325 functions.php:5028 functions.php:5136
+msgid "Header Font Style"
+msgstr "Schriftformat im Header"
+
+#: functions.php:841
+msgid "Enable Boxed Layout"
+msgstr "Boxlayout aktivieren"
+
+#: functions.php:855
+msgid "Website Content Width"
+msgstr "Inhaltsbreite der Website"
+
+#: functions.php:874
+msgid "Website Gutter Width"
+msgstr "Spaltenabstände der Website"
+
+#: functions.php:892
+msgid "Use Custom Sidebar Width"
+msgstr "Verwenden Sie Benutzerdefinierte Breite Sidebar"
+
+#: functions.php:906
+msgid "Sidebar Width"
+msgstr "Seitenbalkenbreite"
+
+#: functions.php:925 functions.php:944 functions.php:963
+msgid "Section Height"
+msgstr "Sektionshöhe"
+
+#: functions.php:982 functions.php:1001 functions.php:1020
+msgid "Row Height"
+msgstr "Zeilenhöhe"
+
+#: functions.php:1039
+msgid "Stretch Background Image"
+msgstr "Hintergrundbild strecken"
+
+#: functions.php:1046 functions.php:1738 functions.php:1809 functions.php:1823
+#: functions.php:2344 functions.php:2472 functions.php:2677
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: functions.php:1053
+msgid "Background Image"
+msgstr "Hintergrundbild"
+
+#: functions.php:1059
+msgid "Background Repeat"
+msgstr "Hintergrundwiederholung"
+
+#: functions.php:1063
+msgid "No Repeat"
+msgstr "Keine Wiederholung"
+
+#: functions.php:1064
+msgid "Tile"
+msgstr "Kacheln"
+
+#: functions.php:1065
+msgid "Tile Horizontally"
+msgstr "Horizontal kacheln"
+
+#: functions.php:1066
+msgid "Tile Vertically"
+msgstr "Vertikal kacheln"
+
+#: functions.php:1071 functions.php:1082
+msgid "Background Position"
+msgstr "Hintergrundposition"
+
+#: functions.php:1075 includes/functions/choices.php:104
+msgid "Left"
+msgstr "Links"
+
+#: functions.php:1076
+msgid "Center"
+msgstr "Zentriert"
+
+#: functions.php:1077 includes/functions/choices.php:103
+msgid "Right"
+msgstr "Rechts"
+
+#: functions.php:1086
+msgid "Scroll"
+msgstr "Scrollen"
+
+#: functions.php:1087
+msgid "Fixed"
+msgstr "Festgelegt"
+
+#: functions.php:1100 functions.php:1138 functions.php:1157
+msgid "Body Text Size"
+msgstr "Schriftgröße im Body"
+
+#: functions.php:1119
+msgid "Body Line Height"
+msgstr "Zeilenhöhe im Body"
+
+#: functions.php:1287
+msgid "Header Font"
+msgstr "Schriftart Kopfzeile"
+
+#: functions.php:1303
+msgid "Body Font"
+msgstr "Haupt-Schriftart"
+
+#: functions.php:1320
+msgid "Body Link Color"
+msgstr "Linkfarbe im Body"
+
+#: functions.php:1334
+msgid "Body Text Color"
+msgstr "Schriftfarbe im Body"
+
+#: functions.php:1348
+msgid "Header Text Color"
+msgstr "Schriftfarbe im Header"
+
+#: functions.php:1362
+msgid "Theme Accent Color"
+msgstr "Akzentfarbe im Design"
+
+#: functions.php:1392
+msgid "Header Style"
+msgstr "Kopfzeilen-Stil"
+
+#: functions.php:1406
+msgid "Enable Vertical Navigation"
+msgstr "Vertikale Navigation aktivieren"
+
+#: functions.php:1421
+msgid "Hide Navigation Until Scroll"
+msgstr "Navigation bis zum Scrollen verbergen"
+
+#: functions.php:1436 functions.php:2060
+msgid "Show Social Icons"
+msgstr "Sozialicons zeigen"
+
+#: functions.php:1450
+msgid "Show Search Icon"
+msgstr "Suchsymbol anzeigen"
+
+#: functions.php:1463 functions.php:1606
+msgid "Make Full Width"
+msgstr "Volle Breite nutzen"
+
+#: functions.php:1476 functions.php:1696 functions.php:1912
+msgid "Hide Logo Image"
+msgstr "Logobild verbergen"
+
+#: functions.php:1490
+msgid "Menu Height"
+msgstr "Menu Höhe"
+
+#: functions.php:1509
+msgid "Logo Max Height"
+msgstr "Logo Max Höhe"
+
+#: functions.php:1528 functions.php:1612 functions.php:1945 functions.php:2439
+msgid "Text Size"
+msgstr "Schriftgröße"
+
+#: functions.php:1547 functions.php:1631 functions.php:2290 functions.php:2538
+#: functions.php:2724
+msgid "Letter Spacing"
+msgstr "Zeichenabstand"
+
+#: functions.php:1567 functions.php:1651
+msgid "Font"
+msgstr "Schriftart"
+
+#: functions.php:1584 functions.php:1668 functions.php:2309 functions.php:2372
+msgid "Font Style"
+msgstr "Zeichenformat"
+
+#: functions.php:1724
+msgid "Active Link Color"
+msgstr "Farbe für aktiven Link"
+
+#: functions.php:1752 functions.php:1851
+msgid "Dropdown Menu Background Color"
+msgstr "Hintergrundfarbe für Drop-Down-Menü"
+
+#: functions.php:1766
+msgid "Dropdown Menu Line Color"
+msgstr "Linienfarbe für Drop-Down-Menü"
+
+#: functions.php:1780 functions.php:1865
+msgid "Dropdown Menu Text Color"
+msgstr "Schriftfarbe für Drop-Down-Menü"
+
+#: functions.php:1794 functions.php:1879
+msgid "Dropdown Menu Animation"
+msgstr "Animation für Drop-Down-Menü"
+
+#: functions.php:1926
+msgid "Fixed Menu Height"
+msgstr "Feste Menü Höhe"
+
+#: functions.php:1964
+msgid "Primary Menu Background Color"
+msgstr "Haupthintergrundfarbe im Menü"
+
+#: functions.php:1978
+msgid "Secondary Menu Background Color"
+msgstr "Sekundäre Hintergrundfarbe im Menü"
+
+#: functions.php:1992
+msgid "Primary Menu Link Color"
+msgstr "Primary Menu Linkfarbe"
+
+#: functions.php:2005
+msgid "Secondary Menu Link Color"
+msgstr "Sekundärmenü Linkfarbe"
+
+#: functions.php:2019
+msgid "Active Primary Menu Link Color"
+msgstr "Aktive Primary Menu Linkfarbe"
+
+#: functions.php:2033
+msgid "Phone Number"
+msgstr "Telefonnummer"
+
+#: functions.php:2046
+msgid "Email"
+msgstr "E-Mail-Adresse"
+
+#: functions.php:2074
+msgid "Column Layout"
+msgstr "Spaltenlayout"
+
+#: functions.php:2090
+msgid "Footer Background Color"
+msgstr "Fußzeilen-Hintergrundfarbe"
+
+#: functions.php:2138
+msgid "Body/Link Text Size"
+msgstr "Body/Link Schriftgröße"
+
+#: functions.php:2157
+msgid "Body/Link Line Height"
+msgstr "Body/Link Zeilenhöhe"
+
+#: functions.php:2176
+msgid "Body Font Style"
+msgstr "Schriftformat im Body"
+
+#: functions.php:2191
+msgid "Widget Text Color"
+msgstr "Textfarbe für Widget"
+
+#: functions.php:2205
+msgid "Widget Link Color"
+msgstr "Linkfarbe für Widgets"
+
+#: functions.php:2219
+msgid "Widget Header Color"
+msgstr "Headerfarbe für Widgets"
+
+#: functions.php:2233
+msgid "Widget Bullet Color"
+msgstr "Punktfarbe für Widgets"
+
+#: functions.php:2248
+msgid "Footer Menu Background Color"
+msgstr "Hintergrundfarbe fürs Footermenü"
+
+#: functions.php:2262
+msgid "Footer Menu Text Color"
+msgstr "Schriftfarbe fürs Footermenü"
+
+#: functions.php:2276
+msgid "Footer Menu Active Link Color"
+msgstr "Farbe für aktive Links im Footermenü"
+
+#: functions.php:2324 functions.php:2387
+msgid "Font Size"
+msgstr "Schriftgröße"
+
+#: functions.php:2406
+msgid "Social Icon Size"
+msgstr "Größe von Sozialicons"
+
+#: functions.php:2425
+msgid "Social Icon Color"
+msgstr "Farbe von Sozialicons"
+
+#: functions.php:2486
+msgid "Border Width"
+msgstr "Umrandungsbreite"
+
+#: functions.php:2505 functions.php:2691
+msgid "Border Color"
+msgstr "Umrandungsfarbe"
+
+#: functions.php:2519 functions.php:2705
+msgid "Border Radius"
+msgstr "Umrandungsradius"
+
+#: functions.php:2557 functions.php:5072
+msgid "Button Font Style"
+msgstr "Schriftformat von Schaltflächen"
+
+#: functions.php:2573
+msgid "Buttons Font"
+msgstr "Schriftart für Schaltflächen"
+
+#: functions.php:2590
+msgid "Add Button Icon"
+msgstr "Schaltflächenicon hinzufügen"
+
+#: functions.php:2605
+msgid "Select Icon"
+msgstr "Auswahlicon"
+
+#: functions.php:2619
+msgid "Icon Color"
+msgstr "Icon-Farbe"
+
+#: functions.php:2633
+msgid "Icon Placement"
+msgstr "Iconpositionierung"
+
+#: functions.php:2648
+msgid "Only Show Icon on Hover"
+msgstr "Icon nur beim Herüberfahren zeigen"
+
+#: functions.php:2742 includes/widgets/widget-about.php:50
+#: includes/widgets/widget-ads.php:180 includes/widgets/widget-ads.php:188
+#: includes/widgets/widget-ads.php:196 includes/widgets/widget-ads.php:204
+#: includes/widgets/widget-ads.php:212 includes/widgets/widget-ads.php:220
+#: includes/widgets/widget-ads.php:228 includes/widgets/widget-ads.php:236
+msgid "Image"
+msgstr "Bild"
+
+#: functions.php:2743
+msgid "Image Module Settings"
+msgstr "Bild-Modul-Einstellungen"
+
+#: functions.php:2754
+msgid "Animation"
+msgstr "Animation"
+
+#: functions.php:2755
+msgid "This controls default direction of the lazy-loading animation."
+msgstr "Dies kontrolliert die Standardrichtung für die langsame Ladeanimation."
+
+#: functions.php:2765
+msgid "Gallery"
+msgstr "Galerie"
+
+#: functions.php:2779 functions.php:3570 functions.php:3680
+msgid "Zoom Icon Color"
+msgstr "Zoomiconfarbe"
+
+#: functions.php:2794 functions.php:3585 functions.php:3695
+msgid "Hover Overlay Color"
+msgstr "Farbe des Overlays beim Herüberfahren"
+
+#: functions.php:2809 functions.php:2917 functions.php:3600 functions.php:3710
+#: functions.php:3981 functions.php:4061 functions.php:4104 functions.php:4205
+msgid "Title Font Size"
+msgstr "Schriftgröße für den Titel"
+
+#: functions.php:2829 functions.php:2937 functions.php:3620 functions.php:3730
+#: functions.php:4001 functions.php:4081 functions.php:4716 functions.php:4796
+msgid "Title Font Style"
+msgstr "Schriftformat im Titel"
+
+#: functions.php:2845 functions.php:3636 functions.php:3746
+msgid "Caption Font Size"
+msgstr "Untertitelschriftgröße"
+
+#: functions.php:2865 functions.php:3656 functions.php:3766
+msgid "Caption Font Style"
+msgstr "Schriftformat im Untertitel"
+
+#: functions.php:2875
+msgid "Blurb"
+msgstr "Informationstext"
+
+#: functions.php:2889 functions.php:3002 functions.php:3182 functions.php:3298
+#: functions.php:3362 functions.php:3442 functions.php:3506 functions.php:4305
+#: functions.php:5008 functions.php:5116
+msgid "Header Font Size"
+msgstr "Schriftgröße im Header"
+
+#: functions.php:2903
+msgid "Tabs"
+msgstr "Registerkarte"
+
+#: functions.php:2954 functions.php:3334 functions.php:3478 functions.php:3542
+msgid "Padding"
+msgstr "Abstand"
+
+#: functions.php:2968
+msgid "Slider"
+msgstr "Slider"
+
+#: functions.php:2982 functions.php:5096
+msgid "Top & Bottom Padding"
+msgstr "Abstand oben & unten"
+
+#: functions.php:3038 functions.php:5152
+msgid "Content Font Size"
+msgstr "Schriftgröße für den Inhalt"
+
+#: functions.php:3058 functions.php:5172
+msgid "Content Font Style"
+msgstr "Schriftformt im Inhalt"
+
+#: functions.php:3068
+msgid "Testimonial"
+msgstr "Testimonial"
+
+#: functions.php:3082 functions.php:4616
+msgid "Name Font Style"
+msgstr "Schriftformat im Namen"
+
+#: functions.php:3098
+msgid "Details Font Style"
+msgstr "Schriftformat in den Details"
+
+#: functions.php:3114
+msgid "Portrait Border Radius"
+msgstr "Umrandungsgröße von Portraits"
+
+#: functions.php:3168
+msgid "Pricing Table"
+msgstr "Preistabelle"
+
+#: functions.php:3218 functions.php:3398 functions.php:4632
+msgid "Subheader Font Size"
+msgstr "Schriftgröße für den Zwischentitel"
+
+#: functions.php:3238 functions.php:3418 functions.php:4652
+msgid "Subheader Font Style"
+msgstr "Schriftformat im Zwischentitel"
+
+#: functions.php:3254 functions.php:4928
+msgid "Price Font Size"
+msgstr "Schriftgröße für Preise"
+
+#: functions.php:3274
+msgid "Pricing Font Style"
+msgstr "Schriftformat für Preise"
+
+#: functions.php:3284
+msgid "Call To Action"
+msgstr "Handlungsaufruf"
+
+#: functions.php:3348
+msgid "Audio"
+msgstr "Audio"
+
+#: functions.php:3428
+msgid "Email Optin"
+msgstr "Email Optin"
+
+#: functions.php:3556
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: functions.php:3666
+msgid "Filterable Portfolio"
+msgstr "Filterbares Portfolio"
+
+#: functions.php:3782
+msgid "Filters Font Size"
+msgstr "Schriftgröße für Filter"
+
+#: functions.php:3802
+msgid "Filters Font Style"
+msgstr "Schriftformat für Filter"
+
+#: functions.php:3812
+msgid "Bar Counter"
+msgstr "Balkenzähler"
+
+#: functions.php:3826
+msgid "Label Font Size"
+msgstr "Schriftgröße für Kennzeichnungen"
+
+#: functions.php:3846
+msgid "Label Font Style"
+msgstr "Schriftformat für Kennzeichnungen"
+
+#: functions.php:3862
+msgid "Percent Font Size"
+msgstr "Schriftgröße für Prozentwerte"
+
+#: functions.php:3882
+msgid "Percent Font Style"
+msgstr "Schriftformat für Prozentwerte"
+
+#: functions.php:3898
+msgid "Bar Padding"
+msgstr "Balkenabstand"
+
+#: functions.php:3918
+msgid "Bar Border Radius"
+msgstr "Balkenrahmenradius"
+
+#: functions.php:3932
+msgid "Circle Counter"
+msgstr "Kreiszähler"
+
+#: functions.php:3945 functions.php:4025
+msgid "Number Font Size"
+msgstr "Schriftgröße für Zahlen"
+
+#: functions.php:3965 functions.php:4045
+msgid "Number Font Style"
+msgstr "Schriftformat für Zahlen"
+
+#: functions.php:4011
+msgid "Number Counter"
+msgstr "Zähler"
+
+#: functions.php:4091
+msgid "Accordion"
+msgstr "Akkordeon"
+
+#: functions.php:4124 functions.php:4225
+msgid "Opened Title Font Style"
+msgstr "Schriftformat für geöffneten Titel"
+
+#: functions.php:4140 functions.php:4241
+msgid "Closed Title Font Style"
+msgstr "Schriftformat für geschlossenen Titel"
+
+#: functions.php:4156 functions.php:4257
+msgid "Toggle Icon Size"
+msgstr "Icongröße für das Toggle"
+
+#: functions.php:4177 functions.php:4277
+msgid "Toggle Padding"
+msgstr "Abstand für das Toggle"
+
+#: functions.php:4191
+msgid "Toggle"
+msgstr "Umschalter"
+
+#: functions.php:4291
+msgid "Contact Form"
+msgstr "Kontaktformular"
+
+#: functions.php:4341
+msgid "Input Font Size"
+msgstr "Eingabeschriftgröße"
+
+#: functions.php:4361
+msgid "Input Font Style"
+msgstr "Eingabeschriftformat"
+
+#: functions.php:4377
+msgid "Input Field Padding"
+msgstr "Abstand für das Eingabefeld"
+
+#: functions.php:4397
+msgid "Captcha Font Size"
+msgstr "Schriftgröße im Captcha"
+
+#: functions.php:4417
+msgid "Captcha Font Style"
+msgstr "Schriftformat im Captcha"
+
+#: functions.php:4427 includes/functions/sidebars.php:4
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+#: functions.php:4441
+msgid "Widget Header Font Size"
+msgstr "Schriftgröße im Widgetheader"
+
+#: functions.php:4461
+msgid "Widget Header Font Style"
+msgstr "Schriftformat im Widgetheader"
+
+#: functions.php:4477
+msgid "Remove Vertical Divider"
+msgstr "Vertikale Trennlinie entfernen"
+
+#: functions.php:4486
+msgid "Divider"
+msgstr "Teiler"
+
+#: functions.php:4499
+msgid "Show Divider"
+msgstr "Unterteiler zeigen"
+
+#: functions.php:4514
+msgid "Divider Style"
+msgstr "Trennlinienstil"
+
+#: functions.php:4531
+msgid "Divider Weight"
+msgstr "Trennliniendicke"
+
+#: functions.php:4551
+msgid "Divider Height"
+msgstr "Trennlinienhöhe"
+
+#: functions.php:4571
+msgid "Divider Position"
+msgstr "Position der Trennlinie"
+
+#: functions.php:4582
+msgid "Person"
+msgstr "Person"
+
+#: functions.php:4596
+msgid "Name Font Size"
+msgstr "Schriftgröße des Namens"
+
+#: functions.php:4668
+msgid "Social Network Icon Size"
+msgstr "Icongröße für Soziale Netzwerke"
+
+#: functions.php:4696 functions.php:4776
+msgid "Post Title Font Size"
+msgstr "Schriftgröße für Posttitel"
+
+#: functions.php:4732 functions.php:4812
+msgid "Meta Font Size"
+msgstr "Schriftgröße für das Meta"
+
+#: functions.php:4762
+msgid "Blog Grid"
+msgstr "Blog Grid"
+
+#: functions.php:4842
+msgid "Shop"
+msgstr "Shop"
+
+#: functions.php:4856
+msgid "Product Name Font Size"
+msgstr "Schriftgröße im Produktnamen"
+
+#: functions.php:4876
+msgid "Product Name Font Style"
+msgstr "Schriftformat im Produktnamen"
+
+#: functions.php:4892
+msgid "Sale Badge Font Size"
+msgstr "Schriftgröße im Ausverkaufsticker"
+
+#: functions.php:4912
+msgid "Sale Badge Font Style"
+msgstr "Schriftformat im Ausverkaufsticker"
+
+#: functions.php:4948
+msgid "Price Font Style"
+msgstr "Schriftformat für den Preis"
+
+#: functions.php:4964
+msgid "Sale Price Font Size"
+msgstr "Schriftgröße für den Preis"
+
+#: functions.php:4984
+msgid "Sale Price Font Style"
+msgstr "Schriftformat für den Ausverkaufspreis"
+
+#: functions.php:4994
+msgid "Countdown"
+msgstr "Countdown"
+
+#: functions.php:5038
+msgid "Social Follow"
+msgstr "Sozial folgen"
+
+#: functions.php:5052
+msgid "Follow Font & Icon Size"
+msgstr "Folgen Schrift- & Icongröße"
+
+#: functions.php:5082
+msgid "Fullwidth Slider"
+msgstr "Fullwidth-Slider"
+
+#: functions.php:7389
+msgid "0 comments"
+msgstr "0 Kommentare"
+
+#: functions.php:7389
+msgid "1 comment"
+msgstr "1 Kommentar"
+
+#: functions.php:7389
+msgid "comments"
+msgstr "Kommentare"
+
+#: functions.php:7468
+msgid "Password Protected"
+msgstr "Passwortgeschützt"
+
+#: functions.php:7469
+msgid "To view this protected post, enter the password below"
+msgstr "Um dieses geschützten Beitrag anzusehen, unten das Passwort eingeben."
+
+#: functions.php:7472
+msgid "Password"
+msgstr "Passwort"
+
+#: functions.php:7473
+msgid "Submit"
+msgstr "Senden"
+
+#: functions.php:7658
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: functions.php:7660
+msgid "Item"
+msgstr "Artikel"
+
+#: functions.php:7660
+msgid "Items"
+msgstr "Artikel"
+
+#: functions.php:7854 functions.php:7889
+msgid "Theme Customizer"
+msgstr "Designmodifikator"
+
+#: functions.php:7858 functions.php:7902
+msgid "Module Customizer"
+msgstr "Modulmodifikator"
+
+#: functions.php:7860
+msgid "Role Editor"
+msgstr "Rolleneditor"
+
+#: functions.php:7863
+msgid "Divi Library"
+msgstr "Divi-Bibliothek"
+
+#: header.php:174
+msgid "Search &hellip;"
+msgstr "Suchen &hellip;"
+
+#: header.php:176
+msgid "Search for:"
+msgstr "Suchen nach:"
+
+#: includes/functions/choices.php:9
+msgid "Bold"
+msgstr "Fett"
+
+#: includes/functions/choices.php:10
+msgid "Italic"
+msgstr "Kursiv"
+
+#: includes/functions/choices.php:11
+msgid "Uppercase"
+msgstr "Versalien"
+
+#: includes/functions/choices.php:12
+msgid "Underline"
+msgstr "Unterstrichen"
+
+#: includes/functions/choices.php:25
+msgid "Green"
+msgstr "Grün"
+
+#: includes/functions/choices.php:26
+msgid "Orange"
+msgstr "Orange"
+
+#: includes/functions/choices.php:27
+msgid "Pink"
+msgstr "Pink"
+
+#: includes/functions/choices.php:28
+msgid "Red"
+msgstr "Rot"
+
+#: includes/functions/choices.php:41
+msgid "Centered"
+msgstr "Zentriert"
+
+#: includes/functions/choices.php:42
+msgid "Centered Inline Logo"
+msgstr "Zentriertes, innenliegendes Logo"
+
+#: includes/functions/choices.php:54
+msgid "Fade"
+msgstr "Verblassen"
+
+#: includes/functions/choices.php:55
+msgid "Expand"
+msgstr "Erweitern"
+
+#: includes/functions/choices.php:56
+msgid "Slide"
+msgstr "Folie"
+
+#: includes/functions/choices.php:57
+msgid "Flip"
+msgstr "Drehen"
+
+#: includes/functions/choices.php:69 includes/functions/choices.php:70
+#: includes/functions/choices.php:71 includes/functions/choices.php:73
+#: includes/functions/choices.php:74 includes/functions/choices.php:75
+#: includes/functions/choices.php:76 includes/functions/choices.php:77
+#: includes/functions/choices.php:78
+msgid "%1$s Columns"
+msgstr "%1$s Spalten"
+
+#: includes/functions/choices.php:72
+msgid "1 Column"
+msgstr "1 Spalte"
+
+#: includes/functions/choices.php:90
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/functions/choices.php:91
+msgid "No"
+msgstr "Nein"
+
+#: includes/functions/choices.php:116
+msgid "Left to Right"
+msgstr "Links nach rechts"
+
+#: includes/functions/choices.php:117
+msgid "Right to Left"
+msgstr "Rechts nach links"
+
+#: includes/functions/choices.php:118
+msgid "Top to Bottom"
+msgstr "Oben nach unten"
+
+#: includes/functions/choices.php:119
+msgid "Bottom to Top"
+msgstr "Unten nach oben"
+
+#: includes/functions/choices.php:120
+msgid "Fade In"
+msgstr "Einblenden"
+
+#: includes/functions/choices.php:121
+msgid "No Animation"
+msgstr "Keine Animation"
+
+#: includes/functions/choices.php:133
+msgid "Solid"
+msgstr "Durchgehend"
+
+#: includes/functions/choices.php:134
+msgid "Dotted"
+msgstr "Gepunktet"
+
+#: includes/functions/choices.php:135
+msgid "Dashed"
+msgstr "Gestrichelt"
+
+#: includes/functions/choices.php:136
+msgid "Double"
+msgstr "Doppelt"
+
+#: includes/functions/choices.php:137
+msgid "Groove"
+msgstr "Geschwungen"
+
+#: includes/functions/choices.php:138
+msgid "Ridge"
+msgstr "Kante"
+
+#: includes/functions/choices.php:139
+msgid "Inset"
+msgstr "Innen"
+
+#: includes/functions/choices.php:140
+msgid "Outset"
+msgstr "Außen"
+
+#: includes/functions/choices.php:152
+msgid "Top"
+msgstr "Oben"
+
+#: includes/functions/choices.php:153
+msgid "Vertically Centered"
+msgstr "Vertikal zentriert"
+
+#: includes/functions/choices.php:154
+msgid "Bottom"
+msgstr "Unten"
+
+#. translators: 1: date, 2: time
+#: includes/functions/comments.php:15
+msgid "on %1$s at %2$s"
+msgstr "am %1$s um %2$s"
+
+#: includes/functions/comments.php:18
+msgid "(Edit)"
+msgstr "(Bearbeiten)"
+
+#: includes/functions/comments.php:21
+msgid "Reply"
+msgstr "Antworten"
+
+#: includes/functions/comments.php:30
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Kommentar wartet auf Moderation."
+
+#: includes/functions/installation.php:1
+msgid "Read Divi Documentation"
+msgstr "Divi-Dokumentation lesen"
+
+#: includes/functions/sidebars.php:13 includes/functions/sidebars.php:22
+#: includes/functions/sidebars.php:31 includes/functions/sidebars.php:40
+msgid "Footer Area"
+msgstr "Fußzeilenbereich"
+
+#: includes/functions/tutorials.php:1
+msgid "Watch video tutorials"
+msgstr "Videoanleitungen ansehen"
+
+#: includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Ältere Einträge"
+
+#: includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Nächste Einträge &raquo;"
+
+#: includes/no-results.php:3
+msgid "No Results Found"
+msgstr "Keine Ergebnisse gefunden"
+
+#: includes/no-results.php:4
+msgid ""
+"The page you requested could not be found. Try refining your search, or use "
+"the navigation above to locate the post."
+msgstr ""
+"Die angefragte Seite konnte nicht gefunden werden. Verfeinern Sie Ihre Suche "
+"oder verwenden Sie die Navigation oben, um den Beitrag zu finden."
+
+#: includes/social_icons.php:6
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/social_icons.php:13
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/social_icons.php:20
+msgid "Google"
+msgstr "Google"
+
+#: includes/social_icons.php:32
+msgid "RSS"
+msgstr "RSS"
+
+#: includes/widgets/widget-about.php:4
+msgid "Displays About Me Information"
+msgstr "Über mich Informationen anzeigen"
+
+#: includes/widgets/widget-about.php:6
+msgid "ET About Me Widget"
+msgstr "Über mich Widget"
+
+#: includes/widgets/widget-about.php:12 includes/widgets/widget-about.php:41
+msgid "About Me"
+msgstr "Über mich"
+
+#: includes/widgets/widget-about.php:48 includes/widgets/widget-ads.php:172
+#: includes/widgets/widget-ads.php:184 includes/widgets/widget-ads.php:192
+#: includes/widgets/widget-ads.php:200 includes/widgets/widget-ads.php:208
+#: includes/widgets/widget-ads.php:216 includes/widgets/widget-ads.php:224
+#: includes/widgets/widget-ads.php:232 includes/widgets/widget-ads.php:240
+#: includes/widgets/widget-adsense.php:46
+msgid "Title"
+msgstr "Titel"
+
+#: includes/widgets/widget-about.php:52
+msgid "Text"
+msgstr "Text"
+
+#: includes/widgets/widget-ads.php:4
+msgid "Displays Advertisements"
+msgstr "Werbung anzeigen"
+
+#: includes/widgets/widget-ads.php:6
+msgid "ET Advertisement"
+msgstr "Werbung"
+
+#: includes/widgets/widget-ads.php:12 includes/widgets/widget-ads.php:128
+msgid "Advertisement"
+msgstr "Werbung"
+
+#: includes/widgets/widget-ads.php:175
+msgid "Use Relative Image Paths"
+msgstr "Relative Bildpfade benutzen"
+
+#: includes/widgets/widget-ads.php:177
+msgid "Open in a new window"
+msgstr "In einem neuen Fenster öffnen"
+
+#: includes/widgets/widget-ads.php:180 includes/widgets/widget-ads.php:182
+#: includes/widgets/widget-ads.php:184 includes/widgets/widget-ads.php:186
+#: includes/widgets/widget-ads.php:188 includes/widgets/widget-ads.php:190
+#: includes/widgets/widget-ads.php:192 includes/widgets/widget-ads.php:194
+#: includes/widgets/widget-ads.php:196 includes/widgets/widget-ads.php:198
+#: includes/widgets/widget-ads.php:200 includes/widgets/widget-ads.php:202
+#: includes/widgets/widget-ads.php:204 includes/widgets/widget-ads.php:206
+#: includes/widgets/widget-ads.php:208 includes/widgets/widget-ads.php:210
+#: includes/widgets/widget-ads.php:212 includes/widgets/widget-ads.php:214
+#: includes/widgets/widget-ads.php:216 includes/widgets/widget-ads.php:218
+#: includes/widgets/widget-ads.php:220 includes/widgets/widget-ads.php:222
+#: includes/widgets/widget-ads.php:224 includes/widgets/widget-ads.php:226
+#: includes/widgets/widget-ads.php:228 includes/widgets/widget-ads.php:230
+#: includes/widgets/widget-ads.php:232 includes/widgets/widget-ads.php:234
+#: includes/widgets/widget-ads.php:236 includes/widgets/widget-ads.php:238
+#: includes/widgets/widget-ads.php:240 includes/widgets/widget-ads.php:242
+msgid "Banner"
+msgstr "Banner"
+
+#: includes/widgets/widget-ads.php:182 includes/widgets/widget-ads.php:190
+#: includes/widgets/widget-ads.php:198 includes/widgets/widget-ads.php:206
+#: includes/widgets/widget-ads.php:214 includes/widgets/widget-ads.php:222
+#: includes/widgets/widget-ads.php:230 includes/widgets/widget-ads.php:238
+msgid "Url"
+msgstr "Url"
+
+#: includes/widgets/widget-ads.php:186 includes/widgets/widget-ads.php:194
+#: includes/widgets/widget-ads.php:202 includes/widgets/widget-ads.php:210
+#: includes/widgets/widget-ads.php:218 includes/widgets/widget-ads.php:226
+#: includes/widgets/widget-ads.php:234 includes/widgets/widget-ads.php:242
+msgid "Alt"
+msgstr "Alternativer Text"
+
+#: includes/widgets/widget-ads.php:243
+msgid ""
+"If you don't want to display some banners - leave approptiate fields blank"
+msgstr ""
+"Wenn einige Banner nicht angezeigt werden sollen - entsprechende Felder "
+"freilassen."
+
+#: includes/widgets/widget-adsense.php:4
+msgid "Displays Adsense Ads"
+msgstr "Adsense-Werbung anzeigen"
+
+#: includes/widgets/widget-adsense.php:6
+msgid "ET Adsense Widget"
+msgstr "Adsense-Widget"
+
+#: includes/widgets/widget-adsense.php:12
+#: includes/widgets/widget-adsense.php:40
+msgid "Adsense"
+msgstr "Adsense"
+
+#: includes/widgets/widget-adsense.php:48
+msgid "Adsense Code"
+msgstr "Adsense-Code"
+
+#: page-template-blank.php:49 page.php:48 single-project.php:53 single.php:105
+msgid "Pages:"
+msgstr "Seiten:"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:107
+#, fuzzy
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr " "
+
+#: single-project.php:62
+#, fuzzy
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: single-project.php:63
+#, fuzzy
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"

@@ -1,16 +1,17 @@
-#index include template, koneksi database dan fungsi
-
 <?php
+/**
+ * Front to the WordPress application. This file doesn't do anything, but loads
+ * wp-blog-header.php which does and tells WordPress to load the theme.
+ *
+ * @package WordPress
+ */
 
-include "config/config.php";
-include "include/fungsi.php";
+/**
+ * Tells WordPress to load the WordPress theme and output it.
+ *
+ * @var bool
+ */
+define('WP_USE_THEMES', true);
 
-// Template
-
-include "header.php";
-include "switch/switch.php";
-include "footer.php";
-
-// end Template
-
-?>
+/** Loads the WordPress Environment and Template */
+require( dirname( __FILE__ ) . '/wp-blog-header.php' );

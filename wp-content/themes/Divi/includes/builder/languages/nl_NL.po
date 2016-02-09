@@ -1,0 +1,5430 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/framework\n"
+"POT-Creation-Date: 2015-10-19 11:29:30+00:00\n"
+"PO-Revision-Date: 2015-09-02 19:12+0300\n"
+"Last-Translator: \n"
+"Language-Team: Elegant Themes\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../node_modules\n"
+
+#: class-et-builder-element.php:445 class-et-builder-element.php:761
+msgid "%1$s Font"
+msgstr "%1$s Lettertype"
+
+#: class-et-builder-element.php:452
+msgid "%1$s Font Size"
+msgstr "%1$s Tekengrootte"
+
+#: class-et-builder-element.php:464 class-et-builder-element.php:698
+msgid "%1$s Text Color"
+msgstr "%1$s Tekstkleur"
+
+#: class-et-builder-element.php:472 class-et-builder-element.php:751
+msgid "%1$s Letter Spacing"
+msgstr "%1$s Letterspatiëring"
+
+#: class-et-builder-element.php:480
+msgid "%1$s Line Height"
+msgstr "%1$s Lijnhoogte"
+
+#: class-et-builder-element.php:503
+msgid "%1$s All Caps"
+msgstr "%1$s Hoofdletters"
+
+#: class-et-builder-element.php:507 main-modules.php:467 main-modules.php:2150
+#: main-modules.php:2171 main-modules.php:6172 main-modules.php:6536
+#: main-modules.php:6735 main-modules.php:8413 main-modules.php:8515
+#: main-modules.php:9409 main-modules.php:9669 main-modules.php:11563
+#: main-modules.php:11584 main-modules.php:11939 main-modules.php:12141
+msgid "Off"
+msgstr "Uit"
+
+#: class-et-builder-element.php:508 main-modules.php:468 main-modules.php:2151
+#: main-modules.php:2172 main-modules.php:6171 main-modules.php:6535
+#: main-modules.php:6734 main-modules.php:8414 main-modules.php:8516
+#: main-modules.php:9408 main-modules.php:9670 main-modules.php:11564
+#: main-modules.php:11585 main-modules.php:11940 main-modules.php:12140
+msgid "On"
+msgstr "Aan"
+
+#: class-et-builder-element.php:535 class-et-builder-element.php:2893
+#: main-modules.php:2600 main-modules.php:3071 main-modules.php:4113
+#: main-modules.php:4350 main-modules.php:4647 main-modules.php:5061
+#: main-modules.php:6157 main-modules.php:6317 main-modules.php:9241
+#: main-modules.php:10189 main-modules.php:10634 main-modules.php:11142
+#: main-modules.php:12785 main-structure-elements.php:120
+#: main-structure-elements.php:906
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: class-et-builder-element.php:545 class-et-builder-element.php:2889
+#: main-modules.php:2563 main-structure-elements.php:98
+#: main-structure-elements.php:897
+msgid "Background Image"
+msgstr "Achtergrondafbeelding"
+
+#: class-et-builder-element.php:548 class-et-builder-element.php:2890
+#: main-modules.php:81 main-modules.php:731 main-modules.php:1078
+#: main-modules.php:1530 main-modules.php:2566 main-modules.php:2608
+#: main-modules.php:3042 main-modules.php:4344 main-modules.php:8058
+#: main-modules.php:10628 main-modules.php:10670 main-modules.php:10703
+#: main-modules.php:12396 main-structure-elements.php:101
+#: main-structure-elements.php:900
+msgid "Upload an image"
+msgstr "Laad een foto"
+
+#: class-et-builder-element.php:549 class-et-builder-element.php:2891
+#: main-modules.php:2567 main-structure-elements.php:102
+#: main-structure-elements.php:901
+msgid "Choose a Background Image"
+msgstr "Kies een achtergrondafbeelding"
+
+#: class-et-builder-element.php:550 class-et-builder-element.php:2892
+#: main-modules.php:2568 main-structure-elements.php:103
+#: main-structure-elements.php:902
+msgid "Set As Background"
+msgstr "Instellen als achtergrond"
+
+#: class-et-builder-element.php:568
+msgid "Use Border"
+msgstr "Boord gebruiken"
+
+#: class-et-builder-element.php:572 class-et-builder-element.php:664
+#: class-et-builder-element.php:775 class-et-builder-element.php:830
+#: class-et-builder-element.php:2902 functions.php:3275 main-modules.php:103
+#: main-modules.php:142 main-modules.php:187 main-modules.php:198
+#: main-modules.php:438 main-modules.php:448 main-modules.php:1457
+#: main-modules.php:1490 main-modules.php:1511 main-modules.php:1615
+#: main-modules.php:2181 main-modules.php:2207 main-modules.php:2275
+#: main-modules.php:2285 main-modules.php:2295 main-modules.php:2684
+#: main-modules.php:3063 main-modules.php:3514 main-modules.php:3540
+#: main-modules.php:3551 main-modules.php:3870 main-modules.php:4105
+#: main-modules.php:4639 main-modules.php:4721 main-modules.php:5042
+#: main-modules.php:5053 main-modules.php:5135 main-modules.php:5423
+#: main-modules.php:5433 main-modules.php:5443 main-modules.php:5806
+#: main-modules.php:5816 main-modules.php:5826 main-modules.php:7373
+#: main-modules.php:7694 main-modules.php:7879 main-modules.php:8391
+#: main-modules.php:8425 main-modules.php:8435 main-modules.php:8445
+#: main-modules.php:8455 main-modules.php:8465 main-modules.php:9233
+#: main-modules.php:9435 main-modules.php:10020 main-modules.php:10030
+#: main-modules.php:10046 main-modules.php:10057 main-modules.php:10080
+#: main-modules.php:10091 main-modules.php:10102 main-modules.php:10130
+#: main-modules.php:10175 main-modules.php:10490 main-modules.php:10503
+#: main-modules.php:10646 main-modules.php:11195 main-modules.php:11594
+#: main-modules.php:11618 main-modules.php:11686 main-modules.php:11696
+#: main-modules.php:11706 main-modules.php:11910 main-modules.php:11920
+#: main-modules.php:12418 main-modules.php:12616 main-modules.php:12626
+#: main-modules.php:12642 main-modules.php:12653 main-modules.php:12676
+#: main-modules.php:12687 main-modules.php:12698 main-modules.php:12726
+#: main-modules.php:12771 main-structure-elements.php:111
+#: main-structure-elements.php:165 main-structure-elements.php:175
+#: main-structure-elements.php:185 main-structure-elements.php:215
+#: main-structure-elements.php:242 main-structure-elements.php:253
+#: main-structure-elements.php:310 main-structure-elements.php:320
+#: main-structure-elements.php:775 main-structure-elements.php:786
+#: main-structure-elements.php:842 main-structure-elements.php:873
+#: main-structure-elements.php:950 main-structure-elements.php:960
+#: main-structure-elements.php:984 main-structure-elements.php:1002
+#: main-structure-elements.php:1481 main-structure-elements.php:1491
+#: main-structure-elements.php:1528 main-structure-elements.php:1544
+msgid "No"
+msgstr "Nee"
+
+#: class-et-builder-element.php:573 class-et-builder-element.php:665
+#: class-et-builder-element.php:774 class-et-builder-element.php:829
+#: class-et-builder-element.php:2901 functions.php:3276 main-modules.php:104
+#: main-modules.php:143 main-modules.php:188 main-modules.php:197
+#: main-modules.php:437 main-modules.php:447 main-modules.php:1458
+#: main-modules.php:1491 main-modules.php:1512 main-modules.php:1616
+#: main-modules.php:2182 main-modules.php:2208 main-modules.php:2276
+#: main-modules.php:2286 main-modules.php:2296 main-modules.php:2685
+#: main-modules.php:3062 main-modules.php:3513 main-modules.php:3541
+#: main-modules.php:3552 main-modules.php:3871 main-modules.php:4104
+#: main-modules.php:4638 main-modules.php:4722 main-modules.php:5043
+#: main-modules.php:5052 main-modules.php:5136 main-modules.php:5422
+#: main-modules.php:5432 main-modules.php:5442 main-modules.php:5805
+#: main-modules.php:5815 main-modules.php:5825 main-modules.php:7372
+#: main-modules.php:7695 main-modules.php:7878 main-modules.php:8390
+#: main-modules.php:8424 main-modules.php:8434 main-modules.php:8444
+#: main-modules.php:8454 main-modules.php:8464 main-modules.php:9232
+#: main-modules.php:9436 main-modules.php:10019 main-modules.php:10029
+#: main-modules.php:10045 main-modules.php:10056 main-modules.php:10079
+#: main-modules.php:10090 main-modules.php:10101 main-modules.php:10129
+#: main-modules.php:10176 main-modules.php:10491 main-modules.php:10504
+#: main-modules.php:10647 main-modules.php:11196 main-modules.php:11595
+#: main-modules.php:11619 main-modules.php:11687 main-modules.php:11697
+#: main-modules.php:11707 main-modules.php:11909 main-modules.php:11919
+#: main-modules.php:12419 main-modules.php:12615 main-modules.php:12625
+#: main-modules.php:12641 main-modules.php:12652 main-modules.php:12675
+#: main-modules.php:12686 main-modules.php:12697 main-modules.php:12725
+#: main-modules.php:12772 main-structure-elements.php:112
+#: main-structure-elements.php:166 main-structure-elements.php:176
+#: main-structure-elements.php:186 main-structure-elements.php:216
+#: main-structure-elements.php:243 main-structure-elements.php:254
+#: main-structure-elements.php:311 main-structure-elements.php:321
+#: main-structure-elements.php:776 main-structure-elements.php:787
+#: main-structure-elements.php:843 main-structure-elements.php:874
+#: main-structure-elements.php:951 main-structure-elements.php:961
+#: main-structure-elements.php:985 main-structure-elements.php:1001
+#: main-structure-elements.php:1482 main-structure-elements.php:1492
+#: main-structure-elements.php:1529 main-structure-elements.php:1543
+msgid "Yes"
+msgstr "Ja"
+
+#: class-et-builder-element.php:585
+msgid "Border Color"
+msgstr "Boordkleur"
+
+#: class-et-builder-element.php:595
+msgid "Border Width"
+msgstr "Boordbreedte"
+
+#: class-et-builder-element.php:605
+msgid "Border Style"
+msgstr "Boordstijl"
+
+#: class-et-builder-element.php:632 main-structure-elements.php:891
+#: main-structure-elements.php:1471
+msgid "Custom Margin"
+msgstr "Aangepaste marge"
+
+#: class-et-builder-element.php:641 main-structure-elements.php:205
+#: main-structure-elements.php:863 main-structure-elements.php:1465
+msgid "Custom Padding"
+msgstr "Aangepaste buffer"
+
+#: class-et-builder-element.php:660
+msgid "Use Custom Styles for %1$s "
+msgstr "Het gebruik van Aangepaste Stijlen voor %1$s "
+
+#: class-et-builder-element.php:689
+msgid "%1$s Text Size"
+msgstr "%1$s Tekst Grootte"
+
+#: class-et-builder-element.php:709
+msgid "%1$s Background Color"
+msgstr "%1$s Achtergrond Kleur"
+
+#: class-et-builder-element.php:720
+msgid "%1$s Border Width"
+msgstr "%1$s Breedte van de Rand"
+
+#: class-et-builder-element.php:730
+msgid "%1$s Border Color"
+msgstr "%1$s Kleur Rand"
+
+#: class-et-builder-element.php:741
+msgid "%1$s Border Radius"
+msgstr "%1$s Border Radius"
+
+#: class-et-builder-element.php:769
+msgid "Add %1$s Icon"
+msgstr "Add %1$s Pictogram"
+
+#: class-et-builder-element.php:773 functions.php:931 main-modules.php:2216
+#: main-modules.php:2233 main-modules.php:2576 main-modules.php:2593
+#: main-modules.php:11627 main-modules.php:11644
+msgid "Default"
+msgstr "Standaard"
+
+#: class-et-builder-element.php:789
+msgid "%1$s Icon"
+msgstr "%1$s Pictogram"
+
+#: class-et-builder-element.php:801
+msgid "%1$s Icon Color"
+msgstr "%1$s Pictogram Kleur"
+
+#: class-et-builder-element.php:812
+msgid "%1$s Icon Placement"
+msgstr "%1$s Pictogram Plaatsing"
+
+#: class-et-builder-element.php:816 class-et-builder-element.php:1415
+#: class-et-builder-element.php:2897 functions.php:301 functions.php:307
+#: main-modules.php:154 main-modules.php:1426 main-modules.php:7652
+#: main-modules.php:10156 main-modules.php:12752
+msgid "Right"
+msgstr "Rechts"
+
+#: class-et-builder-element.php:817 class-et-builder-element.php:1429
+#: class-et-builder-element.php:2899 functions.php:299 main-modules.php:152
+#: main-modules.php:1424 main-modules.php:7651 main-modules.php:10154
+#: main-modules.php:12750
+msgid "Left"
+msgstr "Links"
+
+#: class-et-builder-element.php:825
+msgid "Only Show Icon On Hover for %1$s"
+msgstr "Alleen Pictogram Weergeven Op Beweeg voor %1$s"
+
+#: class-et-builder-element.php:838
+msgid "%1$s Hover Text Color"
+msgstr "%1$s Hover Kleur van de Tekst"
+
+#: class-et-builder-element.php:849
+msgid "%1$s Hover Background Color"
+msgstr "%1$s zwevende Achtergrond Kleur"
+
+#: class-et-builder-element.php:860
+msgid "%1$s Hover Border Color"
+msgstr "%1$s Hover Kleur Rand"
+
+#: class-et-builder-element.php:871
+msgid "%1$s Hover Border Radius"
+msgstr "%1$s Hover Border Radius"
+
+#: class-et-builder-element.php:881
+msgid "%1$s Hover Letter Spacing"
+msgstr "%1$s Hover Letter Spatiering"
+
+#: class-et-builder-element.php:903
+msgid "Before"
+msgstr "Vóór"
+
+#: class-et-builder-element.php:908
+msgid "Main Element"
+msgstr "Hoofdelement"
+
+#: class-et-builder-element.php:911
+msgid "After"
+msgstr "Na"
+
+#: class-et-builder-element.php:1332 class-et-builder-element.php:2894
+msgid "Hex Value"
+msgstr "Hex Waarde"
+
+#: class-et-builder-element.php:1343
+msgid "Choose Custom Color"
+msgstr "Aangepaste kleur kiezen"
+
+#: class-et-builder-element.php:1353
+msgid "Upload"
+msgstr "Uploaden"
+
+#: class-et-builder-element.php:1354
+msgid "Choose image"
+msgstr "Afbeelding kiezen"
+
+#: class-et-builder-element.php:1355
+msgid "Set image"
+msgstr "Afbeelding instellen"
+
+#: class-et-builder-element.php:1408 class-et-builder-element.php:2896
+#: main-modules.php:1420 main-modules.php:7859
+msgid "Top"
+msgstr "Bovenkant"
+
+#: class-et-builder-element.php:1422 class-et-builder-element.php:2898
+#: main-modules.php:2619 main-modules.php:7861 main-modules.php:10693
+#: main-modules.php:10714
+msgid "Bottom"
+msgstr "Onderkant"
+
+#: class-et-builder-element.php:1566 class-et-builder-element.php:1771
+#: functions.php:4264
+msgid "General Settings"
+msgstr "Algemene Instellingen"
+
+#: class-et-builder-element.php:1567
+msgid "Advanced Design Settings"
+msgstr "Geavanceerde ontwerpinstellingen"
+
+#: class-et-builder-element.php:1568 functions.php:4272
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
+
+#: class-et-builder-element.php:1721
+msgid "You don't have sufficient permissions to access the settings"
+msgstr ""
+"U hebt niet de voldoende machtigingen om toegang te krijgen tot de "
+"instellingen"
+
+#: class-et-builder-element.php:1746 main-modules.php:1249
+#: main-modules.php:1581 main-modules.php:1997 main-modules.php:2690
+#: main-modules.php:3094 main-modules.php:3918 main-modules.php:4136
+#: main-modules.php:4670 main-modules.php:5084 main-modules.php:7054
+#: main-modules.php:7185 main-modules.php:8396 main-modules.php:9554
+#: main-modules.php:9843 main-modules.php:10720 main-modules.php:12218
+#: main-modules.php:12304
+msgid "Content"
+msgstr "Content"
+
+#: class-et-builder-element.php:1747 main-modules.php:1999
+#: main-modules.php:7057
+msgid ""
+"Here you can define the content that will be placed within the current tab."
+msgstr ""
+"Hier kunt u de inhoud definiëren dat binnen het huidige tabblad zal worden "
+"geplaatst."
+
+#: class-et-builder-element.php:1759
+msgid "Add New Item"
+msgstr "Voeg nieuw artikel toe"
+
+#: class-et-builder-element.php:1759
+msgid "Add New %s"
+msgstr "Nieuwe %s toevoegen"
+
+#: class-et-builder-element.php:1806
+msgid "Mobile"
+msgstr "Mobiel"
+
+#: class-et-builder-element.php:1807
+msgid "Tablet"
+msgstr "Tablet"
+
+#: class-et-builder-element.php:1808
+msgid "Desktop"
+msgstr "Desktop"
+
+#: class-et-builder-element.php:1868
+msgid "%1$s %2$s Settings"
+msgstr "%1$s %2$s instellingen"
+
+#: class-et-builder-element.php:1870
+msgid "Item"
+msgstr "Item"
+
+#: class-et-builder-element.php:1870 functions.php:1985 functions.php:2031
+#: layouts.php:176
+msgid "Module"
+msgstr "Module"
+
+#: class-et-builder-element.php:2888 functions.php:2028
+#: main-structure-elements.php:1794
+msgid "Column"
+msgstr "Kolom"
+
+#: class-et-builder-element.php:2895
+msgid "Padding"
+msgstr "Buffer"
+
+#: class-et-builder-element.php:2900 main-modules.php:10125
+#: main-modules.php:12721 main-structure-elements.php:181
+#: main-structure-elements.php:956
+msgid "Use Parallax Effect"
+msgstr "Gebruik het Parallax effect"
+
+#: class-et-builder-element.php:2903 main-modules.php:10139
+#: main-modules.php:12735 main-structure-elements.php:194
+#: main-structure-elements.php:969
+msgid "Parallax Method"
+msgstr "Parallax-methode"
+
+#: class-et-builder-element.php:2904 main-modules.php:2196
+#: main-modules.php:10143 main-modules.php:10659 main-modules.php:11607
+#: main-modules.php:12739 main-structure-elements.php:198
+#: main-structure-elements.php:973
+msgid "CSS"
+msgstr "CSS"
+
+#: class-et-builder-element.php:2905 main-modules.php:2197
+#: main-modules.php:10144 main-modules.php:10660 main-modules.php:11608
+#: main-modules.php:12740 main-structure-elements.php:199
+#: main-structure-elements.php:974
+msgid "True Parallax"
+msgstr "Ware Parallax"
+
+#: framework.php:34
+msgid ""
+"Please, check the fields below to make sure you entered the correct "
+"information."
+msgstr ""
+"Kijk dan de onderstaande velden in om ervoor te zorgen u de juiste "
+"informatie."
+
+#: framework.php:35
+msgid "Please, fill in the following fields:"
+msgstr ""
+
+#: framework.php:36
+msgid "Please, fix the following errors:"
+msgstr ""
+
+#: framework.php:37
+msgid "Invalid email"
+msgstr "Ongeldig e-mail"
+
+#: framework.php:38
+msgid "Captcha"
+msgstr "Captcha"
+
+#: framework.php:39
+msgid "Prev"
+msgstr "Vorig"
+
+#: framework.php:40
+msgid "Previous"
+msgstr "Vorige"
+
+#: framework.php:41
+msgid "Next"
+msgstr "Volgende"
+
+#: framework.php:42
+msgid "You entered the wrong number in captcha."
+msgstr "U heeft het verkeerde nummer in de captcha ingevoerd."
+
+#: framework.php:80
+msgid "Unauthorized access. Preview cannot be accessed outside %1$s."
+msgstr "Onbevoegde toegang. Preview kan niet worden geopend buiten %1$s."
+
+#: functions.php:66 functions.php:1994 functions.php:3751
+msgid "All Categories"
+msgstr "Alle Categorieen"
+
+#: functions.php:75 layouts.php:10
+msgid "All Layouts"
+msgstr "Alle Layouts"
+
+#: functions.php:76 functions.php:1285
+msgid "Modules"
+msgstr "Modules"
+
+#: functions.php:77 functions.php:1284
+msgid "Rows"
+msgstr "Rijen"
+
+#: functions.php:78 functions.php:1283
+msgid "Sections"
+msgstr "Secties"
+
+#: functions.php:79 functions.php:1282
+msgid "Layouts"
+msgstr "Layouts"
+
+#: functions.php:83
+msgid "Global/not Global"
+msgstr "Globaal/niet globaal"
+
+#: functions.php:84 layouts.php:183
+msgid "Global"
+msgstr "Globaal"
+
+#: functions.php:85
+msgid "not Global"
+msgstr "niet globaal"
+
+#: functions.php:138 functions.php:153 functions.php:1917
+msgid "you don't have sufficient permissions to access this page"
+msgstr ""
+"u hebt niet de voldoende machtigingen om toegang te krijgen tot deze pagina"
+
+#: functions.php:300 functions.php:308 main-modules.php:153
+#: main-modules.php:2577 main-modules.php:2618 main-modules.php:10155
+#: main-modules.php:10692 main-modules.php:12751
+msgid "Center"
+msgstr "Midden"
+
+#: functions.php:302
+msgid "Justified"
+msgstr "Uitgelijnd"
+
+#: functions.php:320
+msgid "Update Gallery"
+msgstr "Galerij updaten"
+
+#: functions.php:329
+msgid "Select a menu"
+msgstr "Selecteer een menu"
+
+#: functions.php:478
+msgid "Solid"
+msgstr "Vast"
+
+#: functions.php:479
+msgid "Dotted"
+msgstr "Gestipt"
+
+#: functions.php:480
+msgid "Dashed"
+msgstr "Gestippeld"
+
+#: functions.php:481
+msgid "Double"
+msgstr "Dubbel"
+
+#: functions.php:482
+msgid "Groove"
+msgstr "Groef"
+
+#: functions.php:483
+msgid "Ridge"
+msgstr "Rug"
+
+#: functions.php:484
+msgid "Inset"
+msgstr "Inzet"
+
+#: functions.php:485
+msgid "Outset"
+msgstr "Begin"
+
+#: functions.php:1242
+msgid ""
+"<strong>%1$s</strong> widget area has been created. You can create more "
+"areas, once you finish update the page to see all the areas."
+msgstr ""
+"<strong>%1$s</strong> widgetgebied is gecreëerd. U kunt meerdere gebieden "
+"creëren; zodra u klaar bent, herlaadt dan de pagina om alle gebieden te zien."
+
+#: functions.php:1266
+msgid ""
+"You do not have sufficient permissions to export the content of this site."
+msgstr ""
+"U heeft geen voldoende vergunningen om de content van deze site te "
+"exporteren."
+
+#: functions.php:1270
+msgid "Export Divi Builder Layouts"
+msgstr "Exporteren van Divi opbouwfunctie van de opmaak"
+
+#: functions.php:1271
+msgid ""
+"When you click the button below WordPress will create an XML file for you to "
+"save to your computer."
+msgstr ""
+"Als u onderstaande toets aanklikt, zal WordPress een XML bestand voor u "
+"aanmaken om op uw computer op te slaan."
+
+#: functions.php:1272
+msgid ""
+"This format, which we call WordPress eXtended RSS or WXR, will contain all "
+"layouts you created using the Page Builder."
+msgstr ""
+"Dit formaat, dat WordPress eXtended RSS of WXR genoemd wordt, bevat alle "
+"layouts die u gemaakt heeft met behulp van de Pagina Bouwer."
+
+#: functions.php:1273
+msgid ""
+"Once you&#8217;ve saved the download file, you can use the Import function "
+"in another WordPress installation to import all layouts from this site."
+msgstr ""
+"Als u het gedownloade bestand opgeslagen heeft, kunt u de functie Importeren "
+"op een andere Wordpress installatie gebruiken om alle layouts van deze site "
+"te importeren."
+
+#: functions.php:1274
+msgid "Select Templates you want to export:"
+msgstr "Model selecteren dat u wilt uitvoeren:"
+
+#: functions.php:1307
+msgid "Download Export File"
+msgstr "Download Export Bestand"
+
+#: functions.php:1312
+msgid "Export Divi Layouts"
+msgstr "Divi opmaak uitvoeren"
+
+#: functions.php:1316
+msgid "Manage Categories"
+msgstr "Categorieën beheren"
+
+#: functions.php:1463 functions.php:1465
+msgid "Use Default Editor"
+msgstr "Gebruik Standaard Editor"
+
+#: functions.php:1463 functions.php:1464
+msgid "Use The Divi Builder"
+msgstr "De Divi opbouwfunctie gebruiken"
+
+#: functions.php:1506
+msgid "Here you can create new widget areas for use in the Sidebar module"
+msgstr ""
+"Hier kunt u nieuwe widgetgebieden creëren die gebruikt kunnen worden in de "
+"zijbalkmodule."
+
+#: functions.php:1507
+msgid ""
+"Note: Naming your widget area \"sidebar 1\", \"sidebar 2\", \"sidebar 3\", "
+"\"sidebar 4\" or \"sidebar 5\" will cause conflicts with this theme"
+msgstr ""
+"Let op: Als u u widgetgebied \"sidebar 1\", \"sidebar 2\", \"sidebar 3\", "
+"\"sidebar 4\" of \"sidebar 5\" noemt, zal dit confliceteren met dit thema."
+
+#: functions.php:1508
+msgid "Widget Name"
+msgstr "Widgetnaam"
+
+#: functions.php:1509
+msgid "Create"
+msgstr "Creëren"
+
+#: functions.php:1511 functions.php:1604 functions.php:3049
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: functions.php:1562
+msgid "Replace the existing content with loaded layout"
+msgstr "Vervang de bestaande contect met de nieuwe layout"
+
+#: functions.php:1601
+msgid "Load"
+msgstr "Laden"
+
+#: functions.php:1706
+msgid ""
+"You have not saved any items to your Divi Library yet. Once an item has been "
+"saved to your library, it will appear here for easy use."
+msgstr ""
+"U heeft nog geen items opgeslagen in uw Divi bibliotheek. Eenmaal een item "
+"is opgeslagen in uw bibliotheek, zal het hier voor makkelijk gebruik "
+"verschijnen."
+
+#: functions.php:1981
+msgid "The section should have at least one row."
+msgstr "De sectie moet ten minste een rij hebben."
+
+#: functions.php:1982
+msgid "Fullwidth module can't be used outside of the Fullwidth Section."
+msgstr ""
+"De Volledige breedte module kan niet gebruikt worden buiten de Volledige "
+"breedte Sectie."
+
+#: functions.php:1983
+msgid "3 column row can't be used in this column."
+msgstr "3 kolommen rij kan niet gebruikt worden in deze kolom."
+
+#: functions.php:1984 functions.php:2490 functions.php:2856
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: functions.php:1986
+msgid ""
+"Still images cannot be generated from this video service and/or this video "
+"format"
+msgstr ""
+"Stilstaande beelden kunnen niet gegenereerd worden van deze video service en/"
+"of dit videoformaat"
+
+#: functions.php:1987
+msgid "Geocode was not successful for the following reason"
+msgstr "Geocode was niet succesvol om de volgende reden:"
+
+#: functions.php:1988
+msgid "Geocoder failed due to"
+msgstr "Geocoder is mislukt om"
+
+#: functions.php:1989
+msgid "No results found"
+msgstr "Geen resultaten gevonden"
+
+#: functions.php:1990
+msgid "No available options for this configuration."
+msgstr "Geen beschikbare opties voor deze configuratie."
+
+#: functions.php:1991
+msgid ""
+"You're about to update global module. This change will be applied to all "
+"pages where you use this module. Press OK if you want to update this module"
+msgstr ""
+"U staat op het punt de globale module bij te werken. Deze wijziging zal "
+"toegepast worden op alle pagina's waar u deze module gebruikt. Druk op OK "
+"als u deze module wilt bijwerken"
+
+#: functions.php:1992
+msgid "You cannot add global rows into global sections"
+msgstr "U kunt geen globale rijen toevoegen aan globale secties"
+
+#: functions.php:1993
+msgid "You cannot add global modules into global sections or rows"
+msgstr "U kunt geen globale modules toevoegen aan globale secties of rijen"
+
+#: functions.php:1998
+#, fuzzy
+msgid "Map Pin Address cannot be empty"
+msgstr "Adres van de pin op de kaart"
+
+#: functions.php:1999
+msgid "Invalid Pin and address data. Please try again."
+msgstr ""
+
+#: functions.php:2000
+msgid "You do not have permission to unlock this section."
+msgstr "U hebt geen toestemming om te ontgrendelen dit hoofdstuk."
+
+#: functions.php:2001
+msgid "You do not have permission to unlock this row."
+msgstr "U hebt geen toestemming voor het ontgrendelen van deze rij."
+
+#: functions.php:2002
+msgid "You do not have permission to unlock this module."
+msgstr "U hebt geen toestemming voor het ontgrendelen van deze module."
+
+#: functions.php:2003
+msgid "You do not have permission to perform this task."
+msgstr "U hebt geen toestemming voor het uitvoeren van deze taak."
+
+#: functions.php:2004
+msgid ""
+"Unable to perform copy/paste process due to inavailability of localStorage "
+"feature in your browser. Please use latest modern browser (Chrome, Firefox, "
+"or Safari) to perform copy/paste process"
+msgstr ""
+"Geen copy/paste proces door inavailability van localStorage-functie in uw "
+"browser. Gelieve te gebruiken de nieuwste moderne browser (Chrome, Firefox "
+"of Safari) uit te voeren kopiëren/plakken proces"
+
+#: functions.php:2006
+msgid "Did"
+msgstr "Deed"
+
+#: functions.php:2007
+msgid "Added"
+msgstr "Toegevoegd"
+
+#: functions.php:2008
+msgid "Edited"
+msgstr "Redactie"
+
+#: functions.php:2009
+msgid "Removed"
+msgstr "Verwijderd"
+
+#: functions.php:2010
+msgid "Moved"
+msgstr "Verplaatst"
+
+#: functions.php:2011
+msgid "Expanded"
+msgstr "Uitgebreid"
+
+#: functions.php:2012
+msgid "Collapsed"
+msgstr "Ingestort"
+
+#: functions.php:2013
+msgid "Locked"
+msgstr "Opgesloten"
+
+#: functions.php:2014
+msgid "Unlocked"
+msgstr "Ontgrendeld"
+
+#: functions.php:2015
+msgid "Cloned"
+msgstr "Gekloonde"
+
+#: functions.php:2016
+msgid "Cleared"
+msgstr "Uitgeschakeld"
+
+#: functions.php:2017
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: functions.php:2018
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: functions.php:2019
+msgid "Copied"
+msgstr "Gekopieerd"
+
+#: functions.php:2020
+msgid "Renamed"
+msgstr "Omgedoopt"
+
+#: functions.php:2021
+msgid "Loaded"
+msgstr "Geladen"
+
+#: functions.php:2024 layouts.php:179 main-structure-elements.php:5
+msgid "Section"
+msgstr "Sectie"
+
+#: functions.php:2025
+msgid "Saved Section"
+msgstr "Opgeslagen Sectie"
+
+#: functions.php:2026 functions.php:2637 layouts.php:180
+msgid "Fullwidth Section"
+msgstr "Sectie volle breedte"
+
+#: functions.php:2027 functions.php:2638 layouts.php:181
+msgid "Specialty Section"
+msgstr "Speciale sectie"
+
+#: functions.php:2029 layouts.php:178 main-structure-elements.php:655
+#: main-structure-elements.php:1389
+msgid "Row"
+msgstr "Rij"
+
+#: functions.php:2030
+msgid "Saved Row"
+msgstr "Opgeslagen Rij"
+
+#: functions.php:2032
+msgid "Saved Module"
+msgstr "Opgeslagen Module"
+
+#: functions.php:2033
+msgid "Page"
+msgstr "Pagina"
+
+#: functions.php:2034 layouts.php:182 main-modules.php:407
+#: main-modules.php:5396 main-modules.php:5779 main-modules.php:8350
+#: main-modules.php:11880
+msgid "Layout"
+msgstr "Layout"
+
+#: functions.php:2036
+msgid "Invalid Color"
+msgstr "Ongeldige Kleur"
+
+#: functions.php:2052
+msgid "The Divi Builder"
+msgstr "De Divi opbouwfunctie"
+
+#: functions.php:2073
+msgid "Posts by %s"
+msgstr "Posts van %s"
+
+#: functions.php:2088
+msgid "% Comments"
+msgstr "% Reacties"
+
+#: functions.php:2090
+msgid "No Comments"
+msgstr "Geen reacties"
+
+#: functions.php:2092
+msgid "1 Comment"
+msgstr "1 Reactie"
+
+#: functions.php:2103
+msgid "by"
+msgstr "door"
+
+#: functions.php:2391 functions.php:2518
+msgid "Rename"
+msgstr "Naam"
+
+#: functions.php:2397
+msgid "Copy"
+msgstr "Kopiëren"
+
+#: functions.php:2403
+msgid "Paste After"
+msgstr "Plakken Na"
+
+#: functions.php:2409 functions.php:2415
+msgid "Paste"
+msgstr "Plakken"
+
+#: functions.php:2421 functions.php:2526 functions.php:2527
+msgid "Save to Library"
+msgstr "Opslaan in bibliotheek"
+
+#: functions.php:2427
+msgid "Unlock"
+msgstr "Ontgrendelen"
+
+#: functions.php:2428
+msgid "Lock"
+msgstr "Slot"
+
+#: functions.php:2434 functions.php:4462
+msgid "Enable"
+msgstr "Aan"
+
+#: functions.php:2435 functions.php:4463
+msgid "Disable"
+msgstr "Uit"
+
+#: functions.php:2480 main-modules.php:11230
+msgid "Expand"
+msgstr "Uitbreiden"
+
+#: functions.php:2481
+msgid "Collapse"
+msgstr "Ineenstorting"
+
+#: functions.php:2485 functions.php:2574 functions.php:2575
+msgid "Undo"
+msgstr "Ongedaan maken"
+
+#: functions.php:2486 functions.php:2572 functions.php:2573
+msgid "Redo"
+msgstr "Opnieuw"
+
+#: functions.php:2506 functions.php:2879 functions.php:3069 functions.php:3124
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: functions.php:2507 functions.php:3070 functions.php:3125
+msgid "Save"
+msgstr "Opslaan"
+
+#: functions.php:2519
+msgid "Enter a new name for this module"
+msgstr "Voer een nieuwe naam voor deze module"
+
+#: functions.php:2533 functions.php:2534
+msgid "Load From Library"
+msgstr "Opladen vanuit bibliotheek"
+
+#: functions.php:2540 functions.php:2541 functions.php:3094
+msgid "Clear Layout"
+msgstr "Lay-out wissen"
+
+#: functions.php:2576 functions.php:2577
+msgid "See History"
+msgstr "Zie Geschiedenis"
+
+#: functions.php:2584 functions.php:2585 functions.php:2664 functions.php:2665
+#: functions.php:3050
+msgid "Settings"
+msgstr "Instellingen"
+
+#: functions.php:2590 functions.php:2591
+msgid "Clone Section"
+msgstr "Sectie klonen"
+
+#: functions.php:2595 functions.php:2596
+msgid "Delete Section"
+msgstr "Sectie verwijderen"
+
+#: functions.php:2600 functions.php:2601
+msgid "Unlock Section"
+msgstr "Ontgrendelen Sectie"
+
+#: functions.php:2619 functions.php:2620
+msgid "Expand Section"
+msgstr "Vouw De Sectie"
+
+#: functions.php:2625 functions.php:2906 functions.php:2949 functions.php:3012
+#: functions.php:4251
+msgid "Add From Library"
+msgstr "Toevoegen vanuit bibliotheek"
+
+#: functions.php:2636
+msgid "Standard Section"
+msgstr "Standaardsectie"
+
+#: functions.php:2672 functions.php:2673
+msgid "Clone Row"
+msgstr "Rij klonen"
+
+#: functions.php:2681 functions.php:2682
+msgid "Delete Row"
+msgstr "Rij verwijderen"
+
+#: functions.php:2690 functions.php:2691
+msgid "Change Structure"
+msgstr "Structuur wijzigen"
+
+#: functions.php:2697 functions.php:2698
+msgid "Unlock Row"
+msgstr "Ontgrendelen Rij"
+
+#: functions.php:2723 functions.php:2724
+msgid "Expand Row"
+msgstr "Vouw Rij"
+
+#: functions.php:2744
+msgid "Add Row"
+msgstr "Rij toevoegen"
+
+#: functions.php:2752
+msgid "Insert Column(s)"
+msgstr "Kolom(men) invoegen"
+
+#: functions.php:2782 functions.php:2783 functions.php:3051
+msgid "Clone Module"
+msgstr "Module klonen"
+
+#: functions.php:2793 functions.php:2794
+msgid "Remove Module"
+msgstr "Module verwijderen"
+
+#: functions.php:2804 functions.php:2805
+msgid "Unlock Module"
+msgstr "Ontgrendelen Module"
+
+#: functions.php:2813 functions.php:2814
+msgid "Module Settings"
+msgstr "Module instellingen"
+
+#: functions.php:2839
+msgid "Save & Exit"
+msgstr "Opslaan en verlaten"
+
+#: functions.php:2848
+msgid "Save & Add To Library"
+msgstr "Opslaan en toevoegen aan bibliotheek"
+
+#: functions.php:2934
+msgid "Insert Columns"
+msgstr "Kolom invoegen"
+
+#: functions.php:2936
+msgid "New Row"
+msgstr "Nieuwe rij"
+
+#: functions.php:2978
+msgid "Insert Module"
+msgstr "Module invoegen"
+
+#: functions.php:2979
+msgid "New Module"
+msgstr "Nieuwe module"
+
+#: functions.php:3010 functions.php:4238
+msgid "Load Layout"
+msgstr "Lay-out laden"
+
+#: functions.php:3011
+msgid "Predefined Layouts"
+msgstr "Voorgedefinieerde opmaken"
+
+#: functions.php:3021
+msgid "Insert Module(s)"
+msgstr "Voeg module(s) in"
+
+#: functions.php:3081
+msgid "Disable Builder"
+msgstr "Opbouwfunctie onbruikbaar maken"
+
+#: functions.php:3082
+msgid ""
+"All content created in the Divi Builder will be lost. Previous content will "
+"be restored."
+msgstr ""
+"Alle aangemaakte inhoud in de Divi opbouwfunctie zal verloren gaan. De "
+"voorafgaande inhoud zal hersteld worden."
+
+#: functions.php:3083 functions.php:3096 functions.php:3107
+msgid "Do you wish to proceed?"
+msgstr "Wilt u verder gaan?"
+
+#: functions.php:3095
+msgid "All of your current page content will be lost."
+msgstr "Al uw huidige pagina-inhoud zal verloren gaan."
+
+#: functions.php:3106
+msgid "All advanced module settings in will be lost."
+msgstr "Alle geavanceerde module-instellingen in zullen verloren gaan."
+
+#: functions.php:3138 functions.php:4247
+msgid "Save To Library"
+msgstr "Opslaan in bibliotheek"
+
+#: functions.php:3139
+msgid "Save your current page to the Divi Library for later use."
+msgstr "Uw huidige pagina opslaan in de Divi bibliotheek voor later gebruik."
+
+#: functions.php:3140
+msgid "Layout Name:"
+msgstr "Opmaaknaam:"
+
+#: functions.php:3154
+msgid "Save And Add To Library"
+msgstr "Opslaan en toevoegen aan de bibliotheek"
+
+#: functions.php:3161
+msgid "Add To Categories:"
+msgstr "Toevoegen aan categorieën:"
+
+#: functions.php:3182
+msgid "Create New Category"
+msgstr "Nieuwe categorie aanmaken"
+
+#: functions.php:3189
+msgid "Include General settings"
+msgstr "Algemene instellingen insluiten"
+
+#: functions.php:3195
+msgid "Include Advanced Design settings"
+msgstr "Geavanceerde ontwerpinstellingen insluiten"
+
+#: functions.php:3201 layouts.php:187
+msgid "Include Custom CSS"
+msgstr "Gebruiks-CSS insluiten"
+
+#: functions.php:3249
+msgid ""
+"Here you can save the current item and add it to your Divi Library for later "
+"use as well."
+msgstr ""
+"Hier kunt u het huidige item opslaan en het toevoegen aan uw Divi "
+"bibliotheek, eveneens voor later gebruik."
+
+#: functions.php:3250
+msgid "Template Name"
+msgstr "Modelnaam"
+
+#: functions.php:3251
+msgid "Selective Sync"
+msgstr "Selectief synchroniseren"
+
+#: functions.php:3255 layouts.php:188
+msgid "Please select at least 1 tab to save"
+msgstr "Minstens 1 tab selecteren om op te slaan"
+
+#: functions.php:3256
+msgid "Save as Global:"
+msgstr "Opslaan als globaak:"
+
+#: functions.php:3257
+msgid "Make this a global item"
+msgstr "Van dit een globaal item maken"
+
+#: functions.php:3285
+msgid "Add Specialty Section"
+msgstr "Gespecialiseerde sectie toevoegen"
+
+#: functions.php:3496
+msgid "Configuration error"
+msgstr "Configuratie fout"
+
+#: functions.php:3506
+msgid "Please enter first name"
+msgstr "Gelieve een voornaam"
+
+#: functions.php:3508
+msgid "Incorrect email"
+msgstr "Onjuist e-mailadres"
+
+#: functions.php:3510
+msgid "Configuration error: List is not defined"
+msgstr "Configuratie fout: Lijst is niet gedefinieerd"
+
+#: functions.php:3512
+msgid ""
+"<h2 class=\"et_pb_subscribed\">Subscribed - look for the confirmation email!"
+"</h2>"
+msgstr ""
+"<h2 class=\"et_pb_subscribed\">Ingeschreven kijk voor de bevestiging e-mail!"
+"</h2>"
+
+#: functions.php:3529
+msgid "Configuration error: api key is not defined"
+msgstr "Configuratie fout: api-sleutel wordt niet gedefinieerd"
+
+#: functions.php:3565
+msgid "Aweber: Wrong configuration data"
+msgstr "Aweber: Verkeerde configuratie gegevens"
+
+#: functions.php:3596
+msgid "Connecting..."
+msgstr "Het aansluiten van..."
+
+#: functions.php:3597
+msgid "Connection failed"
+msgstr "Verbinding mislukt"
+
+#: functions.php:3598
+msgid "Removing connection..."
+msgstr "Het verwijderen van de aansluiting..."
+
+#: functions.php:3599
+msgid "Done"
+msgstr "Gedaan"
+
+#: functions.php:3628
+msgid ""
+"Step 1: <a href=\"%1$s\" target=\"_blank\">Generate authorization code</a>"
+msgstr ""
+"Stap 1: <a href=\"%1$s\" target=\"_blank\">het Genereren van vergunning "
+"code</a>"
+
+#: functions.php:3629
+msgid ""
+"Step 2: Paste in the authorization code and click \"Make a connection\" "
+"button: "
+msgstr ""
+"Stap 2: Plak in de autorisatie code in en klik op \"verbinding Maken\" - "
+"knop: "
+
+#: functions.php:3630
+msgid "Make a connection"
+msgstr "Een verbinding maken"
+
+#: functions.php:3633
+msgid "Aweber is set up properly. You can remove connection here if you wish."
+msgstr ""
+"Aweber is goed ingesteld. U kunt verbinding verwijderen hier als u dat wenst."
+
+#: functions.php:3634
+msgid "Remove the connection"
+msgstr "Verbreek de verbinding"
+
+#: functions.php:3642
+msgid "Nonce failed."
+msgstr "Nna mislukt."
+
+#: functions.php:3648
+msgid "Authorization code is empty."
+msgstr "Autorisatiecode is leeg."
+
+#: functions.php:3659
+msgid ""
+"Authorization code is invalid. Try regenerating it and paste in the new code."
+msgstr ""
+"Autorisatie code is ongeldig. Probeer het regenereren en plakken in de "
+"nieuwe code."
+
+#: functions.php:3681
+msgid "Aweber API Exception"
+msgstr "Aweber API Uitzondering"
+
+#: functions.php:3682 main-modules.php:8877
+msgid "Type"
+msgstr "Soort"
+
+#: functions.php:3683 main-modules.php:7509
+msgid "Message"
+msgstr "Bericht"
+
+#: functions.php:3684
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: functions.php:3694
+msgid "Nonce failed"
+msgstr "Nna mislukt"
+
+#: functions.php:3711
+msgid "Projects"
+msgstr "Projecten"
+
+#: functions.php:3712
+msgid "Project"
+msgstr "Project"
+
+#: functions.php:3713
+msgid "Add New"
+msgstr "Voeg nieuw toe"
+
+#: functions.php:3714
+msgid "Add New Project"
+msgstr "Nieuw Project Toevoegen"
+
+#: functions.php:3715
+msgid "Edit Project"
+msgstr "Project Bewerken"
+
+#: functions.php:3716
+msgid "New Project"
+msgstr "Nieuw Project"
+
+#: functions.php:3717
+msgid "All Projects"
+msgstr "Alle Projecten"
+
+#: functions.php:3718
+msgid "View Project"
+msgstr "Bekijk Project"
+
+#: functions.php:3719
+msgid "Search Projects"
+msgstr "Zoeken In Projecten"
+
+#: functions.php:3720 layouts.php:13
+msgid "Nothing found"
+msgstr "Niets gevonden"
+
+#: functions.php:3721 layouts.php:14
+msgid "Nothing found in Trash"
+msgstr "Niets gevonden in Prullenbak"
+
+#: functions.php:3748
+msgid "Project Categories"
+msgstr "Categorieën"
+
+#: functions.php:3749
+msgid "Project Category"
+msgstr "Project Categorie"
+
+#: functions.php:3750
+msgid "Search Categories"
+msgstr "Zoeken Categorieën"
+
+#: functions.php:3752
+msgid "Parent Category"
+msgstr "Bovenliggende Categorie"
+
+#: functions.php:3753
+msgid "Parent Category:"
+msgstr "Bovenliggende Categorie:"
+
+#: functions.php:3754
+msgid "Edit Category"
+msgstr "Wijzig Kategorie"
+
+#: functions.php:3755
+msgid "Update Category"
+msgstr "Update Categorie"
+
+#: functions.php:3756
+msgid "Add New Category"
+msgstr "Voeg Een Nieuwe Categorie"
+
+#: functions.php:3757
+msgid "New Category Name"
+msgstr "Nieuwe Categorie Naam"
+
+#: functions.php:3758
+msgid "Categories"
+msgstr "Categorieën"
+
+#: functions.php:3770
+msgid "Project Tags"
+msgstr "Project Tags"
+
+#: functions.php:3771
+msgid "Project Tag"
+msgstr "Project-Tag"
+
+#: functions.php:3772
+msgid "Search Tags"
+msgstr "Zoeken Op Tags"
+
+#: functions.php:3773
+msgid "All Tags"
+msgstr "Alle Tags"
+
+#: functions.php:3774
+msgid "Parent Tag"
+msgstr "Bovenliggende Tag"
+
+#: functions.php:3775
+msgid "Parent Tag:"
+msgstr "Bovenliggende Tag:"
+
+#: functions.php:3776
+msgid "Edit Tag"
+msgstr "Tag Bewerken"
+
+#: functions.php:3777
+msgid "Update Tag"
+msgstr "Update Tag"
+
+#: functions.php:3778
+msgid "Add New Tag"
+msgstr "Nieuwe Tag Toevoegen"
+
+#: functions.php:3779
+msgid "New Tag Name"
+msgstr "Nieuwe Tag Naam"
+
+#: functions.php:3780
+msgid "Tags"
+msgstr "Tags"
+
+#: functions.php:3840
+msgid "Read more"
+msgstr "Lees meer"
+
+#: functions.php:4179
+msgid "Theme Customizer"
+msgstr "Systeemaanpasser van thema"
+
+#: functions.php:4184
+msgid "Module Customizer"
+msgstr "Systeemaanpasser van module"
+
+#: functions.php:4189
+msgid "Page Options"
+msgstr "Pagina Opties"
+
+#: functions.php:4200
+msgid "Plugin Options"
+msgstr "Plugin Opties"
+
+#: functions.php:4200
+msgid "Theme Options"
+msgstr "Thema Opties"
+
+#: functions.php:4205
+msgid "Divi Library"
+msgstr "Divi bibliotheek"
+
+#: functions.php:4211
+msgid "Builder Interface"
+msgstr "Interface Builder"
+
+#: functions.php:4214
+msgid "Add/Delete Item"
+msgstr "Toevoegen/Verwijderen Van Een Item"
+
+#: functions.php:4218
+msgid "Edit Item"
+msgstr "Item Bewerken"
+
+#: functions.php:4222
+msgid "Move Item"
+msgstr "Verplaats Item"
+
+#: functions.php:4226
+msgid "Disable Item"
+msgstr "Onderdeel Uitschakelen"
+
+#: functions.php:4230
+msgid "Lock Item"
+msgstr "Lock-Item"
+
+#: functions.php:4234
+msgid "Toggle Divi Builder"
+msgstr "Schakelen Divi Builder"
+
+#: functions.php:4244
+msgid "Library Settings"
+msgstr "Bibliotheek-Instellingen"
+
+#: functions.php:4255
+msgid "Edit Global Items"
+msgstr "Wijzig Globale Items"
+
+#: functions.php:4261
+msgid "Settings Tabs"
+msgstr "Tabbladen Met Instellingen"
+
+#: functions.php:4268
+msgid "Advanced Settings"
+msgstr "Geavanceerde Instellingen"
+
+#: functions.php:4278
+msgid "Settings Types"
+msgstr "Instellingen Soorten"
+
+#: functions.php:4281
+msgid "Edit Colors"
+msgstr "Kleuren Bewerken"
+
+#: functions.php:4285
+msgid "Edit Content"
+msgstr "Inhoud Bewerken"
+
+#: functions.php:4289
+msgid "Edit Fonts"
+msgstr "Lettertypen Bewerken"
+
+#: functions.php:4293
+msgid "Edit Buttons"
+msgstr "Edit Buttons"
+
+#: functions.php:4297 layouts.php:8
+msgid "Edit Layout"
+msgstr "Layout bewerken"
+
+#: functions.php:4301
+msgid "Edit Configuration"
+msgstr "Wijzig Configuratie"
+
+#: functions.php:4307
+msgid "Module Use"
+msgstr "Module Gebruiken"
+
+#: functions.php:4347
+msgid "Administrator"
+msgstr "Beheerder"
+
+#: functions.php:4348
+msgid "Editor"
+msgstr "Editor"
+
+#: functions.php:4349
+msgid "Author"
+msgstr "Auteur"
+
+#: functions.php:4350
+msgid "Contributor"
+msgstr "Medewerker"
+
+#: functions.php:4385
+msgid "Divi Role Editor"
+msgstr "Divi Rol Editor"
+
+#: functions.php:4386
+msgid "Save Divi Roles"
+msgstr "Bespaar Divi Rollen"
+
+#: functions.php:4425
+msgid ""
+"Using the Divi Role Editor, you can limit the types of actions that can be "
+"taken by WordPress users of different roles. This is a great way to limit "
+"the functionality available to your customers or guest authors to ensure "
+"that they only have the necessary options available to them."
+msgstr ""
+"Met behulp van de Divi Rol Editor, u kunt beperken het typen van acties die "
+"genomen kunnen worden door WordPress gebruikers van de verschillende rollen. "
+"Dit is een geweldige manier voor het beperken van de functionaliteit die "
+"beschikbaar zijn voor uw klanten of gasten auteurs om ervoor te zorgen dat "
+"zij alleen hebben de nodige opties die beschikbaar zijn voor hen."
+
+#: functions.php:4492
+msgid "Reset Roles"
+msgstr "Reset Rollen"
+
+#: functions.php:4493
+msgid ""
+"All of your current role settings will be set to defaults. Do you wish to "
+"proceed?"
+msgstr ""
+"Alle van uw huidige rol-instellingen worden ingesteld op de "
+"standaardinstellingen. Wilt u doorgaan?"
+
+#: functions.php:4494
+msgid "yes"
+msgstr "ja"
+
+#: functions.php:4495
+msgid "no"
+msgstr "geen"
+
+#: layouts.php:7
+msgid "Add New Layout"
+msgstr "Voeg Nieuwe Layout Toe"
+
+#: layouts.php:9
+msgid "New Layout"
+msgstr "Nieuwe Layout"
+
+#: layouts.php:11
+msgid "View Layout"
+msgstr "Bekijk Layout"
+
+#: layouts.php:12
+msgid "Search Layouts"
+msgstr "Zoek Layouts"
+
+#: layouts.php:40
+msgid "Scope"
+msgstr "Bereik"
+
+#: layouts.php:53
+msgid "Layout Type"
+msgstr "Opmaaktype"
+
+#: layouts.php:66
+msgid "Module Width"
+msgstr "Module-breedte"
+
+#: layouts.php:79
+msgid "Category"
+msgstr "Categorie"
+
+#: layouts.php:173
+msgid "New Template Settings"
+msgstr "Nieuwe modelinstellingen"
+
+#: layouts.php:174
+msgid "Template Name:"
+msgstr "Modelnaam:"
+
+#: layouts.php:175
+msgid "Template Type:"
+msgstr "Modeltype:"
+
+#: layouts.php:177
+msgid "Fullwidth Module"
+msgstr "Module met volle breedte"
+
+#: layouts.php:184
+msgid "Close Modal Window"
+msgstr "Sluit modaal venster"
+
+#: layouts.php:185
+msgid "Include General Settings"
+msgstr "Algemene instellingen insluiten"
+
+#: layouts.php:186
+msgid "Include Advanced Design Settings"
+msgstr "Geavanceerde ontwerpinstellingen insluiten"
+
+#: layouts.php:189
+msgid "Select category(ies) for new template or type a new name ( optional )"
+msgstr ""
+"Een categorie (ën) selecteren voor een nieuw model of een nieuwe naam typen "
+"(optioneel)"
+
+#: layouts.php:252
+msgid "Homepage Basic"
+msgstr "Home-pagina basis"
+
+#: layouts.php:260
+msgid "Homepage Shop"
+msgstr "Home-pagina winkel"
+
+#: layouts.php:270
+msgid "Homepage Portfolio"
+msgstr "Home-pagina portfolio"
+
+#: layouts.php:278
+msgid "Homepage Company"
+msgstr "Home-pagina bedrijf"
+
+#: layouts.php:286
+msgid "Homepage Corporate"
+msgstr "Home-pagina onderneming"
+
+#: layouts.php:297
+msgid "Homepage Extended"
+msgstr "Home-pagina uitgebreid"
+
+#: layouts.php:306
+msgid "Page Fullwidth"
+msgstr "Pagina volle breedte"
+
+#: layouts.php:340
+msgid "Page Right Sidebar"
+msgstr "Pagina rechter zijbalk"
+
+#: layouts.php:374
+msgid "Page Left Sidebar"
+msgstr "Pagina linker zijbalk"
+
+#: layouts.php:408
+msgid "Page Dual Sidebars"
+msgstr "Pagina dubbele zijbalken"
+
+#: layouts.php:430
+msgid "Portfolio Grid"
+msgstr "Portfolio rooster"
+
+#: layouts.php:438
+msgid "Portfolio 1 Column"
+msgstr "Portfolio 1 kolom"
+
+#: layouts.php:446
+msgid "Portfolio Fullwidth Carousel"
+msgstr "Portfolio volle breedte carrousel"
+
+#: layouts.php:454
+msgid "Portfolio Fullwidth Grid"
+msgstr "Portfolio volle breedte rooster"
+
+#: layouts.php:462
+msgid "Project Extended"
+msgstr "Project uitgebreid"
+
+#: layouts.php:472
+msgid "Project Extended 2"
+msgstr "Project uitgebreid 2"
+
+#: layouts.php:485
+msgid "Blog Masonry"
+msgstr "Blog masonry"
+
+#: layouts.php:493
+msgid "Blog Standard"
+msgstr "Blog standaard"
+
+#: layouts.php:501
+msgid "Shop Basic"
+msgstr "Shop basis"
+
+#: layouts.php:509
+msgid "Shop Extended"
+msgstr "Shop uitgebreid"
+
+#: layouts.php:517
+msgid "Splash Page"
+msgstr "Opstartscherm"
+
+#: layouts.php:528
+msgid "Maintenance Mode"
+msgstr "Onderhoudsmodus"
+
+#: layouts.php:537
+msgid "Coming Soon"
+msgstr "Volgt binnenkort"
+
+#: layouts.php:545
+msgid "Landing Page"
+msgstr "Landingspagina"
+
+#: layouts.php:554
+msgid "About Me"
+msgstr "Over mij"
+
+#: layouts.php:563
+msgid "About Us"
+msgstr "Over ons"
+
+#: layouts.php:572
+msgid "Contact Us"
+msgstr "Neem contact met ons op"
+
+#: layouts.php:588
+msgid "Our Team"
+msgstr "Ons team"
+
+#: layouts.php:701
+msgid "Creative Agency"
+msgstr "Creatief bureau"
+
+#: layouts.php:710
+msgid "Sales Page"
+msgstr "Salespagina"
+
+#: layouts.php:746
+msgid "Case Study"
+msgstr "Case study"
+
+#: layouts.php:756
+msgid "Product Features"
+msgstr "Producteigenschappen"
+
+#: main-modules.php:4 main-modules.php:1527 main-modules.php:8852
+msgid "Image"
+msgstr "Afbeelding"
+
+#: main-modules.php:49 main-modules.php:1556 main-modules.php:8070
+#: main-modules.php:12450
+msgid "Left To Right"
+msgstr "Van links naar rechts"
+
+#: main-modules.php:50 main-modules.php:1557 main-modules.php:8071
+#: main-modules.php:12451
+msgid "Right To Left"
+msgstr "Van rechts naar links"
+
+#: main-modules.php:51 main-modules.php:1555 main-modules.php:8072
+#: main-modules.php:12452
+msgid "Top To Bottom"
+msgstr "Van boven naar beneden"
+
+#: main-modules.php:52 main-modules.php:1558 main-modules.php:8073
+#: main-modules.php:12453
+msgid "Bottom To Top"
+msgstr "Van beneden naar boven"
+
+#: main-modules.php:53 main-modules.php:8069 main-modules.php:12454
+msgid "Fade In"
+msgstr "Fade-in"
+
+#: main-modules.php:54 main-modules.php:1559 main-modules.php:8068
+#: main-modules.php:12455
+msgid "No Animation"
+msgstr "Geen animatie"
+
+#: main-modules.php:78 main-modules.php:8055 main-modules.php:12393
+msgid "Image URL"
+msgstr "URL afbeelding"
+
+#: main-modules.php:82 main-modules.php:732 main-modules.php:1079
+#: main-modules.php:1531 main-modules.php:3043 main-modules.php:4345
+#: main-modules.php:8059 main-modules.php:10629 main-modules.php:10671
+#: main-modules.php:10704 main-modules.php:12397
+msgid "Choose an Image"
+msgstr "Kies een afbeelding"
+
+#: main-modules.php:83 main-modules.php:733 main-modules.php:1080
+#: main-modules.php:1532 main-modules.php:3044 main-modules.php:4346
+#: main-modules.php:8060 main-modules.php:10630 main-modules.php:10672
+#: main-modules.php:10705 main-modules.php:12398
+msgid "Set As Image"
+msgstr "Stel in als afbeelding"
+
+#: main-modules.php:84 main-modules.php:3045 main-modules.php:4347
+#: main-modules.php:8061 main-modules.php:10631 main-modules.php:10673
+#: main-modules.php:10706 main-modules.php:12399
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display."
+msgstr ""
+"Upload de gewenste afbeelding, of voer de URL in van de afbeelding die u "
+"graag wilt laten zien."
+
+#: main-modules.php:87 main-modules.php:2630 main-modules.php:12402
+msgid "Image Alternative Text"
+msgstr "Alternatieve tekst afbeelding"
+
+#: main-modules.php:90 main-modules.php:10679 main-modules.php:12405
+msgid ""
+"This defines the HTML ALT text. A short description of your image can be "
+"placed here."
+msgstr ""
+"Dit definieert de alternatieve tekst van de afbeelding. Een korte "
+"beschrijving van uw afbeelding kan hier worden geplaatst."
+
+#: main-modules.php:93 main-modules.php:12408
+msgid "Image Title Text"
+msgstr "Titel van de afbeelding"
+
+#: main-modules.php:96 main-modules.php:10685 main-modules.php:12411
+msgid "This defines the HTML Title text."
+msgstr "Dit geeft de HTML titel tekst weer."
+
+#: main-modules.php:99
+msgid "Open in Lightbox"
+msgstr "Openen in Lightbox"
+
+#: main-modules.php:110 main-modules.php:12425
+msgid ""
+"Here you can choose whether or not the image should open in Lightbox. Note: "
+"if you select to open the image in Lightbox, url options below will be "
+"ignored."
+msgstr ""
+"Hier kunt u kiezen of de afbeelding wel of niet moet openen in LightboxLet "
+"op: als u er voor kiest om de afbeelding te openen in Lightboxzullen de URL "
+"opties hieronder genegeerd worden."
+
+#: main-modules.php:113 main-modules.php:12428
+msgid "Link URL"
+msgstr "Link URL"
+
+#: main-modules.php:117 main-modules.php:12432
+msgid ""
+"If you would like your image to be a link, input your destination URL here. "
+"No link will be created if this field is left blank."
+msgstr ""
+"Als u wilt dat uw afbeelding een link is, voer dat hier uw bestemmings- URL "
+"in. Er wordt geen link gecreëerd als u dit veld leeg laat."
+
+#: main-modules.php:120 main-modules.php:1443 main-modules.php:4084
+#: main-modules.php:9655 main-modules.php:12435
+msgid "Url Opens"
+msgstr "URL wordt geopend"
+
+#: main-modules.php:124 main-modules.php:1447 main-modules.php:3033
+#: main-modules.php:4088 main-modules.php:9659 main-modules.php:12439
+msgid "In The Same Window"
+msgstr "In hetzelfde venster"
+
+#: main-modules.php:125 main-modules.php:1448 main-modules.php:3034
+#: main-modules.php:4089 main-modules.php:9660 main-modules.php:12440
+msgid "In The New Tab"
+msgstr "In een nieuw tabblad"
+
+#: main-modules.php:128 main-modules.php:1450 main-modules.php:4091
+#: main-modules.php:9662 main-modules.php:12443
+msgid "Here you can choose whether or not your link opens in a new window"
+msgstr "Hier kunt u kiezen of de link al dan niet in een nieuw venster opent"
+
+#: main-modules.php:131 main-modules.php:8064 main-modules.php:12446
+msgid "Animation"
+msgstr "Animatie"
+
+#: main-modules.php:135 main-modules.php:1561 main-modules.php:8075
+#: main-modules.php:12457
+msgid "This controls the direction of the lazy-loading animation."
+msgstr "Dit regelt de richting van de langzaam ladende animatie."
+
+#: main-modules.php:138
+msgid "Remove Space Below The Image"
+msgstr "Verwijder de ruimte onder de afbeelding"
+
+#: main-modules.php:145
+msgid ""
+"Here you can choose whether or not the image should have a space below it."
+msgstr ""
+"Hier kunt u kiezen of er al dan niet ruimte onder de afbeelding moet zijn."
+
+#: main-modules.php:148
+msgid "Image Alignment"
+msgstr "Beelduitlijning"
+
+#: main-modules.php:156
+msgid "Here you can choose the image alignment."
+msgstr "Hier kunt u de beelduitlijning kiezen."
+
+#: main-modules.php:159 main-modules.php:484 main-modules.php:748
+#: main-modules.php:922 main-modules.php:1050 main-modules.php:1255
+#: main-modules.php:1587 main-modules.php:1830 main-modules.php:2240
+#: main-modules.php:2708 main-modules.php:3100 main-modules.php:3444
+#: main-modules.php:4142 main-modules.php:4365 main-modules.php:4676
+#: main-modules.php:5090 main-modules.php:5458 main-modules.php:5841
+#: main-modules.php:6176 main-modules.php:6556 main-modules.php:6755
+#: main-modules.php:6892 main-modules.php:7191 main-modules.php:7390
+#: main-modules.php:7673 main-modules.php:7830 main-modules.php:8118
+#: main-modules.php:8487 main-modules.php:8940 main-modules.php:9247
+#: main-modules.php:9414 main-modules.php:9675 main-modules.php:10195
+#: main-modules.php:10727 main-modules.php:11174 main-modules.php:11651
+#: main-modules.php:11956 main-modules.php:12146 main-modules.php:12224
+#: main-modules.php:12310 main-modules.php:12460 main-modules.php:12791
+#: main-structure-elements.php:233 main-structure-elements.php:1006
+msgid "Admin Label"
+msgstr "Admin Label"
+
+#: main-modules.php:161 main-modules.php:486 main-modules.php:750
+#: main-modules.php:924 main-modules.php:1257 main-modules.php:1589
+#: main-modules.php:1832 main-modules.php:2242 main-modules.php:3102
+#: main-modules.php:3446 main-modules.php:4144 main-modules.php:4367
+#: main-modules.php:4678 main-modules.php:5092 main-modules.php:5460
+#: main-modules.php:5843 main-modules.php:6178 main-modules.php:6558
+#: main-modules.php:6757 main-modules.php:6894 main-modules.php:7193
+#: main-modules.php:7392 main-modules.php:7675 main-modules.php:7832
+#: main-modules.php:8120 main-modules.php:8489 main-modules.php:8942
+#: main-modules.php:9249 main-modules.php:9416 main-modules.php:9677
+#: main-modules.php:10197 main-modules.php:10729 main-modules.php:11176
+#: main-modules.php:11653 main-modules.php:11958 main-modules.php:12148
+#: main-modules.php:12226 main-modules.php:12312 main-modules.php:12462
+#: main-modules.php:12793
+msgid ""
+"This will change the label of the module in the builder for easy "
+"identification."
+msgstr ""
+"Dit zal het label van de module in de builder wijzigen zodat gemakkelijke "
+"identificatie mogelijk is."
+
+#: main-modules.php:164 main-modules.php:489 main-modules.php:753
+#: main-modules.php:927 main-modules.php:1260 main-modules.php:1592
+#: main-modules.php:1835 main-modules.php:2245 main-modules.php:3105
+#: main-modules.php:3449 main-modules.php:4147 main-modules.php:4370
+#: main-modules.php:4681 main-modules.php:5095 main-modules.php:5463
+#: main-modules.php:5846 main-modules.php:6181 main-modules.php:6561
+#: main-modules.php:6760 main-modules.php:6897 main-modules.php:7196
+#: main-modules.php:7395 main-modules.php:7678 main-modules.php:7835
+#: main-modules.php:8123 main-modules.php:8492 main-modules.php:8945
+#: main-modules.php:9252 main-modules.php:9419 main-modules.php:9680
+#: main-modules.php:10200 main-modules.php:10732 main-modules.php:11179
+#: main-modules.php:11656 main-modules.php:11961 main-modules.php:12151
+#: main-modules.php:12229 main-modules.php:12315 main-modules.php:12465
+#: main-modules.php:12796 main-structure-elements.php:221
+#: main-structure-elements.php:879 main-structure-elements.php:1512
+msgid "CSS ID"
+msgstr "CSS ID"
+
+#: main-modules.php:167 main-modules.php:492 main-modules.php:756
+#: main-modules.php:930 main-modules.php:1263 main-modules.php:1595
+#: main-modules.php:1838 main-modules.php:2248 main-modules.php:3108
+#: main-modules.php:3452 main-modules.php:4150 main-modules.php:4373
+#: main-modules.php:4684 main-modules.php:5098 main-modules.php:5466
+#: main-modules.php:5849 main-modules.php:6184 main-modules.php:6564
+#: main-modules.php:6763 main-modules.php:6900 main-modules.php:7199
+#: main-modules.php:7398 main-modules.php:7681 main-modules.php:7838
+#: main-modules.php:8126 main-modules.php:8495 main-modules.php:8948
+#: main-modules.php:9255 main-modules.php:9422 main-modules.php:9683
+#: main-modules.php:10203 main-modules.php:10735 main-modules.php:11182
+#: main-modules.php:11659 main-modules.php:11964 main-modules.php:12154
+#: main-modules.php:12232 main-modules.php:12318 main-modules.php:12468
+#: main-modules.php:12799 main-structure-elements.php:224
+#: main-structure-elements.php:882 main-structure-elements.php:1515
+msgid ""
+"Enter an optional CSS ID to be used for this module. An ID can be used to "
+"create custom CSS styling, or to create links to particular sections of your "
+"page."
+msgstr ""
+"Voer een optioneel CSS ID in dat gebruikt kan worden voor deze module. Een "
+"ID kan worden gebruikt om een speciale CSS-stijl te creëren, of om "
+"koppelingen te creëren naar specifieke secties van uw pagina."
+
+#: main-modules.php:170 main-modules.php:495 main-modules.php:759
+#: main-modules.php:933 main-modules.php:1266 main-modules.php:1598
+#: main-modules.php:1841 main-modules.php:2251 main-modules.php:3111
+#: main-modules.php:3455 main-modules.php:4153 main-modules.php:4376
+#: main-modules.php:4687 main-modules.php:5101 main-modules.php:5469
+#: main-modules.php:5852 main-modules.php:6187 main-modules.php:6567
+#: main-modules.php:6766 main-modules.php:6903 main-modules.php:7202
+#: main-modules.php:7401 main-modules.php:7684 main-modules.php:7841
+#: main-modules.php:8129 main-modules.php:8498 main-modules.php:8951
+#: main-modules.php:9258 main-modules.php:9425 main-modules.php:9686
+#: main-modules.php:10206 main-modules.php:10738 main-modules.php:11185
+#: main-modules.php:11662 main-modules.php:11967 main-modules.php:12157
+#: main-modules.php:12235 main-modules.php:12321 main-modules.php:12471
+#: main-modules.php:12802 main-structure-elements.php:227
+#: main-structure-elements.php:885 main-structure-elements.php:1518
+msgid "CSS Class"
+msgstr "CSS Klasse"
+
+#: main-modules.php:173 main-modules.php:498 main-modules.php:762
+#: main-modules.php:936 main-modules.php:1269 main-modules.php:1601
+#: main-modules.php:1844 main-modules.php:2254 main-modules.php:3114
+#: main-modules.php:3458 main-modules.php:4156 main-modules.php:4379
+#: main-modules.php:4690 main-modules.php:5104 main-modules.php:5472
+#: main-modules.php:5855 main-modules.php:6190 main-modules.php:6570
+#: main-modules.php:6769 main-modules.php:6906 main-modules.php:7205
+#: main-modules.php:7404 main-modules.php:7687 main-modules.php:7844
+#: main-modules.php:8132 main-modules.php:8501 main-modules.php:8954
+#: main-modules.php:9261 main-modules.php:9428 main-modules.php:9689
+#: main-modules.php:10209 main-modules.php:10741 main-modules.php:11188
+#: main-modules.php:11665 main-modules.php:11970 main-modules.php:12160
+#: main-modules.php:12238 main-modules.php:12324 main-modules.php:12474
+#: main-modules.php:12805 main-structure-elements.php:230
+#: main-structure-elements.php:888 main-structure-elements.php:1521
+msgid ""
+"Enter optional CSS classes to be used for this module. A CSS class can be "
+"used to create custom CSS styling. You can add multiple classes, separated "
+"with a space."
+msgstr ""
+"Voer optionele CSS-klassen toe die gebruikt kunnen worden voor deze module. "
+"Een CSS klasse kan worden gebruikt om een een speciale CSS-stijl te creëren. "
+"U kunt meerdere klassen toevoegen, gescheiden door een spatie."
+
+#: main-modules.php:176 main-modules.php:1604
+msgid "Image Max Width"
+msgstr "Maximale breedte van de afbeelding"
+
+#: main-modules.php:183
+msgid "Force Fullwidth"
+msgstr "Volle breedte maken"
+
+#: main-modules.php:193
+msgid "Always Center Image On Mobile"
+msgstr "Afbeelding altijd centreren op de mobiele telefoon"
+
+#: main-modules.php:307
+msgid "Gallery"
+msgstr "Galerij"
+
+#: main-modules.php:343 main-modules.php:4275
+msgid "Caption"
+msgstr "Onderschrift"
+
+#: main-modules.php:357 main-modules.php:1431 main-modules.php:1992
+#: main-modules.php:3876 main-modules.php:4072 main-modules.php:4269
+#: main-modules.php:4323 main-modules.php:4622 main-modules.php:5032
+#: main-modules.php:5349 main-modules.php:5714 main-modules.php:6107
+#: main-modules.php:6305 main-modules.php:6489 main-modules.php:6518
+#: main-modules.php:6666 main-modules.php:6718 main-modules.php:7048
+#: main-modules.php:7121 main-modules.php:7169 main-modules.php:7327
+#: main-modules.php:7384 main-modules.php:7638 main-modules.php:8026
+#: main-modules.php:8333 main-modules.php:8822 main-modules.php:8860
+#: main-modules.php:9193 main-modules.php:9519 main-modules.php:9996
+#: main-modules.php:10456 main-modules.php:12592
+msgid "Title"
+msgstr "Titel"
+
+#: main-modules.php:372
+msgid "Gallery Item"
+msgstr "Galerij-item"
+
+#: main-modules.php:376 main-modules.php:5375 main-modules.php:5758
+#: main-modules.php:8856
+msgid "Overlay"
+msgstr "Bedekking"
+
+#: main-modules.php:380 main-modules.php:5379 main-modules.php:5762
+msgid "Overlay Icon"
+msgstr "Bedekkingsicoon"
+
+#: main-modules.php:384
+msgid "Gallery Item Title"
+msgstr "Titel van galerij-item"
+
+#: main-modules.php:393 main-modules.php:402
+msgid "Gallery Images"
+msgstr "Galerijafbeeldingen"
+
+#: main-modules.php:411 main-modules.php:2034
+msgid "Slider"
+msgstr "Slider"
+
+#: main-modules.php:412 main-modules.php:5401 main-modules.php:5784
+#: main-modules.php:8355 main-modules.php:11885
+msgid "Grid"
+msgstr "Raster"
+
+#: main-modules.php:414 main-modules.php:8362
+msgid "Toggle between the various blog layout types."
+msgstr "Schakelen tussen de verschillende blog lay-out types."
+
+#: main-modules.php:426
+msgid "Images Number"
+msgstr "Afbeeldingsnummer"
+
+#: main-modules.php:429
+msgid "Define the number of images that should be displayed per page."
+msgstr ""
+"Geef het aantal afbeeldingen aan die moeten worden weergegeven per pagina."
+
+#: main-modules.php:433
+msgid "Show Title and Caption"
+msgstr "Laat titel en onderschrift zien"
+
+#: main-modules.php:440
+msgid ""
+"Here you can choose whether to show the images title and caption, if the "
+"image has them."
+msgstr ""
+"Hier kunt u kiezen of u de afbeeldingstitel en het onderschrift wilt laten "
+"zien, als de afbeelding deze heeft."
+
+#: main-modules.php:443 main-modules.php:5438 main-modules.php:5821
+#: main-modules.php:8460
+msgid "Show Pagination"
+msgstr "Laat paginering zien"
+
+#: main-modules.php:450 main-modules.php:5445 main-modules.php:5828
+msgid "Enable or disable pagination for this feed."
+msgstr "Schakel paginering in- of uit voor deze feed."
+
+#: main-modules.php:453 main-modules.php:1232 main-modules.php:1564
+#: main-modules.php:2636 main-modules.php:3077 main-modules.php:4119
+#: main-modules.php:4355 main-modules.php:4653 main-modules.php:5067
+#: main-modules.php:5448 main-modules.php:5831 main-modules.php:6147
+#: main-modules.php:6541 main-modules.php:6745 main-modules.php:7663
+#: main-modules.php:8078 main-modules.php:8476 main-modules.php:9218
+#: main-modules.php:9645 main-modules.php:10161 main-modules.php:10468
+#: main-modules.php:11147 main-modules.php:11925 main-modules.php:12757
+msgid "Text Color"
+msgstr "Tekstkleur"
+
+#: main-modules.php:457 main-modules.php:917 main-modules.php:1094
+#: main-modules.php:1236 main-modules.php:1568 main-modules.php:2641
+#: main-modules.php:3081 main-modules.php:4124 main-modules.php:4360
+#: main-modules.php:4658 main-modules.php:5072 main-modules.php:5452
+#: main-modules.php:5835 main-modules.php:6151 main-modules.php:6545
+#: main-modules.php:6749 main-modules.php:7667 main-modules.php:8082
+#: main-modules.php:8480 main-modules.php:9222 main-modules.php:9649
+#: main-modules.php:10165 main-modules.php:10472 main-modules.php:11151
+#: main-modules.php:11929 main-modules.php:12761
+msgid "Dark"
+msgstr "Donker"
+
+#: main-modules.php:458 main-modules.php:916 main-modules.php:1093
+#: main-modules.php:1237 main-modules.php:1569 main-modules.php:2640
+#: main-modules.php:3082 main-modules.php:4123 main-modules.php:4359
+#: main-modules.php:4657 main-modules.php:5071 main-modules.php:5453
+#: main-modules.php:5836 main-modules.php:6152 main-modules.php:6546
+#: main-modules.php:6750 main-modules.php:7668 main-modules.php:8083
+#: main-modules.php:8481 main-modules.php:9223 main-modules.php:9650
+#: main-modules.php:10166 main-modules.php:10473 main-modules.php:11152
+#: main-modules.php:11930 main-modules.php:12762
+msgid "Light"
+msgstr "Licht"
+
+#: main-modules.php:460 main-modules.php:1571 main-modules.php:3084
+#: main-modules.php:4126 main-modules.php:4362 main-modules.php:4660
+#: main-modules.php:5074 main-modules.php:5455 main-modules.php:5838
+#: main-modules.php:6154 main-modules.php:6548 main-modules.php:7670
+#: main-modules.php:8484 main-modules.php:9225 main-modules.php:9652
+#: main-modules.php:11932
+msgid ""
+"Here you can choose whether your text should be light or dark. If you are "
+"working with a dark background, then your text should be light. If your "
+"background is light, then your text should be set to dark."
+msgstr ""
+"Hier kunt u kiezen of uw tekst licht of donker moet zijn. Als u met een "
+"donkere achtergrond werkt, moet uw tekst licht zijn. Als uw achtergrond "
+"licht is, moet uw tekst donker zijn."
+
+#: main-modules.php:463 main-modules.php:2146 main-modules.php:11559
+msgid "Automatic Animation"
+msgstr "Automatische animatie"
+
+#: main-modules.php:474 main-modules.php:2156 main-modules.php:11569
+msgid ""
+"If you would like the slider to slide automatically, without the visitor "
+"having to click the next button, enable this option and then adjust the "
+"rotation speed below if desired."
+msgstr ""
+"Als u wilt dat de slider automatisch werkt, zonder dat de bezoeker op de "
+"volgende knop klikt, schakelt u deze optie in en past u, indien gewenst, de "
+"rotatiesnelheid hieronder aan."
+
+#: main-modules.php:477 main-modules.php:2159 main-modules.php:11572
+msgid "Automatic Animation Speed (in ms)"
+msgstr "Automatische animatiesnelheid (in milliseconden)"
+
+#: main-modules.php:481 main-modules.php:2163 main-modules.php:11576
+msgid ""
+"Here you can designate how fast the slider fades between each slide, if "
+"'Automatic Animation' option is enabled above. The higher the number the "
+"longer the pause between each rotation."
+msgstr ""
+"Hier kunt u bepalen hoe snel de slider vervaagt tussen elke slide, als de "
+"‘Automatische animatie’ optie is ingeschakeld. Hoe hoger het nummer, des te "
+"langer is de pauze tussen elke rotatie."
+
+#: main-modules.php:501 main-modules.php:5475 main-modules.php:5867
+msgid "Zoom Icon Color"
+msgstr "Icoonkleur zoemen"
+
+#: main-modules.php:508 main-modules.php:5481 main-modules.php:5873
+#: main-modules.php:8969
+msgid "Hover Overlay Color"
+msgstr "Bedekkingskleur aanwijzen"
+
+#: main-modules.php:515 main-modules.php:5487 main-modules.php:5858
+#: main-modules.php:8975
+msgid "Hover Icon Picker"
+msgstr "Aanwijzen van kleurkiezer van het icoon"
+
+#: main-modules.php:684 main-modules.php:847 main-modules.php:1026
+msgid "Video"
+msgstr "Video"
+
+#: main-modules.php:699
+msgid "Video Icon"
+msgstr "Video-icoon"
+
+#: main-modules.php:708 main-modules.php:1055
+msgid "Video MP4/URL"
+msgstr "Video MP4-URL"
+
+#: main-modules.php:712 main-modules.php:722 main-modules.php:1059
+#: main-modules.php:1069 main-modules.php:2650 main-modules.php:2660
+#: main-structure-elements.php:131 main-structure-elements.php:141
+#: main-structure-elements.php:916 main-structure-elements.php:926
+msgid "Upload a video"
+msgstr "Een video uploaden"
+
+#: main-modules.php:713 main-modules.php:1060
+msgid "Choose a Video MP4 File"
+msgstr "Kies een video MP4 bestand"
+
+#: main-modules.php:714 main-modules.php:724 main-modules.php:1061
+#: main-modules.php:1071
+msgid "Set As Video"
+msgstr "Stel in als video"
+
+#: main-modules.php:715 main-modules.php:1062
+msgid ""
+"Upload your desired video in .MP4 format, or type in the URL to the video "
+"you would like to display"
+msgstr ""
+"Upload uw gewenste video in .MP4 formaat, of voer de URL in van de video die "
+"u wilt weergeven."
+
+#: main-modules.php:718 main-modules.php:1065
+msgid "Video Webm"
+msgstr "Video WEBM"
+
+#: main-modules.php:723 main-modules.php:1070
+msgid "Choose a Video WEBM File"
+msgstr "Kies een WEBM videobestand"
+
+#: main-modules.php:725 main-modules.php:1072
+msgid ""
+"Upload the .WEBM version of your video here. All uploaded videos should be "
+"in both .MP4 .WEBM formats to ensure maximum compatibility in all browsers."
+msgstr ""
+"Upload hier de .WEBM versie van uw video. Alle geüploade video’s moeten "
+"zowel in .MP4 als .WEBM formaat zijn om maximale compatibiliteit in alle "
+"browsers te waarborgen."
+
+#: main-modules.php:728 main-modules.php:1075
+msgid "Image Overlay URL"
+msgstr "Overlay afbeeldings-URL"
+
+#: main-modules.php:736 main-modules.php:1083
+msgid "Generate From Video"
+msgstr "Genereer van video"
+
+#: main-modules.php:739 main-modules.php:1086
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display over your video. You can also generate a still image from your video."
+msgstr ""
+"Upload uw gewenste afbeelding, of voer de URL in van de afbeelding die u "
+"over de video wilt weergeven. U kunt ook een stilstaand beeld van uw video "
+"genereren."
+
+#: main-modules.php:742 main-modules.php:939
+msgid "Play Icon Color"
+msgstr "Icoonkleur van het afspelen"
+
+#: main-modules.php:844
+msgid "Video Slider"
+msgstr "Videoslider"
+
+#: main-modules.php:869
+msgid "Play Button"
+msgstr "Afspeelknop"
+
+#: main-modules.php:873
+msgid "Thumbnail Item"
+msgstr "Miniatuur-item"
+
+#: main-modules.php:882
+msgid "Display Image Overlays on Main Video"
+msgstr "Laat afbeelding overlays zien op de hoofdvideo"
+
+#: main-modules.php:886
+msgid "Hide"
+msgstr "Verbergen"
+
+#: main-modules.php:887
+msgid "Show"
+msgstr "Laten zien"
+
+#: main-modules.php:889
+msgid ""
+"This option will cover the player UI on the main video. This image can "
+"either be uploaded in each video setting or auto-generated by Divi."
+msgstr ""
+"Deze optie heeft betrekking op de spelerinterface van de hoofdvideo. Deze "
+"afbeelding kan zowel geupload worden in elke video-instelling, als "
+"automatischgegenereerd worden door Divi."
+
+#: main-modules.php:892 main-modules.php:2126 main-modules.php:11539
+msgid "Arrows"
+msgstr "Pijlen"
+
+#: main-modules.php:896 main-modules.php:2130 main-modules.php:11543
+msgid "Show Arrows"
+msgstr "Laat pijlen zien"
+
+#: main-modules.php:897 main-modules.php:2131 main-modules.php:11544
+msgid "Hide Arrows"
+msgstr "Verberg pijlen"
+
+#: main-modules.php:899 main-modules.php:2133
+msgid "This setting will turn on and off the navigation arrows."
+msgstr "Deze instelling zet de navigatiepijlen aan of uit."
+
+#: main-modules.php:902
+msgid "Slider Controls"
+msgstr "Slider bediening"
+
+#: main-modules.php:906
+msgid "Use Thumbnail Track"
+msgstr "Gebruik miniatuurafbeeldingen als spoor"
+
+#: main-modules.php:907
+msgid "Use Dot Navigation"
+msgstr "Gebruik stipnavigatie"
+
+#: main-modules.php:909
+msgid ""
+"This setting will let you choose to use the thumbnail track controls below "
+"the slider or dot navigation at the bottom of the slider."
+msgstr ""
+"Deze instelling laat u kiezen tussen de miniatuurafbeeldingen of de "
+"stipnavigatie onder de slider."
+
+#: main-modules.php:912
+msgid "Slider Controls Color"
+msgstr "Kleur sliderbediening"
+
+#: main-modules.php:919
+msgid ""
+"This setting will make your slider controls either light or dark in color. "
+"Slider controls are either the arrows on the thumbnail track or the circles "
+"in dot navigation."
+msgstr ""
+"Deze instelling stelt uw sliderbediening in op een lichte of donkere kleur. "
+"Sliderbediening zijn de pijlen op het miniatuurafbeeldingen of de cirkels in "
+"de stipnavigatie."
+
+#: main-modules.php:945
+msgid "Thumbnail Overlay Color"
+msgstr "Bedekkingskleur van het miniatuur"
+
+#: main-modules.php:1031
+msgid "New Video"
+msgstr "Nieuwe video"
+
+#: main-modules.php:1032
+msgid "Video Settings"
+msgstr "Video-instellingen"
+
+#: main-modules.php:1052
+msgid ""
+"This will change the label of the video in the builder for easy "
+"identification."
+msgstr ""
+"Dit verandert het label van de video in de builder voor gemakkelijke "
+"identificatie."
+
+#: main-modules.php:1089
+msgid "Slider Arrows Color"
+msgstr "Kleur van de sliderpijlen"
+
+#: main-modules.php:1096
+msgid ""
+"This setting will make your slider arrows either light or dark in color."
+msgstr ""
+"Deze instelling zorgt er voor dat de sliderpijlen licht of donker worden van "
+"kleur."
+
+#: main-modules.php:1187 main-modules.php:1209
+msgid "Text"
+msgstr "Tekst"
+
+#: main-modules.php:1239 main-modules.php:8085 main-modules.php:10475
+#: main-modules.php:11154
+msgid ""
+"Here you can choose the value of your text. If you are working with a dark "
+"background, then your text should be set to light. If you are working with a "
+"light background, then your text should be dark."
+msgstr ""
+"Hier kunt u de kleur van uw tekst kiezen. Als u met een donkere achtergrond "
+"werkt, moet uw tekst licht zijn ingesteld. Als u werkt met een lichte "
+"achtergrond, moet uw tekst donker zijn."
+
+#: main-modules.php:1242 main-modules.php:1574 main-modules.php:3087
+#: main-modules.php:4129 main-modules.php:4663 main-modules.php:5077
+#: main-modules.php:10150 main-modules.php:11157 main-modules.php:12746
+msgid "Text Orientation"
+msgstr ""
+"Hier kunt u de kleur van uw tekst kiezen. Als u met een donkere achtergrond "
+"werkt, moet uw tekst licht zijn ingesteld. Als u werkt met een lichte "
+"achtergrond, moet uw tekst donker zijn."
+
+#: main-modules.php:1246 main-modules.php:10482 main-modules.php:11161
+msgid "This controls the how your text is aligned within the module."
+msgstr "Dit bepaalt hoe uw tekst wordt uitgelijnd binnen de module."
+
+#: main-modules.php:1252 main-modules.php:12221 main-modules.php:12307
+msgid "Here you can create the content that will be used within the module."
+msgstr ""
+"Hier kunt u de inhoud creëren die zal worden gebruikt binnen de module."
+
+#: main-modules.php:1272 main-modules.php:4159 main-modules.php:12241
+msgid "Max Width"
+msgstr "Maximale breedte"
+
+#: main-modules.php:1326
+msgid "Blurb"
+msgstr "Blurb"
+
+#: main-modules.php:1376 main-modules.php:2080 main-modules.php:2487
+#: main-modules.php:3371 main-modules.php:3758 main-modules.php:4029
+#: main-modules.php:4512 main-modules.php:4988 main-modules.php:7618
+#: main-modules.php:7992 main-modules.php:8310 main-modules.php:9146
+#: main-modules.php:11490
+msgid "Header"
+msgstr "Koptekst"
+
+#: main-modules.php:1382 main-modules.php:1794 main-modules.php:1964
+#: main-modules.php:2086 main-modules.php:2501 main-modules.php:2962
+#: main-modules.php:3403 main-modules.php:3803 main-modules.php:4036
+#: main-modules.php:4519 main-modules.php:4995 main-modules.php:6839
+#: main-modules.php:7127 main-modules.php:7624 main-modules.php:7998
+#: main-modules.php:8323 main-modules.php:11499
+msgid "Body"
+msgstr "Corps"
+
+#: main-modules.php:1402
+msgid "Blurb Image"
+msgstr "Afbeelding flaptekst"
+
+#: main-modules.php:1406
+msgid "Blurb Title"
+msgstr "Titel flaptekst"
+
+#: main-modules.php:1410
+msgid "Blurb Content"
+msgstr "Inhoud flaptekst"
+
+#: main-modules.php:1434
+msgid "The title of your blurb will appear in bold below your blurb image."
+msgstr ""
+"De titel van uw blurb zal in vette letters onder uw blurbafbeelding "
+"verschijnen."
+
+#: main-modules.php:1437
+msgid "Url"
+msgstr "URL"
+
+#: main-modules.php:1440
+msgid ""
+"If you would like to make your blurb a link, input your destination URL here."
+msgstr ""
+"Als u van uw blurb een link wilt maken, voer dan de bestemmings-URL hier in."
+
+#: main-modules.php:1453
+msgid "Use Icon"
+msgstr "Gebruik pictogram"
+
+#: main-modules.php:1467
+msgid "Here you can choose whether icon set below should be used."
+msgstr ""
+"Hier kunt u kiezen of de set pictogrammen hieronder gebruikt moet worden."
+
+#: main-modules.php:1470 main-modules.php:10512
+msgid "Icon"
+msgstr "Icoon"
+
+#: main-modules.php:1476
+msgid "Choose an icon to display with your blurb."
+msgstr "Kies een pictogram om samen met uw blurb weer te geven."
+
+#: main-modules.php:1480 main-modules.php:6921 main-modules.php:7084
+#: main-modules.php:7220 main-modules.php:8135 main-modules.php:9872
+msgid "Icon Color"
+msgstr "Kleur van het pictogram"
+
+#: main-modules.php:1482
+msgid "Here you can define a custom color for your icon."
+msgstr "Hier kunt u een specifieke kleur voor uw pictogram kiezen."
+
+#: main-modules.php:1486
+msgid "Circle Icon"
+msgstr "Omcirkel pictogram"
+
+#: main-modules.php:1497
+msgid ""
+"Here you can choose whether icon set above should display within a circle."
+msgstr ""
+"Hier kunt u kiezen of het bovenstaande pictogram moet worden afgebeeld in "
+"een cirkel."
+
+#: main-modules.php:1501 main-modules.php:6573
+msgid "Circle Color"
+msgstr "Kleur van de cirkel"
+
+#: main-modules.php:1503
+msgid "Here you can define a custom color for the icon circle."
+msgstr ""
+"Hier kunt u een specifieke kleur kiezen voor de cirkel van het pictogram."
+
+#: main-modules.php:1507
+msgid "Show Circle Border"
+msgstr "Laat rand van de cirkel zien"
+
+#: main-modules.php:1517
+msgid "Here you can choose whether if the icon circle border should display."
+msgstr "Hier kunt u kiezen of de rand van de cirkel zichtbaar moet zijn."
+
+#: main-modules.php:1521
+msgid "Circle Border Color"
+msgstr "Kleur van de rand van de cirkel"
+
+#: main-modules.php:1523
+msgid "Here you can define a custom color for the icon circle border."
+msgstr ""
+"Hier kunt u een specifieke kleur kiezen voor de rand van de cirkel van het "
+"pictogram."
+
+#: main-modules.php:1534
+msgid "Upload an image to display at the top of your blurb."
+msgstr "Upload een afbeelding om die aan de bovenkant van uw blurb te zien is."
+
+#: main-modules.php:1537
+msgid "Image Alt Text"
+msgstr "Alternatieve tekst van de afbeelding"
+
+#: main-modules.php:1540
+msgid "Define the HTML ALT text for your image here."
+msgstr "Definieer hier een alternatieve tekst voor uw afbeelding."
+
+#: main-modules.php:1544
+msgid "Image/Icon Placement"
+msgstr "Plaatsing van afbeelding/pictogram"
+
+#: main-modules.php:1548
+msgid "Here you can choose where to place the icon."
+msgstr "Hier kunt u kiezen waar u pictogram wilt plaatsen."
+
+#: main-modules.php:1551
+msgid "Image/Icon Animation"
+msgstr "Plaatsing van afbeelding/pictogram"
+
+#: main-modules.php:1578
+msgid "This will control how your blurb text is aligned."
+msgstr "Dit bepaalt hoe de tekst van uw blurb wordt uitgelijnd."
+
+#: main-modules.php:1584 main-modules.php:3097 main-modules.php:4139
+#: main-modules.php:4673 main-modules.php:5087 main-modules.php:7188
+#: main-modules.php:8115
+msgid "Input the main text content for your module here."
+msgstr "Voer de hoofdinhoud van uw tekst voor uw module hier in."
+
+#: main-modules.php:1611
+msgid "Use Icon Font Size"
+msgstr "Grootte van het lettertype van het icoon gebruiken"
+
+#: main-modules.php:1624
+msgid "Icon Font Size"
+msgstr "Grootte van het lettertype van het icoon"
+
+#: main-modules.php:1770
+msgid "Tabs"
+msgstr "Tabbladen"
+
+#: main-modules.php:1773 main-modules.php:1787 main-modules.php:1817
+#: main-modules.php:1933 main-modules.php:1949 main-modules.php:2015
+msgid "Tab"
+msgstr "Tab"
+
+#: main-modules.php:1813
+msgid "Tabs Controls"
+msgstr "Tabcontroles"
+
+#: main-modules.php:1821
+msgid "Active Tab"
+msgstr "Actieve tab"
+
+#: main-modules.php:1847
+msgid "Active Tab Background Color"
+msgstr "Achtergrondkleur van de actieve tab"
+
+#: main-modules.php:1853
+msgid "Inactive Tab Background Color"
+msgstr "Achtergrondkleur van de inactieve tab"
+
+#: main-modules.php:1943
+msgid "New Tab"
+msgstr "Nieuw tabblad"
+
+#: main-modules.php:1944
+msgid "Tab Settings"
+msgstr "Instellingen tabblad"
+
+#: main-modules.php:1994 main-modules.php:9522
+msgid "The title will be used within the tab button for this tab."
+msgstr "De titel zal worden gebruikt in de tabbladknop van dit tabblad."
+
+#: main-modules.php:2037 main-modules.php:2441 main-modules.php:11231
+#: main-modules.php:11447
+msgid "Slide"
+msgstr "Dia"
+
+#: main-modules.php:2095 main-modules.php:2518 main-modules.php:3435
+#: main-modules.php:3827 main-modules.php:4053 main-modules.php:4533
+#: main-modules.php:5009 main-modules.php:7349 main-modules.php:11508
+msgid "Button"
+msgstr "Knop"
+
+#: main-modules.php:2101 main-modules.php:2532 main-modules.php:11514
+msgid "Slide Description"
+msgstr "Dia-beschrijving"
+
+#: main-modules.php:2105 main-modules.php:2528 main-modules.php:11518
+msgid "Slide Title"
+msgstr "Dia-titel"
+
+#: main-modules.php:2109 main-modules.php:2536 main-modules.php:11522
+msgid "Slide Button"
+msgstr "Dia-knop"
+
+#: main-modules.php:2113 main-modules.php:11526
+msgid "Slide Controllers"
+msgstr "Dia-controleurs"
+
+#: main-modules.php:2117 main-modules.php:11530
+msgid "Slide Active Controller"
+msgstr "Actieve dia-controleur"
+
+#: main-modules.php:2136 main-modules.php:11549
+msgid "Controls"
+msgstr "Bediening"
+
+#: main-modules.php:2140 main-modules.php:11553
+msgid "Show Slider Controls"
+msgstr "Laat sliderbediening zien"
+
+#: main-modules.php:2141 main-modules.php:11554
+msgid "Hide Slider Controls"
+msgstr "Verberg  sliderbediening"
+
+#: main-modules.php:2143
+msgid ""
+"This setting will turn on and off the circle buttons at the bottom of the "
+"slider."
+msgstr ""
+"Deze instelling schakelt de cirkelknoppen aan de onderkant van de slider in "
+"of uit."
+
+#: main-modules.php:2166 main-modules.php:11579
+msgid "Continue Automatic Slide on Hover"
+msgstr "Continue Automatische Schuif de Muisaanwijzer"
+
+#: main-modules.php:2174 main-modules.php:11587
+msgid ""
+"Turning this on will allow automatic sliding to continue on mouse hover."
+msgstr ""
+"Wanneer u deze optie inschakelt, zal automatisch schuiven om verder te gaan "
+"op de muis beweeg."
+
+#: main-modules.php:2177 main-modules.php:10642 main-modules.php:11590
+msgid "Use Parallax effect"
+msgstr "Parallax-effect gebruiken"
+
+#: main-modules.php:2189
+msgid ""
+"Enabling this option will give your background images a fixed position as "
+"you scroll."
+msgstr ""
+"Het inschakelen van deze optie geeft uw achtergrondafbeeldingen een vaste "
+"positie als u scrollt."
+
+#: main-modules.php:2192 main-modules.php:10655 main-modules.php:11603
+msgid "Parallax method"
+msgstr "Parallax methode"
+
+#: main-modules.php:2200 main-modules.php:10663 main-modules.php:11611
+#: main-structure-elements.php:202
+msgid "Define the method, used for the parallax effect."
+msgstr "Definieer de methode die gebruikt wordt voor het parallax effect."
+
+#: main-modules.php:2203 main-modules.php:11614
+msgid "Remove Inner Shadow"
+msgstr "Innerlijke schaduw verwijderen"
+
+#: main-modules.php:2212 main-modules.php:2572 main-modules.php:11623
+msgid "Background Image Position"
+msgstr "Achtergrond Positie"
+
+#: main-modules.php:2217 main-modules.php:2578 main-modules.php:11628
+msgid "Top Left"
+msgstr "Top Links"
+
+#: main-modules.php:2218 main-modules.php:2579 main-modules.php:11629
+msgid "Top Center"
+msgstr "Top Center"
+
+#: main-modules.php:2219 main-modules.php:2580 main-modules.php:11630
+msgid "Top Right"
+msgstr "Rechts Boven"
+
+#: main-modules.php:2220 main-modules.php:2581 main-modules.php:11631
+msgid "Center Right"
+msgstr "Het Midden Van De Rechter"
+
+#: main-modules.php:2221 main-modules.php:2582 main-modules.php:11632
+msgid "Center Left"
+msgstr "Midden Links"
+
+#: main-modules.php:2222 main-modules.php:2583 main-modules.php:11633
+msgid "Bottom Left"
+msgstr "Onderaan Links"
+
+#: main-modules.php:2223 main-modules.php:2584 main-modules.php:11634
+msgid "Bottom Center"
+msgstr "Onderaan In Het Midden"
+
+#: main-modules.php:2224 main-modules.php:2585 main-modules.php:11635
+msgid "Bottom Right"
+msgstr "Rechts Onderaan"
+
+#: main-modules.php:2229 main-modules.php:2589 main-modules.php:11640
+msgid "Background Image Size"
+msgstr "Achtergrond-Afbeelding Formaat"
+
+#: main-modules.php:2234 main-modules.php:2595 main-modules.php:11645
+msgid "Fit"
+msgstr "Fit"
+
+#: main-modules.php:2235 main-modules.php:2596 main-modules.php:11646
+msgid "Actual Size"
+msgstr "De Werkelijke Grootte"
+
+#: main-modules.php:2257 main-modules.php:11668
+msgid "Top Padding"
+msgstr "Buffer aan de bovenkant"
+
+#: main-modules.php:2264 main-modules.php:11675
+msgid "Bottom Padding"
+msgstr "Buffer aan de onderkant"
+
+#: main-modules.php:2271 main-modules.php:11682
+msgid "Hide Content On Mobile"
+msgstr "Inhoud verbergen op mobiele telefoon"
+
+#: main-modules.php:2281 main-modules.php:11692
+msgid "Hide CTA On Mobile"
+msgstr "CTA verbergen op mobiele telefoon"
+
+#: main-modules.php:2291 main-modules.php:11702
+msgid "Show Image / Video On Mobile"
+msgstr "Afbeelding/video tonen op mobiele telefoon"
+
+#: main-modules.php:2481
+msgid "New Slide"
+msgstr "Nieuwe slide"
+
+#: main-modules.php:2482
+msgid "Slide Settings"
+msgstr "Slide-instellingen"
+
+#: main-modules.php:2545
+msgid "Heading"
+msgstr "Titel"
+
+#: main-modules.php:2548
+msgid "Define the title text for your slide."
+msgstr "Definieer de tekst voor de titel van uw slide."
+
+#: main-modules.php:2551 main-modules.php:3912 main-modules.php:4094
+#: main-modules.php:4628
+msgid "Button Text"
+msgstr "Knoptekst"
+
+#: main-modules.php:2554
+msgid "Define the text for the slide button"
+msgstr "Definieer de tekst voor de slideknop"
+
+#: main-modules.php:2557 main-modules.php:3906 main-modules.php:4078
+msgid "Button URL"
+msgstr "Knop URL"
+
+#: main-modules.php:2560
+msgid "Input a destination URL for the slide button."
+msgstr "Het invoeren van een bestemmings-URL voor de slideknop."
+
+#: main-modules.php:2569 main-structure-elements.php:104
+msgid ""
+"If defined, this image will be used as the background for this module. To "
+"remove a background image, simply delete the URL from the settings field."
+msgstr ""
+"Indien gedefinieerd, wordt deze afbeelding gebruikt als achtergrond voor "
+"deze module. Om de achtergrondafbeelding te verwijderen, wis dan binnen de "
+"instellingen de URL."
+
+#: main-modules.php:2594
+msgid "Cover"
+msgstr "Dekking"
+
+#: main-modules.php:2602 main-modules.php:11144
+msgid "Use the color picker to choose a background color for this module."
+msgstr ""
+"Gebruik de kleurenkiezer om een achtergrondkleur voor deze module te kiezen."
+
+#: main-modules.php:2605
+msgid "Slide Image"
+msgstr "Slide-afbeelding"
+
+#: main-modules.php:2609
+msgid "Choose a Slide Image"
+msgstr "Kies een slide-afbeelding"
+
+#: main-modules.php:2610
+msgid "Set As Slide Image"
+msgstr "Instellen als slide-afbeelding"
+
+#: main-modules.php:2611
+msgid ""
+"If defined, this slide image will appear to the left of your slide text. "
+"Upload an image, or leave blank for a text-only slide."
+msgstr ""
+"Indien gedefinieerd, zal deze slide-afbeelding aan de linkerkant van uw "
+"slidetekst verschijnen. Upload een afbeelding of laat het leeg voor een "
+"slide met alleen tekst."
+
+#: main-modules.php:2614
+msgid "Slide Image Vertical Alignment"
+msgstr "Verticale uitlijning van de slide-afbeelding"
+
+#: main-modules.php:2621
+msgid ""
+"This setting determines the vertical alignment of your slide image. Your "
+"image can either be vertically centered, or aligned to the bottom of your "
+"slide."
+msgstr ""
+"Deze instelling bepaalt de verticale uitlijning van uw slide-afbeelding. Uw "
+"afbeelding kan verticaal worden gecentreerd of worden afgestemd op de "
+"onderkant van uw slide."
+
+#: main-modules.php:2624
+msgid "Slide Video"
+msgstr "Slide video"
+
+#: main-modules.php:2627
+msgid ""
+"If defined, this video will appear to the left of your slide text. Enter "
+"youtube or vimeo page url, or leave blank for a text-only slide."
+msgstr ""
+"Indien gedefinieerd, zal deze video aan de linkerkant van uw slidetekst "
+"verschijnen. Voer een Youtube of Vimeopagina URL in, of laat het leeg voor "
+"een slide met alleen tekst."
+
+#: main-modules.php:2633
+msgid ""
+"If you have a slide image defined, input your HTML ALT text for the image "
+"here."
+msgstr ""
+"Als u een slide-afbeelding heeft gedefinieerd, voer de alternatieve "
+"afbeeldingstekst van uw afbeelding hier in."
+
+#: main-modules.php:2643
+msgid ""
+"Here you can choose whether your text is light or dark. If you have a slide "
+"with a dark background, then choose light text. If you have a light "
+"background, then use dark text."
+msgstr ""
+"Hier kunt u kiezen of uw tekst licht of donker is. Als u een slide heeft met "
+"een donkere achtergrond, kies dan een lichte tekst. Als u een lichte "
+"achtergrond heeft, gebruik dan een donkere tekst."
+
+#: main-modules.php:2646 main-structure-elements.php:127
+#: main-structure-elements.php:912
+msgid "Background Video MP4"
+msgstr "Achtergrondvideo .MP4"
+
+#: main-modules.php:2651 main-structure-elements.php:132
+#: main-structure-elements.php:917
+msgid "Choose a Background Video MP4 File"
+msgstr "Kies een achtergrondvideo .MP4 File"
+
+#: main-modules.php:2652 main-modules.php:2662 main-structure-elements.php:133
+#: main-structure-elements.php:143 main-structure-elements.php:918
+#: main-structure-elements.php:928
+msgid "Set As Background Video"
+msgstr "Stel in als achtergrondvideo"
+
+#: main-modules.php:2653 main-structure-elements.php:134
+msgid ""
+"All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum "
+"compatibility in all browsers. Upload the .MP4 version here. <b>Important "
+"Note: Video backgrounds are disabled from mobile devices. Instead, your "
+"background image will be used. For this reason, you should define both a "
+"background image and a background video to ensure best results.</b>"
+msgstr ""
+"Alle video’s moeten worden geupload in zowel  .MP4 en .WEBM formats om een "
+"maximale toepasbaarheid te verzekeren in alle browsers. Upload hier de .MP4 "
+"versie. Belangrijk: Video-achtergronden zijn uitgeschakeld op mobiele "
+"apparaten. Hiervoor in de plaats wordt de achtergrondfoto gebruikt. Om deze "
+"reden moet u zowel een achtergrondfoto als een achtergrondvideo instellen om "
+"verzekerd te zijn van de beste resultaten."
+
+#: main-modules.php:2656 main-structure-elements.php:137
+#: main-structure-elements.php:922
+msgid "Background Video Webm"
+msgstr "Achtergrondvideo .WEBM"
+
+#: main-modules.php:2661 main-structure-elements.php:142
+#: main-structure-elements.php:927
+msgid "Choose a Background Video WEBM File"
+msgstr "Kies een achtergrondvideo .WEBM File"
+
+#: main-modules.php:2663 main-structure-elements.php:144
+msgid ""
+"All videos should be uploaded in both .MP4 .WEBM formats to ensure maximum "
+"compatibility in all browsers. Upload the .WEBM version here. <b>Important "
+"Note: Video backgrounds are disabled from mobile devices. Instead, your "
+"background image will be used. For this reason, you should define both a "
+"background image and a background video to ensure best results.</b>"
+msgstr ""
+"Alle video’s moeten worden geupload in zowel  .MP4 en .WEBM formaat om een "
+"maximale toepasbaarheid te verzekeren in alle browsers. Upload hier de .WEBM "
+"versie. Belangrijk: Video-achtergronden zijn uitgeschakeld op mobiele "
+"apparaten. Hiervoor in de plaats wordt de achtergrondfoto gebruikt. Om deze "
+"reden moet u zowel een achtergrondfoto als een achtergrondvideo instellen om "
+"verzekerd te zijn van de beste resultaten."
+
+#: main-modules.php:2666 main-structure-elements.php:147
+#: main-structure-elements.php:932
+msgid "Background Video Width"
+msgstr "Breedte Achtergrondvideo"
+
+#: main-modules.php:2669 main-structure-elements.php:150
+msgid ""
+"In order for videos to be sized correctly, you must input the exact width "
+"(in pixels) of your video here."
+msgstr ""
+"Om er voor te zorgen dat video’s juist gedimensioneerd zijn, moet u de "
+"exacte breedte van uw video (in pixels) hier invoeren."
+
+#: main-modules.php:2673 main-structure-elements.php:154
+#: main-structure-elements.php:939
+msgid "Background Video Height"
+msgstr "Breedte achtergrondvideo"
+
+#: main-modules.php:2676 main-structure-elements.php:157
+msgid ""
+"In order for videos to be sized correctly, you must input the exact height "
+"(in pixels) of your video here."
+msgstr ""
+"Om er voor te zorgen dat video’s juist gedimensioneerd zijn, moet u de "
+"exacte breedte van uw video (in pixels) hier invoeren."
+
+#: main-modules.php:2680 main-structure-elements.php:161
+#: main-structure-elements.php:946
+msgid "Pause Video"
+msgstr "Pauzeer video"
+
+#: main-modules.php:2687 main-structure-elements.php:168
+msgid "Allow video to be paused by other players when they begin playing"
+msgstr ""
+"Geef andere spelers toestemming de video te pauzeren als ze beginnen met "
+"spelen."
+
+#: main-modules.php:2693
+msgid "Input your main slide text content here."
+msgstr "Voer de tekstinhoud van uw hoofdslide hier in."
+
+#: main-modules.php:2696
+msgid "Arrows Custom Color"
+msgstr "Aangepaste kleur van de pijlen"
+
+#: main-modules.php:2702
+msgid "Dot Nav Custom Color"
+msgstr "Aangepaste kleur van de dot navigatie"
+
+#: main-modules.php:2710
+msgid ""
+"This will change the label of the slide in the builder for easy "
+"identification."
+msgstr ""
+"Dit zal veranderen op het etiket van de dia in de opbouwfunctie voor "
+"eenvoudige identificatie."
+
+#: main-modules.php:2923
+msgid "Testimonial"
+msgstr "Aanbevelingen"
+
+#: main-modules.php:2984
+msgid "Testimonial Portrait"
+msgstr "Testimoniaal portret"
+
+#: main-modules.php:2988
+msgid "Testimonial Description"
+msgstr "Testimoniale beschrijving"
+
+#: main-modules.php:2992
+msgid "Testimonial Author"
+msgstr "Testimoniale auteur"
+
+#: main-modules.php:2996
+msgid "Testimonial Meta"
+msgstr "Testimoniale meta"
+
+#: main-modules.php:3005
+msgid "Author Name"
+msgstr "Naam van de schrijver"
+
+#: main-modules.php:3008
+msgid "Input the name of the testimonial author."
+msgstr "Voer de naam van de schrijver in die de aanbeveling doet."
+
+#: main-modules.php:3011
+msgid "Job Title"
+msgstr "Functietitel"
+
+#: main-modules.php:3014
+msgid "Input the job title."
+msgstr "Voer de functietitel in."
+
+#: main-modules.php:3017
+msgid "Company Name"
+msgstr "Bedrijfsnaam"
+
+#: main-modules.php:3020
+msgid "Input the name of the company."
+msgstr "Voer de naam van het bedrijf in."
+
+#: main-modules.php:3023
+msgid "Author/Company URL"
+msgstr "URL van schrijver/bedrijf"
+
+#: main-modules.php:3026
+msgid "Input the website of the author or leave blank for no link."
+msgstr "Voer de website van de schrijver in, of laat het leeg voor geen link."
+
+#: main-modules.php:3029
+msgid "URLs Open"
+msgstr "URL's te openen"
+
+#: main-modules.php:3036
+msgid "Choose whether or not the URL should open in a new window."
+msgstr "Kies of de URL al dan niet in een nieuw venster moet worden geopend."
+
+#: main-modules.php:3039
+msgid "Portrait Image URL"
+msgstr "URL van het portret"
+
+#: main-modules.php:3048
+msgid "Quote Icon"
+msgstr "Pictogram van het citaat"
+
+#: main-modules.php:3052
+msgid "Visible"
+msgstr "Zichtbaar"
+
+#: main-modules.php:3053
+msgid "Hidden"
+msgstr "Verborgen"
+
+#: main-modules.php:3055
+msgid "Choose whether or not the quote icon should be visible."
+msgstr "Kies of het pictogram van het citaat wel of niet zichtbaar moet zijn."
+
+#: main-modules.php:3058 main-modules.php:4100 main-modules.php:4634
+#: main-modules.php:5048 main-modules.php:9228
+msgid "Use Background Color"
+msgstr "Gebruik Achtergrondkleur"
+
+#: main-modules.php:3068 main-modules.php:4110 main-modules.php:4644
+#: main-modules.php:5058 main-modules.php:9238
+msgid ""
+"Here you can choose whether background color setting below should be used or "
+"not."
+msgstr ""
+"Hier kunt u kiezen of de instelling voor de achtergrondkleur hieronder wel "
+"of niet gebruikt moet worden."
+
+#: main-modules.php:3073 main-modules.php:4116
+msgid "Here you can define a custom background color for your CTA."
+msgstr ""
+"Hier kunt u een specifieke achtergrondkleur voor uw oproep tot actie "
+"definiëren."
+
+#: main-modules.php:3091 main-modules.php:4133
+msgid "This will adjust the alignment of the module text."
+msgstr "Dit zal de uitlijning van de moduletekst aanpassen."
+
+#: main-modules.php:3117
+msgid "Quote Icon Color"
+msgstr "Aanhalen van het icoonkleur"
+
+#: main-modules.php:3123
+msgid "Portrait Border Radius"
+msgstr "Boordstraal portret"
+
+#: main-modules.php:3129
+msgid "Portrait Width"
+msgstr "Breedte portret"
+
+#: main-modules.php:3140
+msgid "Portrait Height"
+msgstr "Hoogte portret"
+
+#: main-modules.php:3306
+msgid "Pricing Tables"
+msgstr "Tabellen prijsstelling"
+
+#: main-modules.php:3310 main-modules.php:3730
+msgid "Pricing Table"
+msgstr "Prijstabel"
+
+#: main-modules.php:3340 main-modules.php:3837
+msgid "Pricing Heading"
+msgstr "Subtitel prijsstelling"
+
+#: main-modules.php:3344 main-modules.php:3841
+msgid "Pricing Title"
+msgstr "Titel prijsstelling"
+
+#: main-modules.php:3348 main-modules.php:3845
+msgid "Pricing Top"
+msgstr "Bovenkant prijsstelling"
+
+#: main-modules.php:3352 main-modules.php:3390 main-modules.php:3790
+#: main-modules.php:3849 main-modules.php:3900 main-modules.php:8828
+#: main-modules.php:8868
+msgid "Price"
+msgstr "Prijs"
+
+#: main-modules.php:3356 main-modules.php:3853
+msgid "Pricing Content"
+msgstr "Inhoud prijsstelling"
+
+#: main-modules.php:3360 main-modules.php:3857
+msgid "Pricing Button"
+msgstr "Knop prijsstelling"
+
+#: main-modules.php:3364
+msgid "Featured Table"
+msgstr "Aanbevolen tabel"
+
+#: main-modules.php:3378 main-modules.php:3771
+msgid "Subheader"
+msgstr "Subtitel"
+
+#: main-modules.php:3384 main-modules.php:3784
+msgid "Currency &amp; Frequency"
+msgstr "Munt &amp; Frequentie"
+
+#: main-modules.php:3461
+msgid "Featured Table Background Color"
+msgstr "Achtergrondkleur aanbevolen tabel"
+
+#: main-modules.php:3468
+msgid "Table Header Background Color"
+msgstr "Achtergrondkleur koptekst tabel"
+
+#: main-modules.php:3474
+msgid "Featured Table Header Background Color"
+msgstr "Achtergrondkleur aanbevolen koptekst tabel"
+
+#: main-modules.php:3481
+msgid "Featured Table Header Text Color"
+msgstr "Tekstkleur aanbevolen koptekst tabel"
+
+#: main-modules.php:3488
+msgid "Featured Table Subheader Text Color"
+msgstr "Tekstkleur aanbevolen subtiteltekst tabel"
+
+#: main-modules.php:3495
+msgid "Featured Table Price Color"
+msgstr "Kleur aanbevolen tabelprijs"
+
+#: main-modules.php:3502
+msgid "Featured Table Body Text Color"
+msgstr "Tekstkleur aanbevolen tabelcorps"
+
+#: main-modules.php:3509
+msgid "Show Bullet"
+msgstr "Punt tonen"
+
+#: main-modules.php:3522
+msgid "Bullet Color"
+msgstr "Kleur punt"
+
+#: main-modules.php:3529
+msgid "Featured Table Bullet Color"
+msgstr "Puntkleur aanbevolen tabel"
+
+#: main-modules.php:3536
+msgid "Remove Featured Table Drop Shadow"
+msgstr "Verwijderen van slagschaduw van aanbevolen tabel"
+
+#: main-modules.php:3547
+msgid "Center List Items"
+msgstr "Lijst items centreren"
+
+#: main-modules.php:3752
+msgid "New Pricing Table"
+msgstr "Nieuwe prijstabel"
+
+#: main-modules.php:3753
+msgid "Pricing Table Settings"
+msgstr "Instellingen prijstabellen"
+
+#: main-modules.php:3866
+msgid "Make This Table Featured"
+msgstr "Maak deze tot een uitgelichte tabel"
+
+#: main-modules.php:3873
+msgid "Featuring a table will make it stand out from the rest."
+msgstr "Een tabel uitlichten zal het onderscheiden van de rest."
+
+#: main-modules.php:3879
+msgid "Define a title for the pricing table."
+msgstr "Definieer een titel voor de prijstabel."
+
+#: main-modules.php:3882
+msgid "Subtitle"
+msgstr "Ondertitelen"
+
+#: main-modules.php:3885
+msgid "Define a sub title for the table if desired."
+msgstr "Definieer indien gewenst een ondertiteling voor de tabel."
+
+#: main-modules.php:3888
+msgid "Currency"
+msgstr "Valuta"
+
+#: main-modules.php:3891
+msgid "Input your desired currency symbol here."
+msgstr "Voer het symbool van de door u gewenste valuta hier in."
+
+#: main-modules.php:3894
+msgid "Per"
+msgstr "per"
+
+#: main-modules.php:3897
+msgid ""
+"If your pricing is subscription based, input the subscription payment cycle "
+"here."
+msgstr ""
+"Als uw prijs is gebaseerd op een abonnement, voer dan hier de cyclus van de "
+"abonnementsbetaling in."
+
+#: main-modules.php:3903
+msgid "Input the value of the product here."
+msgstr "Voer hier de waarde van het product in."
+
+#: main-modules.php:3909
+msgid "Input the destination URL for the signup button."
+msgstr "Voer de bestemmings-URL in voor de inschrijfknop."
+
+#: main-modules.php:3915
+msgid "Adjust the text used from the signup button."
+msgstr "Pas de tekst aan van de inschrijfknop."
+
+#: main-modules.php:3923
+msgid ""
+"Input a list of features that are/are not included in the product. Separate "
+"items on a new line, and begin with either a + or - symbol: "
+msgstr ""
+"Voer een lijst van eigenschappen in die wel of niet zijn inbegrepen in het "
+"product. Separeer artikelen op een nieuwe regel en begin met een + of een – "
+"teken."
+
+#: main-modules.php:3924
+msgid "Included option"
+msgstr "Inbegrepen optie"
+
+#: main-modules.php:3925
+msgid "Excluded option"
+msgstr "Niet inbegrepen optie"
+
+#: main-modules.php:3998
+msgid "Call To Action"
+msgstr "Oproep tot actie"
+
+#: main-modules.php:4059
+msgid "Promo Description"
+msgstr "Beschrijving"
+
+#: main-modules.php:4063
+msgid "Promo Button"
+msgstr "Knop"
+
+#: main-modules.php:4075
+msgid "Input your value to action title here."
+msgstr "Voer de titel van uw oproep tot actie hier in."
+
+#: main-modules.php:4081
+msgid "Input the destination URL for your CTA button."
+msgstr "Voer de bestemmings-URL voor de knop van uw oproep tot actie in."
+
+#: main-modules.php:4097
+msgid "Input your desired button text, or leave blank for no button."
+msgstr "Voer de gewenste knoptekst in, of laat het leeg als u geen knop wilt."
+
+#: main-modules.php:4244 main-modules.php:4313
+msgid "Audio"
+msgstr "Audio"
+
+#: main-modules.php:4296
+msgid "Audio Cover Art"
+msgstr "Audio-afbeelding"
+
+#: main-modules.php:4300
+msgid "Audio Content"
+msgstr "Audio-inhoud"
+
+#: main-modules.php:4304
+msgid "Audio Meta"
+msgstr "Audio-meta"
+
+#: main-modules.php:4317
+msgid "Upload an audio file"
+msgstr "Upload een audiobestand"
+
+#: main-modules.php:4318
+msgid "Choose an Audio file"
+msgstr "Kies een audiobestand"
+
+#: main-modules.php:4319
+msgid "Set As Audio for the module"
+msgstr "Stel in als audio voor de module"
+
+#: main-modules.php:4320
+msgid ""
+"Define the audio file for use in the module. To remove an audio file from "
+"the module, simply delete the URL from the settings field."
+msgstr ""
+"Definieer het audiobestand dat in de module wordt gebruikt. Om een "
+"audiobestand te verwijderen, verwijdert u simpelweg de URL uit de "
+"instellingen."
+
+#: main-modules.php:4326
+msgid "Define a title."
+msgstr "Definieer een titel."
+
+#: main-modules.php:4329
+msgid "Artist Name"
+msgstr "Naam van de artiest"
+
+#: main-modules.php:4332
+msgid "Define an artist name."
+msgstr "Definieer de naam van een artiest."
+
+#: main-modules.php:4335
+msgid "Album name"
+msgstr "Naam van het album"
+
+#: main-modules.php:4338
+msgid "Define an album name."
+msgstr "Definieer de naam van een album."
+
+#: main-modules.php:4341
+msgid "Cover Art Image URL"
+msgstr "URL van de albumcover"
+
+#: main-modules.php:4352 main-modules.php:4649 main-modules.php:5063
+#: main-structure-elements.php:123
+msgid ""
+"Define a custom background color for your module, or leave blank to use the "
+"default color."
+msgstr ""
+"Definieer een specifieke achtergrond voor uw module, of laat het leeg om de "
+"standaardkleur te gebruiken."
+
+#: main-modules.php:4472
+msgid "Email Optin"
+msgstr "E-Mail Opt-In"
+
+#: main-modules.php:4500
+msgid "Subscribe"
+msgstr "Abonneer"
+
+#: main-modules.php:4539 main-modules.php:5015
+msgid "Newsletter Description"
+msgstr "Beschrijving nieuwsbrief"
+
+#: main-modules.php:4543 main-modules.php:5019
+msgid "Newsletter Form"
+msgstr "Vorm nieuwsbrief"
+
+#: main-modules.php:4547 main-modules.php:5023
+msgid "Newsletter Button"
+msgstr "Knop nieuwsbrief"
+
+#: main-modules.php:4554
+msgid "Select the list"
+msgstr "Selecteer de lijst"
+
+#: main-modules.php:4575
+msgid "Service Provider"
+msgstr "Dienstverlener"
+
+#: main-modules.php:4579
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: main-modules.php:4580
+msgid "FeedBurner"
+msgstr "FeedBurner"
+
+#: main-modules.php:4581
+msgid "Aweber"
+msgstr "Aweber"
+
+#: main-modules.php:4588
+msgid "Here you can choose a service provider."
+msgstr "Hier kunt u een dienstverlener kiezen."
+
+#: main-modules.php:4591
+msgid "Feed Title"
+msgstr "Feedtitel"
+
+#: main-modules.php:4598
+msgid "MailChimp lists"
+msgstr "Selecteer de Mailchimp lijst"
+
+#: main-modules.php:4603
+#, fuzzy
+msgid ""
+"Here you can choose MailChimp list to add customers to. If you don't see any "
+"lists here, you need to make sure MailChimp API key is set in %1$s and you "
+"have at least one list on a MailChimp account. If you added new list, but it "
+"doesn't appear here, activate 'Regenerate MailChimp Lists' option in %1$s."
+"%2$s"
+msgstr ""
+"Hier kunt u de MailChimp lijst kiezen waaraan u klanten kunt toevoegen. Als "
+"u hier geen lijsten ziet, moet u er voor zorgen dat de MailChimp API sleutel "
+"ingesteld is in het ePanel en u minimaal één lijst heeft in een MailChimp "
+"account. Als u een nieuwe lijst heeft toegevoegd, maar hij verschijnt hier "
+"niet, activeer dan de Vernieuw MailChimp lijsten optie in het ePanel. "
+"Vergeet niet het weer uit te schakelen zodra de lijst vernieuwd is."
+
+#: main-modules.php:4604 main-modules.php:4616
+#, fuzzy
+msgid "Divi Plugin Options"
+msgstr "Plugin Opties"
+
+#: main-modules.php:4604 main-modules.php:4616
+msgid "ePanel"
+msgstr ""
+
+#: main-modules.php:4605 main-modules.php:4617
+msgid "Don't forget to disable it once the list has been regenerated."
+msgstr ""
+
+#: main-modules.php:4610
+msgid "Aweber lists"
+msgstr "Aweber lijsten"
+
+#: main-modules.php:4615
+#, fuzzy
+msgid ""
+"Here you can choose Aweber list to add customers to. If you don't see any "
+"lists here, you need to make sure Aweber is set up properly in %1$s and you "
+"have at least one list on a Aweber account. If you added new list, but it "
+"doesn't appear here, activate 'Regenerate Aweber Lists' option in %1$s.%2$s"
+msgstr ""
+"Hier kunt u de Aweber lijst kiezen waaraan u klanten kunt toevoegen. Als u "
+"hier geen lijsten ziet, moet u er voor zorgen dat Aweber juist is ingesteld "
+"in het ePanel en u minimaal één lijst heeft in een Aweber account. Als u een "
+"nieuwe lijst heeft toegevoegd, maar hij verschijnt hier niet, activeer dan "
+"de Vernieuw Aweber lijsten optie in het ePanel. Vergeet niet het weer uit te "
+"schakelen zodra de lijst vernieuwd is."
+
+#: main-modules.php:4625
+msgid "Choose a title of your signup box."
+msgstr "Kies een titel voor uw inschrijfvak."
+
+#: main-modules.php:4631
+msgid "Here you can change the text used for the signup button."
+msgstr ""
+"Hier kunt u de tekst veranderen die gebruikt wordt voor de inschrijfknop."
+
+#: main-modules.php:4667 main-modules.php:5081
+msgid "Here you can adjust the alignment of your text."
+msgstr "Hier kunt u de uitlijning van uw tekst veranderen."
+
+#: main-modules.php:4693 main-modules.php:5107
+msgid "Form Field Background Color"
+msgstr "Achtergrondkleur formulierenveld"
+
+#: main-modules.php:4699 main-modules.php:5113
+msgid "Form Field Text Color"
+msgstr "Tekstkleur formulierenveld"
+
+#: main-modules.php:4705 main-modules.php:5119
+msgid "Focus Background Color"
+msgstr "Instellen achtergrondkleur"
+
+#: main-modules.php:4711 main-modules.php:5125
+msgid "Focus Text Color"
+msgstr "Intellen tekstkleur"
+
+#: main-modules.php:4717 main-modules.php:5131
+msgid "Use Focus Border Color"
+msgstr "Focus boordkleur gebruiken"
+
+#: main-modules.php:4730 main-modules.php:5144
+msgid "Focus Border Color"
+msgstr "Instellen boordkleur"
+
+#: main-modules.php:4822
+msgid "First Name"
+msgstr "Voornaam"
+
+#: main-modules.php:4823
+msgid "Last Name"
+msgstr "Achternaam"
+
+#: main-modules.php:4824 main-modules.php:7508
+msgid "Email Address"
+msgstr "E-mailadres"
+
+#: main-modules.php:4891 main-modules.php:7507 main-modules.php:8043
+msgid "Name"
+msgstr "Naam"
+
+#: main-modules.php:4953 main-modules.php:5277
+msgid "Login"
+msgstr "Log in"
+
+#: main-modules.php:5035
+msgid "Choose a title of your login box."
+msgstr "Kies een titel voor uw inlogvak."
+
+#: main-modules.php:5038
+msgid "Redirect To The Current Page"
+msgstr "Verwijs door naar de huidige pagina."
+
+#: main-modules.php:5045
+msgid ""
+"Here you can choose whether the user should be redirected to the current "
+"page."
+msgstr ""
+"Hier kunt u kiezen of de gebruiker moet worden doorverwezen naar de huidige "
+"pagina."
+
+#: main-modules.php:5238
+msgid "Logged in as %1$s"
+msgstr "Aangemeld als %1$s"
+
+#: main-modules.php:5240
+msgid "Log out"
+msgstr "Afmelden"
+
+#: main-modules.php:5249
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: main-modules.php:5250
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: main-modules.php:5270
+msgid "Forgot your password?"
+msgstr "Wachtwoord vergeten?"
+
+#: main-modules.php:5317
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: main-modules.php:5356 main-modules.php:5721 main-modules.php:8317
+#: main-modules.php:10003 main-modules.php:12599
+msgid "Meta"
+msgstr "Meta"
+
+#: main-modules.php:5371 main-modules.php:5754
+msgid "Portfolio Image"
+msgstr "Afbeelding portefeuille"
+
+#: main-modules.php:5383 main-modules.php:5766 main-modules.php:11874
+msgid "Portfolio Title"
+msgstr "Portfoliotitel"
+
+#: main-modules.php:5387 main-modules.php:5770
+msgid "Portfolio Post Meta"
+msgstr "Portefeuille post-meta"
+
+#: main-modules.php:5400 main-modules.php:5783 main-modules.php:8354
+msgid "Fullwidth"
+msgstr "Volle breedte"
+
+#: main-modules.php:5403 main-modules.php:5786 main-modules.php:11890
+msgid "Choose your desired portfolio layout style."
+msgstr "Kies de gewenste lay-out stijl van uw portfolio."
+
+#: main-modules.php:5406 main-modules.php:5789 main-modules.php:8365
+#: main-modules.php:8894 main-modules.php:11899
+msgid "Posts Number"
+msgstr "Aantal posts"
+
+#: main-modules.php:5409 main-modules.php:5792
+msgid "Define the number of projects that should be displayed per page."
+msgstr "Definieer het aantal projecten dat moet worden weergegeven per pagina."
+
+#: main-modules.php:5412 main-modules.php:5795 main-modules.php:8371
+#: main-modules.php:8900 main-modules.php:11893
+msgid "Include Categories"
+msgstr "Neem de categorieën op"
+
+#: main-modules.php:5415 main-modules.php:5798 main-modules.php:11896
+msgid "Select the categories that you would like to include in the feed."
+msgstr "Selecteer de categorieën die u aan de feed wilt toevoegen."
+
+#: main-modules.php:5418 main-modules.php:5801 main-modules.php:10015
+#: main-modules.php:11905 main-modules.php:12611
+msgid "Show Title"
+msgstr "Laat titel zien"
+
+#: main-modules.php:5425 main-modules.php:5808 main-modules.php:11912
+msgid "Turn project titles on or off."
+msgstr "Zet projecttitels aan of uit."
+
+#: main-modules.php:5428 main-modules.php:5811 main-modules.php:8440
+msgid "Show Categories"
+msgstr "Laat categorieën zien"
+
+#: main-modules.php:5435 main-modules.php:5818 main-modules.php:8447
+msgid "Turn the category links on or off."
+msgstr " Zet de koppeling van de categorie aan of uit."
+
+#: main-modules.php:5682
+msgid "Filterable Portfolio"
+msgstr "Filterbaar portfolio"
+
+#: main-modules.php:5727
+msgid "Filter"
+msgstr "Filter"
+
+#: main-modules.php:5746
+msgid "Portfolio Filters"
+msgstr "Filters portefeuille"
+
+#: main-modules.php:5750
+msgid "Active Portfolio Filter"
+msgstr "Actieve portefeuille-filter"
+
+#: main-modules.php:6035
+msgid "All"
+msgstr "Alle"
+
+#: main-modules.php:6075
+msgid "Bar Counters"
+msgstr "Voortgangsbalk"
+
+#: main-modules.php:6078 main-modules.php:6262
+msgid "Bar Counter"
+msgstr "Balkteller"
+
+#: main-modules.php:6113 main-modules.php:6311 main-modules.php:6505
+#: main-modules.php:6705
+msgid "Percent"
+msgstr "Percentage"
+
+#: main-modules.php:6130 main-modules.php:6288
+msgid "Counter Title"
+msgstr "Titel teller"
+
+#: main-modules.php:6134 main-modules.php:6292
+msgid "Counter Container"
+msgstr "Conatiner teller"
+
+#: main-modules.php:6138 main-modules.php:6296
+msgid "Counter Amount"
+msgstr "Nummer teller"
+
+#: main-modules.php:6159
+msgid ""
+"This will adjust the color of the empty space in the bar (currently gray)."
+msgstr "Dit past de kleur aan van de lege ruimte in de balk (is nu grijs)."
+
+#: main-modules.php:6162 main-modules.php:6323 main-modules.php:6551
+msgid "Bar Background Color"
+msgstr "Achtergrondkleur van de balk"
+
+#: main-modules.php:6164 main-modules.php:6553 main-modules.php:6742
+msgid "This will change the fill color for the bar."
+msgstr "Dit past de opvulkleur van de balk aan."
+
+#: main-modules.php:6167
+msgid "Use Percentages"
+msgstr "Percentages gebruiken"
+
+#: main-modules.php:6193
+msgid "Bar Top Padding"
+msgstr "Balk buffer bovenkant"
+
+#: main-modules.php:6200
+msgid "Bar Bottom Padding"
+msgstr "Balk buffer onderkant"
+
+#: main-modules.php:6207
+msgid "Border Radius"
+msgstr "Boordstraal"
+
+#: main-modules.php:6280
+msgid "New Bar Counter"
+msgstr "Nieuwe voortgangsbalk"
+
+#: main-modules.php:6281
+msgid "Bar Counter Settings"
+msgstr "Instellingen voortgangsbalk"
+
+#: main-modules.php:6308
+msgid "Input a title for your bar."
+msgstr "Voer een titel in voor uw balk."
+
+#: main-modules.php:6314
+msgid "Define a percentage for this bar."
+msgstr "Definieer een percentage voor deze balk."
+
+#: main-modules.php:6329
+msgid "Label Color"
+msgstr "Kleur etiket"
+
+#: main-modules.php:6335
+msgid "Percentage Color"
+msgstr "Percentagekleur"
+
+#: main-modules.php:6462
+msgid "Circle Counter"
+msgstr "Cirkelteller"
+
+#: main-modules.php:6495 main-modules.php:6524 main-modules.php:6672
+#: main-modules.php:6724
+msgid "Number"
+msgstr "Nummer"
+
+#: main-modules.php:6509
+msgid "Circle Counter Title"
+msgstr "Titel cirkelteller"
+
+#: main-modules.php:6521
+msgid "Input a title for the circle counter."
+msgstr "Voer een titel in voor de cirkelteller."
+
+#: main-modules.php:6528
+msgid ""
+"Define a number for the circle counter. (Don't include the percentage sign, "
+"use the option below.). <strong>Note: You can use only natural numbers from "
+"0 to 100</strong>"
+msgstr ""
+"Definieer een nummer voor de cirkelteller. (Gebruik niet het "
+"percentageteken, gebruik de optie hieronder.) <strong>Let op: U kunt alleen "
+"natuurlijke nummers gebruiken van 0 tot 100</strong>"
+
+#: main-modules.php:6531 main-modules.php:6730
+msgid "Percent Sign"
+msgstr "Percentageteken"
+
+#: main-modules.php:6538 main-modules.php:6737
+msgid ""
+"Here you can choose whether the percent sign should be added after the "
+"number set above."
+msgstr ""
+"Hier kunt u kiezen of het percentageteken moet worden toegevoegd nadat u het "
+"nummer hierboven ingesteld hebt."
+
+#: main-modules.php:6579
+msgid "Circle Color Opacity"
+msgstr "Ondoorzichtigheid cirkelteller"
+
+#: main-modules.php:6641
+msgid "Number Counter"
+msgstr "Nummerteller"
+
+#: main-modules.php:6709
+msgid "Number Counter Title"
+msgstr "Nummer cirkeltitel"
+
+#: main-modules.php:6721
+msgid "Input a title for the counter."
+msgstr "Voer een titel in voor de teller."
+
+#: main-modules.php:6727
+msgid ""
+"Define a number for the counter. (Don't include the percentage sign, use the "
+"option below.)"
+msgstr ""
+"Definieer een nummer voor de teller. (Gebruik niet het percentageteken, "
+"gebruik de optie hieronder.)"
+
+#: main-modules.php:6740
+msgid "Counter Text Color"
+msgstr "Tekstkleur van de teller"
+
+#: main-modules.php:6752
+msgid ""
+"Here you can choose whether your title text should be light or dark. If you "
+"are working with a dark background, then your text should be light. If your "
+"background is light, then your text should be set to dark."
+msgstr ""
+"Hier kunt u kiezen of de titeltekst licht of donker moet zijn. Als u werkt "
+"met een donkere achtergrond, moet uw tekst licht zijn. Als uw achtegrond "
+"licht is, zou uw tekst donker moeten zijn."
+
+#: main-modules.php:6816 main-modules.php:6994
+msgid "Accordion"
+msgstr "Accordeon"
+
+#: main-modules.php:6833 main-modules.php:6867 main-modules.php:7024
+#: main-modules.php:7097
+msgid "Toggle"
+msgstr "Schakelen"
+
+#: main-modules.php:6871 main-modules.php:7027 main-modules.php:7148
+msgid "Open Toggle"
+msgstr "Open schakelaar"
+
+#: main-modules.php:6875 main-modules.php:7031 main-modules.php:7152
+msgid "Toggle Title"
+msgstr "Titel schakelaar"
+
+#: main-modules.php:6879 main-modules.php:7035 main-modules.php:7156
+msgid "Toggle Icon"
+msgstr "Icoon schakelaar"
+
+#: main-modules.php:6883 main-modules.php:7039 main-modules.php:7160
+msgid "Toggle Content"
+msgstr "Inhoud schakelaar"
+
+#: main-modules.php:6909 main-modules.php:7060 main-modules.php:7208
+msgid "Open Toggle Background Color"
+msgstr "Achtergrondkleur open schakelaar"
+
+#: main-modules.php:6915 main-modules.php:7072 main-modules.php:7214
+msgid "Closed Toggle Background Color"
+msgstr "Achtergrondkleur gesloten schakelaar"
+
+#: main-modules.php:7051 main-modules.php:7172
+msgid ""
+"The toggle title will appear above the content and when the toggle is closed."
+msgstr ""
+"De schakeltitel van zal boven de inhoud verschijnen en als de schakel wordt "
+"gesloten."
+
+#: main-modules.php:7066
+msgid "Open Toggle Text Color"
+msgstr "Tekstkleur open schakelaar"
+
+#: main-modules.php:7078
+msgid "Closed Toggle Text Color"
+msgstr "Tekstkleur gesloten schakelaar"
+
+#: main-modules.php:7175
+msgid "State"
+msgstr "Staat"
+
+#: main-modules.php:7179 template-preview.php:88
+msgid "Close"
+msgstr "Sluiten"
+
+#: main-modules.php:7180
+msgid "Open"
+msgstr "Openen"
+
+#: main-modules.php:7182
+msgid ""
+"Choose whether or not this toggle should start in an open or closed state."
+msgstr "Kies of deze schakel moet opstarten in een open of gesloten toestand "
+
+#: main-modules.php:7305
+msgid "Contact Form"
+msgstr "Contactformulier"
+
+#: main-modules.php:7333
+msgid "Form Field"
+msgstr "Formulierenveld"
+
+#: main-modules.php:7355
+msgid "Contact Title"
+msgstr "Contacttitel"
+
+#: main-modules.php:7359
+msgid "Contact Button"
+msgstr "Contactknop"
+
+#: main-modules.php:7368
+msgid "Display Captcha"
+msgstr "Laat Captcha zien"
+
+#: main-modules.php:7375
+msgid "Turn the captcha on or off using this option."
+msgstr "Schakel Captcha in of uit door van deze optie gebruik te maken"
+
+#: main-modules.php:7378
+msgid "Email"
+msgstr "E-mail"
+
+#: main-modules.php:7381
+msgid "Input the email address where messages should be sent."
+msgstr ""
+"Voer de e-mailadressen in waar de berichten naar toe verstuurd moeten worden."
+
+#: main-modules.php:7387
+msgid "Define a title for your contact form."
+msgstr "Definieer een titel voor uw contactformulier."
+
+#: main-modules.php:7407
+msgid "Form Background Color"
+msgstr "Achtergrondkleur formulier"
+
+#: main-modules.php:7413
+msgid "Input Border Radius"
+msgstr "Input boordstraal"
+
+#: main-modules.php:7463
+msgid "Make sure you fill all fields."
+msgstr "Zorg dat u alle velden invult."
+
+#: main-modules.php:7468
+msgid "Make sure you entered the captcha."
+msgstr "Zorg dat u de juiste captcha hebt ingevoerd."
+
+#: main-modules.php:7473
+msgid "Invalid Email."
+msgstr "Ongeldig E-mailadres."
+
+#: main-modules.php:7497
+msgid "New Message From %1$s%2$s"
+msgstr "Nieuw Bericht Van %1$s%2$s"
+
+#: main-modules.php:7502
+msgid "Thanks for contacting us"
+msgstr "Dank dat u contact met ons heeft opgenomen"
+
+#: main-modules.php:7561
+msgid "Submit"
+msgstr "Indienen"
+
+#: main-modules.php:7595
+msgid "Sidebar"
+msgstr "Zijbalk"
+
+#: main-modules.php:7634
+msgid "Widget"
+msgstr "Widget"
+
+#: main-modules.php:7647
+msgid "Orientation"
+msgstr "Oriëntatie"
+
+#: main-modules.php:7654
+msgid ""
+"Choose which side of the page your sidebar will be on. This setting controls "
+"text orientation and border position."
+msgstr ""
+"Kies aan welke kant van de pagina de zijbalk moet komen. Deze instelling "
+"bepaalt de tekstoriëntatie en grenspositie."
+
+#: main-modules.php:7657
+msgid "Widget Area"
+msgstr "Widgetgebied"
+
+#: main-modules.php:7660
+msgid ""
+"Select a widget-area that you would like to display. You can create new "
+"widget areas within the Appearances > Widgets tab."
+msgstr ""
+"Selecteer een widgetgebied dat u wilt weergeven. U kunt nieuwe "
+"widgetgebieden aanmaken in het tabblad Verschijningen > Widgets."
+
+#: main-modules.php:7690
+msgid "Remove Border Separator"
+msgstr "Boordafscheider verwijderen"
+
+#: main-modules.php:7762
+msgid "Divider"
+msgstr "Verdeler"
+
+#: main-modules.php:7773
+msgid "Don't Show Divider"
+msgstr "Laat verdeler niet zien"
+
+#: main-modules.php:7774
+msgid "Show Divider"
+msgstr "Laat verdeler zien"
+
+#: main-modules.php:7807
+msgid "Color"
+msgstr "Kleur"
+
+#: main-modules.php:7809
+msgid "This will adjust the color of the 1px divider line."
+msgstr "Dit zal de kleur van de 1px verdelingslijn bepalen."
+
+#: main-modules.php:7812
+msgid "Visibility"
+msgstr "Zichtbaarheid"
+
+#: main-modules.php:7821
+msgid ""
+"This settings turns on and off the 1px divider line, but does not affect the "
+"divider height."
+msgstr ""
+"Deze instelling zet de 1px verdelingslijn aan of uit, maar beinvloedt niet "
+"de verdelingshoogte."
+
+#: main-modules.php:7824
+msgid "Height"
+msgstr "Hoogte"
+
+#: main-modules.php:7827
+msgid "Define how much space should be added below the divider."
+msgstr ""
+"Definiëren hoeveel ruimte er moet bijgevoegd worden onder de scheidingslijn."
+
+#: main-modules.php:7847
+msgid "Divider Style"
+msgstr "Stijl scheidingslijn"
+
+#: main-modules.php:7855
+msgid "Divider Position"
+msgstr "Positie scheidingslijn"
+
+#: main-modules.php:7860 main-modules.php:10713
+msgid "Vertically Centered"
+msgstr "Verticaal gecentreerd"
+
+#: main-modules.php:7867
+msgid "Divider Weight"
+msgstr "Zwaarte scheidingslijn"
+
+#: main-modules.php:7874
+msgid "Hide On Mobile"
+msgstr "Verbergen op mobiele telefoon"
+
+#: main-modules.php:7962
+msgid "Person"
+msgstr "Persoon"
+
+#: main-modules.php:8018
+msgid "Member Image"
+msgstr "Afbeelding lid"
+
+#: main-modules.php:8022
+msgid "Member Description"
+msgstr "Beschrijving lid"
+
+#: main-modules.php:8030
+msgid "Member Position"
+msgstr "Positie lid"
+
+#: main-modules.php:8034
+msgid "Member Social Links"
+msgstr "Sociale links van het lid"
+
+#: main-modules.php:8046
+msgid "Input the name of the person"
+msgstr "Voer de naam van de persoon in"
+
+#: main-modules.php:8049
+msgid "Position"
+msgstr "Functie"
+
+#: main-modules.php:8052
+msgid "Input the person's position."
+msgstr "Voer de functie van de persoon in."
+
+#: main-modules.php:8088
+msgid "Facebook Profile Url"
+msgstr "Facebook Profiel URL"
+
+#: main-modules.php:8091
+msgid "Input Facebook Profile Url."
+msgstr "Voer de URL in van het Facebook profiel"
+
+#: main-modules.php:8094
+msgid "Twitter Profile Url"
+msgstr "Twitter Profiel URL"
+
+#: main-modules.php:8097
+msgid "Input Twitter Profile Url"
+msgstr "Voer de URL in van het Twitter profiel"
+
+#: main-modules.php:8100
+msgid "Google+ Profile Url"
+msgstr "Google+ Profiel URL"
+
+#: main-modules.php:8103
+msgid "Input Google+ Profile Url"
+msgstr "Voer de URL in van het Google+ profiel"
+
+#: main-modules.php:8106
+msgid "LinkedIn Profile Url"
+msgstr "URL van het LinkedIn profiel"
+
+#: main-modules.php:8109
+msgid "Input LinkedIn Profile Url"
+msgstr "Voer de URL in van het LinkedIn profiel"
+
+#: main-modules.php:8112
+msgid "Description"
+msgstr "Beschrijving"
+
+#: main-modules.php:8141 main-modules.php:8963
+msgid "Icon Hover Color"
+msgstr "Kleur icoon muisaanwijzer"
+
+#: main-modules.php:8193
+msgid "Facebook"
+msgstr "Facebook"
+
+#: main-modules.php:8201 main-modules.php:9783
+msgid "Twitter"
+msgstr "Twitter"
+
+#: main-modules.php:8209 main-modules.php:9787
+msgid "Google+"
+msgstr "Google+"
+
+#: main-modules.php:8217 main-modules.php:9795
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: main-modules.php:8264
+msgid "Blog"
+msgstr "Blog"
+
+#: main-modules.php:8337
+msgid "Post Meta"
+msgstr "Meta-bericht"
+
+#: main-modules.php:8341
+msgid "Pagenavi"
+msgstr "Navigatie-pagina"
+
+#: main-modules.php:8368
+msgid "Choose how much posts you would like to display per page."
+msgstr "Kies hoeveel blogposts u wilt weergeven per pagina."
+
+#: main-modules.php:8377
+msgid "Choose which categories you would like to include in the feed."
+msgstr "Kies welke categorieën u wilt opnemen in de feed."
+
+#: main-modules.php:8380
+msgid "Meta Date Format"
+msgstr "Meta Datumnotatie"
+
+#: main-modules.php:8383
+msgid ""
+"If you would like to adjust the date format, input the appropriate PHP date "
+"format here."
+msgstr ""
+"Als u de datumnotatie wilt aanpassen, voer de geschikte PHP datumnotatie "
+"hier in."
+
+#: main-modules.php:8386 main-modules.php:10097 main-modules.php:12693
+msgid "Show Featured Image"
+msgstr "Laat uitgelichte afbeelding zien"
+
+#: main-modules.php:8393
+msgid "This will turn thumbnails on and off."
+msgstr "Dit zet de miniaturen aan en uit."
+
+#: main-modules.php:8400
+msgid "Show Excerpt"
+msgstr "Laat uittreksel zien"
+
+#: main-modules.php:8401
+msgid "Show Content"
+msgstr "Laat inhoud zien"
+
+#: main-modules.php:8406
+msgid ""
+"Showing the full content will not truncate your posts on the index page. "
+"Showing the excerpt will only display your excerpt text."
+msgstr ""
+"Het laten zien van de volledige inhoud zal de posts op de inhoudspagina niet "
+"inkorten. Het laten zien van het uittreksel zal alleen de tekst van het "
+"uittreksel laten zien."
+
+#: main-modules.php:8409
+msgid "Read More Button"
+msgstr "Lees meer knop"
+
+#: main-modules.php:8417
+msgid ""
+"Here you can define whether to show \"read more\" link after the excerpts or "
+"not."
+msgstr ""
+"Hier kunt u definiëren of u wel of niet de 'Lees meer' koppeling wilt laten "
+"zien na de uittreksels."
+
+#: main-modules.php:8420 main-modules.php:10041 main-modules.php:12637
+msgid "Show Author"
+msgstr "Laat de schrijver zien"
+
+#: main-modules.php:8427
+msgid "Turn on or off the author link."
+msgstr "Zet de schrijverslink aan of uit."
+
+#: main-modules.php:8430 main-modules.php:10052 main-modules.php:11915
+#: main-modules.php:12648
+msgid "Show Date"
+msgstr "Laat datum zien"
+
+#: main-modules.php:8437
+msgid "Turn the date on or off."
+msgstr "Zet de datum aan of uit."
+
+#: main-modules.php:8450
+msgid "Show Comment Count"
+msgstr "Toon Het Aantal Opmerkingen"
+
+#: main-modules.php:8457
+msgid "Turn comment count on and off."
+msgstr "Draai het aantal opmerkingen over en uit."
+
+#: main-modules.php:8467
+msgid "Turn pagination on and off."
+msgstr "Zet paginering aan of uit."
+
+#: main-modules.php:8470
+msgid "Offset Number"
+msgstr "Compensatienummer"
+
+#: main-modules.php:8473
+msgid "Choose how many posts you would like to offset by"
+msgstr "Kies hoeveel posts u gecompenseerd wilt hebben."
+
+#: main-modules.php:8504
+msgid "Grid Tile Background Color"
+msgstr "Achtergrondkleur tegelraster"
+
+#: main-modules.php:8511
+msgid "Use Dropshadow"
+msgstr "Slagschaduw gebruiken"
+
+#: main-modules.php:8670
+msgid "by %s"
+msgstr "door %s"
+
+#: main-modules.php:8680
+msgid "%s"
+msgstr "%s"
+
+#: main-modules.php:8719
+msgid "read more..."
+msgstr "Lees meer..."
+
+#: main-modules.php:8733
+msgid "read more"
+msgstr "Lees meer"
+
+#: main-modules.php:8793
+msgid "Shop"
+msgstr "Shop"
+
+#: main-modules.php:8844
+msgid "Product"
+msgstr "Product"
+
+#: main-modules.php:8848
+msgid "Onsale"
+msgstr "Te koop"
+
+#: main-modules.php:8864
+msgid "Rating"
+msgstr "Classificatie"
+
+#: main-modules.php:8881
+msgid "Recent Products"
+msgstr "Recente producten"
+
+#: main-modules.php:8882
+msgid "Featured Products"
+msgstr "Uitgelichte producten"
+
+#: main-modules.php:8883
+msgid "Sale Products"
+msgstr "Uitverkoopproducten"
+
+#: main-modules.php:8884
+msgid "Best Selling Products"
+msgstr "Bestverkopende producten"
+
+#: main-modules.php:8885
+msgid "Top Rated Products"
+msgstr "Best beoordeelde producten"
+
+#: main-modules.php:8886
+msgid "Product Category"
+msgstr "Product Categorie"
+
+#: main-modules.php:8891
+msgid "Choose which type of products you would like to display."
+msgstr "Kies welk type producten u weer wilt geven."
+
+#: main-modules.php:8897
+msgid "Control how many products are displayed."
+msgstr "Bepaal hoeveel producten er worden weergegeven."
+
+#: main-modules.php:8908
+msgid "Choose which categories you would like to include."
+msgstr "Kies de categorieën die je graag zou willen zijn."
+
+#: main-modules.php:8911
+msgid "Columns Number"
+msgstr "Aantal kolommen"
+
+#: main-modules.php:8915
+msgid "default"
+msgstr "standaard"
+
+#: main-modules.php:8916 main-modules.php:8917 main-modules.php:8918
+#: main-modules.php:8919 main-modules.php:8920
+msgid "%1$s Columns"
+msgstr "%1$s kolommen"
+
+#: main-modules.php:8921
+msgid "1 Column"
+msgstr "1 kolom"
+
+#: main-modules.php:8923
+msgid "Choose how many columns to display."
+msgstr "Kiezen hoeveel kolommen er getoond worden."
+
+#: main-modules.php:8926
+msgid "Order By"
+msgstr "Bestel door"
+
+#: main-modules.php:8930
+msgid "Default Sorting"
+msgstr "Sorteerstandaard"
+
+#: main-modules.php:8931
+msgid "Sort By Popularity"
+msgstr "Sorteer op populariteit"
+
+#: main-modules.php:8932
+msgid "Sort By Rating"
+msgstr "Sorteer op waardering"
+
+#: main-modules.php:8933
+msgid "Sort By Date"
+msgstr "Sorteer op datum"
+
+#: main-modules.php:8934
+msgid "Sort By Price: Low To High"
+msgstr "Sorteer op prijs: van laag naar hoog"
+
+#: main-modules.php:8935
+msgid "Sort By Price: High To Low"
+msgstr "Sorteer op prijs: van hoog naar laag"
+
+#: main-modules.php:8937
+msgid "Choose how your products should be ordered."
+msgstr "Kies hoe uw producten moeten worden besteld."
+
+#: main-modules.php:8957
+msgid "Sale Badge Color"
+msgstr "Kleur verkoopsinsigne"
+
+#: main-modules.php:9122
+msgid "Countdown Timer"
+msgstr "Afteltimer"
+
+#: main-modules.php:9152
+msgid "Numbers"
+msgstr "Nummers"
+
+#: main-modules.php:9165
+msgid "Label"
+msgstr "Etiket"
+
+#: main-modules.php:9189
+msgid "Container"
+msgstr "Container"
+
+#: main-modules.php:9197
+msgid "Timer Section"
+msgstr "Sectie tijdschakelaar"
+
+#: main-modules.php:9206
+msgid "Countdown Timer Title"
+msgstr "Titel afteltimer"
+
+#: main-modules.php:9209
+msgid "This is the title displayed for the countdown timer."
+msgstr "Dit is de titel die wordt weergegeven voor de afteltimer."
+
+#: main-modules.php:9212
+msgid "Countdown To"
+msgstr "Tel af tot"
+
+#: main-modules.php:9215
+msgid ""
+"This is the date the countdown timer is counting down to. Your countdown "
+"timer is based on your timezone settings in your <a href=\"%1$s\" target="
+"\"_blank\" title=\"WordPress General Settings\">WordPress General Settings</"
+"a>"
+msgstr ""
+"Dit is de datum dat de timer aan het aftellen is. Uw countdown timer is "
+"gebaseerd op uw tijdzone-instellingen in uw <a href=\"%1$s\" target=\"_blank"
+"\" title=\"WordPress Algemene Instellingen\">WordPress Algemene "
+"Instellingen</a>"
+
+#: main-modules.php:9244
+msgid "Here you can define a custom background color for your countdown timer."
+msgstr ""
+"Hier kunt u de specifieke achtergrondkleur instellen voor uw afteltimer."
+
+#: main-modules.php:9330
+msgid "Day(s)"
+msgstr "Dag(en)"
+
+#: main-modules.php:9331
+msgid "Hour(s)"
+msgstr "Uur(s)"
+
+#: main-modules.php:9332
+msgid "Hrs"
+msgstr "Uren"
+
+#: main-modules.php:9333
+msgid "Minute(s)"
+msgstr "Minute(s)"
+
+#: main-modules.php:9334
+msgid "Min"
+msgstr "Min"
+
+#: main-modules.php:9335
+msgid "Second(s)"
+msgstr "Second(s)"
+
+#: main-modules.php:9336
+msgid "Sec"
+msgstr "Sec"
+
+#: main-modules.php:9337
+#, fuzzy
+msgid "Day"
+msgstr "Dagen"
+
+#: main-modules.php:9347
+msgid "Map"
+msgstr "Kaart"
+
+#: main-modules.php:9350 main-modules.php:9496 main-modules.php:12085
+msgid "Pin"
+msgstr "Pin"
+
+#: main-modules.php:9376 main-modules.php:12108
+msgid "Map Center Address"
+msgstr "Adres van het midden van de kaart"
+
+#: main-modules.php:9381 main-modules.php:9532 main-modules.php:12113
+msgid "Find"
+msgstr "Zoeken"
+
+#: main-modules.php:9384 main-modules.php:12116
+msgid ""
+"Enter an address for the map center point, and the address will be geocoded "
+"and displayed on the map below."
+msgstr ""
+"Voer een adres in voor het midden van de kaart en het adres zal geo-"
+"gecodeerd worden en worden weergegeven op onderstaande kaart."
+
+#: main-modules.php:9404 main-modules.php:12136
+msgid "Mouse Wheel Zoom"
+msgstr "Zoomen met muiswiel"
+
+#: main-modules.php:9411 main-modules.php:12143
+msgid ""
+"Here you can choose whether the zoom level will be controlled by mouse wheel "
+"or not."
+msgstr ""
+"Hier kunt u kiezen of het zoomniveau met het muiswiel gecontroleerd kan "
+"worden."
+
+#: main-modules.php:9431
+msgid "Use Grayscale Filter"
+msgstr "Filter grijswaarden gebruiken"
+
+#: main-modules.php:9444
+msgid "Grayscale Filter Amount (%)"
+msgstr "Aantal (%) filter grijswaarden"
+
+#: main-modules.php:9512
+msgid "New Pin"
+msgstr "Nieuwe pin"
+
+#: main-modules.php:9513
+msgid "Pin Settings"
+msgstr "pin-instellingen"
+
+#: main-modules.php:9525
+msgid "Map Pin Address"
+msgstr "Adres van de pin op de kaart"
+
+#: main-modules.php:9529
+msgid ""
+"Enter an address for this map pin, and the address will be geocoded and "
+"displayed on the map below."
+msgstr ""
+"Voer een adres in voor deze pin en het adres zal geo-gecodeerd worden en "
+"worden weergegeven op onderstaande map."
+
+#: main-modules.php:9557 main-modules.php:10723
+msgid ""
+"Here you can define the content that will be placed within the infobox for "
+"the pin."
+msgstr ""
+"Hier kunt u de inhoud definiëren die geplaatst zal worden in het "
+"informatievak van de pin."
+
+#: main-modules.php:9598
+msgid "Social Media Follow"
+msgstr "Social Media volgen"
+
+#: main-modules.php:9601 main-modules.php:9738 main-modules.php:9772
+msgid "Social Network"
+msgstr "Sociaal netwerk"
+
+#: main-modules.php:9622
+msgid "Social Follow"
+msgstr "Sociaal volgen"
+
+#: main-modules.php:9626 main-modules.php:9763
+msgid "Social Icon"
+msgstr "Sociale icoon"
+
+#: main-modules.php:9635
+msgid "Link Shape"
+msgstr "Vorm van de link"
+
+#: main-modules.php:9639
+msgid "Rounded Rectangle"
+msgstr "Afgeronde rechthoek"
+
+#: main-modules.php:9640
+msgid "Circle"
+msgstr "Cirkel"
+
+#: main-modules.php:9642
+msgid "Here you can choose the shape of your social network icons."
+msgstr ""
+"Hier kunt u de vorm kiezen voor de pictogrammen van uw sociale netwerken."
+
+#: main-modules.php:9665
+msgid "Follow Button"
+msgstr "Volgknop"
+
+#: main-modules.php:9672
+msgid ""
+"Here you can choose whether or not to include the follow button next to the "
+"icon."
+msgstr ""
+"Hier kunt u ervoor kiezen of u de volgknop naast het pictogram wilt "
+"gebruiken."
+
+#: main-modules.php:9758
+msgid "New Social Network"
+msgstr "Nieuw sociaal netwerk"
+
+#: main-modules.php:9759
+msgid "Social Network Settings"
+msgstr "Instellingen social netwerk"
+
+#: main-modules.php:9777
+msgid "Select a Network"
+msgstr "Selecteer een netwerk"
+
+#: main-modules.php:9779
+msgid "facebook"
+msgstr "Facebook"
+
+#: main-modules.php:9791
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: main-modules.php:9799
+msgid "tumblr"
+msgstr "tumblr"
+
+#: main-modules.php:9803
+msgid "Instagram"
+msgstr "Instagram"
+
+#: main-modules.php:9807
+msgid "skype"
+msgstr "skype"
+
+#: main-modules.php:9811
+msgid "flikr"
+msgstr "flikr"
+
+#: main-modules.php:9815
+msgid "MySpace"
+msgstr "MySpace"
+
+#: main-modules.php:9819
+msgid "dribbble"
+msgstr "dribbble"
+
+#: main-modules.php:9823
+msgid "Youtube"
+msgstr "Youtube"
+
+#: main-modules.php:9827
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: main-modules.php:9831
+msgid "RSS"
+msgstr "RSS"
+
+#: main-modules.php:9840
+msgid "Choose the social network"
+msgstr "Kies een sociaal netwerk"
+
+#: main-modules.php:9847
+msgid "Account URL"
+msgstr "Account URL"
+
+#: main-modules.php:9850
+msgid "The URL for this social network link."
+msgstr "De URL voor deze sociaal netwerk-link."
+
+#: main-modules.php:9854
+msgid "Account Name"
+msgstr "Account Naam"
+
+#: main-modules.php:9857
+msgid "The Skype account name."
+msgstr "De Skype-account naam."
+
+#: main-modules.php:9861
+msgid "Skype Button Action"
+msgstr "Skype-Knop Actie"
+
+#: main-modules.php:9865
+msgid "Call"
+msgstr "Oproep"
+
+#: main-modules.php:9866
+msgid "Chat"
+msgstr "Chat"
+
+#: main-modules.php:9869
+msgid "Here you can choose which action to execute on button click"
+msgstr "Hier kunt u kiezen welke actie uit te voeren op de knop te klikken"
+
+#: main-modules.php:9874
+msgid "This will change the icon color."
+msgstr "Dit verandert de kleur van het pictogram."
+
+#: main-modules.php:9909
+msgid "Follow"
+msgstr "Volgen"
+
+#: main-modules.php:9937
+msgid "Post Title"
+msgstr "Titel bericht"
+
+#: main-modules.php:10022 main-modules.php:12618
+msgid "Here you can choose whether or not display the Post Title"
+msgstr "Hier kunt u kiezen of de titel van het bericht getoond wordt of niet"
+
+#: main-modules.php:10025 main-modules.php:12621
+msgid "Show Meta"
+msgstr "Meta tonen"
+
+#: main-modules.php:10038 main-modules.php:12634
+msgid "Here you can choose whether or not display the Post Meta"
+msgstr "Hier kunt u kiezen of het meta-bericht getoond wordt of niet"
+
+#: main-modules.php:10049 main-modules.php:12645
+msgid "Here you can choose whether or not display the Author Name in Post Meta"
+msgstr ""
+"Hier kunt u kiezen of de auteursnaam in het meta-bericht getoond wordt of "
+"niet"
+
+#: main-modules.php:10063 main-modules.php:12659
+msgid "Here you can choose whether or not display the Date in Post Meta"
+msgstr ""
+"Hier kunt u kiezen of de datum in het meta-bericht getoond wordt of niet"
+
+#: main-modules.php:10067 main-modules.php:12663
+msgid "Date Format"
+msgstr "Formaat datum"
+
+#: main-modules.php:10071 main-modules.php:12667
+msgid "Here you can define the Date Format in Post Meta. Default is 'M j, Y'"
+msgstr ""
+"Hier kunt u het formaat van de datum in het meta-bericht definiëren. "
+"Standaard is 'M j, Y'"
+
+#: main-modules.php:10075 main-modules.php:12671
+msgid "Show Post Categories"
+msgstr "Berichtcategorieën tonen"
+
+#: main-modules.php:10083 main-modules.php:12679
+msgid ""
+"Here you can choose whether or not display the Categories in Post Meta. "
+"Note: This option doesn't work with custom post types."
+msgstr ""
+"Hier kunt u kiezen of de categorieën in het meta-bericht getoond worden of "
+"niet. Opmerking: deze optie werkt niet met aangepaste berichttypes."
+
+#: main-modules.php:10086 main-modules.php:12682
+msgid "Show Comments Count"
+msgstr "Commentarenteller tonen"
+
+#: main-modules.php:10094 main-modules.php:12690
+msgid ""
+"Here you can choose whether or not display the Comments Count in Post Meta."
+msgstr ""
+"Hier kunt u kiezen of de commentarenteller in het meta-bericht getoond wordt "
+"of niet."
+
+#: main-modules.php:10107 main-modules.php:12703
+msgid "Here you can choose whether or not display the Featured Image"
+msgstr "Hier kunt u kiezen of de aanbevolen afbeelding getoond wordt of niet"
+
+#: main-modules.php:10110 main-modules.php:12706
+msgid "Featured Image Placement"
+msgstr "Plaatsing aanbevolen afbeelding"
+
+#: main-modules.php:10114 main-modules.php:12710
+msgid "Below Title"
+msgstr "Onder de titel"
+
+#: main-modules.php:10115 main-modules.php:12711
+msgid "Above Title"
+msgstr "Boven de titel"
+
+#: main-modules.php:10116 main-modules.php:12712
+msgid "Title/Meta Background Image"
+msgstr "Achtergrondafbeelding titel"
+
+#: main-modules.php:10122 main-modules.php:12718
+msgid "Here you can choose where to place the Featured Image"
+msgstr "Hier kunt u kiezen waar de aanbevolen afbeelding wordt geplaatst"
+
+#: main-modules.php:10136 main-modules.php:12732
+msgid ""
+"Here you can choose whether or not use parallax effect for the featured image"
+msgstr ""
+"Hier kunt u kiezen of het parallax-effect voor de aanbevolen afbeelding "
+"gebruikt wordt of niet"
+
+#: main-modules.php:10147 main-modules.php:12743
+msgid "Here you can choose which parallax method to use for the featured image"
+msgstr ""
+"Hier kunt u kiezen welke parallax-methode gebruikt wordt voor de aanbevolen "
+"afbeelding"
+
+#: main-modules.php:10158 main-modules.php:12754
+msgid "Here you can choose the orientation for the Title/Meta text"
+msgstr "Hier kunt u de oriëtatie voor de titeltekst kiezen"
+
+#: main-modules.php:10168 main-modules.php:12764
+msgid "Here you can choose the color for the Title/Meta text"
+msgstr "Hier kunt u de kleur voor de titeltekst kiezen"
+
+#: main-modules.php:10171 main-modules.php:12767
+msgid "Use Text Background Color"
+msgstr "Achtergrondkleur tekst gebruiken"
+
+#: main-modules.php:10181 main-modules.php:12777
+msgid ""
+"Here you can choose whether or not use the background color for the Title/"
+"Meta text"
+msgstr ""
+"Hier kunt u kiezen of de achtergrondkleur voor de titeltekst gebruitk wordt "
+"of niet"
+
+#: main-modules.php:10184 main-modules.php:12780
+msgid "Text Background Color"
+msgstr "Achtergrondkleur tekst"
+
+#: main-modules.php:10275 main-modules.php:12870
+msgid "0 comments"
+msgstr "0 Reacties"
+
+#: main-modules.php:10275 main-modules.php:12870
+msgid "1 comment"
+msgstr "1 reactie"
+
+#: main-modules.php:10275 main-modules.php:12870
+msgid "comments"
+msgstr "reacties"
+
+#: main-modules.php:10354
+msgid "Fullwidth Header"
+msgstr "Volle breedte header"
+
+#: main-modules.php:10418
+msgid "Title Styling"
+msgstr "Titelstijl"
+
+#: main-modules.php:10419
+msgid "Subhead Styling"
+msgstr "Stijl subtitel"
+
+#: main-modules.php:10420
+msgid "Content Styling"
+msgstr "Inhoudsstijl"
+
+#: main-modules.php:10427
+msgid "Button One"
+msgstr "Knop"
+
+#: main-modules.php:10433
+msgid "Button Two"
+msgstr "Knop Twee"
+
+#: main-modules.php:10443
+msgid "Header Container"
+msgstr "Header Container"
+
+#: main-modules.php:10447
+#, fuzzy
+msgid "Header Image"
+msgstr "URL afbeelding koptekst"
+
+#: main-modules.php:10459
+msgid "Enter your page title here."
+msgstr "Voer uw paginatitel hier in."
+
+#: main-modules.php:10462
+msgid "Subheading Text"
+msgstr "Tekst ondertitel"
+
+#: main-modules.php:10465
+msgid ""
+"If you would like to use a subhead, add it here. Your subhead will appear "
+"below your title in a small font."
+msgstr ""
+"Als u een ondertitel wilt gebruiken, voeg het dan hier toe. Uw ondertitel  "
+"verschijnt onder uw titel in een klein lettertype."
+
+#: main-modules.php:10478
+msgid "Text & Logo Orientation"
+msgstr "Tekst- en logo-oriëntatie"
+
+#: main-modules.php:10486
+msgid "Make Fullscreen"
+msgstr "Schermvullend makem"
+
+#: main-modules.php:10496
+msgid "Here you can choose whether the header is expanded to fullscreen size."
+msgstr ""
+"Hier kunt u kiezen of de koptekst uitgebreid wordt naar een schermvullende "
+"grootte."
+
+#: main-modules.php:10499
+msgid "Show Scroll Down Button"
+msgstr "Knop om omlaag te schuiven tonen"
+
+#: main-modules.php:10509
+msgid "Here you can choose whether the scroll down button is shown."
+msgstr "Hier kunt u kiezen of de knop om omlaag te schuiven getoond wordt."
+
+#: main-modules.php:10518
+msgid "Choose an icon to display for the scroll down button."
+msgstr "Een icoon kiezen om de knop om omlaag te schuiven te tonen."
+
+#: main-modules.php:10522
+msgid "Scroll Down Icon Color"
+msgstr "Kleur icoon om omlaag te schuiven"
+
+#: main-modules.php:10528
+msgid "Scroll Down Icon Size"
+msgstr "Grootte icoon om omlaag te schuiven"
+
+#: main-modules.php:10534
+msgid "Title Font"
+msgstr "Lettertype titel"
+
+#: main-modules.php:10540
+msgid "Title Font Color"
+msgstr "Kleur lettertype van titel"
+
+#: main-modules.php:10547
+msgid "Title Font Size"
+msgstr "Grootte lettertype van titel"
+
+#: main-modules.php:10554
+msgid "Subhead Font"
+msgstr "Lettertype subtitel"
+
+#: main-modules.php:10560
+msgid "Subhead Font Color"
+msgstr "KLeur lettertype van subtitel"
+
+#: main-modules.php:10567
+msgid "Subhead Font Size"
+msgstr "Grootte lettertype van subtitel"
+
+#: main-modules.php:10574
+msgid "Content Font"
+msgstr "Lettertype inhoud"
+
+#: main-modules.php:10580
+msgid "Content Font Color"
+msgstr "Kleur lettertype van inhoud"
+
+#: main-modules.php:10587
+msgid "Content Font Size"
+msgstr "Grootte lettertype van inhoud"
+
+#: main-modules.php:10594
+msgid "Text Max Width"
+msgstr "Tekst Max Breedte"
+
+#: main-modules.php:10601 main-modules.php:10613
+msgid "Button %1$s Text"
+msgstr "Knop %1$s tekst"
+
+#: main-modules.php:10604 main-modules.php:10616
+msgid "Enter the text for the Button."
+msgstr "Tekst invoeren voor de knop."
+
+#: main-modules.php:10607 main-modules.php:10619
+msgid "Button %1$s URL"
+msgstr "Knop %1$s URL"
+
+#: main-modules.php:10610 main-modules.php:10622
+msgid "Enter the URL for the Button."
+msgstr "URL invoeren voor de knop."
+
+#: main-modules.php:10625
+msgid "Background Image URL"
+msgstr "Achtergrondafbeelding URL"
+
+#: main-modules.php:10638
+msgid "Background Overlay Color"
+msgstr "Kleur achtergrondbedekking"
+
+#: main-modules.php:10652 main-modules.php:11600
+msgid ""
+"If enabled, your background images will have a fixed position as your "
+"scroll, creating a fun parallax-like effect."
+msgstr ""
+"Als deze optie ingeschakeld is, zullen uw achtergrondafbeeldingen een vaste "
+"positie hebben als u scrollt, wat een parallax effect creëert."
+
+#: main-modules.php:10667
+msgid "Logo Image URL"
+msgstr "URL logo-afbeelding"
+
+#: main-modules.php:10676
+msgid "Logo Image Alternative Text"
+msgstr "Logo-Afbeelding Alternatieve Tekst"
+
+#: main-modules.php:10682
+msgid "Logo Title"
+msgstr "Logo Titel"
+
+#: main-modules.php:10688
+msgid "Text Vertical Alignment"
+msgstr "Verticale uitlijning van tekst"
+
+#: main-modules.php:10695
+msgid ""
+"This setting determines the vertical alignment of your content. Your content "
+"can either be vertically centered, or aligned to the bottom."
+msgstr ""
+"Deze instelling determineert de verticale uitlijning van uw inhoud. Uw "
+"inhoud kan ofwel verticaal gecentreerd zijn of uitgelijnd naar de onderkant."
+
+#: main-modules.php:10700
+msgid "Header Image URL"
+msgstr "URL afbeelding koptekst"
+
+#: main-modules.php:10709
+msgid "Image Vertical Alignment"
+msgstr "Verticale uitlijning afbeelding"
+
+#: main-modules.php:10716
+msgid "This controls the orientation of the image within the module."
+msgstr "Dit controleert de oriëntatie van de afbeelding binnen de module."
+
+#: main-modules.php:11065
+msgid "Fullwidth Menu"
+msgstr "Volle breedte menu"
+
+#: main-modules.php:11093 main-modules.php:11130
+msgid "Menu"
+msgstr "Menu"
+
+#: main-modules.php:11137
+msgid "Select a menu that should be used in the module"
+msgstr "Selecteer een menu dat moet worden gebruikt in deze module."
+
+#: main-modules.php:11138
+msgid "Click here to create new menu"
+msgstr "Klik hier om een nieuw menu te creëren"
+
+#: main-modules.php:11164
+msgid "Sub-Menus Open"
+msgstr "Openen submenu’s"
+
+#: main-modules.php:11168
+msgid "Downwards"
+msgstr "Naar beneden"
+
+#: main-modules.php:11169
+msgid "Upwards"
+msgstr "Naar boven"
+
+#: main-modules.php:11171
+msgid ""
+"Here you can choose the direction that your sub-menus will open. You can "
+"choose to have them open downwards or upwards."
+msgstr ""
+"Hier kunt u de richting kiezen waarin uw submenu’s geopend worden. U kunt "
+"ervoor kiezen ze naar beneden of naar boven te laten openen"
+
+#: main-modules.php:11191
+msgid "Make Menu Links Fullwidth"
+msgstr "Zorg Menu Links Fullwidth"
+
+#: main-modules.php:11201
+msgid "Active Link Color"
+msgstr "Actieve link-kleur"
+
+#: main-modules.php:11207
+msgid "Dropdown Menu Background Color"
+msgstr "Achtergrondkleur van het te selecteren menu"
+
+#: main-modules.php:11213
+msgid "Dropdown Menu Line Color"
+msgstr "Lijnkleur van het te selecteren menu"
+
+#: main-modules.php:11219
+msgid "Dropdown Menu Text Color"
+msgstr "Tekstkleur van het te selecteren menu"
+
+#: main-modules.php:11225
+msgid "Dropdown Menu Animation"
+msgstr "Animatie van het te selecteren menu"
+
+#: main-modules.php:11229
+msgid "Fade"
+msgstr "Vervagen"
+
+#: main-modules.php:11232
+msgid "Flip"
+msgstr "Tikken"
+
+#: main-modules.php:11237
+msgid "Mobile Menu Background Color"
+msgstr "Mobiele Achtergrondkleur Menu"
+
+#: main-modules.php:11243
+msgid "Mobile Menu Text Color"
+msgstr "Mobiel Menu Tekst Kleur"
+
+#: main-modules.php:11319
+msgid "Home"
+msgstr "Start"
+
+#: main-modules.php:11443
+msgid "Fullwidth Slider"
+msgstr "Volle breedte slider"
+
+#: main-modules.php:11546
+msgid "This setting allows you to turn the navigation arrows on or off."
+msgstr "Deze instelling laat u de navigatiepijlen in- en uitschakelen."
+
+#: main-modules.php:11556
+msgid ""
+"Disabling this option will remove the circle button at the bottom of the "
+"slider."
+msgstr ""
+"Als u deze optie uitschakelt, wordt de cirkelknop aan de onderkant van de "
+"slider verwijderd."
+
+#: main-modules.php:11842
+msgid "Fullwidth Portfolio"
+msgstr "Volle breedte portfolio"
+
+#: main-modules.php:11877
+msgid "Title displayed above the portfolio."
+msgstr "Titel die wordt weergegeven boven de portfolio."
+
+#: main-modules.php:11884
+msgid "Carousel"
+msgstr "Carrousel"
+
+#: main-modules.php:11902
+msgid ""
+"Control how many projects are displayed. Leave blank or use 0 to not limit "
+"the amount."
+msgstr ""
+"Bepaal hoeveel projecten er worden weergegeven. Laat leeg of gebruik 0 om "
+"het aantal niet te beperken."
+
+#: main-modules.php:11922
+msgid "Turn the date display on or off."
+msgstr "Zet de datumweergave aan of uit."
+
+#: main-modules.php:11935
+msgid "Automatic Carousel Rotation"
+msgstr "Automatische carrouselrotatie"
+
+#: main-modules.php:11946
+msgid ""
+"If you the carousel layout option is chosen and you would like the carousel "
+"to slide automatically, without the visitor having to click the next button, "
+"enable this option and then adjust the rotation speed below if desired."
+msgstr ""
+"Als de carrousel lay-out optie gekozen is en u wilt dat de carrousel "
+"automatisch verder gaat, zonder dat de bezoeker op een knop hoeft te "
+"klikken, zet dan deze optie aan en pas, indien gewenst, de rotatiesnelheid "
+"aan."
+
+#: main-modules.php:11949
+msgid "Automatic Carousel Rotation Speed (in ms)"
+msgstr "Automatische  carrousel rotatiesnelheid (in milliseconden)"
+
+#: main-modules.php:11953
+msgid ""
+"Here you can designate how fast the carousel rotates, if 'Automatic Carousel "
+"Rotation' option is enabled above. The higher the number the longer the "
+"pause between each rotation. (Ex. 1000 = 1 sec)"
+msgstr ""
+"Hier kunt u bepalen hoe snel de carrousel roteert indien de automatische "
+"carrouselrotatie optie hierboven ingeschakeld is. Hoe hoger het getal, des "
+"te langer de pauze tussen elke rotatie is. (Bijv. 1000 = 1 sec)"
+
+#: main-modules.php:12081
+msgid "Fullwidth Map"
+msgstr "Volle breedte kaart"
+
+#: main-modules.php:12201
+msgid "Code"
+msgstr "Code"
+
+#: main-modules.php:12287
+msgid "Fullwidth Code"
+msgstr "Code met volle breedte"
+
+#: main-modules.php:12353
+msgid "Fullwidth Image"
+msgstr "Afbeelding met volle breedte"
+
+#: main-modules.php:12414
+msgid "Open In Lightbox"
+msgstr "Opent in Lightbox"
+
+#: main-modules.php:12532
+msgid "Fullwidth Post Title"
+msgstr "Berichtstitel met volle breedte"
+
+#: main-structure-elements.php:107
+msgid "Transparent Background Color"
+msgstr "Transparante achtergrondkleur"
+
+#: main-structure-elements.php:117
+msgid ""
+"Enabling this option will remove the background color of this section, "
+"allowing the website background color or background image to show through."
+msgstr ""
+"Het inschakelen van deze optie zal de achtergrondkleur van deze sectie "
+"verwijderen en het zal de achtergrondkleur of de achtergrondafbeelding van "
+"de website toelaten door te schemeren."
+
+#: main-structure-elements.php:171
+msgid "Show Inner Shadow"
+msgstr "Laat de binnenschaduw zien"
+
+#: main-structure-elements.php:178
+msgid ""
+"Here you can select whether or not your section has an inner shadow. This "
+"can look great when you have colored backgrounds or background images."
+msgstr ""
+"Hier kunt u selecteren of uw sectie wel of niet een binnenschaduw heeft. Dit "
+"kan er geweldig uitzien als u gekleurde achtergronden heeft, of "
+"achtergrondafbeeldingen."
+
+#: main-structure-elements.php:191
+msgid ""
+"If enabled, your background image will stay fixed as your scroll, creating a "
+"fun parallax-like effect."
+msgstr ""
+"Als dit is ingeschakeld, zal uw achtergrondafbeelding vast blijven staan als "
+"u scrollt, wat een parallax effect creëert."
+
+#: main-structure-elements.php:208 main-structure-elements.php:866
+#: main-structure-elements.php:1468
+msgid ""
+"Adjust padding to specific values, or leave blank to use the default padding."
+msgstr ""
+"Buffer aanpassen naar specifieke waarden of leeg laten om de standaardbuffer "
+"te gebruiken."
+
+#: main-structure-elements.php:211 main-structure-elements.php:869
+#: main-structure-elements.php:1477
+msgid "Keep Custom Padding on Mobile"
+msgstr "Aangepaste buffer op de mobiele telefoon behouden"
+
+#: main-structure-elements.php:218 main-structure-elements.php:876
+#: main-structure-elements.php:1484
+msgid "Allow custom padding to be retained on mobile screens"
+msgstr "Aangepaste buffer toelaten om te bewaren op mobiele schermen"
+
+#: main-structure-elements.php:235
+msgid ""
+"This will change the label of the section in the builder for easy "
+"identification when collapsed."
+msgstr ""
+"Dit zal veranderen op het etiket van de sectie in de opbouwfunctie voor "
+"gemakkelijke identificatie toen ingestort."
+
+#: main-structure-elements.php:238
+msgid "Make This Section Fullwidth"
+msgstr "Deze Sectie Fullwidth"
+
+#: main-structure-elements.php:249 main-structure-elements.php:782
+msgid "Use Custom Width"
+msgstr "Aangepaste breedte gebruiken"
+
+#: main-structure-elements.php:264 main-structure-elements.php:797
+msgid "Unit"
+msgstr "Eenheid"
+
+#: main-structure-elements.php:268 main-structure-elements.php:801
+msgid "px"
+msgstr "pixels"
+
+#: main-structure-elements.php:282 main-structure-elements.php:294
+#: main-structure-elements.php:814 main-structure-elements.php:826
+msgid "Custom Width"
+msgstr "Aangepaste breedte"
+
+#: main-structure-elements.php:306 main-structure-elements.php:980
+#: main-structure-elements.php:1524
+msgid "Equalize Column Heights"
+msgstr "Kolomhoogten gelijk maken"
+
+#: main-structure-elements.php:316 main-structure-elements.php:838
+#: main-structure-elements.php:1487
+msgid "Use Custom Gutter Width"
+msgstr "Het Gebruik Van Aangepaste Goot Breedte"
+
+#: main-structure-elements.php:329 main-structure-elements.php:851
+#: main-structure-elements.php:1500
+msgid "Gutter Width"
+msgstr "Kolomspatiëring"
+
+#: main-structure-elements.php:771
+msgid "Make This Row Fullwidth"
+msgstr "Deze rij op volle breedte maken"
+
+#: main-structure-elements.php:779
+msgid ""
+"Enable this option to extend the width of this row to the edge of the "
+"browser window."
+msgstr ""
+"Deze optie inschakelen om de breedte van deze rij te verlengen naar de kant "
+"van het browser-venster."
+
+#: main-structure-elements.php:794
+msgid ""
+"Change to Yes if you would like to adjust the width of this row to a non-"
+"standard width."
+msgstr ""
+"Wijzigen naar Ja als u de breedte van deze rij wilt aanpassen naar een niet-"
+"standaard breedte."
+
+#: main-structure-elements.php:823 main-structure-elements.php:835
+msgid "Define custom width for this Row"
+msgstr "Aangepaste breedte bepalen voor deze rij"
+
+#: main-structure-elements.php:848 main-structure-elements.php:1497
+msgid "Enable this option to define custom gutter width for this row."
+msgstr ""
+"Het inschakelen van deze optie om te definiëren aangepaste goot breedte voor "
+"deze rij."
+
+#: main-structure-elements.php:860 main-structure-elements.php:1509
+msgid "Adjust the spacing between each column in this row."
+msgstr "De spatiëring tussen elke kolom in deze rij aanpassen."
+
+#: main-structure-elements.php:996 main-structure-elements.php:1539
+msgid "Keep Column Padding on Mobile"
+msgstr "Houd Kolom Padding op de Mobiele"
+
+#: main-structure-elements.php:1008
+msgid ""
+"This will change the label of the row in the builder for easy identification "
+"when collapsed."
+msgstr ""
+"Dit zal veranderen op het etiket van de rij in de opbouwfunctie voor "
+"gemakkelijke identificatie toen ingestort."
+
+#: template-preview.php:9 template-preview.php:66
+msgid "Authentication failed. You cannot preview this item."
+msgstr ""
+"De verificatie is mislukt. U kunt geen voorbeeld weergeven van dit item."
+
+#: template-preview.php:14
+msgid "Authentication failed. You are not logged in."
+msgstr "De verificatie is mislukt. U bent niet ingelogd."
+
+#: template-preview.php:19 template-preview.php:69
+msgid "Authentication failed. You have no permission to preview this item."
+msgstr ""
+"De verificatie is mislukt. U heeft geen toestemming om een voorbeeld van dit "
+"item."
+
+#: template-preview.php:76
+msgid "Loading preview..."
+msgstr "Het laden van voorbeeld..."
+
+#: template-preview.php:84
+msgid "Link Disabled"
+msgstr "Link Uitgeschakeld"
+
+#: template-preview.php:85
+msgid "During preview, link to different page is disabled"
+msgstr "Tijdens de preview link maken naar een andere pagina is uitgeschakeld"
+
+#: layouts.php:4
+#, fuzzy
+msgctxt "Layout type general name"
+msgid "Layouts"
+msgstr "Layouts"
+
+#: layouts.php:5
+#, fuzzy
+msgctxt "Layout type singular name"
+msgid "Layout"
+msgstr "Layout"
+
+#: layouts.php:6
+#, fuzzy
+msgctxt "Layout item"
+msgid "Add New"
+msgstr "Voeg nieuw toe"
+
+#: main-modules.php:4412
+#, fuzzy
+msgctxt "Audio Module meta information"
+msgid "by <strong>%1$s</strong>"
+msgstr "door <strong>%1$s</strong>"
+
+#: main-modules.php:7499
+#, fuzzy
+msgctxt "contact form title separator"
+msgid " - %s"
+msgstr " - %s"
+
+#: main-modules.php:8700
+#, fuzzy
+msgctxt "number of comments"
+msgid "1 Comment"
+msgid_plural "%s Comments"
+msgstr[0] "1 Reactie"
+msgstr[1] "1 Reactie"

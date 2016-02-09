@@ -1,0 +1,5 @@
+/**
+ * Protect WP-Admin (C)
+ * @Raghunath Gurjar
+ * */
+#pwa-tab-menu {width:80%; padding:1%;background: none repeat scroll 0 0 #ccc;}#pwa-tab-menu a {background: none repeat scroll 0 0 #DCA808; border: 0 none;color: #FFFFFF;display: inline-block;font-size: 16px;font-weight: bold;padding: 12px 35px;opacity:0.5;}#pwa-tab-menu a:hover{cursor:pointer;background: none repeat scroll 0 0 #DCA808;opacity:1;}#pwa-tab-menu a.active{ background: none repeat scroll 0 0 #DCA808;opacity:1;}#pwa-settings-form-admin .submit-btn {width: 100%; display: inline-block; padding-top: 10px; margin-top: 10px; border-top: 1px dashed #DCA808;}#pwa-settings-form-admin .submit-btn .button-primary{cursor:pointer;height:35px;}#pwa-settings-form-admin .csbwfs-setting p label {min-width:75px;display:inline-block;}#div-pwa-support img {width:auto; height:auto;}#pwa-settings-form-admin ul {list-style:inside}#pwa-settings-form-admin #div-pwa-support .contact-author{    background: none repeat scroll 0 0 #DC22FF;border: 0 none;color: #FFFFFF;display: inline-block;font-size: 12px;   font-weight: bold;padding: 2px 5px;text-decoration: none;}

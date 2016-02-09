@@ -1,0 +1,2780 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2015-10-19 12:05:43+00:00\n"
+"PO-Revision-Date: 2015-09-02 15:20+0300\n"
+"Last-Translator: \n"
+"Language-Team: Elegant Themes\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../includes/builder\n"
+"X-Poedit-SearchPathExcluded-1: ../node_modules\n"
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "הפוסט הזה מוגן בסיסמא. אנא הכניסו את הסיסמא כדי לצפות בתגובות."
+
+#: comments.php:13
+msgid "0 Comments"
+msgstr "אפס תגובות"
+
+#: comments.php:13
+msgid "1 Comment"
+msgstr "תגובת אחת."
+
+#: comments.php:13
+msgid "Comments"
+msgstr "תגובות"
+
+#: comments.php:18 comments.php:31
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "‏<span class=\"meta-nav\">&larr;</span> תגובות ישנות"
+
+#: comments.php:19 comments.php:32
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "תגובות חדשות <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:38
+msgid "Trackbacks/Pingbacks"
+msgstr "טארקבקים/פינגבאקים"
+
+#: comments.php:56
+msgid "Submit Comment"
+msgstr "שלחו תגובה"
+
+#: comments.php:56
+msgid "Submit a Comment"
+msgstr "שלחו תגובה"
+
+#: comments.php:56
+msgid "Leave a Reply to %s"
+msgstr "השאירו תגובה ל %s"
+
+#: epanel/core_functions.php:26 epanel/core_functions.php:401
+msgid "Saving..."
+msgstr "שומר..."
+
+#: epanel/core_functions.php:27
+msgid "Options Saved."
+msgstr "האםשרויות נשמרו."
+
+#: epanel/core_functions.php:73
+msgid "Options"
+msgstr "אפשרויות"
+
+#: epanel/core_functions.php:73 functions.php:7850
+msgid "Theme Options"
+msgstr "אפרויות ערכת נושא"
+
+#: epanel/core_functions.php:90
+msgid "settings saved."
+msgstr "ההגדרות נשמרו."
+
+#: epanel/core_functions.php:93
+msgid "settings reset."
+msgstr "ההגדרות אופסו."
+
+#: epanel/core_functions.php:111 epanel/options_divi.php:314
+#: epanel/options_divi.php:465 functions.php:550
+msgid "General Settings"
+msgstr "הגדרות כלליות"
+
+#: epanel/core_functions.php:114
+msgid "Navigation"
+msgstr "ניווט"
+
+#: epanel/core_functions.php:117 functions.php:560
+msgid "Layout Settings"
+msgstr "הגדרות תבנית"
+
+#: epanel/core_functions.php:120
+msgid "Ad Management"
+msgstr "ניהול פרסומות"
+
+#: epanel/core_functions.php:123
+msgid "Colorization"
+msgstr "צבע"
+
+#: epanel/core_functions.php:126
+msgid "SEO"
+msgstr "‏SEO"
+
+#: epanel/core_functions.php:129
+msgid "Integration"
+msgstr "אינטגרציה"
+
+#: epanel/core_functions.php:132
+msgid "Support Docs"
+msgstr "מסמכי תמיכה"
+
+#: epanel/core_functions.php:209 epanel/core_functions.php:389
+msgid "Reset"
+msgstr "אתחול"
+
+#: epanel/core_functions.php:210
+msgid "Upload Image"
+msgstr "העלאת תמונה"
+
+#: epanel/core_functions.php:237
+msgid "You don't have pages"
+msgstr "אין לכם דפים"
+
+#: epanel/core_functions.php:374
+msgid "Save changes"
+msgstr "שמירת שינויים"
+
+#: epanel/core_functions.php:385
+msgid ""
+"This will return all of the settings throughout the options page to their "
+"default values. <strong>Are you sure you want to do this?</strong>"
+msgstr ""
+"פעולה זו תחזיר את ההגדרות שלאורך מסך האפשרויות לברירת המחדל שלהן. "
+"<strong>אתם בטוחים שאתם רוצים לעשות זאת?</strong>"
+
+#: epanel/core_functions.php:558
+msgid "Choose an Image"
+msgstr "בחר תמונה"
+
+#: epanel/custom_functions.php:174
+msgid "&hellip;"
+msgstr "‏hellip‪;‬&"
+
+#: epanel/custom_functions.php:447 header.php:139
+msgid "Home"
+msgstr "בית"
+
+#: epanel/custom_functions.php:689
+msgid "Archives"
+msgstr "ארכיונים"
+
+#: epanel/custom_functions.php:691
+msgid "Search results for \"%s\""
+msgstr "חפש תוצאות עבור \"%s\""
+
+#: epanel/custom_functions.php:693
+msgid "404 Not Found"
+msgstr "404 לא נמצא"
+
+#: epanel/custom_functions.php:764
+msgid "Currently viewing archives from %1$s"
+msgstr "הארכיונים הנצפים כרגע הם מ %1$s"
+
+#: epanel/custom_functions.php:997
+msgid "Image doesn't exist"
+msgstr "תמונה לא קיימת"
+
+#: epanel/custom_functions.php:1198
+msgid ""
+"<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't "
+"forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will "
+"disappear once you have clicked the Save button within the <a href=\"%2$s"
+"\">theme's options page</a>.</p></div>"
+msgstr ""
+"‏<div class=\"עודכן\"><p>זוהי התקנה חדשה של %1$s ערכת נושא. אנא אל תשכחו לגשת "
+"ל <a href=\"%2$s\">ePanel</a> כדי להגדירה. ההודעה הזו תיעלם כאשר תלחצו על "
+"כפתור השמירה שב <a href=\"%2$s\">עמוד אפשרויות ערכת נושא</a>.</p></div>"
+
+#: epanel/custom_functions.php:1210
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox"
+"\" title=\"%1$s\">View version %3$s details</a>. <em>Before you can update "
+"your Elegant Themes, you must first install the <a href=\"https://www."
+"elegantthemes.com/members-area/documentation.html#updater\" target=\"_blank"
+"\">Elegant Updater Plugin</a> to authenticate your subscription.</em>"
+msgstr ""
+"גרסא חדשה של %1$s זמינה. <a href=\"%2$s\" class=\"thickbox\" title=\"%1$s"
+"\">הצג פרטי גרסה %3$s </a>. <em>לפני שאתם מעדכנים את ערכות הנושא של האלגנט "
+"שלכם, עליכם ראשית להתקין את <a href=\"https://www.elegantthemes.com/members-"
+"area/documentation.html#updater\" target=\"_blank\">Elegant Updater Plugin</"
+"a> כדי לאשר את המנוי שלכם.</em>"
+
+#: epanel/custom_functions.php:1214
+msgid ""
+"Before you can update your Elegant Themes, you must first install the <a "
+"href=\"https://www.elegantthemes.com/members-area/documentation.html#updater"
+"\" target=\"_blank\">Elegant Updater Plugin</a> to authenticate your "
+"subscription."
+msgstr ""
+"לפני שתוכלו לדכן את ערכות הנושא של האלגנט שלכם, עליכם להתקין את <a href="
+"\"https://www.elegantthemes.com/members-area/documentation.html#updater\" "
+"target=\"_blank\">Elegant Updater Plugin</a> כדי לאשר את המנוי שלכם."
+
+#: epanel/options_divi.php:38
+msgid "General"
+msgstr "כללי"
+
+#: epanel/options_divi.php:45
+msgid "Logo"
+msgstr "לוגו"
+
+#: epanel/options_divi.php:48
+msgid "Set As Logo"
+msgstr "קבע כלוגו"
+
+#: epanel/options_divi.php:50
+msgid ""
+"If you would like to use your own custom logo image click the Upload Image "
+"button."
+msgstr "אם תרצו לשהתמש בתמונת לוגו מואמת אישית, לחצו על כפתור \"העלאת תמונה\"."
+
+#: epanel/options_divi.php:53
+msgid "Favicon"
+msgstr "‏Favicon"
+
+#: epanel/options_divi.php:56
+msgid "Set As Favicon"
+msgstr "קבע כ-  Favicon"
+
+#: epanel/options_divi.php:58
+msgid ""
+"If you would like to use your own custom favicon image click the Upload "
+"Image button."
+msgstr "אם תרצו לשהתמש ב favicon מואמם אישית, לחצו על כפתור \"העלאת תמונה\"."
+
+#: epanel/options_divi.php:61
+msgid "Fixed Navigation Bar"
+msgstr "סרגל ניווט נעול"
+
+#: epanel/options_divi.php:65
+msgid ""
+"By default the navigation bar stays on top of the screen at all times. We "
+"suggest to disable this option, if you need to use a logo taller than the "
+"default one."
+msgstr ""
+"סרגל הניווט נשאר, כברירת מחדל, בקצה העליון של המסך כל הזמן. אנו מציעים לבטל "
+"זאת אם עליכם להשתמש בתמונת לוגו גדולה."
+
+#: epanel/options_divi.php:70
+msgid "Grab the first post image"
+msgstr "קחו תמונה של הפוסט הראשון"
+
+#: epanel/options_divi.php:74
+msgid ""
+"By default thumbnail images are created using custom fields. However, if you "
+"would rather use the images that are already in your post for your thumbnail "
+"(and bypass using custom fields) you can activate this option. Once "
+"activcated thumbnail images will be generated automatically using the first "
+"image in your post. The image must be hosted on your own server."
+msgstr ""
+"תמונות של סימניות נוצרות, באופן ברירת מחדל, בעזרת שדות מותאמים אישית. אולם, "
+"אם תרצו להשתמש בתמונות שהן כבר חלק מהפוסט שלכם (ולעקוף בעזרת השדות המותאמים "
+"אישית) אתם יכולים להדליק את האופציה הזו. ברגע שהדלקתם זאת, תמונות הסימניה "
+"יווצרו אוטומטית בעזרת התמונה הראשונה של הפוסט. על התמונות להיות בשרת שלכם."
+
+#: epanel/options_divi.php:77
+msgid "Blog Style Mode"
+msgstr "מצב בלוג"
+
+#: epanel/options_divi.php:81
+msgid ""
+"By default the theme truncates your posts on index/homepages automatically "
+"to create post previews. If you would rather show your posts in full on "
+"index pages like a traditional blog then you can activate this feature."
+msgstr ""
+"באופן ברירית מחדל, ערכת הנושא חותכת חלקים מהפוסט שלכם אוטומטית כדי ליצור "
+"תצוגות מקדימות לפוסט. אם תרצו בכל זאת להראות את כל הפוסט באופן מלא, כמו "
+"בבלוגים מסורתיים, אתם יכולים להפעיל את האופציה הזו."
+
+#: epanel/options_divi.php:86
+msgid "Shop Page & Category Page Layout for WooCommerce"
+msgstr "תבניות עמודי קניות וקטגוריות ל WooCommerce"
+
+#: epanel/options_divi.php:90 functions.php:288
+msgid "Right Sidebar"
+msgstr "סרגל ימני"
+
+#: epanel/options_divi.php:91 functions.php:289
+msgid "Left Sidebar"
+msgstr "סרגל שמאלי"
+
+#: epanel/options_divi.php:92 functions.php:290
+msgid "Full Width"
+msgstr "רוחב מלא"
+
+#: epanel/options_divi.php:95
+msgid "Here you can choose Shop Page & Category Page Layout for WooCommerce."
+msgstr "כאן אתם יכולים לבחור תבניות עמודי קניות וקטגוריות ל WooCommerce."
+
+#: epanel/options_divi.php:99
+msgid "MailChimp API Key"
+msgstr "מפתח API MailChimp"
+
+#: epanel/options_divi.php:104
+msgid ""
+"Enter your MailChimp API key. You can create an api key <a target=\"_blank\" "
+"href=\"%1$s\">here</a>"
+msgstr ""
+"הכניסו את מפתח הAPI של MailChimp. אתם יכולים ליצור מפצח API <a target="
+"\"_blank\" href=\"%1$s\">here</a>"
+
+#: epanel/options_divi.php:107
+msgid "Aweber Authorization"
+msgstr "אישור Aweber"
+
+#: epanel/options_divi.php:109
+msgid "Authorize your Aweber account here."
+msgstr "אשרו את חשבון ה Aweber כאן."
+
+#: epanel/options_divi.php:113
+msgid "Regenerate MailChimp Lists"
+msgstr "צרו מחדש רשימות MailChimp"
+
+#: epanel/options_divi.php:117
+msgid ""
+"By default, MailChimp lists are cached for one day. If you added new list, "
+"but it doesn't appear within the Email Optin module settings, activate this "
+"option. Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"כברירת מחדל, רשימות MailChimp הן מטמון ליום אחד. אם הוסיף רשימה חדשה, אבל זה "
+"לא מופיע בהגדרות מודול OptIn דוא\"ל, להפעיל אפשרות זו. אל תשכח לבטל את זה "
+"פעם אחת ברשימה כבר מחדש."
+
+#: epanel/options_divi.php:119
+msgid "Regenerate Aweber Lists"
+msgstr "צרו מחדש רשימות Aweber"
+
+#: epanel/options_divi.php:123
+msgid ""
+"By default, Aweber lists are cached for one day. If you added new list, but "
+"it doesn't appear within the Email Optin module settings, activate this "
+"option. Don't forget to disable it once the list has been regenerated."
+msgstr ""
+"כברירת מחדל, רשימות Aweber במטמון ליום אחד. אם הוסיף רשימה חדשה, אבל זה לא "
+"מופיע בהגדרות מודול OptIn דוא\"ל, להפעיל אפשרות זו. אל תשכח לבטל את זה פעם "
+"אחת ברשימה כבר מחדש."
+
+#: epanel/options_divi.php:127
+msgid "Show Facebook Icon"
+msgstr "הצג אייקון Facebook"
+
+#: epanel/options_divi.php:131
+msgid "Here you can choose to display the Facebook Icon on your homepage. "
+msgstr "כאן ניתן להציג את אייקון ה Facebook בדף הבית. "
+
+#: epanel/options_divi.php:133
+msgid "Show Twitter Icon"
+msgstr "הצג אייקון Twitter"
+
+#: epanel/options_divi.php:137
+msgid "Here you can choose to display the Twitter Icon. "
+msgstr "כאן ניתן להציג את אייקון ה Twitter. "
+
+#: epanel/options_divi.php:141
+msgid "Show Google+ Icon"
+msgstr "הצג אייקון Google+"
+
+#: epanel/options_divi.php:145
+msgid "Here you can choose to display the Google+ Icon on your homepage. "
+msgstr "כאן ניתן להציג את אייקון ה Google+ בדף הבית. "
+
+#: epanel/options_divi.php:147
+msgid "Show RSS Icon"
+msgstr "הצג אייקון RSS"
+
+#: epanel/options_divi.php:151
+msgid "Here you can choose to display the RSS Icon. "
+msgstr "כאן ניתן להציג את אייקון ה RSS. "
+
+#: epanel/options_divi.php:155
+msgid "Facebook Profile Url"
+msgstr "‏URL לפרופיל Facebook"
+
+#: epanel/options_divi.php:160
+msgid "Enter the URL of your Facebook Profile. "
+msgstr "הכניסו את ה URL לפרופיל ה Facebook שלכם. "
+
+#: epanel/options_divi.php:162
+msgid "Twitter Profile Url"
+msgstr "‏URL לפרופיל Twitter"
+
+#: epanel/options_divi.php:167
+msgid "Enter the URL of your Twitter Profile."
+msgstr "הכניסו את ה URL לפרופיל ה Twitter שלכם"
+
+#: epanel/options_divi.php:169
+msgid "Google+ Profile Url"
+msgstr "‏URL לפרופיל Google+"
+
+#: epanel/options_divi.php:174
+msgid "Enter the URL of your Google+ Profile. "
+msgstr "הכניסו את ה URL לפרופיל ה Google+ שלכם "
+
+#: epanel/options_divi.php:176
+msgid "RSS Icon Url"
+msgstr "‏URL לפרופיל RSS"
+
+#: epanel/options_divi.php:181
+msgid "Enter the URL of your RSS feed. "
+msgstr "הכניסו את ה URL לפיד ה RSS שלכם "
+
+#: epanel/options_divi.php:183
+#, fuzzy
+msgid "Number of Products displayed on WooCommerce archive pages"
+msgstr "מספר הפוסטים המוצגים בעמודים מאוחסנים"
+
+#: epanel/options_divi.php:187
+#, fuzzy
+msgid ""
+"Here you can designate how many WooCommerce products are displayed on the "
+"archive page. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"כאן אתם יכולים לציין כמה כתבות אחרונות תוצגנה בעמודים המאוחסנים. האופציה הזו "
+"עובדת באופן עצמאי מאופציות הקריאה של wp-admin."
+
+#: epanel/options_divi.php:191
+msgid "Number of Posts displayed on Category page"
+msgstr "מספר הפוסטים המוצגים בעמוד הקטגוריה"
+
+#: epanel/options_divi.php:195
+msgid ""
+"Here you can designate how many recent articles are displayed on the "
+"Category page. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"כאן אתם יכולים לציין כמה כתבות אחרונות תוצגנה בעמוד הקטגוריה. האופציה הזו "
+"עובדת באופן עצמאי מאופציות הקריאה של wp-admin."
+
+#: epanel/options_divi.php:199
+msgid "Number of Posts displayed on Archive pages"
+msgstr "מספר הפוסטים המוצגים בעמודים מאוחסנים"
+
+#: epanel/options_divi.php:203
+msgid ""
+"Here you can designate how many recent articles are displayed on the Archive "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"כאן אתם יכולים לציין כמה כתבות אחרונות תוצגנה בעמודים המאוחסנים. האופציה הזו "
+"עובדת באופן עצמאי מאופציות הקריאה של wp-admin."
+
+#: epanel/options_divi.php:207
+msgid "Number of Posts displayed on Search pages"
+msgstr "מספר הפוסטים המוצגים בעמודי החיפוש"
+
+#: epanel/options_divi.php:211
+msgid ""
+"Here you can designate how many recent articles are displayed on the Search "
+"results pages. This option works independently from the Settings > Reading "
+"options in wp-admin."
+msgstr ""
+"כאן אתם יכולים לציין כמה כתבות אחרונות תוצגנה בעמודי החיפוש. האופציה הזו "
+"עובדת באופן עצמאי מאופציות הקריאה של wp-admin."
+
+#: epanel/options_divi.php:215
+msgid "Number of Posts displayed on Tag pages"
+msgstr "מספר הפוסטים המוצגים בעמודים מתויגים"
+
+#: epanel/options_divi.php:219
+msgid ""
+"Here you can designate how many recent articles are displayed on the Tag "
+"pages. This option works independently from the Settings > Reading options "
+"in wp-admin."
+msgstr ""
+"כאן אתם יכולים לציין כמה כתבות אחרונות תוצגנה בעמודים מתויגים. האופציה הזו "
+"עובדת באופן עצמאי מאופציות הקריאה של wp-admin."
+
+#: epanel/options_divi.php:223
+msgid "Date format"
+msgstr "פורמט תאריכים"
+
+#: epanel/options_divi.php:227
+msgid ""
+"This option allows you to change how your dates are displayed. For more "
+"information please refer to the WordPress codex here:<a href='http://codex."
+"wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatting Date and "
+"Time</a>"
+msgstr ""
+"האופציה הזו מאפשרת לכם לשנות את אופן הצגת התאריכים שלכם. למידע נוסף אנא פנו "
+"למידעון Wordpress: <a href='http://codex.wordpress.org/"
+"Formatting_Date_and_Time' target='_blank'> פירמוט זמן ותאריך </a>"
+
+#: epanel/options_divi.php:233
+msgid "Use excerpts when defined"
+msgstr "השתמש בתמצות כאשר זה מוגדר"
+
+#: epanel/options_divi.php:237
+msgid "This will enable the use of excerpts in posts or pages."
+msgstr "אפשרות זו תאפשר שימוש בתמצות בפוסטים או בעמודים"
+
+#: epanel/options_divi.php:240
+msgid "Responsive shortcodes"
+msgstr "‏shortocdes מותאמים אוטומטית"
+
+#: epanel/options_divi.php:244
+msgid "Enable this option to make shortcodes respond to various screen sizes"
+msgstr "אפשרו אופתיה זו כדי לאפשר ל shortcodes להתאים עצמם לגדלי מסך שונים"
+
+#: epanel/options_divi.php:249
+msgid "Google Fonts subsets"
+msgstr "חלקי Google Forts"
+
+#: epanel/options_divi.php:253
+msgid "This will enable Google Fonts for Non-English languages."
+msgstr "אופציה זו תאפשר Google Fonts לשפות שאינן אנגלית."
+
+#: epanel/options_divi.php:256
+msgid "Back To Top Button"
+msgstr "כפתור חזרה למעלה"
+
+#: epanel/options_divi.php:260
+msgid "Enable this option to display Back To Top Button while scrolling"
+msgstr "אפשרו אופציה זו כדי להציג כפתור חזרה למעלה כאשר גוללים."
+
+#: epanel/options_divi.php:265
+msgid "Smooth Scrolling"
+msgstr "גלילה חלקה"
+
+#: epanel/options_divi.php:269
+msgid "Enable this option to get the smooth scrolling effect with mouse wheel"
+msgstr "אפשרו אופציה זו כדי להפעיל אפקט גלילה חלקה עם גלגלת העכבר"
+
+#: epanel/options_divi.php:272
+msgid "Disable Translations"
+msgstr ""
+
+#: epanel/options_divi.php:276
+msgid ""
+"Disable translations, if you don't want to display translated theme strings "
+"on your site."
+msgstr ""
+
+#: epanel/options_divi.php:281
+msgid "Custom CSS"
+msgstr "‏CSS מותאם אישית"
+
+#: epanel/options_divi.php:285
+msgid "Here you can add custom css to override or extend default styles."
+msgstr "כאן ניתן להוסיף CSS מותאם אישית כדי לעקוף את סגנון ברירת המחדל."
+
+#: epanel/options_divi.php:304
+msgid "Pages"
+msgstr "דפים"
+
+#: epanel/options_divi.php:309
+msgid "Categories"
+msgstr "קטגוריות"
+
+#: epanel/options_divi.php:322
+msgid "Exclude pages from the navigation bar"
+msgstr "הסירו דפים מסרגל הניווט"
+
+#: epanel/options_divi.php:326
+msgid ""
+"Here you can choose to remove certain pages from the navigation menu. All "
+"pages marked with an X will not appear in your navigation bar. "
+msgstr ""
+"כאן ניתן לבחור להסיר דפים מתפריט הניווט. דפים שלידם X לא יופיעו בסרגל "
+"הניווט. "
+
+#: epanel/options_divi.php:330 epanel/options_divi.php:385
+msgid "Show dropdown menus"
+msgstr "הראה תפריטים נפרשים"
+
+#: epanel/options_divi.php:334
+msgid ""
+"If you would like to remove the dropdown menus from the pages navigation bar "
+"disable this feature."
+msgstr ""
+"אם תרצו להסיר את פרישת התפריטים מסרגל הניווט של העמודים, בטלו את האופציה הזו."
+
+#: epanel/options_divi.php:337
+msgid "Display Home link"
+msgstr "הציגו לינק בית"
+
+#: epanel/options_divi.php:341
+msgid ""
+"By default the theme creates a Home link that, when clicked, leads back to "
+"your blog's homepage. If, however, you are using a static homepage and have "
+"already created a page called Home to use, this will result in a duplicate "
+"link. In this case you should disable this feature to remove the link."
+msgstr ""
+"באופן ברירת מחדל, ערכת הנושא יוצרת לינק בית שכאשר לוחצים עליו, מוביל חזרה "
+"לעמודת הבית של הבלוג. אולם אם כבר יצרתם עמוד בית סטטי משלכם, זה יצור לינק "
+"כפול. במקרה זה בטלו אפשרות זו כדי להסיר את הלינק."
+
+#: epanel/options_divi.php:346
+msgid "Sort Pages Links"
+msgstr "מיון לינקים לעמודים"
+
+#: epanel/options_divi.php:350
+msgid "Here you can choose to sort your pages links."
+msgstr "כאן ניתו לבחור איך למיין את הלינקים לעמודים."
+
+#: epanel/options_divi.php:353
+msgid "Order Pages Links by Ascending/Descending"
+msgstr "סדר הצגת לינקים לעמודים עולה/יורד"
+
+#: epanel/options_divi.php:357
+msgid ""
+"Here you can choose to reverse the order that your pages links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+"כאן ניתן להפוך את סדר הצגת הלינקים לעמודים. האפשרויות הן סדר עולה או יורד."
+
+#: epanel/options_divi.php:360 epanel/options_divi.php:401
+msgid "Number of dropdown tiers shown"
+msgstr "מספר חלקי תפריט נפרש המוצגים"
+
+#: epanel/options_divi.php:364 epanel/options_divi.php:405
+msgid ""
+"This options allows you to control how many teirs your pages dropdown menu "
+"has. Increasing the number allows for additional menu items to be shown."
+msgstr ""
+"אפוציה זו בוררת כמה חלקים יוצגו כאשר התפריטים נפרשים. הגדלת המספר תציג יותר "
+"חלקים מהתפריט."
+
+#: epanel/options_divi.php:377
+msgid "Exclude categories from the navigation bar"
+msgstr "הספר קטגוריות מסרגל הניווט"
+
+#: epanel/options_divi.php:381
+msgid ""
+"Here you can choose to remove certain categories from the navigation menu. "
+"All categories marked with an X will not appear in your navigation bar. "
+msgstr ""
+"כאן ניתן לבחור להסיר קטגוריות מתפריט הניווט. קטגוריות שלידן X לא יופיעו "
+"בסרגל הניווט. "
+
+#: epanel/options_divi.php:389
+msgid ""
+"If you would like to remove the dropdown menus from the categories "
+"navigation bar disable this feature."
+msgstr ""
+"אם תרצו להסיר את פרישת התפריטים מסרגל הניווט של הקטגוריות, בטלו את האופציה "
+"הזו."
+
+#: epanel/options_divi.php:392
+msgid "Hide empty categories"
+msgstr "החבא קטגוריות ריקות"
+
+#: epanel/options_divi.php:396
+msgid ""
+"If you would like categories to be displayed in your navigationbar that "
+"don't have any posts in them then disable this option. By default empty "
+"categories are hidden"
+msgstr ""
+"אם תרצו להציג בסרגל הניווט קטגוריות שאין בהן פוסטים בטלו אפשרות זו. כברירת "
+"מחדל, קטגוריות ריקות מוחבאות."
+
+#: epanel/options_divi.php:411
+msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
+msgstr "מיין קטגוריות לפי קבוצות Name/ID/Slug/Count/Term"
+
+#: epanel/options_divi.php:415
+msgid ""
+"By default pages are sorted by name. However if you would rather have them "
+"sorted by ID you can adjust this setting."
+msgstr ""
+"כברירת מחדל, עמודים ממוינים לפי שם. אם תרצו לשנות זאת ל ID תוכלו לשנות זאת "
+"כאן."
+
+#: epanel/options_divi.php:418
+msgid "Order Category Links by Ascending/Descending"
+msgstr "סדר הצגת לינקים לקטגוריות עולה/יורד"
+
+#: epanel/options_divi.php:422
+msgid ""
+"Here you can choose to reverse the order that your categories links are "
+"displayed. You can choose between ascending and descending."
+msgstr ""
+"אן ניתן להפוך את סדר הצגת הלינקים לקטגוריות. האפשרויות הן סדר עולה או יורד."
+
+#: epanel/options_divi.php:431
+msgid "Disable top tier dropdown menu links"
+msgstr "בטל לינקים מועדפים ביותר בתפריטים נפרשים"
+
+#: epanel/options_divi.php:435
+msgid ""
+"In some cases users will want to create parent categories or links as "
+"placeholders to hold a list of child links or categories. In this case it is "
+"not desirable to have the parent links lead anywhere, but instead merely "
+"serve an organizational function. Enabling this options will remove the "
+"links from all parent pages/categories so that they don't lead anywhere when "
+"clicked."
+msgstr ""
+"במקרים מסוימים משתמשים יירצו ליצור קטגוריות או לינקי על כדי לשמש כקיצורי דרך "
+"לקבוצות של לינקים או תת קטגוריות. במקרה זה מומלץ שלינק העל לא יוביל לשום "
+"מקום אלא ישמש רק ככלי ארגוני. הפעלת האפשרות הזו תסיר את הלינקים מכל "
+"עמודי/קטגוריות העל כדי שלא יובילו לשום מקום."
+
+#: epanel/options_divi.php:455
+msgid "Single Post Layout"
+msgstr "תבנית פוסט יחיד"
+
+#: epanel/options_divi.php:460
+msgid "Single Page Layout"
+msgstr "תבנית עמוד יחיד"
+
+#: epanel/options_divi.php:473
+msgid "Choose which items to display in the postinfo section"
+msgstr "בחרו אילו דברים להציג בחלק המידע של הפוסט"
+
+#: epanel/options_divi.php:477
+msgid ""
+"Here you can choose which items appear in the postinfo section on single "
+"post pages. This is the area, usually below the post title, which displays "
+"basic information about your post. The highlighted itmes shown below will "
+"appear. "
+msgstr ""
+"כאן ניתן לבחור אילו דברים יופיעו בחלק המידע של עמודי פוסט יחידים. זה האזור, "
+"שבדרך כלל מתחת לכותרת הפוסט, שמציג מידע בסיסי על הפוסט. החלקים המודגשים "
+"המוצגים למטה גם יופיעו. "
+
+#: epanel/options_divi.php:481
+msgid "Show comments on posts"
+msgstr "הצג תגובות בפוסטים"
+
+#: epanel/options_divi.php:485
+msgid ""
+"You can disable this option if you want to remove the comments and comment "
+"form from single post pages. "
+msgstr ""
+"ניתן לבטל אפשרות זו אם אתם רוצים להסיר תגובות ואת טופס שליחת תגובה מפוסטים. "
+
+#: epanel/options_divi.php:488
+msgid "Place Thumbs on Posts"
+msgstr "הוסף תמונות סימניה על פוסטים"
+
+#: epanel/options_divi.php:492
+msgid ""
+"By default thumbnails are placed at the beginning of your post on single "
+"post pages. If you would like to remove this initial thumbnail image to "
+"avoid repetition simply disable this option. "
+msgstr ""
+"באופן ברירת מחדל, סימניות מוספות לפוסטים שלכם בעמודי פוסט יחידים. אם אתם "
+"רוצים להסיר את תמונת הסימניה התחילת כדי להימנע מכפולות אנא בטלו אפשרות זו. "
+
+#: epanel/options_divi.php:503
+msgid "Place Thumbs on Pages"
+msgstr "הוסף תמונות סימניה על עמודים."
+
+#: epanel/options_divi.php:507
+msgid ""
+"By default thumbnails are not placed on pages (they are only used on posts). "
+"However, if you want to use thumbnails on pages you can! Just enable this "
+"option. "
+msgstr ""
+"כברירת מחדל, תמונות ממוזערות לא ממוקמות על הדפים (משתמשים בהם רק בפוסטים). "
+"עם זאת, אם אתה רוצה להשתמש בתמונות ממוזערות בדפים, אתה יכול! פשוט אפשר "
+"אפשרות זאת"
+
+#: epanel/options_divi.php:510
+msgid "Show comments on pages"
+msgstr "הצג תבוגות בדפים"
+
+#: epanel/options_divi.php:514
+msgid ""
+"By default comments are not placed on pages, however, if you would like to "
+"allow people to comment on your pages simply enable this option. "
+msgstr ""
+"כברירת מחדל, תגובות לא מוספות לדפים. אולם, אם אתם רוצים לאפשר לאנשים להגיב "
+"לדפים שלכם, אנא סמנו אופציה זו. "
+
+#: epanel/options_divi.php:525
+msgid "Post info section"
+msgstr "חלק המידע של פוסט"
+
+#: epanel/options_divi.php:529
+msgid ""
+"Here you can choose which items appear in the postinfo section on pages. "
+"This is the area, usually below the post title, which displays basic "
+"information about your post. The highlighted itmes shown below will appear. "
+msgstr ""
+"כאן ניתן לבחור אילו דברים יופיעו בחלק המידע של כתבות בעמודים. זה האזור, "
+"שבדרך כלל מתחת לכותרת הפוסט, שמציג מידע בסיסי על הפוסט. החלקים המודגשים "
+"המוצגים למטה גם יופיעו. "
+
+#: epanel/options_divi.php:534
+msgid "Show Thumbs on Index pages"
+msgstr "הצג תמונות סימניה בעמודי אינדקס"
+
+#: epanel/options_divi.php:538
+msgid "Enable this option to show thumbnails on Index Pages."
+msgstr "סמנו אפשרות זו כדי להציג סימניות בעמודי אינדקס."
+
+#: epanel/options_divi.php:557
+msgid "Homepage SEO"
+msgstr "‏SEO של עמוד הבית"
+
+#: epanel/options_divi.php:562
+msgid "Single Post Page SEO"
+msgstr "‏SEO של עמוד פוסט יחיד"
+
+#: epanel/options_divi.php:567
+msgid "Index Page SEO"
+msgstr "‏SEO של עמוד אינדקס"
+
+#: epanel/options_divi.php:575
+msgid " Enable custom title "
+msgstr "אפשרו כותרת מותאמת אישית "
+
+#: epanel/options_divi.php:579
+msgid ""
+"By default the theme uses a combination of your blog name and your blog "
+"description, as defined when you created your blog, to create your homepage "
+"titles. However if you want to create a custom title then simply enable this "
+"option and fill in the custom title field below. "
+msgstr ""
+"כברירת מחדל, ערכת הנושא משתמשת בקומבינציה של שם הבלוג ותיאור הבלוג, כפי "
+"שהוגדרו בעת יצירת הבלוג, כדי ליצור את כותרת עמוד הבית. אם אתם רוצים ליצור "
+"כברת מותאמת אישית, סמנו אפשרות זו ומלאו את שדה הכותרת למטה. "
+
+#: epanel/options_divi.php:582
+msgid " Enable meta description"
+msgstr "אפשרו תיאור תגית מטא"
+
+#: epanel/options_divi.php:586
+msgid ""
+"By default the theme uses your blog description, as defined when you created "
+"your blog, to fill in the meta description field. If you would like to use a "
+"different description then enable this option and fill in the custom "
+"description field below. "
+msgstr ""
+"כברירת מחדל, ערכת הנושא משתמשת בתיאור הבלוג שלכם, כפי שהוגדר בעת יצירת "
+"הבלוג, כדי למלא את שדה תיאור המטא. אם תרצו תיאור אחר, אנא סמו אפשרות זו "
+"ומלאו את שדה התיאור למטה. "
+
+#: epanel/options_divi.php:589
+msgid " Enable meta keywords"
+msgstr "אפשר מילות מפתח מטא"
+
+#: epanel/options_divi.php:593
+msgid ""
+"By default the theme does not add keywords to your header. Most search "
+"engines don't use keywords to rank your site anymore, but some people define "
+"them anyway just in case. If you want to add meta keywords to your header "
+"then enable this option and fill in the custom keywords field below. "
+msgstr ""
+"כברירת מחדל, ערכת הנושא לא מוסיפה מילות מפתח לחלק העילי. רוב מנועי החיםוש "
+"כבר לא משתמשים במילות מפתח כדי לדרג אתרים יותר, אך יש אנשים שעדיין מגדירים "
+"אותן בכל מקרה. אם תרצו להוסיף מילות מפתח מטא לחלק העילי אנא סמנו אפשרות זו "
+"ומלאו את שדה מילות המפתח למטה. "
+
+#: epanel/options_divi.php:596 epanel/options_divi.php:729
+msgid " Enable canonical URL's"
+msgstr "אפשרו URL's קנונים"
+
+#: epanel/options_divi.php:600 epanel/options_divi.php:678
+#: epanel/options_divi.php:733
+msgid ""
+"Canonicalization helps to prevent the indexing of duplicate content by "
+"search engines, and as a result, may help avoid duplicate content penalties "
+"and pagerank degradation. Some pages may have different URLs all leading to "
+"the same place. For example domain.com, domain.com/index.html, and www."
+"domain.com are all different URLs leading to your homepage. From a search "
+"engine's perspective these duplicate URLs, which also occur often due to "
+"custom permalinks, may be treated individually instead of as a single "
+"destination. Defining a canonical URL tells the search engine which URL you "
+"would like to use officially. The theme bases its canonical URLs off your "
+"permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr ""
+"קנוניזציה מסייעת למנוע יצירת האינדקס של תוכן כפול על ידי מנועי חיפוש, "
+"וכתוצאה מכך, עשוי לסייע במניעת עונשים עקב תוכן כפול ונפילה בדירוג העמוד. "
+"ייתכן שלדפים יש URLs שונה אבל כולם מובילים לאותו המקום. לדוגמא  domain.com, "
+"domain.com/index.html,ו-  www.domain.com  הם  URLs שונים אבל כולם מובילים "
+"מובילים לדף הבית שלך. מנקודת המבט של מנוע חיפוש כURLs כפולים, שלעיתים "
+"מופיעים  כקישור קבוע מותאם אישית,  יטופלו באופן אינדיבידואלי ולא כיעד אחד.   "
+"הגדרת  URL  קנונית אומרת למנוע חיפוש באיזה URL אתה רוצה  להשתמש באופן רשמי. "
+"התמה מבססת את ה- URLs הקנוני שלה מחוץ לקישורים שלך ושם הדומיין מוגדר "
+"בכרטיסיית ההגדרות של  wp-admin."
+
+#: epanel/options_divi.php:605
+msgid "Homepage custom title (if enabled)"
+msgstr "כותרת עמוד בית מואמת אישית (אם מופעל)"
+
+#: epanel/options_divi.php:609
+msgid ""
+"If you have enabled custom titles you can add your custom title here. "
+"Whatever you type here will be placed between the < title >< /title > tags "
+"in header.php"
+msgstr ""
+"אם הדלקתם כותרות מותאמות אישית אתם יכולים להוסיף אותן כאן. מה שתשימו כאן "
+"יושם בין תגיות < title >< /title > ב header.php"
+
+#: epanel/options_divi.php:613
+msgid "Homepage meta description (if enabled)"
+msgstr "תיאור מטא של עמוד הבית (אם מופעל)"
+
+#: epanel/options_divi.php:617
+msgid ""
+"If you have enabled meta descriptions you can add your custom description "
+"here."
+msgstr "אם הפעלתם תיאורי מטא מותאמים אישית תוכלו להוסיף אותם כאן."
+
+#: epanel/options_divi.php:621
+msgid "Homepage meta keywords (if enabled)"
+msgstr "מילות מפתח מטא לעמוד הבית (אם מופעל)"
+
+#: epanel/options_divi.php:625
+msgid ""
+"If you have enabled meta keywords you can add your custom keywords here. "
+"Keywords should be separated by comas. For example: wordpress,themes,"
+"templates,elegant"
+msgstr ""
+"אם הדלקתם מילות מפתח מטא מותאמות אישית אתם יכולים להוסיף אותן כאן. על מילות "
+"המפתח להיות מופרדות עם פסיקים. לדוגמא: wordpress,themes,templates,elegant"
+
+#: epanel/options_divi.php:629 epanel/options_divi.php:707
+msgid "If custom titles are disabled, choose autogeneration method"
+msgstr "אם כותרות מותאמות אישית מופעלות, אנא בחרו ביצירה אוטומטית"
+
+#: epanel/options_divi.php:634
+msgid ""
+"If you are not using cutsom post titles you can still have control over how "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"אם אינכם משתמשים בכותרות פוסט מואמות אישית, אתם עדיין יכולים לשלוט על איך "
+"נוצרות הכותרות שלכם. כאן ניתן לבחור באיזה סדר יופיעו כותרת הפוסט ושם הבלוג "
+"או שניתן בכלל להסיר את שם הבלוג."
+
+#: epanel/options_divi.php:637 epanel/options_divi.php:715
+#: epanel/options_divi.php:753
+msgid "Define a character to separate BlogName and Post title"
+msgstr "הגדירו תו כדי להפריד את שם האתר מכותרת הפוסט"
+
+#: epanel/options_divi.php:641 epanel/options_divi.php:719
+msgid ""
+"Here you can change which character separates your blog title and post name "
+"when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"כאן ניתן לשנות את התו אשר מפריד בין שם הבלוג לכותרת הפוסט כאשר משתמשים "
+"בכותרות פוסט אוטומטיות. תווים נפוצים הם | או -"
+
+#: epanel/options_divi.php:651
+msgid "Enable custom titles"
+msgstr "אשפר כותרות מותאמות אישית"
+
+#: epanel/options_divi.php:655
+msgid ""
+"By default the theme creates post titles based on the title of your post and "
+"your blog name. If you would like to make your meta title different than "
+"your actual post title you can define a custom title for each post using "
+"custom fields. This option must be enabled for custom titles to work, and "
+"you must choose a custom field name for your title below."
+msgstr ""
+"כברירת מחדל, ערכת הנושא יוצרת כותרות פוסט אשר מבוססות על שם הפוסט ושל הבלוג. "
+"אם תרצו שכותרות המטא שלכם תהיינה שונות מהכותרת האמיתית של הפוסט ניתן להגדיר "
+"כותרות מותאמות אישית לכל פוסט בעזרת השדות המותאמים אישית. האפשרות הזו חייבת "
+"להיו מופעלת לכותרות מואמות אישית כדי לעבוד ועליכם לבחור שם דה מותאם אישית "
+"לכותרת שלכם למטה."
+
+#: epanel/options_divi.php:658
+msgid "Enable custom description"
+msgstr "אפשרו תיאור מותאם אישית"
+
+#: epanel/options_divi.php:662
+msgid ""
+"If you would like to add a meta description to your post you can do so using "
+"custom fields. This option must be enabled for descriptions to be displayed "
+"on post pages. You can add your meta description using custom fields based "
+"off the custom field name you define below."
+msgstr ""
+"אם תרצו להוסיף תיאורי מטא לפוסטים שלכם, תוכלו לעשות זאת בעזרת השדות המותאמים "
+"אישית. האופציה הזו חייבת להיות מופעלת כדי שהתיאורים יופיעו בעמודי הפוסטים. "
+"אתם יכולים להוסיף את תיאור המטא בעזרת השדות המותאמים אישית שמבוססים על שם "
+"השדות המותאמים אישית שתגדירו למטה."
+
+#: epanel/options_divi.php:667
+msgid "Enable custom keywords"
+msgstr "אפשר מילות מפתח מואמות אישית"
+
+#: epanel/options_divi.php:671
+msgid ""
+"If you would like to add meta keywords to your post you can do so using "
+"custom fields. This option must be enabled for keywords to be displayed on "
+"post pages. You can add your meta keywords using custom fields based off the "
+"custom field name you define below."
+msgstr ""
+"אם תרצו להוסיף מילות מפתח מטא לפוסטים שלכם, תוכלו לעשות זאת בעזרת השדות "
+"המותאמים אישית. האופציה הזו חייבת להיות מופעלת כדי שמילות המפתח תופענה "
+"בעמודי הפוסטים. אתם יכולים להוסיף את מילות מפתח המטא בעזרת השדות המותאמים "
+"אישית שמבוססים על שם השדות המותאמים אישית שתגדירו למטה."
+
+#: epanel/options_divi.php:674
+msgid "Enable canonical URL's"
+msgstr "אפשרו URL's קנונים"
+
+#: epanel/options_divi.php:683
+msgid "Custom field Name to be used for title"
+msgstr "שם שדה מותאם אישית שיושמש ככותרת"
+
+#: epanel/options_divi.php:687
+msgid ""
+"When you define your title using custom fields you should use this value for "
+"the custom field Name. The Value of your custom field should be the custom "
+"title you would like to use."
+msgstr ""
+"כאשר אתם מגדירים את הכותרות שלכם בעזרת שדות מותאמים אישית עליכם להשתמש בערך "
+"זה עבור שם השדות הללו. על ערך השדות המותאמים אישית להיות הכותרת המותאמת "
+"אישית שבה תרצו להשתמש."
+
+#: epanel/options_divi.php:691
+msgid "Custom field Name to be used for description"
+msgstr "שם שדה מותאם אישית שיושמש כתיאור"
+
+#: epanel/options_divi.php:695
+msgid ""
+"When you define your meta description using custom fields you should use "
+"this value for the custom field Name. The Value of your custom field should "
+"be the custom description you would like to use."
+msgstr ""
+"אשר אתם מגדירים את תיאורי המטא שלכם בעזרת שדות מותאמים אישית עליכם להשתמש "
+"בערך זה עבור שם השדות הללו. על ערך השדות המותאמים אישית להיות התיאור המותאם "
+"אישית שבו תרצו להשתמש."
+
+#: epanel/options_divi.php:699
+msgid "Custom field Name to be used for keywords"
+msgstr "שם שדה מותאם אישית שיושמש כמילות מפתח"
+
+#: epanel/options_divi.php:703
+msgid ""
+"When you define your keywords using custom fields you should use this value "
+"for the custom field Name. The Value of your custom field should be the meta "
+"keywords you would like to use, separated by comas."
+msgstr ""
+"אשר אתם מגדירים את מילות המפתח שלכם בעזרת שדות מותאמים אישית עליכם להשתמש "
+"בערך זה עבור שם השדות הללו. על ערך השדות המותאמים אישית להיות מילות מפתח "
+"המטא המותאמות אישית שבהן תרצו להשתמש, מופרדות בפסיקים."
+
+#: epanel/options_divi.php:712
+msgid ""
+"If you are not using cutsom post titles you can still have control over hw "
+"your titles are generated. Here you can choose which order you would like "
+"your post title and blog name to be displayed, or you can remove the blog "
+"name from the title completely."
+msgstr ""
+"אם אינכם משתמשים בכותרות פוסט מואמות אישית, אתם עדיין יכולים לשלוט על איך "
+"נוצרות הכותרות שלכם. כאן ניתן לבחור באיזה סדר יופיעו כותרת הפוסט ושם הבלוג "
+"או שניתן בכלל להסיר את שם הבלוג לחלוטין."
+
+#: epanel/options_divi.php:736
+msgid "Enable meta descriptions"
+msgstr "אפשרו מטא תיאורים"
+
+#: epanel/options_divi.php:740
+msgid ""
+"Check this box if you want to display meta descriptions on category/archive "
+"pages. The description is based off the category description you choose when "
+"creating/edit your category in wp-admin."
+msgstr ""
+"סמנו כאן אם אתם רוצים להציג מטא תיאורים בעמודי הקטגוריות/ארכיון. התיאור "
+"מבוסס על תיאור הקטגוריותש אתם בוחרים כאשר יוצאים/עורכים את הקטגוריות שלכם ב "
+"wp-admin."
+
+#: epanel/options_divi.php:745
+msgid "Choose title autogeneration method"
+msgstr "בחרו שיטת יצירת כותרת"
+
+#: epanel/options_divi.php:750
+msgid ""
+"Here you can choose how your titles on index pages are generated. You can "
+"change which order your blog name and index title are displayed, or you can "
+"remove the blog name from the title completely."
+msgstr ""
+"כאן ניתן לבחור כיצד נוצרות הכותרות או עמודי האינדקסים. ניתן לבחור באיזה סדר "
+"יופיעו כותרת האינדקס ושם הבלוג או שניתן בכלל להסיר את שם הבלוג לחלוטין."
+
+#: epanel/options_divi.php:757
+msgid ""
+"Here you can change which character separates your blog title and index page "
+"name when using autogenerated post titles. Common values are | or -"
+msgstr ""
+"כאן ניתן לשנות את התו אשר מפריד בין שם הבלוג לשם עמוד האינדקס כאשר משתמשים "
+"בכותרות פוסט אוטומטיות. תווים נפוצים הם | או -"
+
+#: epanel/options_divi.php:778
+msgid "Code Integration"
+msgstr "יצירת קוד"
+
+#: epanel/options_divi.php:786
+msgid "Enable header code"
+msgstr "אפשר קוד עילי"
+
+#: epanel/options_divi.php:790
+msgid ""
+"Disabling this option will remove the header code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"ביטול אפשרות זו יסיר את הקוד העילי שמוצג למטה מהבלוג שלכם. זה מאפשר לכם "
+"להסיר אותו אולם שומר אותו לשימוש עתידי."
+
+#: epanel/options_divi.php:793
+msgid "Enable body code"
+msgstr "אפשר קוד < body >"
+
+#: epanel/options_divi.php:797
+msgid ""
+"Disabling this option will remove the body code below from your blog. This "
+"allows you to remove the code while saving it for later use."
+msgstr ""
+"ביטול אפשרות זו יסיר את הקוד הגוף שמוצג למטה מהבלוג שלכם. זה מאפשר לכם להסיר "
+"אותו אולם שומר אותו לשימוש עתידי."
+
+#: epanel/options_divi.php:802
+msgid "Enable single top code"
+msgstr "אפשר קוד עליון יחיד"
+
+#: epanel/options_divi.php:806
+msgid ""
+"Disabling this option will remove the single top code below from your blog. "
+"This allows you to remove the code while saving it for later use."
+msgstr ""
+"ביטול אפשרות זו יסיר את הקוד העליון היחיד שמוצג למטה מהבלוג שלכם. זה מאפשר "
+"לכם להסיר אותו אולם שומר אותו לשימוש עתידי."
+
+#: epanel/options_divi.php:809
+msgid "Enable single bottom code"
+msgstr "אפשר קוד תחתון יחיד"
+
+#: epanel/options_divi.php:813
+msgid ""
+"Disabling this option will remove the single bottom code below from your "
+"blog. This allows you to remove the code while saving it for later use."
+msgstr ""
+"ביטול אפשרות זו יסיר את הקוד התחתון היחיד שמוצג למטה מהבלוג שלכם. זה מאפשר "
+"לכם להסיר אותו אולם שומר אותו לשימוש עתידי."
+
+#: epanel/options_divi.php:818
+msgid "Add code to the < head > of your blog"
+msgstr "הוסיפו קוד < head > לבלוג שלכם"
+
+#: epanel/options_divi.php:822
+msgid ""
+"Any code you place here will appear in the head section of every page of "
+"your blog. This is useful when you need to add javascript or css to all "
+"pages."
+msgstr ""
+"כל קוד שתשימו כאן יופיע בחלק הראש של כל עמוד בבלוג שלכם. זה שימושי כאשר צריך "
+"להוסיף Javascript או CSS לכל העמודים."
+
+#: epanel/options_divi.php:825
+msgid ""
+"Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr "הוסיפו קוד < head > (טוב לקודי עקיבה כגון Google Analytics)"
+
+#: epanel/options_divi.php:829
+msgid ""
+"Any code you place here will appear in body section of all pages of your "
+"blog. This is usefull if you need to input a tracking pixel for a state "
+"counter such as Google Analytics."
+msgstr ""
+"כל קוד שתשימו כאן יופיע בחלק הראש של כל עמוד בבלוג שלכם. זה שימושי כאשר צריך "
+"להוסיף פיקסל עקיבה למונה מצב כגון Google Analytics."
+
+#: epanel/options_divi.php:832
+msgid "Add code to the top of your posts"
+msgstr "הוסף קוד לחלק העליון של הפוסט שלכם"
+
+#: epanel/options_divi.php:836 epanel/options_divi.php:843
+msgid ""
+"Any code you place here will be placed at the top of all single posts. This "
+"is useful if you are looking to integrating things such as social "
+"bookmarking links."
+msgstr ""
+"כל קוד שתשימו כאן יופיע בחלק הראש של כל הפוסטים. זה שימושי כאשר רוצים להוסיף "
+"דברים כגון לימקים של סימניות חברתיות."
+
+#: epanel/options_divi.php:839
+msgid "Add code to the bottom of your posts, before the comments"
+msgstr "הוסף קוד לתחתי הפוסטים, לפני התגובות"
+
+#: epanel/options_divi.php:861
+msgid "Documentation"
+msgstr "מסמוך"
+
+#: epanel/options_divi.php:887
+msgid "Manage Un-widgetized Advertisements"
+msgstr "ניהול פרסומות"
+
+#: epanel/options_divi.php:895
+msgid "Enable Single Post 468x60 banner"
+msgstr "אפשר כותרת פוסט יחיד 468x60"
+
+#: epanel/options_divi.php:899
+msgid ""
+"Enabling this option will display a 468x60 banner ad on the bottom of your "
+"post pages below the single post content. If enabled you must fill in the "
+"banner image and destination url below."
+msgstr ""
+"הפעלת האפשרות הזו תוסיף כותרת פרסומת  לתחתית עמודי הפוסטים שלכם מתחת לתוכן "
+"הפוסט היחיד. אם מופעל עליכם למלא את מנות הכותרת ואת URL היעד למטה."
+
+#: epanel/options_divi.php:904
+msgid "Input 468x60 advertisement banner image"
+msgstr "הכנס תמונת פרסומת לכותרת 468x60 "
+
+#: epanel/options_divi.php:908
+msgid "Here you can provide 468x60 banner image url"
+msgstr "כאן ניתן לספק URL לתמונת כותרת 468x60"
+
+#: epanel/options_divi.php:912
+msgid "Input 468x60 advertisement destination url"
+msgstr "הכניסו יעד URL לפרסומת 468x60"
+
+#: epanel/options_divi.php:916
+msgid "Here you can provide 468x60 banner destination url"
+msgstr "כאן ניתן לספק את URL היעד לכותרת 468x60"
+
+#: epanel/options_divi.php:920
+msgid "Input 468x60 adsense code"
+msgstr "הכניסו קוד 468x60 של Google Adsense"
+
+#: epanel/options_divi.php:924
+msgid "Place your adsense code here."
+msgstr "הכניסו את קוד הGoogle Adsense כאן."
+
+#: epanel/shortcodes/shortcodes.php:15 epanel/shortcodes/shortcodes.php:518
+msgid "Previous"
+msgstr "הקודם"
+
+#: epanel/shortcodes/shortcodes.php:15 epanel/shortcodes/shortcodes.php:519
+msgid "Next"
+msgstr "הבא"
+
+#: epanel/shortcodes/shortcodes.php:273
+msgid "Tweet"
+msgstr "צייץ"
+
+#: epanel/shortcodes/shortcodes.php:289
+msgid "Member Login"
+msgstr "כניסת חברים"
+
+#: epanel/shortcodes/shortcodes.php:292
+msgid "Username: "
+msgstr "שם משתמש‪:‬ "
+
+#: epanel/shortcodes/shortcodes.php:293
+msgid "Password: "
+msgstr "סיסמא‪:‬ "
+
+#: epanel/shortcodes/shortcodes.php:294 functions.php:3492
+msgid "Login"
+msgstr "התחבר"
+
+#: epanel/shortcodes/shortcodes.php:330
+msgid "Add a Tooltip Text"
+msgstr "הוסף טקסט סרגל כלים"
+
+#: epanel/shortcodes/shortcodes.php:352
+msgid "Click here to learn more"
+msgstr "לחצו כדי ללמוד עוד"
+
+#: epanel/shortcodes/shortcodes.php:732
+msgid "Join Now"
+msgstr "הצטרף כעת"
+
+#: epanel/shortcodes/shortcodes.php:967
+msgid "Add ET Learn more block"
+msgstr "הוסף בלוק  Toggle"
+
+#: epanel/shortcodes/shortcodes.php:968
+msgid "Add ET Box"
+msgstr "הוסף תיבה"
+
+#: epanel/shortcodes/shortcodes.php:969
+msgid "Add ET Button"
+msgstr "הוסף כפתור"
+
+#: epanel/shortcodes/shortcodes.php:970
+msgid "Add ET Tabs"
+msgstr "הוספת כרטיסיות"
+
+#: epanel/shortcodes/shortcodes.php:971
+msgid "Add Author Bio"
+msgstr "הוסף ביוגרפיה של המחבר"
+
+#: epanel/shortcodes/shortcodes.php:972
+msgid "Shortcodes"
+msgstr "קודים מקוצרים"
+
+#: epanel/shortcodes/shortcodes.php:977
+msgid "Caption"
+msgstr "תיאור"
+
+#: epanel/shortcodes/shortcodes.php:978
+msgid "Caption goes here"
+msgstr "תיאור הולך לכאן"
+
+#: epanel/shortcodes/shortcodes.php:979
+msgid "Caption title goes here"
+msgstr "כותרת תיאור הולכת לכאן"
+
+#: epanel/shortcodes/shortcodes.php:983
+msgid "State"
+msgstr "מצב"
+
+#: epanel/shortcodes/shortcodes.php:985
+msgid "Select between expanded and closed state"
+msgstr "בחר בין מצב סגור למצב מורחב"
+
+#: epanel/shortcodes/shortcodes.php:990 epanel/shortcodes/shortcodes.php:1006
+#: epanel/shortcodes/shortcodes.php:1035 epanel/shortcodes/shortcodes.php:1115
+msgid "Content"
+msgstr "תוכן"
+
+#: epanel/shortcodes/shortcodes.php:991 epanel/shortcodes/shortcodes.php:1007
+#: epanel/shortcodes/shortcodes.php:1093 epanel/shortcodes/shortcodes.php:1116
+msgid "Content goes here"
+msgstr "תוכן הול לכאן"
+
+#: epanel/shortcodes/shortcodes.php:992 epanel/shortcodes/shortcodes.php:1008
+#: epanel/shortcodes/shortcodes.php:1037
+msgid "Content text or html"
+msgstr "תוכן טקסט או HTML"
+
+#: epanel/shortcodes/shortcodes.php:999 epanel/shortcodes/shortcodes.php:1021
+msgid "Type"
+msgstr "סוג"
+
+#: epanel/shortcodes/shortcodes.php:1001
+msgid "Type of the box"
+msgstr "סוג הקופסא"
+
+#: epanel/shortcodes/shortcodes.php:1015
+msgid "Link"
+msgstr "לינק"
+
+#: epanel/shortcodes/shortcodes.php:1017
+msgid "URL"
+msgstr "‏URL"
+
+#: epanel/shortcodes/shortcodes.php:1023
+msgid "Choose button type"
+msgstr "בחר סוג כפתור"
+
+#: epanel/shortcodes/shortcodes.php:1028
+msgid "Color"
+msgstr "צבע"
+
+#: epanel/shortcodes/shortcodes.php:1030
+msgid "Choose button color"
+msgstr "בחר צבע כפתור"
+
+#: epanel/shortcodes/shortcodes.php:1036
+msgid "Link text"
+msgstr "טקסט של הלינק"
+
+#: epanel/shortcodes/shortcodes.php:1041
+msgid "Icon"
+msgstr "אייקון"
+
+#: epanel/shortcodes/shortcodes.php:1043
+msgid "Used for icon button type"
+msgstr "משמש לסוג כפתור אייקון"
+
+#: epanel/shortcodes/shortcodes.php:1048
+msgid "Open link in new window"
+msgstr "פתח לינק בחלון חדש"
+
+#: epanel/shortcodes/shortcodes.php:1050
+msgid "Select yes if the link should be opened in a new window"
+msgstr "בחר כן אם על הלינק להפתח בחלון חדש"
+
+#: epanel/shortcodes/shortcodes.php:1058
+msgid "Slider Type"
+msgstr "סוג גלילה"
+
+#: epanel/shortcodes/shortcodes.php:1060
+msgid "Select Slider Type here"
+msgstr "בחר סוג גלילה"
+
+#: epanel/shortcodes/shortcodes.php:1065
+msgid "Effect"
+msgstr "אפקט"
+
+#: epanel/shortcodes/shortcodes.php:1067
+msgid "Select Animation Effect"
+msgstr "בחר אפקט אנימציה"
+
+#: epanel/shortcodes/shortcodes.php:1072
+msgid "Auto"
+msgstr "אוטומטי"
+
+#: epanel/shortcodes/shortcodes.php:1074
+msgid "Choose yes if you want for automatic slider animation"
+msgstr "בחר אם להפעיל אנימצית גלילה אוטומטית"
+
+#: epanel/shortcodes/shortcodes.php:1079
+msgid "Auto Speed"
+msgstr "מהירות אוטומטית"
+
+#: epanel/shortcodes/shortcodes.php:1081
+msgid "Automattic slider speed (works only if Auto is set to yes)"
+msgstr "מהירות גלילה אוטמטית (עובד רק אם אוטומטי מופעל)"
+
+#: epanel/shortcodes/shortcodes.php:1085
+msgid "Tab Text"
+msgstr "טקסט כרטיסיה"
+
+#: epanel/shortcodes/shortcodes.php:1092
+msgid "Tab Content"
+msgstr "תוכן כרטיסיה"
+
+#: epanel/shortcodes/shortcodes.php:1094
+msgid "Paste image url here, if you chose \"images\" slider type"
+msgstr "הדבק URL תמונה כאן, אם אתם בוחרים סוג גלילה \"images\""
+
+#: epanel/shortcodes/shortcodes.php:1102
+msgid "Image Url"
+msgstr "‏URL תמונה"
+
+#: epanel/shortcodes/shortcodes.php:1104
+msgid "Author Image URL"
+msgstr "‏URL יוצר התמונה"
+
+#: epanel/shortcodes/shortcodes.php:1108
+msgid "Use resizing"
+msgstr "השתמש בשינוי גודל"
+
+#: epanel/shortcodes/shortcodes.php:1185
+msgid "+ Add One More Tab"
+msgstr "+ הוסף כרטיסיה אחת"
+
+#: epanel/shortcodes/shortcodes.php:1335 functions.php:3154
+msgid "Image Height"
+msgstr "גובה תמונה"
+
+#: epanel/shortcodes/shortcodes.php:1336 functions.php:3134
+msgid "Image Width"
+msgstr "רוחב תמונה"
+
+#: footer.php:40
+msgid "Designed by %1$s | Powered by %2$s"
+msgstr "עוצב על ידי %1$s | מונע על ידי %2$s"
+
+#: functions.php:34
+msgid "Primary Menu"
+msgstr "תפריט ראשי"
+
+#: functions.php:35
+msgid "Secondary Menu"
+msgstr "תפריט משני"
+
+#: functions.php:36 functions.php:645
+msgid "Footer Menu"
+msgstr "תפריט תחתי"
+
+#: functions.php:83
+msgid ""
+"Welcome to Divi! Before diving in to your new theme, please visit the <a "
+"style=\"color: #fff; font-weight: bold;\" href=\"%1$s\" target=\"_blank"
+"\">Divi Documentation</a> page for access to dozens of in-depth tutorials."
+msgstr ""
+"ברוך הבא ל Divi! לפני שתצלול לערכת הנושא החדשה שלך, אנא בקר בדף <a style="
+"\"color: #fff; font-weight: bold;\" href=\"%1$s\" target=\"_blank\">Divi "
+"Documentation</a> כדי לקבל גישה לעשרות מדריכים מעמיקים."
+
+#: functions.php:197
+msgid "Select Page"
+msgstr "בחרו עמוד"
+
+#: functions.php:253
+msgid "Divi Page Settings"
+msgstr "הגדרות דף של Divi"
+
+#: functions.php:255
+msgid "Divi Post Settings"
+msgstr "הגדרות פירסומים של Divi"
+
+#: functions.php:256
+msgid "Divi Product Settings"
+msgstr "הגדרות מוצר של Divi"
+
+#: functions.php:257
+msgid "Divi Project Settings"
+msgstr "הגדרות פרוייקט של Divi"
+
+#: functions.php:264
+msgid "Skills"
+msgstr "כישורים"
+
+#: functions.php:267
+msgid "Posted on"
+msgstr "פורסם ב"
+
+#: functions.php:294
+msgid "Light"
+msgstr "בהיר"
+
+#: functions.php:295
+msgid "Dark"
+msgstr "כהה"
+
+#: functions.php:308
+msgid "Page Layout"
+msgstr "תבנית עמוד"
+
+#: functions.php:322
+msgid "Dot Navigation"
+msgstr "ניווט נקודות"
+
+#: functions.php:325 functions.php:334
+msgid "Off"
+msgstr "כבוי"
+
+#: functions.php:326 functions.php:335
+msgid "On"
+msgstr "דולק"
+
+#: functions.php:330
+msgid "Hide Nav Before Scroll"
+msgstr "הסתר כלי ניווט לפני גלילה"
+
+#: functions.php:333 functions.php:5348 includes/functions/choices.php:24
+#: includes/functions/choices.php:40
+msgid "Default"
+msgstr "ברירת מחדל"
+
+#: functions.php:341
+msgid "Post Title"
+msgstr "כותרת פרסום"
+
+#: functions.php:344
+msgid "Show"
+msgstr "הצג"
+
+#: functions.php:345
+msgid "Hide"
+msgstr "הסתר"
+
+#: functions.php:350
+msgid "Use Background Color"
+msgstr "השתמש בצבע רקע"
+
+#: functions.php:355 functions.php:5384
+msgid "Hex Value"
+msgstr "ערך צבע"
+
+#: functions.php:359 functions.php:1683 functions.php:1710 functions.php:1837
+#: functions.php:2358 functions.php:2458 functions.php:2663
+msgid "Text Color"
+msgstr "צבע טקסט"
+
+#: functions.php:493 functions.php:505 functions.php:7928
+msgid "you don't have sufficient permissions to access this page"
+msgstr "אין לך הרשאות מספיקות כדי לגשת לדף זה"
+
+#: functions.php:555
+msgid "Site Identity"
+msgstr "זהות אתר"
+
+#: functions.php:565
+msgid "Typography"
+msgstr "טיפוגרפיה"
+
+#: functions.php:570
+msgid "Mobile Styles"
+msgstr "סגנונות ניידים"
+
+#: functions.php:575
+msgid "Tablet"
+msgstr "טאבלט"
+
+#: functions.php:580
+msgid "Phone"
+msgstr "פלאפון"
+
+#: functions.php:585
+msgid "Mobile Menu"
+msgstr "תפריט נייד"
+
+#: functions.php:590
+msgid "Background"
+msgstr "רקע"
+
+#: functions.php:595
+msgid "Header & Navigation"
+msgstr "כותרת וניווט"
+
+#: functions.php:600
+msgid "Header Format"
+msgstr "פורמט כותרת"
+
+#: functions.php:605
+msgid "Primary Menu Bar"
+msgstr "שורת תפריטים עיקרית"
+
+#: functions.php:610
+msgid "Secondary Menu Bar"
+msgstr "שורת תפריטים משנית"
+
+#: functions.php:615
+msgid "Fixed Navigation Settings"
+msgstr "הגדרות ניווט מתוקנות"
+
+#: functions.php:620
+msgid "Header Elements"
+msgstr "מרכיבי כותרת"
+
+#: functions.php:625
+msgid "Footer"
+msgstr "תפריט בתחתית האתר"
+
+#: functions.php:630
+msgid "Layout"
+msgstr "תבנית"
+
+#: functions.php:635
+msgid "Widgets"
+msgstr "ווידג'טים"
+
+#: functions.php:640
+msgid "Footer Elements"
+msgstr "מרכיבי התפריט בתחתית האתר"
+
+#: functions.php:650
+msgid "Bottom Bar"
+msgstr "שורה תחתונה"
+
+#: functions.php:655 functions.php:1376
+msgid "Color Schemes"
+msgstr "סכמות צבע"
+
+#: functions.php:657
+msgid ""
+"Note: Color settings set above should be applied to the Default color scheme."
+msgstr ""
+"הערה: הגדרות צבע המוגדרות למעלה תהיינה זמינות לסכמת ברירת המחדל של הצבע."
+
+#: functions.php:661
+msgid "Buttons"
+msgstr "כפתורים"
+
+#: functions.php:666
+msgid "Buttons Style"
+msgstr "סגנונות כפתורים"
+
+#: functions.php:671
+msgid "Buttons Hover Style"
+msgstr "סגנונות כפתורים מסומנים"
+
+#: functions.php:676 functions.php:4682
+msgid "Blog"
+msgstr "בלוג"
+
+#: functions.php:681
+msgid "Post"
+msgstr "פרסום"
+
+#: functions.php:698
+msgid "Meta Text Size"
+msgstr "גודל מלל meta"
+
+#: functions.php:717
+msgid "Meta Line Height"
+msgstr "גובה שורת meta"
+
+#: functions.php:736
+msgid "Meta Letter Spacing"
+msgstr "מרווחי תווים בmeta"
+
+#: functions.php:755 functions.php:4752 functions.php:4832
+msgid "Meta Font Style"
+msgstr "סגנון גופן של meta"
+
+#: functions.php:770 functions.php:1176 functions.php:1248 functions.php:1267
+#: functions.php:2104
+msgid "Header Text Size"
+msgstr "גודל מלל הכותרת"
+
+#: functions.php:789 functions.php:1214
+msgid "Header Line Height"
+msgstr "גובה קו הכותרת"
+
+#: functions.php:808 functions.php:1195
+msgid "Header Letter Spacing"
+msgstr "מרווחי התווים בכותרת"
+
+#: functions.php:827 functions.php:1233 functions.php:2123 functions.php:3022
+#: functions.php:3202 functions.php:3318 functions.php:3382 functions.php:3462
+#: functions.php:3526 functions.php:4325 functions.php:5028 functions.php:5136
+msgid "Header Font Style"
+msgstr "סגנון הגופן של הכותרת"
+
+#: functions.php:841
+msgid "Enable Boxed Layout"
+msgstr "אפשר מערכי קופסא"
+
+#: functions.php:855
+msgid "Website Content Width"
+msgstr "רוחב תוכן האתר"
+
+#: functions.php:874
+msgid "Website Gutter Width"
+msgstr "מרווחי הטורים באתר"
+
+#: functions.php:892
+msgid "Use Custom Sidebar Width"
+msgstr "להשתמש מותאם אישית Sidebar רוחב"
+
+#: functions.php:906
+msgid "Sidebar Width"
+msgstr "עובי שורת צד"
+
+#: functions.php:925 functions.php:944 functions.php:963
+msgid "Section Height"
+msgstr "גובה הסעיף"
+
+#: functions.php:982 functions.php:1001 functions.php:1020
+msgid "Row Height"
+msgstr "גובה השורה"
+
+#: functions.php:1039
+msgid "Stretch Background Image"
+msgstr "מתח תמונת רקע"
+
+#: functions.php:1046 functions.php:1738 functions.php:1809 functions.php:1823
+#: functions.php:2344 functions.php:2472 functions.php:2677
+msgid "Background Color"
+msgstr "צבע רקע"
+
+#: functions.php:1053
+msgid "Background Image"
+msgstr "תמונת רקע"
+
+#: functions.php:1059
+msgid "Background Repeat"
+msgstr "חזרה על הרקע"
+
+#: functions.php:1063
+msgid "No Repeat"
+msgstr "ללא חזרה"
+
+#: functions.php:1064
+msgid "Tile"
+msgstr "רצף"
+
+#: functions.php:1065
+msgid "Tile Horizontally"
+msgstr "רצף אופקית"
+
+#: functions.php:1066
+msgid "Tile Vertically"
+msgstr "רצף אנכית"
+
+#: functions.php:1071 functions.php:1082
+msgid "Background Position"
+msgstr "מיקום הרקע"
+
+#: functions.php:1075 includes/functions/choices.php:104
+msgid "Left"
+msgstr "שמאל"
+
+#: functions.php:1076
+msgid "Center"
+msgstr "מרכז"
+
+#: functions.php:1077 includes/functions/choices.php:103
+msgid "Right"
+msgstr "ימין"
+
+#: functions.php:1086
+msgid "Scroll"
+msgstr "גלול"
+
+#: functions.php:1087
+msgid "Fixed"
+msgstr "מתוקן"
+
+#: functions.php:1100 functions.php:1138 functions.php:1157
+msgid "Body Text Size"
+msgstr "גודל מלל הגוף"
+
+#: functions.php:1119
+msgid "Body Line Height"
+msgstr "גובה הקו בגוף"
+
+#: functions.php:1287
+msgid "Header Font"
+msgstr "פונט שוליים"
+
+#: functions.php:1303
+msgid "Body Font"
+msgstr "פונט גוף"
+
+#: functions.php:1320
+msgid "Body Link Color"
+msgstr "צבע הלינק בגוף"
+
+#: functions.php:1334
+msgid "Body Text Color"
+msgstr "צבע מלל הגוף"
+
+#: functions.php:1348
+msgid "Header Text Color"
+msgstr "צבע מלל הכותרת"
+
+#: functions.php:1362
+msgid "Theme Accent Color"
+msgstr "צבע ערכת הנושא"
+
+#: functions.php:1392
+msgid "Header Style"
+msgstr "סגנון עילי"
+
+#: functions.php:1406
+msgid "Enable Vertical Navigation"
+msgstr "אפשר ניווט אנכי"
+
+#: functions.php:1421
+msgid "Hide Navigation Until Scroll"
+msgstr "הסתר ניווט עד הגלילה"
+
+#: functions.php:1436 functions.php:2060
+msgid "Show Social Icons"
+msgstr "הראה אייקונים חברתיים"
+
+#: functions.php:1450
+msgid "Show Search Icon"
+msgstr "הצג אייקוני חיפוש"
+
+#: functions.php:1463 functions.php:1606
+msgid "Make Full Width"
+msgstr "הפוך לרוחב מלא"
+
+#: functions.php:1476 functions.php:1696 functions.php:1912
+msgid "Hide Logo Image"
+msgstr "הסתר תמונת לוגו"
+
+#: functions.php:1490
+msgid "Menu Height"
+msgstr "גובה תפריט"
+
+#: functions.php:1509
+msgid "Logo Max Height"
+msgstr "גובה מקסימאלי לוגו"
+
+#: functions.php:1528 functions.php:1612 functions.php:1945 functions.php:2439
+msgid "Text Size"
+msgstr "גודל מלל"
+
+#: functions.php:1547 functions.php:1631 functions.php:2290 functions.php:2538
+#: functions.php:2724
+msgid "Letter Spacing"
+msgstr "מרווח בין התווים"
+
+#: functions.php:1567 functions.php:1651
+msgid "Font"
+msgstr "גופן"
+
+#: functions.php:1584 functions.php:1668 functions.php:2309 functions.php:2372
+msgid "Font Style"
+msgstr "סגנון גופן"
+
+#: functions.php:1724
+msgid "Active Link Color"
+msgstr "צבע לינק פעיל"
+
+#: functions.php:1752 functions.php:1851
+msgid "Dropdown Menu Background Color"
+msgstr "צבע הרקע של התפריט המופל"
+
+#: functions.php:1766
+msgid "Dropdown Menu Line Color"
+msgstr "צבע הקו של התפריט המופל"
+
+#: functions.php:1780 functions.php:1865
+msgid "Dropdown Menu Text Color"
+msgstr "צבע המלל של התפריט המופל"
+
+#: functions.php:1794 functions.php:1879
+msgid "Dropdown Menu Animation"
+msgstr "האנימציה של התפריט המופל"
+
+#: functions.php:1926
+msgid "Fixed Menu Height"
+msgstr "גובה תפריט קבוע"
+
+#: functions.php:1964
+msgid "Primary Menu Background Color"
+msgstr "צבע הרקע של התפריט הראשי"
+
+#: functions.php:1978
+msgid "Secondary Menu Background Color"
+msgstr "צבע הרקע של התפריט המשני"
+
+#: functions.php:1992
+msgid "Primary Menu Link Color"
+msgstr "תפריט ראשי צבע קישור"
+
+#: functions.php:2005
+msgid "Secondary Menu Link Color"
+msgstr "תפריט המשני צבע קישור"
+
+#: functions.php:2019
+msgid "Active Primary Menu Link Color"
+msgstr "תפריט הראשי פעיל צבע קישור"
+
+#: functions.php:2033
+msgid "Phone Number"
+msgstr "מספר טלפון"
+
+#: functions.php:2046
+msgid "Email"
+msgstr "אימייל"
+
+#: functions.php:2074
+msgid "Column Layout"
+msgstr "מערך הטור"
+
+#: functions.php:2090
+msgid "Footer Background Color"
+msgstr "צבע רקע תחתי"
+
+#: functions.php:2138
+msgid "Body/Link Text Size"
+msgstr "גודל טקסט הגוף/הקישור"
+
+#: functions.php:2157
+msgid "Body/Link Line Height"
+msgstr "גובה הקו הגוף/הקישור"
+
+#: functions.php:2176
+msgid "Body Font Style"
+msgstr "סגנון הגופן של הגוף"
+
+#: functions.php:2191
+msgid "Widget Text Color"
+msgstr "צבע המלל בווידג'ט"
+
+#: functions.php:2205
+msgid "Widget Link Color"
+msgstr "צבע הקישור בווידג'ט"
+
+#: functions.php:2219
+msgid "Widget Header Color"
+msgstr "צבע הכותרת בווידג'ט"
+
+#: functions.php:2233
+msgid "Widget Bullet Color"
+msgstr "צבע הנקודה בווידג'ט"
+
+#: functions.php:2248
+msgid "Footer Menu Background Color"
+msgstr "צבע רקע התפריט של התפריט בתחתית האתר"
+
+#: functions.php:2262
+msgid "Footer Menu Text Color"
+msgstr "צבע מלל התפריט של התפריט בתחתית האתר"
+
+#: functions.php:2276
+msgid "Footer Menu Active Link Color"
+msgstr "צבע קישור פעיל בתפריט של התפריט בתחתית האתר"
+
+#: functions.php:2324 functions.php:2387
+msgid "Font Size"
+msgstr "גודל גופן"
+
+#: functions.php:2406
+msgid "Social Icon Size"
+msgstr "גודל אייקון חברתי"
+
+#: functions.php:2425
+msgid "Social Icon Color"
+msgstr "צבע אייקון חברתי"
+
+#: functions.php:2486
+msgid "Border Width"
+msgstr "רוחב מסגרת"
+
+#: functions.php:2505 functions.php:2691
+msgid "Border Color"
+msgstr "צבע מסגרת"
+
+#: functions.php:2519 functions.php:2705
+msgid "Border Radius"
+msgstr "רדיוס גבול"
+
+#: functions.php:2557 functions.php:5072
+msgid "Button Font Style"
+msgstr "סגנון גופן הכפתור"
+
+#: functions.php:2573
+msgid "Buttons Font"
+msgstr "גופן כפתורים"
+
+#: functions.php:2590
+msgid "Add Button Icon"
+msgstr "הוסף אייקון של כפתור"
+
+#: functions.php:2605
+msgid "Select Icon"
+msgstr "בחר אייקון"
+
+#: functions.php:2619
+msgid "Icon Color"
+msgstr "צבע סמל"
+
+#: functions.php:2633
+msgid "Icon Placement"
+msgstr "מיקום האייקון"
+
+#: functions.php:2648
+msgid "Only Show Icon on Hover"
+msgstr "הראה אייקון רק כאשר מסומן"
+
+#: functions.php:2742 includes/widgets/widget-about.php:50
+#: includes/widgets/widget-ads.php:180 includes/widgets/widget-ads.php:188
+#: includes/widgets/widget-ads.php:196 includes/widgets/widget-ads.php:204
+#: includes/widgets/widget-ads.php:212 includes/widgets/widget-ads.php:220
+#: includes/widgets/widget-ads.php:228 includes/widgets/widget-ads.php:236
+msgid "Image"
+msgstr "תמונה"
+
+#: functions.php:2743
+msgid "Image Module Settings"
+msgstr "הגדרות מודול לתמונה"
+
+#: functions.php:2754
+msgid "Animation"
+msgstr "אנימציה"
+
+#: functions.php:2755
+msgid "This controls default direction of the lazy-loading animation."
+msgstr "זה שולט בכיוון ברירת המחדל של אנימציית הטעינה"
+
+#: functions.php:2765
+msgid "Gallery"
+msgstr "גלריה"
+
+#: functions.php:2779 functions.php:3570 functions.php:3680
+msgid "Zoom Icon Color"
+msgstr "צבע אייקון התקרבות"
+
+#: functions.php:2794 functions.php:3585 functions.php:3695
+msgid "Hover Overlay Color"
+msgstr "צבע כיסוי בעת סימון"
+
+#: functions.php:2809 functions.php:2917 functions.php:3600 functions.php:3710
+#: functions.php:3981 functions.php:4061 functions.php:4104 functions.php:4205
+msgid "Title Font Size"
+msgstr "גודל גופן הכותרת"
+
+#: functions.php:2829 functions.php:2937 functions.php:3620 functions.php:3730
+#: functions.php:4001 functions.php:4081 functions.php:4716 functions.php:4796
+msgid "Title Font Style"
+msgstr "סגנון גופן הכותרת"
+
+#: functions.php:2845 functions.php:3636 functions.php:3746
+msgid "Caption Font Size"
+msgstr "גודל גופן הכיתוב"
+
+#: functions.php:2865 functions.php:3656 functions.php:3766
+msgid "Caption Font Style"
+msgstr "סגנון הגופן של המלל"
+
+#: functions.php:2875
+msgid "Blurb"
+msgstr "תקציר"
+
+#: functions.php:2889 functions.php:3002 functions.php:3182 functions.php:3298
+#: functions.php:3362 functions.php:3442 functions.php:3506 functions.php:4305
+#: functions.php:5008 functions.php:5116
+msgid "Header Font Size"
+msgstr "גודל גופן הכותרת"
+
+#: functions.php:2903
+msgid "Tabs"
+msgstr "כרטיסיות"
+
+#: functions.php:2954 functions.php:3334 functions.php:3478 functions.php:3542
+msgid "Padding"
+msgstr "מרווח"
+
+#: functions.php:2968
+msgid "Slider"
+msgstr "סליידר"
+
+#: functions.php:2982 functions.php:5096
+msgid "Top & Bottom Padding"
+msgstr "מרווחים מעל ומתחת"
+
+#: functions.php:3038 functions.php:5152
+msgid "Content Font Size"
+msgstr "גודל גופן התוכן"
+
+#: functions.php:3058 functions.php:5172
+msgid "Content Font Style"
+msgstr "סגנון הגופן של התוכן"
+
+#: functions.php:3068
+msgid "Testimonial"
+msgstr "עדות"
+
+#: functions.php:3082 functions.php:4616
+msgid "Name Font Style"
+msgstr "סגנון גופן השם"
+
+#: functions.php:3098
+msgid "Details Font Style"
+msgstr "סגנון גופן הפרטים"
+
+#: functions.php:3114
+msgid "Portrait Border Radius"
+msgstr "רדיוס גבול הדיוקן"
+
+#: functions.php:3168
+msgid "Pricing Table"
+msgstr "טבלת מחיר  "
+
+#: functions.php:3218 functions.php:3398 functions.php:4632
+msgid "Subheader Font Size"
+msgstr "גודל גופן כותרת המשנה"
+
+#: functions.php:3238 functions.php:3418 functions.php:4652
+msgid "Subheader Font Style"
+msgstr "סגנון גופן כותרת המשנה"
+
+#: functions.php:3254 functions.php:4928
+msgid "Price Font Size"
+msgstr "גודל גופן המחיר"
+
+#: functions.php:3274
+msgid "Pricing Font Style"
+msgstr "סגנון גופן התמחור"
+
+#: functions.php:3284
+msgid "Call To Action"
+msgstr "קריאה לפעולה"
+
+#: functions.php:3348
+msgid "Audio"
+msgstr "אודיו"
+
+#: functions.php:3428
+msgid "Email Optin"
+msgstr "‏OptIn דוא\"ל"
+
+#: functions.php:3556
+msgid "Portfolio"
+msgstr "תיק  "
+
+#: functions.php:3666
+msgid "Filterable Portfolio"
+msgstr "תיק סינון"
+
+#: functions.php:3782
+msgid "Filters Font Size"
+msgstr "גודל גופן הפילטרים"
+
+#: functions.php:3802
+msgid "Filters Font Style"
+msgstr "סגנון גופן הפילטרים"
+
+#: functions.php:3812
+msgid "Bar Counter"
+msgstr "סופר שורה"
+
+#: functions.php:3826
+msgid "Label Font Size"
+msgstr "גודל גופן התוויות"
+
+#: functions.php:3846
+msgid "Label Font Style"
+msgstr "סגנון גופן התוויות"
+
+#: functions.php:3862
+msgid "Percent Font Size"
+msgstr "גודל גופן האחוז"
+
+#: functions.php:3882
+msgid "Percent Font Style"
+msgstr "סגנון גופן האחוז"
+
+#: functions.php:3898
+msgid "Bar Padding"
+msgstr "מרווח הפס"
+
+#: functions.php:3918
+msgid "Bar Border Radius"
+msgstr "רדיוס גבול הפס"
+
+#: functions.php:3932
+msgid "Circle Counter"
+msgstr "מונה עגול"
+
+#: functions.php:3945 functions.php:4025
+msgid "Number Font Size"
+msgstr "גודל גופן המספר"
+
+#: functions.php:3965 functions.php:4045
+msgid "Number Font Style"
+msgstr "סגנון גופן המספר"
+
+#: functions.php:4011
+msgid "Number Counter"
+msgstr "מונה מספרים"
+
+#: functions.php:4091
+msgid "Accordion"
+msgstr "אקורדיון"
+
+#: functions.php:4124 functions.php:4225
+msgid "Opened Title Font Style"
+msgstr "סגנון גופן כותרת פתוחה"
+
+#: functions.php:4140 functions.php:4241
+msgid "Closed Title Font Style"
+msgstr "סגנון גופן כותרת סגורה"
+
+#: functions.php:4156 functions.php:4257
+msgid "Toggle Icon Size"
+msgstr "בחר גודל אייקון"
+
+#: functions.php:4177 functions.php:4277
+msgid "Toggle Padding"
+msgstr "בחר מרווח"
+
+#: functions.php:4191
+msgid "Toggle"
+msgstr "‏Toggle"
+
+#: functions.php:4291
+msgid "Contact Form"
+msgstr "טופס יצירת קשר"
+
+#: functions.php:4341
+msgid "Input Font Size"
+msgstr "גודל גופן הקלט"
+
+#: functions.php:4361
+msgid "Input Font Style"
+msgstr "סגנון גופן הקלט"
+
+#: functions.php:4377
+msgid "Input Field Padding"
+msgstr "מרווח אזור הקלט"
+
+#: functions.php:4397
+msgid "Captcha Font Size"
+msgstr "גודל גופן ה Captcha"
+
+#: functions.php:4417
+msgid "Captcha Font Style"
+msgstr "סגנון גופן ה Captcha"
+
+#: functions.php:4427 includes/functions/sidebars.php:4
+msgid "Sidebar"
+msgstr "סרגל צדדי"
+
+#: functions.php:4441
+msgid "Widget Header Font Size"
+msgstr "גודל גופן כותרת הווידג'ט"
+
+#: functions.php:4461
+msgid "Widget Header Font Style"
+msgstr "סגנון גופן כותרת הווידג'ט"
+
+#: functions.php:4477
+msgid "Remove Vertical Divider"
+msgstr "הסר מחלק אנכי"
+
+#: functions.php:4486
+msgid "Divider"
+msgstr "חוצץ"
+
+#: functions.php:4499
+msgid "Show Divider"
+msgstr "הראה את החוצץ"
+
+#: functions.php:4514
+msgid "Divider Style"
+msgstr "סגנון מחלק"
+
+#: functions.php:4531
+msgid "Divider Weight"
+msgstr "משקל המחלק"
+
+#: functions.php:4551
+msgid "Divider Height"
+msgstr "גובה המחלק"
+
+#: functions.php:4571
+msgid "Divider Position"
+msgstr "מיקום מחלק"
+
+#: functions.php:4582
+msgid "Person"
+msgstr "אדם"
+
+#: functions.php:4596
+msgid "Name Font Size"
+msgstr "גודל גופן השם"
+
+#: functions.php:4668
+msgid "Social Network Icon Size"
+msgstr "גודל אייקון הרשת החברתית"
+
+#: functions.php:4696 functions.php:4776
+msgid "Post Title Font Size"
+msgstr "גודל גופן כותרת הפרסום"
+
+#: functions.php:4732 functions.php:4812
+msgid "Meta Font Size"
+msgstr "גודל גופן הmeta"
+
+#: functions.php:4762
+msgid "Blog Grid"
+msgstr "רשת בלוג"
+
+#: functions.php:4842
+msgid "Shop"
+msgstr "קנה"
+
+#: functions.php:4856
+msgid "Product Name Font Size"
+msgstr "גודל גופן שם המוצר"
+
+#: functions.php:4876
+msgid "Product Name Font Style"
+msgstr "סגנון גופן שם המוצר"
+
+#: functions.php:4892
+msgid "Sale Badge Font Size"
+msgstr "גודל גופן תג מבצע"
+
+#: functions.php:4912
+msgid "Sale Badge Font Style"
+msgstr "סגנון גופן תג מבצע"
+
+#: functions.php:4948
+msgid "Price Font Style"
+msgstr "סגנון גופן המחיר"
+
+#: functions.php:4964
+msgid "Sale Price Font Size"
+msgstr "גודל גופן מחיר המכירה"
+
+#: functions.php:4984
+msgid "Sale Price Font Style"
+msgstr "סגנון גופן מחיר המכירה"
+
+#: functions.php:4994
+msgid "Countdown"
+msgstr "ספירה לאחור"
+
+#: functions.php:5038
+msgid "Social Follow"
+msgstr "מעקב חברתי"
+
+#: functions.php:5052
+msgid "Follow Font & Icon Size"
+msgstr "גודל גופן ואייקון העוקבים"
+
+#: functions.php:5082
+msgid "Fullwidth Slider"
+msgstr "רוחב המלא Slider"
+
+#: functions.php:7389
+msgid "0 comments"
+msgstr "אפס תגובות"
+
+#: functions.php:7389
+msgid "1 comment"
+msgstr "תגובת אחת."
+
+#: functions.php:7389
+msgid "comments"
+msgstr "תגובות"
+
+#: functions.php:7468
+msgid "Password Protected"
+msgstr "סיסמא מוגנת"
+
+#: functions.php:7469
+msgid "To view this protected post, enter the password below"
+msgstr "בכדי לראות את הפוסט המוגן, הכנס את הסיסמא מתחת"
+
+#: functions.php:7472
+msgid "Password"
+msgstr "סיסמא"
+
+#: functions.php:7473
+msgid "Submit"
+msgstr "שלח"
+
+#: functions.php:7658
+msgid "%1$s %2$s"
+msgstr "‏%1$s %2$s "
+
+#: functions.php:7660
+msgid "Item"
+msgstr "כלי"
+
+#: functions.php:7660
+msgid "Items"
+msgstr "כלים"
+
+#: functions.php:7854 functions.php:7889
+msgid "Theme Customizer"
+msgstr "התאמה אישית של ערכות נושא"
+
+#: functions.php:7858 functions.php:7902
+msgid "Module Customizer"
+msgstr "התאמה אישית של מודולים"
+
+#: functions.php:7860
+msgid "Role Editor"
+msgstr "עורך התפקיד"
+
+#: functions.php:7863
+msgid "Divi Library"
+msgstr "ספריית Divi"
+
+#: header.php:174
+msgid "Search &hellip;"
+msgstr "חיפוש hellip‪;‬&"
+
+#: header.php:176
+msgid "Search for:"
+msgstr "חפש:"
+
+#: includes/functions/choices.php:9
+msgid "Bold"
+msgstr "מודגש"
+
+#: includes/functions/choices.php:10
+msgid "Italic"
+msgstr "נטוי"
+
+#: includes/functions/choices.php:11
+msgid "Uppercase"
+msgstr "אותיות גדולות"
+
+#: includes/functions/choices.php:12
+msgid "Underline"
+msgstr "קו תחתון"
+
+#: includes/functions/choices.php:25
+msgid "Green"
+msgstr "ירוק"
+
+#: includes/functions/choices.php:26
+msgid "Orange"
+msgstr "כתום"
+
+#: includes/functions/choices.php:27
+msgid "Pink"
+msgstr "ורוד"
+
+#: includes/functions/choices.php:28
+msgid "Red"
+msgstr "אדום"
+
+#: includes/functions/choices.php:41
+msgid "Centered"
+msgstr "ממורכז"
+
+#: includes/functions/choices.php:42
+msgid "Centered Inline Logo"
+msgstr "לוגו ממורכז"
+
+#: includes/functions/choices.php:54
+msgid "Fade"
+msgstr "מתעמעם"
+
+#: includes/functions/choices.php:55
+msgid "Expand"
+msgstr "מתרחב"
+
+#: includes/functions/choices.php:56
+msgid "Slide"
+msgstr "שקופית"
+
+#: includes/functions/choices.php:57
+msgid "Flip"
+msgstr "מתהפך"
+
+#: includes/functions/choices.php:69 includes/functions/choices.php:70
+#: includes/functions/choices.php:71 includes/functions/choices.php:73
+#: includes/functions/choices.php:74 includes/functions/choices.php:75
+#: includes/functions/choices.php:76 includes/functions/choices.php:77
+#: includes/functions/choices.php:78
+msgid "%1$s Columns"
+msgstr "%1$s טורים"
+
+#: includes/functions/choices.php:72
+msgid "1 Column"
+msgstr "טור 1"
+
+#: includes/functions/choices.php:90
+msgid "Yes"
+msgstr "כן"
+
+#: includes/functions/choices.php:91
+msgid "No"
+msgstr "לא"
+
+#: includes/functions/choices.php:116
+msgid "Left to Right"
+msgstr "שמאל לימין"
+
+#: includes/functions/choices.php:117
+msgid "Right to Left"
+msgstr "ימין לשמאל"
+
+#: includes/functions/choices.php:118
+msgid "Top to Bottom"
+msgstr "מעלה למטה"
+
+#: includes/functions/choices.php:119
+msgid "Bottom to Top"
+msgstr "מטה למעלה"
+
+#: includes/functions/choices.php:120
+msgid "Fade In"
+msgstr "פיד-אין"
+
+#: includes/functions/choices.php:121
+msgid "No Animation"
+msgstr "ללא אנימציה"
+
+#: includes/functions/choices.php:133
+msgid "Solid"
+msgstr "שלם"
+
+#: includes/functions/choices.php:134
+msgid "Dotted"
+msgstr "מנוקד"
+
+#: includes/functions/choices.php:135
+msgid "Dashed"
+msgstr "מקווקו"
+
+#: includes/functions/choices.php:136
+msgid "Double"
+msgstr "כפול"
+
+#: includes/functions/choices.php:137
+msgid "Groove"
+msgstr "חריץ"
+
+#: includes/functions/choices.php:138
+msgid "Ridge"
+msgstr "רכס"
+
+#: includes/functions/choices.php:139
+msgid "Inset"
+msgstr "הגבול יוחל בתוך הרכיב"
+
+#: includes/functions/choices.php:140
+msgid "Outset"
+msgstr "הגבול יוחל מחוץ לרכיב"
+
+#: includes/functions/choices.php:152
+msgid "Top"
+msgstr "למעלה"
+
+#: includes/functions/choices.php:153
+msgid "Vertically Centered"
+msgstr "ממורכז אנכית"
+
+#: includes/functions/choices.php:154
+msgid "Bottom"
+msgstr "למטה"
+
+#. translators: 1: date, 2: time
+#: includes/functions/comments.php:15
+msgid "on %1$s at %2$s"
+msgstr "על %1$s ב %2$s"
+
+#: includes/functions/comments.php:18
+msgid "(Edit)"
+msgstr "(ערוך)"
+
+#: includes/functions/comments.php:21
+msgid "Reply"
+msgstr "השב"
+
+#: includes/functions/comments.php:30
+msgid "Your comment is awaiting moderation."
+msgstr "התגובה שלכם מחכה לאישור."
+
+#: includes/functions/installation.php:1
+msgid "Read Divi Documentation"
+msgstr "קראו מסמכי Divi"
+
+#: includes/functions/sidebars.php:13 includes/functions/sidebars.php:22
+#: includes/functions/sidebars.php:31 includes/functions/sidebars.php:40
+msgid "Footer Area"
+msgstr "איזור תחתון"
+
+#: includes/functions/tutorials.php:1
+msgid "Watch video tutorials"
+msgstr "צפה בהדרכות וידאו"
+
+#: includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "‏‪&‬laquo‪;‬ רשומות ישנות"
+
+#: includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "הרשומות הבאות ‪&‬r‪aquo;‬"
+
+#: includes/no-results.php:3
+msgid "No Results Found"
+msgstr "לא נמצאו תוצאות"
+
+#: includes/no-results.php:4
+msgid ""
+"The page you requested could not be found. Try refining your search, or use "
+"the navigation above to locate the post."
+msgstr ""
+"העמוד שביקשתם לא נמצא. נסו להגדיר טוב יותר את החיפוש, או השתמשו בניווט למעלה "
+"כדי למצוא את הפוסט המבוקש."
+
+#: includes/social_icons.php:6
+msgid "Facebook"
+msgstr "‏Facebook"
+
+#: includes/social_icons.php:13
+msgid "Twitter"
+msgstr "‏Twitter"
+
+#: includes/social_icons.php:20
+msgid "Google"
+msgstr "‏Google"
+
+#: includes/social_icons.php:32
+msgid "RSS"
+msgstr "‏RSS"
+
+#: includes/widgets/widget-about.php:4
+msgid "Displays About Me Information"
+msgstr "הצג מידע אודותיי"
+
+#: includes/widgets/widget-about.php:6
+msgid "ET About Me Widget"
+msgstr "וידג'ט אודתיי"
+
+#: includes/widgets/widget-about.php:12 includes/widgets/widget-about.php:41
+msgid "About Me"
+msgstr "אודותיי"
+
+#: includes/widgets/widget-about.php:48 includes/widgets/widget-ads.php:172
+#: includes/widgets/widget-ads.php:184 includes/widgets/widget-ads.php:192
+#: includes/widgets/widget-ads.php:200 includes/widgets/widget-ads.php:208
+#: includes/widgets/widget-ads.php:216 includes/widgets/widget-ads.php:224
+#: includes/widgets/widget-ads.php:232 includes/widgets/widget-ads.php:240
+#: includes/widgets/widget-adsense.php:46
+msgid "Title"
+msgstr "כותרת"
+
+#: includes/widgets/widget-about.php:52
+msgid "Text"
+msgstr "טקסט"
+
+#: includes/widgets/widget-ads.php:4
+msgid "Displays Advertisements"
+msgstr "הצג פרסומות"
+
+#: includes/widgets/widget-ads.php:6
+msgid "ET Advertisement"
+msgstr "פרסומות"
+
+#: includes/widgets/widget-ads.php:12 includes/widgets/widget-ads.php:128
+msgid "Advertisement"
+msgstr "פרסומות"
+
+#: includes/widgets/widget-ads.php:175
+msgid "Use Relative Image Paths"
+msgstr "השתמש בנתיבי תמונה יחסית"
+
+#: includes/widgets/widget-ads.php:177
+msgid "Open in a new window"
+msgstr "פתח בחלון חדש"
+
+#: includes/widgets/widget-ads.php:180 includes/widgets/widget-ads.php:182
+#: includes/widgets/widget-ads.php:184 includes/widgets/widget-ads.php:186
+#: includes/widgets/widget-ads.php:188 includes/widgets/widget-ads.php:190
+#: includes/widgets/widget-ads.php:192 includes/widgets/widget-ads.php:194
+#: includes/widgets/widget-ads.php:196 includes/widgets/widget-ads.php:198
+#: includes/widgets/widget-ads.php:200 includes/widgets/widget-ads.php:202
+#: includes/widgets/widget-ads.php:204 includes/widgets/widget-ads.php:206
+#: includes/widgets/widget-ads.php:208 includes/widgets/widget-ads.php:210
+#: includes/widgets/widget-ads.php:212 includes/widgets/widget-ads.php:214
+#: includes/widgets/widget-ads.php:216 includes/widgets/widget-ads.php:218
+#: includes/widgets/widget-ads.php:220 includes/widgets/widget-ads.php:222
+#: includes/widgets/widget-ads.php:224 includes/widgets/widget-ads.php:226
+#: includes/widgets/widget-ads.php:228 includes/widgets/widget-ads.php:230
+#: includes/widgets/widget-ads.php:232 includes/widgets/widget-ads.php:234
+#: includes/widgets/widget-ads.php:236 includes/widgets/widget-ads.php:238
+#: includes/widgets/widget-ads.php:240 includes/widgets/widget-ads.php:242
+msgid "Banner"
+msgstr "באנר"
+
+#: includes/widgets/widget-ads.php:182 includes/widgets/widget-ads.php:190
+#: includes/widgets/widget-ads.php:198 includes/widgets/widget-ads.php:206
+#: includes/widgets/widget-ads.php:214 includes/widgets/widget-ads.php:222
+#: includes/widgets/widget-ads.php:230 includes/widgets/widget-ads.php:238
+msgid "Url"
+msgstr "‏Url"
+
+#: includes/widgets/widget-ads.php:186 includes/widgets/widget-ads.php:194
+#: includes/widgets/widget-ads.php:202 includes/widgets/widget-ads.php:210
+#: includes/widgets/widget-ads.php:218 includes/widgets/widget-ads.php:226
+#: includes/widgets/widget-ads.php:234 includes/widgets/widget-ads.php:242
+msgid "Alt"
+msgstr "אלטרנטיבי"
+
+#: includes/widgets/widget-ads.php:243
+msgid ""
+"If you don't want to display some banners - leave approptiate fields blank"
+msgstr "אם אתה לא רוצה להציג באנרים- הצג את השדות המתאימים ריקים"
+
+#: includes/widgets/widget-adsense.php:4
+msgid "Displays Adsense Ads"
+msgstr "הצג פרסומת  Adsense"
+
+#: includes/widgets/widget-adsense.php:6
+msgid "ET Adsense Widget"
+msgstr "רוחב  Adsense"
+
+#: includes/widgets/widget-adsense.php:12
+#: includes/widgets/widget-adsense.php:40
+msgid "Adsense"
+msgstr "‏Adsense"
+
+#: includes/widgets/widget-adsense.php:48
+msgid "Adsense Code"
+msgstr "קוד  Adsense"
+
+#: page-template-blank.php:49 page.php:48 single-project.php:53 single.php:105
+msgid "Pages:"
+msgstr "עמודים:"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:107
+#, fuzzy
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr " "
+
+#: single-project.php:62
+#, fuzzy
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "‏larr‪;‬&"
+
+#: single-project.php:63
+#, fuzzy
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "‏rarr‪;‬&"
