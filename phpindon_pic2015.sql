@@ -128,8 +128,8 @@ CREATE TABLE IF NOT EXISTS `wp_options` (
 --
 
 INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`) VALUES
-(1, 'siteurl', 'http://www.phpindonesia.or.id/conference/', 'yes'),
-(2, 'home', 'http://www.phpindonesia.or.id/conference/', 'yes'),
+(1, 'siteurl', 'http://conference.phpindonesia.or.id/', 'yes'),
+(2, 'home', 'http://conference.phpindonesia.or.id/', 'yes'),
 (3, 'blogname', 'PHP Indonesia Conference 2015', 'yes'),
 (4, 'blogdescription', 'Cloud and Open Source Solutions for Service Industries', 'yes'),
 (5, 'users_can_register', '0', 'yes'),
